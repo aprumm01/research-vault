@@ -1,3 +1,94 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// ── Fraunces optical sizing — makes headers feel alive at large sizes
+h1, h2, h3, h4, h5, h6,
+.page-title,
+article > header h1 {
+  font-optical-sizing: auto;
+  font-variation-settings: "SOFT" 50, "WONK" 1;
+  letter-spacing: -0.02em;
+  font-weight: 600;
+}
+
+h1 { font-size: clamp(1.8rem, 4vw, 2.6rem); }
+h2 { font-size: clamp(1.3rem, 2.5vw, 1.7rem); }
+h3 { font-size: clamp(1.1rem, 2vw, 1.3rem); }
+
+// ── Body — tighter, more editorial
+article p,
+article li {
+  font-size: 0.975rem;
+  line-height: 1.75;
+  max-width: 68ch;
+}
+
+// ── Page title in sidebar
+.page-title {
+  font-size: 1.25rem;
+  letter-spacing: -0.03em;
+  font-weight: 700;
+}
+
+// ── Graph widget — slightly larger, more breathing room
+#graph-container {
+  border-radius: 8px;
+  overflow: hidden;
+  opacity: 0.92;
+}
+
+// ── Explorer sidebar — tighter, quieter
+.explorer {
+  font-size: 0.85rem;
+}
+
+// ── Backlinks — tighter
+.backlinks {
+  font-size: 0.85rem;
+}
+
+// ── Inline code — warmer
+code {
+  font-size: 0.85em;
+  padding: 0.15em 0.35em;
+  border-radius: 4px;
+}
+
+// ── Blockquote — left border accent, quieter text
+blockquote {
+  border-left-width: 3px;
+  font-style: italic;
+  opacity: 0.85;
+  padding-left: 1.25rem;
+}
+
+// ── Table — cleaner, editorial
+table {
+  font-size: 0.9rem;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th {
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+td, th {
+  padding: 0.5rem 0.75rem;
+}
+
+// ── Tag list — smaller, pill style
+.tag-link {
+  font-size: 0.75rem;
+  padding: 0.2em 0.6em;
+  border-radius: 999px;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+}
+
+// ── Smooth transitions on hover
+a {
+  transition: color 0.15s ease, opacity 0.15s ease;
+}
