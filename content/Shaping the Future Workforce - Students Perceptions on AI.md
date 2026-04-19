@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Ioanna Lykourentzou et al."
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Shaping the Future Workforce - Students Perceptions on AI

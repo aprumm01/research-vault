@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Qing Xiao, Xinlan Emily Hu, Mark E. Whiting, Arvind Karunakaran, Hong Shen, Hancheng Cao"
+year: 2023
+venue: "CHI 2023"
 ---
 
 # AI Has Not Fixed Teamwork (Xiao et al. CMU)

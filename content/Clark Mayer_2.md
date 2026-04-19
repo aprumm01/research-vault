@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Richard E. Clark, Fred Estes"
+year: 2008
+venue: "Performance Improvement"
 ---
 
 # Clark Mayer
