@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "10.1177/01461672251337126"
 ---
 
 # Poets Over Quants: Automation Increases Value of Creativity
+
+**DOI:** [10.1177/01461672251337126](https://doi.org/10.1177/01461672251337126)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

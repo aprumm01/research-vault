@@ -13,8 +13,12 @@ tags:
   - theme/hci-education-pedagogy
   - topic/deskilling-cognitive-offloading
   - topic/design-judgment
+
+doi: "10.1145/3706599.3719931"
 ---
 # De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)
+
+**DOI:** [10.1145/3706599.3719931](https://doi.org/10.1145/3706599.3719931)
 
 **Year:** 2025
 **Venue:** CHI 2025

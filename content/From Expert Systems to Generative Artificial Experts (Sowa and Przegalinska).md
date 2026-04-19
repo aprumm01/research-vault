@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "10.1109/EMR.2023.3272799"
 ---
 
 # From Expert Systems to Generative Artificial Experts (Sowa and Przegalinska)
+
+**DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

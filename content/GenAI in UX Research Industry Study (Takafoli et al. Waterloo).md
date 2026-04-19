@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1108/IJILT-07-2024-0141"
 ---
 
 # GenAI in UX Research: Industry Study (Takafoli et al. Waterloo)
+
+**DOI:** [10.1108/IJILT-07-2024-0141](https://doi.org/10.1108/IJILT-07-2024-0141)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

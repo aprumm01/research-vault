@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1145/3706598.3714035"
 ---
 
 # AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)
+
+**DOI:** [10.1145/3706598.3714035](https://doi.org/10.1145/3706598.3714035)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

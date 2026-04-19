@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "10.1145/nnnnnnn.nnnnnnn"
 ---
 
 # Vibe Coding for Product Design (Li et al.)
+
+**DOI:** [10.1145/nnnnnnn.nnnnnnn](https://doi.org/10.1145/nnnnnnn.nnnnnnn)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
