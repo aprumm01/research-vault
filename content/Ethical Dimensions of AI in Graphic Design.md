@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+authors: "Sandra Dedijer, Nemanja Kašiković, Magdolna Pál, Ivana Jurič, Živko Pavlović, Saša Petrović, Gala Golubović"
+year: 2025
+venue: "Innovations in Publishing, Printing and Multimedia Technologies"
 ---
 
 # Ethical Dimensions of AI in Graphic Design

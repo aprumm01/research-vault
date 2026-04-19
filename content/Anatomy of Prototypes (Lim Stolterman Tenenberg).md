@@ -8,6 +8,9 @@ tags:
   - community/Design_Theory_and_Cognition
 
 doi: "10.1145/1375761.1375762"
+authors: "Youn-Kyung Lim, Erik Stolterman, Josh Tenenberg"
+year: 2008
+venue: "ACM TOCHI, 15(2)"
 ---
 
 # Anatomy of Prototypes (Lim Stolterman Tenenberg)

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Human_Performance_Technology
+authors: "Donald L. Kirkpatrick"
+year: 1994
+venue: "Evaluating Training Programs: The Four Levels (Berrett-Koehler)"
 ---
 
 # EVALUATING

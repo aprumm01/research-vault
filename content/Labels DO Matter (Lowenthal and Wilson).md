@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+authors: "Patrick R. Lowenthal, Brent G. Wilson"
+year: 2010
+venue: "TechTrends, 54(1)"
 ---
 
 # Labels DO Matter (Lowenthal and Wilson)

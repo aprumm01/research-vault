@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+authors: "Schauer et al., HTW Berlin"
+year: 2024
+venue: "Design Education"
 ---
 
 # AI Literacy in Design Education: Comparative Study (Schauer et al. HTW Berlin)

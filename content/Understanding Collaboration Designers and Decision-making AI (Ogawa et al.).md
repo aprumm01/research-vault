@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Ogawa et al."
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Understanding Collaboration: Designers and Decision-making AI (Ogawa et al.)

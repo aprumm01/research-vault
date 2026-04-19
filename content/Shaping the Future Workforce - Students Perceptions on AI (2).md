@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Anxhela Ferhataj, Jonida Biçoku, Fatmir Memaj"
+year: 2025
+venue: "European University of Tirana / Industry 5.0 Journal"
 ---
 
 # Shaping the Future Workforce - Students Perceptions on AI (2)

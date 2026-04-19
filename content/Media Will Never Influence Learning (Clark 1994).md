@@ -8,6 +8,9 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1145/3729706.3729781"
+authors: "Richard E. Clark"
+year: 1994
+venue: "Educational Technology Research and Development, 42(2)"
 ---
 
 # Media Will Never Influence Learning (Clark 1994)

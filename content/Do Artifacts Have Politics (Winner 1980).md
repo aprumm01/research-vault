@@ -10,6 +10,9 @@ tags:
 doi: "10.4324/9781315259697-21"
 
 abstract: "In controversies about technology and society, there is no idea more pro vocative than the notion that technical things have political qualities. At issue is the claim that the machines, structures, and systems of modern material culture can be accurately judged not only for their contributions of efficiency and pro ductivity, not merely for their positive and negative environmental side effects, but also for the ways in which they can embody specific forms of power and authority. Since ideas of"
+authors: "Langdon Winner"
+year: 1980
+venue: "Daedalus, 109(1)"
 ---
 
 # Do Artifacts Have Politics? (Winner 1980)

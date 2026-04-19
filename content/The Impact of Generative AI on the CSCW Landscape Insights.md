@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+authors: "Guo Freeman, Elizabeth D. Mynatt, Cliff Lampe, Heloisa Candello, Kori Inkpen, Nitesh Goyal"
+year: 2024
+venue: "CSCW 2024"
 ---
 
 # The Impact of Generative AI on the CSCW Landscape: Insights

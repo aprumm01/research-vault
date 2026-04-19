@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Alan Januszewski, Michael Molenda (Eds.)"
+year: 2008
+venue: "Educational Technology: A Definition with Commentary (Lawrence Erlbaum)"
 ---
 
 # Januszewski and Molenda - Educational Technology Definition (2008)

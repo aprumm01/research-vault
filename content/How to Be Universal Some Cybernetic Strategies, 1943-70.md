@@ -6,6 +6,10 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Geof Bowker"
+year: 1993
+venue: "Social Studies of Science, 23(1)"
+doi: "10.1177/030631293023001005"
 ---
 
 # How to Be Universal: Some Cybernetic Strategies, 1943-70

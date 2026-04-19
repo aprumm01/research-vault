@@ -8,6 +8,9 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1016/j.infoandorg.2019.100286"
+authors: "Bailey, Barley"
+year: 2020
+venue: "Information and Organization"
 ---
 
 # Beyond Design and Use: Studying Intelligent Technologies (Bailey and Barley)

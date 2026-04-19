@@ -6,6 +6,10 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Paul A. Kirschner, John Sweller, Richard E. Clark"
+year: 2006
+venue: "Educational Psychologist, 41(2)"
+doi: "10.1207/s15326985ep4102_1"
 ---
 
 # KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE

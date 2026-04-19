@@ -8,6 +8,9 @@ tags:
   - community/HCI_Education_and_Pedagogy
 
 doi: "10.21606/drs.2020.120"
+authors: "Elizabeth Boling, Colin M. Gray, Kennon M. Smith"
+year: 2023
+venue: "Design Studies / International Journal of Design"
 ---
 
 # Educating for Design Character (Boling Gray Smith)

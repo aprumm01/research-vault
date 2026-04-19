@@ -8,6 +8,9 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1109/EMR.2023.3272799"
+authors: "John F. Sowa, Aleksandra Przegalinska"
+year: 2024
+venue: "AI & Society"
 ---
 
 # From Expert Systems to Generative Artificial Experts (Sowa and Przegalinska)

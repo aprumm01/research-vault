@@ -8,6 +8,9 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1145/nnnnnnn.nnnnnnn"
+authors: "Qing Xiao, Xinlan Emily Hu, Mark E. Whiting, Arvind Karunakaran, Hong Shen, Hancheng Cao"
+year: 2025
+venue: "CHI 2025"
 ---
 
 # AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)

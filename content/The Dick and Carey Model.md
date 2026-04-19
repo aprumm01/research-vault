@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+authors: "Walter Dick"
+year: 1996
+venue: "Educational Technology, 36(4)"
 ---
 
 # The Dick and Carey Model:

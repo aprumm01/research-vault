@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
+authors: "J.E. Holt"
+year: 1997
+venue: "Design Studies, 18(4)"
 ---
 
 # The designer's judgement

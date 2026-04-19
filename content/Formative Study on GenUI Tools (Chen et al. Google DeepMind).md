@@ -10,6 +10,9 @@ tags:
 doi: "10.1145/3715336.3735780"
 
 abstract: "AI can now generate high-fidelity UI mock-up screens from a high-level textual description, promising to support UX practitioners’ work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, software engineers, and product managers. Using a state-of-the-"
+authors: "Xiang 'Anthony' Chen, Tom Knearem, Zhipeng Li et al."
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Formative Study on GenUI Tools (Chen et al. Google DeepMind)

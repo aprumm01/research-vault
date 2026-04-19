@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3746175.3746183"
+authors: "Peter Dalsgaard"
+year: 2024
+venue: "ACM Transactions on Computer-Human Interaction"
 ---
 
 # Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)

@@ -8,6 +8,9 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1145/3729176.3729202"
+authors: "Marios Constantinides et al."
+year: 2022
+venue: "CSCW 2022"
 ---
 
 # The Future of Work is Blended Not Hybrid (Constantinides et al.)

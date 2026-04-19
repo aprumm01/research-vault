@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1109/EMR.2023.3272799"
+authors: "Volker Bilgram, Felix Laarmann"
+year: 2023
+venue: "Research-Technology Management"
 ---
 
 # Accelerating Innovation with GenAI: Digital Prototyping (Bilgram and Laarmann)

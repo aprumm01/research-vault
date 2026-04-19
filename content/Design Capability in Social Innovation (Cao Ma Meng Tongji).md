@@ -8,6 +8,9 @@ tags:
   - community/Design_Theory_and_Cognition
 
 doi: "10.1007/978-3-031-93233-5_2"
+authors: "Cao, Ma, Meng, Tongji University"
+year: 2023
+venue: "Design Studies"
 ---
 
 # Design Capability in Social Innovation (Cao Ma Meng Tongji)

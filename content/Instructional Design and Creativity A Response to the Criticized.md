@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Gordon Rowland"
+year: 1995
+venue: "Educational Technology, 35(5)"
 ---
 
 # Instructional Design and Creativity: A Response to the Criticized

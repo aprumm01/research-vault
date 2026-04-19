@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+authors: "Not specified"
+year: 2024
+venue: "Conceptual paper"
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive

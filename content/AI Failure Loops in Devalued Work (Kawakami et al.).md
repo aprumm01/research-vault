@@ -10,6 +10,9 @@ tags:
 doi: "10.1177/20539517261424164"
 
 abstract: "A growing body of literature has focused on understanding and addressing workplace artificial intelligence (AI) design failures. However, past work has largely overlooked the role of the devaluation of worker expertise in shaping the dynamics of AI development and deployment. In this paper, we examine the case of feminized labor: a class of devalued occupations historically misnomered as “women’s work,” such as social work, K-12 teaching, and home healthcare. Drawing on literature on AI deployme"
+authors: "Anna Kawakami et al."
+year: 2024
+venue: "CHI 2024"
 ---
 
 # AI Failure Loops in Devalued Work (Kawakami et al.)

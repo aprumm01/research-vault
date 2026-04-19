@@ -10,6 +10,9 @@ tags:
 doi: "10.1080/14703297.2022.2062031"
 
 abstract: "ABSTRACT Block mode delivery is widely practised in higher education institutions across the world. It is popular at postgraduate level, such as in business and management fields, but is less common at undergraduate level, especially for studio design teaching. There is a lack of literature on the block mode delivery for studio design teaching. The aim of this paper is to identify the favourable attributes and challenges of the block mode delivery for studio design teaching through the analysis "
+authors: "Elizabeth Boling et al. (Eds.)"
+year: 2021
+venue: "Routledge"
 ---
 
 # Studio Teaching in Higher Education (Boling et al. book)

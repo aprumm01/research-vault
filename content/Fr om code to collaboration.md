@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Human_Performance_Technology
+authors: "Shalini Rastogi, Deepika Pandita"
+year: 2023
+venue: "Journal of Information Technology & People"
 ---
 
 # Fr om code to collaboration:

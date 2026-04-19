@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Zongxuan Wei, Lei Chen, Liting Sun et al."
+year: 2024
+venue: "ACM / Computer Science Education"
 ---
 
 # Research on Teaching Methods for Computer Operating Systems

@@ -8,6 +8,9 @@ tags:
   - community/Responsible_AI_and_Ethics
 
 doi: "10.1007/s43681-021-00038-3"
+authors: "Steven Umbrello, Ibo van de Poel"
+year: 2021
+venue: "AI & Society"
 ---
 
 # Mapping VSD onto AI for Social Good (Umbrello and van de Poel)

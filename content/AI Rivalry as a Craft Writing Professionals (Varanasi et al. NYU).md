@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3706598.3714035"
+authors: "Varanasi et al., NYU"
+year: 2023
+venue: "CSCW 2023"
 ---
 
 # AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)

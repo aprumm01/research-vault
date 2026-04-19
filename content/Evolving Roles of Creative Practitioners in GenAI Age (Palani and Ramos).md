@@ -10,6 +10,9 @@ tags:
 doi: "10.1145/3635636.3656190"
 
 abstract: "Creative practitioners (like designers, software developers, and architects) have started to employ Generative AI models (GenAI) to produce text, images, and assets comparable to those made by people. While HCI research explores specific GenAI models and creativity support tools, little is known about practitioners’ evolving roles and workflows with GenAI models across a project’s stages. This knowledge is key to guide the development of the new generation of Creativity Support Tools. We contrib"
+authors: "Palani, Ramos"
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Evolving Roles of Creative Practitioners in GenAI Age (Palani and Ramos)

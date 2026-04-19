@@ -8,6 +8,9 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.5565/rev/grafica.393"
+authors: "Lusine Petrosyan"
+year: 2023
+venue: "Grafica, 13(26)"
 ---
 
 # The Impact of AI Development on the Future of Work

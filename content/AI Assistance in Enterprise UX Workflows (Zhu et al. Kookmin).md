@@ -10,6 +10,9 @@ tags:
 doi: "10.3389/frai.2024.1404647"
 
 abstract: "The study explores the impact of AI tools on the daily tasks of designers in corporate environments, with a focus on the creation and evaluation processes of design briefs. Given ChatGPT’s advanced natural language processing capabilities and its potential to meet the complex communication and analysis needs of design work, this tool was selected to investigate its application in designers’ workflows. Through expert interviews, experimental testing, and third-party expert evaluations, we collect"
+authors: "Zhu et al., Kookmin University"
+year: 2024
+venue: "CHI 2024"
 ---
 
 # AI Assistance in Enterprise UX Workflows (Zhu et al. Kookmin)

@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1007/978-1-4614-3185-5_31"
+authors: "Richard E. Mayer"
+year: 2014
+venue: "Handbook of Research on Educational Communications and Technology (4th ed., Springer)"
 ---
 
 # Mayer 2014 - Multimedia Instruction (Handbook Chapter)

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Human_Performance_Technology
+authors: "Yonjoo Cho, Sung Jun Jo, Sunyoung Park, Ingu Kang, Zengguan Chen"
+year: 2011
+venue: "Performance Improvement Quarterly, 24(2)"
 ---
 
 # The Current State of Human

@@ -15,6 +15,9 @@ tags:
   - topic/design-judgment
 
 doi: "10.1145/3706599.3719931"
+authors: "Shukla et al., Purdue University"
+year: 2024
+venue: "CHI 2024"
 ---
 # De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)
 

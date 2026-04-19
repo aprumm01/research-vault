@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+authors: "Paul Parsons, Austin Toombs"
+year: 2023
+venue: "CHI / ACM"
 ---
 
 # Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)

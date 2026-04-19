@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Not specified"
+year: 2022
+venue: "Educational Philosophy"
 ---
 
 # Profound Learning for Human Flourishing

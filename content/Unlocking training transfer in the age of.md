@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+authors: "Jennifer Jihae Park"
+year: 2024
+venue: "Human Resource Development Review"
 ---
 
 # Unlocking training transfer in the age of

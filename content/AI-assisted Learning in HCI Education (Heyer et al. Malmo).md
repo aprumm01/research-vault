@@ -8,6 +8,9 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1145/3742901.3742910"
+authors: "Heyer et al., Malmo University"
+year: 2024
+venue: "CHI / NordiCHI"
 ---
 
 # AI-assisted Learning in HCI Education (Heyer et al. Malmo)

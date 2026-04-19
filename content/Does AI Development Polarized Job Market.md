@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Issa Hamadou, Amadou Gissay, Teguh Yudo Wicaksono, Luthfi Hamidi"
+year: 2025
+venue: "SSRN Preprint"
 ---
 
 # Does AI Development Polarized Job Market:

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+authors: "Yanan Wu, Xiaoping Zeng, Qibei Lin"
+year: 2024
+venue: "ACM / Design Education"
 ---
 
 # Generative AI Integrated Educational Model for User-Centered

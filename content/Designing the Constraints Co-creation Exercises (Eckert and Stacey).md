@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
+authors: "Claudia Eckert, Martin Stacey"
+year: 2003
+venue: "Design Studies"
 ---
 
 # Designing the Constraints: Co-creation Exercises (Eckert and Stacey)

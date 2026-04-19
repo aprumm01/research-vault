@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Human_Performance_Technology
+authors: "Ryan Watkins, Doug Leigh, Rob Foshay, Roger Kaufman"
+year: 2003
+venue: "Performance Improvement, 42(5)"
 ---
 
 # Kirkpatrick Plus: Evaluation and Continuous

@@ -10,6 +10,9 @@ tags:
 doi: "10.1145/3715336.3735785"
 
 abstract: "Despite the potential of generative AI (GenAI) design tools to enhance design processes, professionals often struggle to integrate AI into their workflows. Fundamental cognitive challenges include the need to specify all design criteria as distinct parameters upfront (intent formulation) and designers’ reduced cognitive involvement in the design process due to cognitive offloading, which can lead to insufficient problem exploration, underspecification, and limited ability to evaluate outcomes. M"
+authors: "Gmeiner et al., Carnegie Mellon University"
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)

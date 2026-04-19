@@ -10,6 +10,9 @@ tags:
 doi: "10.1108/et-01-2025-0034"
 
 abstract: "    This paper examines the integration of artificial intelligence (AI) in organizational training and development through an evidence-based lens, addressing the gap between technological enthusiasm and pedagogical effectiveness in workplace learning contexts.        An integrative literature review methodology was employed following Torraco’s (2016) framework for synthesizing diverse knowledge streams. The analysis examined 180 papers from multiple databases, combining theoretical frameworks fr"
+authors: "Martin Sposato"
+year: 2025
+venue: "Education + Training, 67(9)"
 ---
 
 # Beyond the Hype: Responsible AI in Workplace Learning (Sposato)

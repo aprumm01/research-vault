@@ -8,6 +8,9 @@ tags:
   - community/Responsible_AI_and_Ethics
 
 doi: "10.1145/3715336.3735745"
+authors: "Jung et al., Carnegie Mellon University"
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)

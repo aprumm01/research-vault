@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+authors: "Ahmed Kharrufa, Ian G. Johnson"
+year: 2024
+venue: "CHI 2024 Workshop"
 ---
 
 # The Potential and Implications of Generative AI on HCI Education

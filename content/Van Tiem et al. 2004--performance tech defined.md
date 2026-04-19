@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Darlene Van Tiem, James L. Moseley, Joan C. Dessinger"
+year: 2004
+venue: "Fundamentals of Performance Technology (ISPI)"
 ---
 
 # Van Tiem et al. 2004--performance tech defined

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Howard S. Barrows, Robyn M. Tamblyn"
+year: 1980
+venue: "Problem-Based Learning (Springer)"
 ---
 
 # Problem-based Learning

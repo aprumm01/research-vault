@@ -10,6 +10,9 @@ tags:
 doi: "10.1111/joms.13246"
 
 abstract: "Artificial intelligence (AI) has long held the promise of imitating, replacing, or even surpassing human intelligence. Now that the abilities of AI systems have started to approach this initial aspiration, organization and management scholars face a challenge in how to theorize this technology, which potentially changes the way we view technology: not as a tool, but as something that enters previously human‐only domains. To navigate this theorizing challenge, we adopt the problematizing review m"
+authors: "Ramaul et al."
+year: 2023
+venue: "Journal of Management"
 ---
 
 # Rethinking AI in Organization and Management (Ramaul et al.)

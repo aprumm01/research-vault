@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+authors: "Yarden Katz"
+year: 2017
+venue: "Los Angeles Review of Books"
 ---
 
 # Manufacturing an AI Revolution (Katz 2017)

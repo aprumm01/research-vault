@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Emmanuel Senior Tenakwah, Chrystie Watson"
+year: 2023
+venue: "Journal of Management Development"
 ---
 
 # Embracing the AI/automation age:

@@ -8,6 +8,9 @@ tags:
   - community/Human_Performance_Technology
 
 doi: "10.1007/978-3-031-77521-5"
+authors: "Martin et al."
+year: 2023
+venue: "Performance Improvement"
 ---
 
 # HPT Model Applied to Kayak Company (Martin et al.)

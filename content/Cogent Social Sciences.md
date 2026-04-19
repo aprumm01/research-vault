@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1080/23311886.2025.2476737"
+authors: "Alpana Agarwal"
+year: 2025
+venue: "Cogent Social Sciences, 11(1)"
 ---
 
 # Cogent Social Sciences

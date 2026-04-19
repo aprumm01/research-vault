@@ -8,6 +8,9 @@ tags:
   - community/Design_Theory_and_Cognition
 
 doi: "10.1016/j.destud.2023.101219"
+authors: "Philip Cash et al."
+year: 2023
+venue: "Design Studies"
 ---
 
 # Cognitive Co-Evolution Model for Design (Cash et al.)

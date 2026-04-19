@@ -10,6 +10,9 @@ tags:
 doi: "10.1145/3742901.3742907"
 
 abstract: "This paper follows up on the challenges we encountered when we initially began teaching more-than-human perspectives in human-computer interaction (HCI) and technology design. Since then, we have developed a collection of teaching activities and conducted pilots with nearly 800 students, exploring how these perspectives can be taught in various settings. Although we think that our teaching activities address some of the initial challenges, several challenges are still open, and new ones have eme"
+authors: "Nilsson et al., Malmo University"
+year: 2024
+venue: "CHI / NordiCHI"
 ---
 
 # Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)

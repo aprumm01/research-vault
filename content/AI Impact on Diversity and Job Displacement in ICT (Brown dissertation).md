@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Brown"
+year: 2023
+venue: "Doctoral Dissertation"
 ---
 
 # AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)

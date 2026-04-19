@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3729706.3729781"
+authors: "Ahmed, Imran"
+year: 2024
+venue: "Systematic Literature Review"
 ---
 
 # LLM Role in UI UX Design: Systematic Literature Review (Ahmed and Imran)

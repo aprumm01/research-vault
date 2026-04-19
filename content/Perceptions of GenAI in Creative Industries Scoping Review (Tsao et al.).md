@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3706599.3719931"
+authors: "Tsao et al."
+year: 2024
+venue: "Scoping Review"
 ---
 
 # Perceptions of GenAI in Creative Industries: Scoping Review (Tsao et al.)

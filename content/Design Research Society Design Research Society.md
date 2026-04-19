@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
+authors: "Ákos Schneider, Dávid Csűrös"
+year: 2025
+venue: "EKSIG 2025 / Design Research Society"
 ---
 
 # Design Research Society Design Research Society

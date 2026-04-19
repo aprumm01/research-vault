@@ -8,6 +8,9 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1002/piq.21143"
+authors: "Peggy A. Ertmer, Timothy J. Newby"
+year: 1993
+venue: "Performance Improvement Quarterly, 6(4)"
 ---
 
 # Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)

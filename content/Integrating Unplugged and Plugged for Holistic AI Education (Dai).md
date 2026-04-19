@@ -8,6 +8,9 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1007/s10639-024-13043-w"
+authors: "Yun Dai"
+year: 2023
+venue: "Computers & Education: Artificial Intelligence"
 ---
 
 # Integrating Unplugged and Plugged for Holistic AI Education (Dai)

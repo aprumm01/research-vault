@@ -8,6 +8,9 @@ tags:
   - community/Workplace_Learning_and_AI
 
 doi: "10.25844/p9rv-vj67"
+authors: "Leo S. Lo"
+year: 2023
+venue: "College & Research Libraries"
 ---
 
 # State of AI Literacy in Academic Libraries (Lo UNM)

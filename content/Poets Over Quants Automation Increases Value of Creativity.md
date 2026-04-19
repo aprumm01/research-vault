@@ -8,6 +8,9 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1177/01461672251337126"
+authors: "Not specified"
+year: 2023
+venue: "Economics / Management journal"
 ---
 
 # Poets Over Quants: Automation Increases Value of Creativity

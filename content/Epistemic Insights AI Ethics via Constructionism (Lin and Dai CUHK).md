@@ -10,6 +10,9 @@ tags:
 doi: "10.1609/aaai.v39i28.35190"
 
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge. AI ethics requires an interdisciplinary understanding of computer science, philosophy, and the humanities, alongside epistemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address this challenge, this study presents the design, development, and implementation of three theory-informed activities aimed at fostering epistemic in"
+authors: "Ziyan Lin, Yun Dai"
+year: 2025
+venue: "AAAI-25 (Thirty-Ninth AAAI Conference on AI)"
 ---
 
 # Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)

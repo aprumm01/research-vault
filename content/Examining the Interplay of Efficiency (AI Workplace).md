@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Mfon Akpan, Adeyemi Adebayo"
+year: 2024
+venue: "Conceptual paper"
 ---
 
 # Examining the Interplay of Efficiency (AI Workplace)

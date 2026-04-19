@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Jerry Willis"
+year: 2011
+venue: "Educational Technology, 51(1)"
 ---
 
 # The Cultures of Contemporary Instructional Design Scholarship, Part One: Deve...

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+authors: "Yueting Zhang, Arzoo Atiq, Winn Chow"
+year: 2024
+venue: "ASCILITE 2024"
 ---
 
 # ASCILITE 2024

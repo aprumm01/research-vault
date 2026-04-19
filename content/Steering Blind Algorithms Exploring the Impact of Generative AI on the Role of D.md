@@ -10,6 +10,9 @@ tags:
   - type/paper
   - community/GenAI_in_UX_and_Design_Practice
   - theme/genai-design-practice
+authors: "Sandhaus et al."
+year: 2024
+venue: "DRS / ACM"
 ---
 # Steering Blind Algorithms Exploring the Impact of Generative AI on the Role of Designers
 

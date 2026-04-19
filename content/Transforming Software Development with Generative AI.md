@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Rasmus Ulfsnes, Nils Brede Moe, Viktoria Stray, Marianne Skarpen"
+year: 2024
+venue: "SINTEF / XP 2024"
 ---
 
 # Transforming Software Development with Generative AI

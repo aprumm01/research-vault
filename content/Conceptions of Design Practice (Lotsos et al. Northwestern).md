@@ -8,6 +8,9 @@ tags:
   - community/HCI_Education_and_Pedagogy
 
 doi: "10.1145/3742901.3742905"
+authors: "Lotsos et al., Northwestern University"
+year: 2024
+venue: "DIS / ACM"
 ---
 
 # Conceptions of Design Practice (Lotsos et al. Northwestern)

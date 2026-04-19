@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+authors: "Ziyan Lin, Yun Dai"
+year: 2025
+venue: "AAAI-25 (Thirty-Ninth AAAI Conference on AI)"
 ---
 
 # Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Jody L. Fitzpatrick, James R. Sanders, Blaine R. Worthen"
+year: 2004
+venue: "Program Evaluation: Alternative Approaches and Practical Guidelines (3rd ed., Pearson)"
 ---
 
 # Program Evaluation

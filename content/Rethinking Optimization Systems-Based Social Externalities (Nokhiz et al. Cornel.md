@@ -11,6 +11,9 @@ tags:
   - community/Responsible_AI_and_Ethics
   - theme/responsible-ai-ethics
   - topic/algorithmic-bias-fairness
+authors: "Nokhiz et al., Cornell University"
+year: 2024
+venue: "ACM FAccT"
 ---
 # Rethinking Optimization: Systems-Based Social Externalities (Nokhiz et al. Cornell)
 

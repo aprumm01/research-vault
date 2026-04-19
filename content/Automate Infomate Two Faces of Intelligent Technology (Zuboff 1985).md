@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Shoshana Zuboff"
+year: 1985
+venue: "Organizational Dynamics, 14(2)"
 ---
 
 # Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)

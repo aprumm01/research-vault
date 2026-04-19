@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "J. Michael Spector"
+year: 2008
+venue: "Handbook of Research on Educational Communications and Technology (3rd ed., Erlbaum)"
 ---
 
 # Spector 2008 - Theoretical Foundations Ed Communication and Tech

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Workplace_Learning_and_AI
+authors: "Leo S. Lo"
+year: 2023
+venue: "College & Research Libraries"
 ---
 
 # Transforming Academic Librarianship through AI Reskilling (Lo UNM)

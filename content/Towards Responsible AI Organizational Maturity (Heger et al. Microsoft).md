@@ -8,6 +8,9 @@ tags:
   - community/Responsible_AI_and_Ethics
 
 doi: "10.1145/3757514"
+authors: "Heger et al., Microsoft Research"
+year: 2022
+venue: "ACM FAccT 2022"
 ---
 
 # Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)

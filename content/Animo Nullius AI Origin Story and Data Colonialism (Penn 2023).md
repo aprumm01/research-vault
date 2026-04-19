@@ -8,6 +8,9 @@ tags:
   - community/Responsible_AI_and_Ethics
 
 doi: "10.1017/bjt.2023.14"
+authors: "Jonnie Penn"
+year: 2023
+venue: "Cambridge University Press"
 ---
 
 # Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)

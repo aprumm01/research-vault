@@ -10,6 +10,9 @@ tags:
 doi: "10.1609/aies.v8i2.36674"
 
 abstract: "Despite efforts to mitigate the inherent risks and biases of artificial intelligence (AI) algorithms, these algorithms can disproportionately impact culturally marginalized groups. A range of approaches has been proposed to address or reduce these risks, including the development of ethical guidelines and principles for responsible AI, as well as technical solutions that promote algorithmic fairness. Drawing on design justice, expansive learning theory, and recent empirical work on participatory"
+authors: "Mushkani et al., Université de Montréal"
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)

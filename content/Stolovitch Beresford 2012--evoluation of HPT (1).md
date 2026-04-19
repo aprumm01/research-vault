@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Human_Performance_Technology
+authors: "Harold D. Stolovitch, Beresford"
+year: 2012
+venue: "Performance Improvement"
 ---
 
 # Stolovitch Beresford 2012--evoluation of HPT (1)

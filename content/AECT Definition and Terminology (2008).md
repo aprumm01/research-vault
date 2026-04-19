@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Definition and Terminology Committee, AECT"
+year: 2008
+venue: "Educational Technology: A Definition with Commentary"
 ---
 
 # AECT Definition and Terminology (2008)

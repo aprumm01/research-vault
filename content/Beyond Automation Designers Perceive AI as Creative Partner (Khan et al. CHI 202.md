@@ -15,6 +15,9 @@ tags:
 doi: "10.1145/3706598.3713500"
 
 abstract: "Divergent thinking activities, like research and ideation, are key drivers of innovation in UI/UX design. Existing research has explored AI’s role in automating design tasks, but leaves a critical gap in understanding how AI specifically influences divergent thinking. To address this, we conducted interviews with 19 professional UI/UX designers, examining their use and perception of AI in these creative activities. We found that in this context, participants valued AI tools that offer greater co"
+authors: "Abidullah Khan, Atefeh Shokrizadeh, Jinghui Cheng"
+year: 2025
+venue: "CHI 2025"
 ---
 # Beyond Automation: Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)
 

@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Robert M. Gagné, Leslie J. Briggs, Walter W. Wager"
+year: 1988
+venue: "Principles of Instructional Design (3rd ed., Holt, Rinehart & Winston)"
 ---
 
 # PRINCIPLES

@@ -6,6 +6,10 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+authors: "Félix Buendía-García, Javier Piris-Ruano"
+year: 2025
+venue: "Applied Sciences, 15(13)"
+doi: "10.3390/app15137389"
 ---
 
 # Using Generative AI to Support UX Design Students in Web Dev

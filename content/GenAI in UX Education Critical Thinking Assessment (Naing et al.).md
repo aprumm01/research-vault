@@ -8,6 +8,9 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1108/IJILT-07-2024-0141"
+authors: "Naing et al."
+year: 2024
+venue: "CHI / ACM"
 ---
 
 # GenAI in UX Education: Critical Thinking Assessment (Naing et al.)

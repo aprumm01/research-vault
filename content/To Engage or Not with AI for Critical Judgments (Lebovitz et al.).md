@@ -10,6 +10,9 @@ tags:
 doi: "10.1287/orsc.2021.1549"
 
 abstract: "Artificial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judgments. We know little, however, about how human-AI augmentation takes place in practice. Yet, gaining this understanding is particularly important when professionals use AI tools to form judgments on critical decisions. We conducted an in-depth field study in a major U.S. hospital where AI tools were used in three departments by diag"
+authors: "Sarah Lebovitz et al."
+year: 2022
+venue: "MIS Quarterly"
 ---
 
 # To Engage or Not with AI for Critical Judgments (Lebovitz et al.)

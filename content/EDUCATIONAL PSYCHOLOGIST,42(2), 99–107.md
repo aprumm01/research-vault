@@ -6,6 +6,10 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Cindy E. Hmelo-Silver, Ravit Golan Duncan, Clark A. Chinn"
+year: 2007
+venue: "Educational Psychologist, 42(2)"
+doi: "10.1080/00461520701263368"
 ---
 
 # EDUCATIONAL PSYCHOLOGIST,42(2), 99–107

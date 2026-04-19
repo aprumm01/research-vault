@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3643834.3661624"
+authors: "Aino Uusitalo, Joanna Saad-Sulonen, Netta Iivari"
+year: 2024
+venue: "Nordic CHI / ACM"
 ---
 
 # Clay to Play With: GenAI in UX Practice (Uusitalo et al. Aalto)

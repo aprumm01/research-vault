@@ -8,6 +8,9 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.30935/cedtech/16433"
+authors: "Betül Yıldızhan Bora, Cansu Şahin Kölemen"
+year: 2025
+venue: "Contemporary Educational Technology, 17(3)"
 ---
 
 # Contemporary Educational Technology, 2025, 17(3), ep583

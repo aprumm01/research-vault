@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Ruth C. Clark, Richard E. Mayer"
+year: 2003
+venue: "e-Learning and the Science of Instruction (Pfeiffer / Wiley)"
 ---
 
 # Clark Mayer

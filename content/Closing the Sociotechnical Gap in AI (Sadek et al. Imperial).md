@@ -8,6 +8,9 @@ tags:
   - community/Responsible_AI_and_Ethics
 
 doi: "10.1109/MTS.2024.3392280"
+authors: "Sadek et al., Imperial College London"
+year: 2023
+venue: "ACM CHI"
 ---
 
 # Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)

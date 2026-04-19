@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Kim et al."
+year: 2024
+venue: "CHI 2024"
 ---
 
 # UI UX for Generative AI: Taxonomy Trend Challenge (Kim et al.)

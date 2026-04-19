@@ -10,6 +10,9 @@ tags:
 doi: "10.1145/3729706.3729781"
 
 abstract: "Artificial Intelligence (AI) is integrated with various domains for design education — expanding creativity, problem-solving, design methodologies, research, etc. due to its ability to simulate human cognition and behavior. Using systematic review and content analysis, this study conducts a systematic review to understand the AI-powered curriculum innovation trends in design education. From the analyzed papers, five emerging themes were identified: (1) Art and Design Education, (2) Visual Commun"
+authors: "Yang, Chou"
+year: 2024
+venue: "Journal of Design Education"
 ---
 
 # AI-Driven Learning Innovations in Design Education (Yang and Chou)

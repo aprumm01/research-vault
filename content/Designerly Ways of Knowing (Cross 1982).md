@@ -8,6 +8,9 @@ tags:
   - community/Design_Theory_and_Cognition
 
 doi: "10.5040/9781474282932.0018"
+authors: "Nigel Cross"
+year: 1982
+venue: "Design Studies, 3(4)"
 ---
 
 # Designerly Ways of Knowing (Cross 1982)

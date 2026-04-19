@@ -8,6 +8,9 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3544548.3581247"
+authors: "Kuang et al."
+year: 2024
+venue: "CHI 2024"
 ---
 
 # Collaboration with Conversational AI for UX Evaluation (Kuang et al.)

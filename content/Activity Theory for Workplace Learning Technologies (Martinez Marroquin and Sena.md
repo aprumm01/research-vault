@@ -16,6 +16,9 @@ tags:
 doi: "10.1108/ijilt-07-2024-0141"
 
 abstract: "PurposeTechnology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application.Design/methodology/approachUsing activity theory (AT) as theoretical fr"
+authors: "Elisa Martinez Marroquin, Bouchra Senadji"
+year: 2025
+venue: "International Journal of Information and Learning Technology, 42(4)"
 ---
 # Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)
 

@@ -10,6 +10,9 @@ tags:
 doi: "10.1007/s10798-022-09789-4"
 
 abstract: "This paper illustrates the design-based learning (DBL) approach to promoting the deep learning of students and improving the quality of teaching in engineering design education. We performed three aspects of research with students in a typical educational activity. The first study investigated students' deep learning before and after the DBL approach, both in terms of deep learning status and deep learning ability. The second study examined the effectiveness of the DBL approach by comparative re"
+authors: "Weng et al."
+year: 2023
+venue: "Journal of Computer Assisted Learning"
 ---
 
 # Promoting Students Deep Learning via Design-Based Learning (Weng et al.)

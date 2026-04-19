@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+authors: "Not specified"
+year: 2020
+venue: "Educational Technology Research"
 ---
 
 # Characteristics and Evolution of Foundational Instructional

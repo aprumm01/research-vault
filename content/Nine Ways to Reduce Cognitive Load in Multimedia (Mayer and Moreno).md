@@ -8,6 +8,9 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1207/S15326985EP3801_6"
+authors: "Richard E. Mayer, Roxana Moreno"
+year: 2003
+venue: "Educational Psychologist, 38(1)"
 ---
 
 # Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)

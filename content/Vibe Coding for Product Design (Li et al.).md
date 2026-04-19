@@ -8,6 +8,9 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1145/nnnnnnn.nnnnnnn"
+authors: "Li et al."
+year: 2025
+venue: "ACM CHI 2025"
 ---
 
 # Vibe Coding for Product Design (Li et al.)

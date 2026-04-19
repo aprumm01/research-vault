@@ -8,6 +8,9 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1007/978-3-031-93233-5_3"
+authors: "Cheatham, Miami University"
+year: 2023
+venue: "ACM Interactions"
 ---
 
 # Developing Human Experience Experts (Cheatham Miami U)

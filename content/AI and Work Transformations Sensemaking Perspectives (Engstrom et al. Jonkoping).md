@@ -8,6 +8,9 @@ tags:
   - community/Workplace_Learning_and_AI
 
 doi: "10.1108/ITP-01-2023-0048"
+authors: "Annika Engström, Daniel Pittino, Alice Mohlin, Anette Johansson, Nina Edh Mirzaei"
+year: 2024
+venue: "Information Technology & People, 37(7)"
 ---
 
 # AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)

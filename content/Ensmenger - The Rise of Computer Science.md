@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+authors: "Nathan Ensmenger"
+year: 2010
+venue: "The Computer Boys Take Over (MIT Press)"
 ---
 
 # Ensmenger - The Rise of Computer Science

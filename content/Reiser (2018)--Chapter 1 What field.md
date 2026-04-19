@@ -6,6 +6,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+authors: "Robert A. Reiser"
+year: 2018
+venue: "Trends and Issues in Instructional Design and Technology (4th ed., Pearson)"
 ---
 
 # Reiser (2018)--Chapter 1 What field
