@@ -17,9 +17,9 @@ const PageTypeBadge: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     )
   }
 
-  // Research paper pages — titles contain parenthesised author/institution info
-  const looksLikePaper = /\(.*?\)/.test(title) || title.includes(" et al")
-  if (looksLikePaper) {
+  // Research paper pages — have a non-empty source_file (PDF path) in frontmatter
+  const sourceFile = fileData.frontmatter?.source_file ?? ""
+  if (sourceFile !== "") {
     return (
       <div class="page-type-badge badge-article">
         <span class="badge-dot" />
