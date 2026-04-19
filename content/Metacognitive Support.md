@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: ""
-community: "Responsible AI and Ethics"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
+  - community/Instructional_Design_Theory
 ---
 
 # Metacognitive Support
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

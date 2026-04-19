@@ -1,11 +1,11 @@
 ---
 type: community
-members: 10
+members: 9
 ---
 
 # Design Theory and Cognition
 
-**Members:** 10 nodes
+**Members:** 9 nodes
 
 ## Members
 - [[Anatomy of Prototypes (Lim Stolterman Tenenberg)]] - research_docs/P28.pdf
@@ -17,7 +17,6 @@ members: 10
 - [[Designerly Ways of Knowing (Cross 1982)]] - research_docs/P27.pdf
 - [[Designing the Constraints Co-creation Exercises (Eckert and Stacey)]] - research_docs/P64.pdf
 - [[The designer's judgement]] - research_docs/P127.pdf
-- [[www.ijdesign.org 55 International Journal of Design Vol.2 No.1 2008]] - research_docs/P130.pdf
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,13 +26,13 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_HCI Education and Pedagogy]]
+- 3 edges to [[_COMMUNITY_HCI Education and Pedagogy]]
 - 3 edges to [[_COMMUNITY_AI in Design Education]]
 - 2 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
 
 ## Top bridge nodes
-- [[Design Theory and Cognition]] - degree 13, connects to 2 communities
+- [[Design Theory and Cognition]] - degree 12, connects to 2 communities
 - [[Anatomy of Prototypes (Lim Stolterman Tenenberg)]] - degree 3, connects to 1 community
 - [[Cognitive Co-Evolution Model for Design (Cash et al.)]] - degree 3, connects to 1 community
 - [[The designer's judgement]] - degree 2, connects to 1 community
-- [[www.ijdesign.org 55 International Journal of Design Vol.2 No.1 2008]] - degree 2, connects to 1 community
+- [[Design Research Society Design Research Society]] - degree 2, connects to 1 community

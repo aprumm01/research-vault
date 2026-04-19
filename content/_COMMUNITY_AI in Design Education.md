@@ -8,11 +8,13 @@ members: 19
 **Members:** 19 nodes
 
 ## Members
+- [[ADDIE Model]]
 - [[AI Literacy]]
 - [[AI Literacy in Design Education Comparative Study (Schauer et al. HTW Berlin)]] - research_docs/P38.pdf
 - [[AI in Design Education]]
 - [[AI-Driven Learning Innovations in Design Education (Yang and Chou)]] - research_docs/P22.pdf
 - [[AI-assisted Learning in HCI Education (Heyer et al. Malmo)]] - research_docs/P57.pdf
+- [[ASCILITE 2024]] - research_docs/P96.pdf
 - [[Co-Designing with Transformers GenAI in Design Education (Sandhaus et al. Cornell)]] - research_docs/P10.pdf
 - [[Cornell Tech]] - research_docs/I5.pdf
 - [[Design Thinking]]
@@ -22,8 +24,6 @@ members: 19
 - [[GenAI in UX Education Critical Thinking Assessment (Naing et al.)]] - research_docs/P51.pdf
 - [[Generative AI Integrated Educational Model for User-Centered]] - research_docs/P102.pdf
 - [[Hauke Sandhaus]] - research_docs/A10.pdf
-- [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]] - research_docs/P40.pdf
-- [[International Journal on Technology, Innovation, and Management  (IJTIM) 3(1)...]] - research_docs/P95.pdf
 - [[Promoting Students Deep Learning via Design-Based Learning (Weng et al.)]] - research_docs/P68.pdf
 - [[Using Generative AI to Support UX Design Students in Web Dev]] - research_docs/P136.pdf
 - [[Wendy Ju]] - research_docs/A9.pdf
@@ -38,14 +38,15 @@ SORT file.name ASC
 ## Connections to other communities
 - 7 edges to [[_COMMUNITY_HCI Education and Pedagogy]]
 - 4 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
-- 3 edges to [[_COMMUNITY_Instructional Design Theory]]
+- 4 edges to [[_COMMUNITY_Instructional Design Theory]]
 - 3 edges to [[_COMMUNITY_Design Theory and Cognition]]
 - 3 edges to [[_COMMUNITY_Workplace Learning and AI]]
 - 3 edges to [[_COMMUNITY_Responsible AI and Ethics]]
+- 1 edge to [[_COMMUNITY_Human Performance Technology]]
 
 ## Top bridge nodes
-- [[Design Thinking]] - degree 8, connects to 2 communities
 - [[Developing Human Experience Experts (Cheatham Miami U)]] - degree 4, connects to 2 communities
+- [[ADDIE Model]] - degree 3, connects to 2 communities
+- [[ASCILITE 2024]] - degree 3, connects to 2 communities
 - [[AI in Design Education]] - degree 20, connects to 1 community
-- [[Co-Designing with Transformers GenAI in Design Education (Sandhaus et al. Cornell)]] - degree 5, connects to 1 community
-- [[Generative AI Integrated Educational Model for User-Centered]] - degree 3, connects to 1 community
+- [[Design Thinking]] - degree 7, connects to 1 community

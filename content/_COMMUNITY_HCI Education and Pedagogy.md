@@ -1,26 +1,22 @@
 ---
 type: community
-members: 24
+members: 19
 ---
 
 # HCI Education and Pedagogy
 
-**Members:** 24 nodes
+**Members:** 19 nodes
 
 ## Members
 - [[Colin M. Gray]] - research_docs/A1.pdf
 - [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] - research_docs/P25.pdf
 - [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] - research_docs/P7.pdf
-- [[Degen · Ntoa (Eds.)Artificial Intelligence in HCI]] - research_docs/P75.pdf
 - [[Design Judgment]]
 - [[Educating for Design Character (Boling Gray Smith)]] - research_docs/P26.pdf
 - [[Elizabeth Boling]] - research_docs/A2.pdf
-- [[Embracing the AIautomation age]] - research_docs/P90.pdf
 - [[Ethical Dimensions of AI in Graphic Design]] - research_docs/P93.pdf
 - [[HCI Education and Pedagogy]]
 - [[Indiana University IST]] - research_docs/I3.pdf
-- [[Instructional Design and Creativity A Response to the Criticized]] - research_docs/P77.pdf
-- [[Instructional Design and Creativity A Response to the Critics]] - research_docs/P87.pdf
 - [[Labels DO Matter (Lowenthal and Wilson)]] - research_docs/P109.pdf
 - [[Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)]] - research_docs/P58.pdf
 - [[Paul Parsons]] - research_docs/A3.pdf
@@ -31,7 +27,6 @@ members: 24
 - [[The Impact of Generative AI on the CSCW Landscape Insights]] - research_docs/P128.pdf
 - [[The Potential and Implications of Generative AI on HCI Education]] - research_docs/P131.pdf
 - [[Tracing the Invisible Students Judgment in AI Design Work (Naik et al. Purdue)]] - research_docs/P24.pdf
-- [[© ephemera 2009]] - research_docs/P79.pdf
 
 ## Live Query (requires Dataview plugin)
 
@@ -42,15 +37,16 @@ SORT file.name ASC
 
 ## Connections to other communities
 - 7 edges to [[_COMMUNITY_AI in Design Education]]
-- 6 edges to [[_COMMUNITY_Instructional Design Theory]]
 - 5 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
-- 4 edges to [[_COMMUNITY_Design Theory and Cognition]]
+- 3 edges to [[_COMMUNITY_Design Theory and Cognition]]
 - 2 edges to [[_COMMUNITY_Responsible AI and Ethics]]
+- 2 edges to [[_COMMUNITY_Instructional Design Theory]]
 - 1 edge to [[_COMMUNITY_AI and Future of Work]]
+- 1 edge to [[_COMMUNITY_Human Performance Technology]]
 
 ## Top bridge nodes
 - [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] - degree 5, connects to 2 communities
-- [[Studio Pedagogy]] - degree 15, connects to 1 community
-- [[Design Judgment]] - degree 8, connects to 1 community
+- [[Studio Pedagogy]] - degree 12, connects to 1 community
+- [[Design Judgment]] - degree 7, connects to 1 community
 - [[Tracing the Invisible Students Judgment in AI Design Work (Naik et al. Purdue)]] - degree 4, connects to 1 community
 - [[The Impact of Generative AI on the CSCW Landscape Insights]] - degree 3, connects to 1 community

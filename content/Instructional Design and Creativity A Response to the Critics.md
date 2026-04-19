@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P87.pdf"
 type: ""
-community: "HCI Education and Pedagogy"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Instructional_Design_Theory
 ---
 
 # Instructional Design and Creativity: A Response to the Critics
@@ -14,4 +14,4 @@ tags:
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
