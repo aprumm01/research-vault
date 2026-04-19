@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/I4.pdf"
 type: ""
-community: "Aalto University"
+community: "Community None"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Aalto_University
+  - community/Community_None
 ---
 
 # Aalto University
 
-#graphify/document #graphify/EXTRACTED #community/Aalto_University
+#graphify/document #graphify/EXTRACTED #community/Community_None

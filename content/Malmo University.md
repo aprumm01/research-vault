@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/I7.pdf"
 type: ""
-community: "Malmo University"
+community: "Community None"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Malmo_University
+  - community/Community_None
 ---
 
 # Malmo University
 
-#graphify/document #graphify/EXTRACTED #community/Malmo_University
+#graphify/document #graphify/EXTRACTED #community/Community_None

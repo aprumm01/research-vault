@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/I6.pdf"
 type: ""
-community: "Politecnico di Milano"
+community: "Community None"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Politecnico_di_Milano
+  - community/Community_None
 ---
 
 # Politecnico di Milano
 
-#graphify/document #graphify/EXTRACTED #community/Politecnico_di_Milano
+#graphify/document #graphify/EXTRACTED #community/Community_None
