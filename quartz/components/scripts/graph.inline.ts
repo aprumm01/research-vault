@@ -73,6 +73,14 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   const visited = getVisited()
   removeAllChildren(graph)
 
+  // hover tooltip overlay
+  const tooltip = document.createElement("div")
+  tooltip.className = "graph-tooltip"
+  graph.appendChild(tooltip)
+  let tooltipVisible = false
+  let cursorX = 0
+  let cursorY = 0
+
   let {
     drag: enableDrag,
     zoom: enableZoom,
@@ -163,6 +171,47 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
   const width = graph.offsetWidth
   const height = Math.max(graph.offsetHeight, 250)
+
+  function positionTooltip() {
+    const tw = tooltip.offsetWidth
+    const th = tooltip.offsetHeight
+    let x = cursorX + 14
+    let y = cursorY + 14
+    if (x + tw > width - 8) x = cursorX - tw - 14
+    if (y + th > height - 8) y = cursorY - th - 14
+    tooltip.style.left = x + "px"
+    tooltip.style.top = y + "px"
+  }
+
+  function showTooltip(nodeId: SimpleSlug) {
+    const details = data.get(nodeId)
+    if (!details) return
+    const numLinks = graphData.links.filter(
+      (l) => l.source.id === nodeId || l.target.id === nodeId,
+    ).length
+    const desc = details.description ?? ""
+    const truncated = desc.length > 150 ? desc.slice(0, 150) + "…" : desc
+    tooltip.innerHTML =
+      `<div class="gtt-title">${details.title}</div>` +
+      (truncated ? `<div class="gtt-desc">${truncated}</div>` : "") +
+      `<div class="gtt-meta">${numLinks} connection${numLinks !== 1 ? "s" : ""}</div>`
+    tooltipVisible = true
+    tooltip.classList.add("visible")
+    positionTooltip()
+  }
+
+  function hideTooltip() {
+    tooltipVisible = false
+    tooltip.classList.remove("visible")
+  }
+
+  function onMouseMove(e: MouseEvent) {
+    const rect = graph.getBoundingClientRect()
+    cursorX = e.clientX - rect.left
+    cursorY = e.clientY - rect.top
+    if (tooltipVisible) positionTooltip()
+  }
+  graph.addEventListener("mousemove", onMouseMove)
 
   // we virtualize the simulation and use pixi to actually render it
   const simulation: Simulation<NodeData, LinkData> = forceSimulation<NodeData>(graphData.nodes)
@@ -406,6 +455,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         if (!dragging) {
           renderPixiFromD3()
         }
+        if (!isTagNode) showTooltip(nodeId as SimpleSlug)
       })
       .on("pointerleave", () => {
         updateHoverInfo(null)
@@ -413,6 +463,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
         if (!dragging) {
           renderPixiFromD3()
         }
+        hideTooltip()
       })
 
     if (isTagNode) {
@@ -553,6 +604,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   return () => {
     stopAnimation = true
     app.destroy()
+    graph.removeEventListener("mousemove", onMouseMove)
   }
 }
 
