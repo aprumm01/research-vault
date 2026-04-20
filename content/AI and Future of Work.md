@@ -15,7 +15,6 @@ tags:
 
 ## Papers in this Community
 
-- [[Abdallah El Ali|Abdallah El Ali]]
 - [[AI Has Not Fixed Teamwork (Xiao et al. CMU)|AI Has Not Fixed Teamwork (Xiao et al. CMU)]]
 - [[AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)|AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)]]
 - [[AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)|AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)]]
@@ -28,7 +27,6 @@ tags:
 - [[Evolving Roles of Creative Practitioners in GenAI Age (Palani and Ramos)|Evolving Roles of Creative Practitioners in GenAI Age (Palani and Ramos)]]
 - [[Examining the Interplay of Efficiency (AI Workplace)|Examining the Interplay of Efficiency (AI Workplace)]]
 - [[From Expert Systems to Generative Artificial Experts (Sowa and Przegalinska)|From Expert Systems to Generative Artificial Experts (Sowa and Przegalinska)]]
-- [[Hancheng Cao|Hancheng Cao]]
 - [[Poets Over Quants Automation Increases Value of Creativity|Poets Over Quants Automation Increases Value of Creativity]]
 - [[Rethinking AI in Organization and Management (Ramaul et al.)|Rethinking AI in Organization and Management (Ramaul et al.)]]
 - [[Shaping the Future Workforce - Students Perceptions on AI|Shaping the Future Workforce - Students Perceptions on AI]]

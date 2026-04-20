@@ -23,6 +23,5 @@ tags:
 - [[Designerly Ways of Knowing (Cross 1982)|Designerly Ways of Knowing (Cross 1982)]]
 - [[Designing the Constraints Co-creation Exercises (Eckert and Stacey)|Designing the Constraints Co-creation Exercises (Eckert and Stacey)]]
 - [[The designer's judgement|The designer's judgement]]
-- [[www.ijdesign.org 55 International Journal of Design Vol.2 No.1 2008|www.ijdesign.org 55 International Journal of Design Vol.2 No.1 2008]]
 
 #graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
