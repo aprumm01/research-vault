@@ -83,3 +83,24 @@ Relates to [[Do Artifacts Have Politics (Winner 1980)]] on technology and social
 - [[The Dick and Carey Model|The Dick and Carey Model]]
 - [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)|Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]]
 - [[Unlocking training transfer in the age of|Unlocking training transfer in the age of]]
+
+
+## Related Authors
+
+- Anna Kawakami et al. (1 paper)
+- Gmeiner et al. (1 paper)
+- Heger et al. (1 paper)
+- Ibo van de Poel (1 paper)
+- Jennifer Jihae Park (1 paper)
+- Jonnie Penn (1 paper)
+- Jung et al. (1 paper)
+- Langdon Winner (1 paper)
+- Microsoft Research (1 paper)
+- Mushkani et al. (1 paper)
+- Nokhiz et al. (1 paper)
+- Not specified (1 paper)
+- Sadek et al. (1 paper)
+- Steven Umbrello (1 paper)
+- Université de Montréal (1 paper)
+- Walter Dick (1 paper)
+- Yarden Katz (1 paper)

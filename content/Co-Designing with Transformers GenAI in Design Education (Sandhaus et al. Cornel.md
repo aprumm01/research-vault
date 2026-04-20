@@ -59,3 +59,27 @@ GenAI plays complex multifaceted role in interactive system design education
 - [[Generative AI Integrated Educational Model for User-Centered|Generative AI Integrated Educational Model for User-Centered]]
 - [[Promoting Students Deep Learning via Design-Based Learning (Weng et al.)|Promoting Students Deep Learning via Design-Based Learning (Weng et al.)]]
 - [[Using Generative AI to Support UX Design Students in Web Dev|Using Generative AI to Support UX Design Students in Web Dev]]
+
+
+## Related Authors
+
+- Yun Dai (2 papers)
+- Ziyan Lin (2 papers)
+- Arzoo Atiq (1 paper)
+- Cheatham (1 paper)
+- Chou (1 paper)
+- Cornell Tech (1 paper)
+- Félix Buendía-García (1 paper)
+- Hauke Sandhaus et al. (1 paper)
+- Heyer et al. (1 paper)
+- HTW Berlin (1 paper)
+- Javier Piris-Ruano (1 paper)
+- Naing et al. (1 paper)
+- Qibei Lin (1 paper)
+- Schauer et al. (1 paper)
+- Weng et al. (1 paper)
+- Winn Chow (1 paper)
+- Xiaoping Zeng (1 paper)
+- Yanan Wu (1 paper)
+- Yang (1 paper)
+- Yueting Zhang (1 paper)

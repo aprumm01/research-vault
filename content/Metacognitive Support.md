@@ -31,4 +31,31 @@ tags:
 - [[The Cultures of Contemporary Instructional Design Scholarship, Part One Deve...|The Cultures of Contemporary Instructional Design Scholarship, Part One Deve...]]
 - [[Will Media Influence Learning Reframing the Debate (Kozma 1994)|Will Media Influence Learning Reframing the Debate (Kozma 1994)]]
 
+
+## Related Authors
+
+- Richard E. Clark (2 papers)
+- AECT (1 paper)
+- Alan Januszewski (1 paper)
+- Betül Yıldızhan Bora (1 paper)
+- Cansu Şahin Kölemen (1 paper)
+- Cindy E. Hmelo-Silver (1 paper)
+- Clark A. Chinn (1 paper)
+- Definition and Terminology Committee (1 paper)
+- Gordon Rowland (1 paper)
+- Howard S. Barrows (1 paper)
+- Jerry Willis (1 paper)
+- John Sweller (1 paper)
+- Not specified (1 paper)
+- Paul A. Kirschner (1 paper)
+- Peggy A. Ertmer (1 paper)
+- Ravit Golan Duncan (1 paper)
+- Richard E. Mayer (1 paper)
+- Robert B. Kozma (1 paper)
+- Robyn M. Tamblyn (1 paper)
+- Roxana Moreno (1 paper)
+- Timothy J. Newby (1 paper)
+- Walter Dick (1 paper)
+- Yun Dai (1 paper)
+
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

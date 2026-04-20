@@ -87,3 +87,18 @@ Relates to [[Beyond Design and Use Studying Intelligent Technologies (Bailey and
 - [[State of AI Literacy in Academic Libraries (Lo UNM)|State of AI Literacy in Academic Libraries (Lo UNM)]]
 - [[To Engage or Not with AI for Critical Judgments (Lebovitz et al.)|To Engage or Not with AI for Critical Judgments (Lebovitz et al.)]]
 - [[Transforming Academic Librarianship through AI Reskilling (Lo UNM)|Transforming Academic Librarianship through AI Reskilling (Lo UNM)]]
+
+
+## Related Authors
+
+- Leo S. Lo (2 papers)
+- Alice Mohlin (1 paper)
+- Anette Johansson (1 paper)
+- Annika Engström (1 paper)
+- Bouchra Senadji (1 paper)
+- Daniel Pittino (1 paper)
+- Elisa Martinez Marroquin (1 paper)
+- Martin Sposato (1 paper)
+- Nina Edh Mirzaei (1 paper)
+- Sarah Lebovitz et al. (1 paper)
+- Wanda J. Orlikowski (1 paper)
