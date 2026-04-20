@@ -24,14 +24,14 @@ tags:
 
 ## Related Authors
 
-- Leo S. Lo (2 papers)
-- Alice Mohlin (1 paper)
-- Anette Johansson (1 paper)
-- Annika Engström (1 paper)
-- Bouchra Senadji (1 paper)
-- Daniel Pittino (1 paper)
-- Elisa Martinez Marroquin (1 paper)
-- Martin Sposato (1 paper)
-- Nina Edh Mirzaei (1 paper)
-- Sarah Lebovitz et al. (1 paper)
-- Wanda J. Orlikowski (1 paper)
+- **Leo S. Lo** (2 papers) — [[State of AI Literacy in Academic Libraries (Lo UNM)|State of AI Literacy in Academic Libraries (Lo UNM)]], [[Transforming Academic Librarianship through AI Reskilling (Lo UNM)|Transforming Academic Librarianship through AI Reskilli…]]
+- **Alice Mohlin** — [[AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations Sensemaking Perspectives (E…]]
+- **Anette Johansson** — [[AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations Sensemaking Perspectives (E…]]
+- **Annika Engström** — [[AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations Sensemaking Perspectives (E…]]
+- **Bouchra Senadji** — [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Ma…]]
+- **Daniel Pittino** — [[AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations Sensemaking Perspectives (E…]]
+- **Elisa Martinez Marroquin** — [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Ma…]]
+- **Martin Sposato** — [[Beyond the Hype Responsible AI in Workplace Learning (Sposato)|Beyond the Hype Responsible AI in Workplace Learning (S…]]
+- **Nina Edh Mirzaei** — [[AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations Sensemaking Perspectives (E…]]
+- **Sarah Lebovitz et al.** — [[To Engage or Not with AI for Critical Judgments (Lebovitz et al.)|To Engage or Not with AI for Critical Judgments (Lebovi…]]
+- **Wanda J. Orlikowski** — [[Learning from Notes Groupware Implementation (Orlikowski 2002)|Learning from Notes Groupware Implementation (Orlikowsk…]]

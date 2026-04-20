@@ -6,8 +6,6 @@ tags:
   - community/Human_Performance_Technology
 ---
 
-# Human Performance Technology
-
 ## Papers in this Community
 
 - [[E1C01_1 10142009 5|E1C01_1 10142009 5]]
@@ -21,21 +19,23 @@ tags:
 
 ## Related Authors
 
-- Beresford (1 paper)
-- Christine Prigmore (1 paper)
-- Deepika Pandita (1 paper)
-- Donald L. Kirkpatrick (1 paper)
-- Doug Leigh (1 paper)
-- Frank S. Wilmoth (1 paper)
-- Harold D. Stolovitch (1 paper)
-- Ingu Kang (1 paper)
-- Martin et al. (1 paper)
-- Marty Bray (1 paper)
-- Rob Foshay (1 paper)
-- Roger Kaufman (1 paper)
-- Ryan Watkins (1 paper)
-- Shalini Rastogi (1 paper)
-- Sung Jun Jo (1 paper)
-- Sunyoung Park (1 paper)
-- Yonjoo Cho (1 paper)
-- Zengguan Chen (1 paper)
+- **Beresford** — [[Stolovitch Beresford 2012--evoluation of HPT (1)|Stolovitch Beresford 2012--evoluation of HPT (1)]]
+- **Christine Prigmore** — [[E1C01_1 10142009 5|E1C01_1 10142009 5]]
+- **Deepika Pandita** — [[Fr om code to collaboration|Fr om code to collaboration]]
+- **Donald L. Kirkpatrick** — [[EVALUATING|EVALUATING]]
+- **Doug Leigh** — [[Kirkpatrick Plus Evaluation and Continuous|Kirkpatrick Plus Evaluation and Continuous]]
+- **Frank S. Wilmoth** — [[E1C01_1 10142009 5|E1C01_1 10142009 5]]
+- **Harold D. Stolovitch** — [[Stolovitch Beresford 2012--evoluation of HPT (1)|Stolovitch Beresford 2012--evoluation of HPT (1)]]
+- **Ingu Kang** — [[The Current State of Human|The Current State of Human]]
+- **Martin et al.** — [[HPT Model Applied to Kayak Company (Martin et al.)|HPT Model Applied to Kayak Company (Martin et al.)]]
+- **Marty Bray** — [[E1C01_1 10142009 5|E1C01_1 10142009 5]]
+- **Rob Foshay** — [[Kirkpatrick Plus Evaluation and Continuous|Kirkpatrick Plus Evaluation and Continuous]]
+- **Roger Kaufman** — [[Kirkpatrick Plus Evaluation and Continuous|Kirkpatrick Plus Evaluation and Continuous]]
+- **Ryan Watkins** — [[Kirkpatrick Plus Evaluation and Continuous|Kirkpatrick Plus Evaluation and Continuous]]
+- **Shalini Rastogi** — [[Fr om code to collaboration|Fr om code to collaboration]]
+- **Sung Jun Jo** — [[The Current State of Human|The Current State of Human]]
+- **Sunyoung Park** — [[The Current State of Human|The Current State of Human]]
+- **Yonjoo Cho** — [[The Current State of Human|The Current State of Human]]
+- **Zengguan Chen** — [[The Current State of Human|The Current State of Human]]
+
+# Human Performance Technology

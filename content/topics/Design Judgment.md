@@ -29,29 +29,29 @@ tags:
 
 ## Related Authors
 
-- Ahmed Kharrufa (1 paper)
-- Austin Toombs (1 paper)
-- Brent G. Wilson (1 paper)
-- Cliff Lampe (1 paper)
-- Colin M. Gray (1 paper)
-- Elizabeth Boling (1 paper)
-- Elizabeth D. Mynatt (1 paper)
-- Gala Golubović (1 paper)
-- Guo Freeman (1 paper)
-- Heloisa Candello (1 paper)
-- Ian G. Johnson (1 paper)
-- Ivana Jurič (1 paper)
-- Kennon M. Smith (1 paper)
-- Kori Inkpen (1 paper)
-- Lotsos et al. (1 paper)
-- Magdolna Pál (1 paper)
-- Naik et al. (1 paper)
-- Nemanja Kašiković (1 paper)
-- Nilsson et al. (1 paper)
-- Nitesh Goyal (1 paper)
-- Patrick R. Lowenthal (1 paper)
-- Paul Parsons (1 paper)
-- Sandra Dedijer (1 paper)
-- Saša Petrović (1 paper)
-- Shukla et al. (1 paper)
-- Živko Pavlović (1 paper)
+- **Ahmed Kharrufa** — [[The Potential and Implications of Generative AI on HCI Education|The Potential and Implications of Generative AI on HCI…]]
+- **Austin Toombs** — [[Teaching to Fail Premortem in HCI Education (Parsons and Toombs)|Teaching to Fail Premortem in HCI Education (Parsons an…]]
+- **Brent G. Wilson** — [[Labels DO Matter (Lowenthal and Wilson)|Labels DO Matter (Lowenthal and Wilson)]]
+- **Cliff Lampe** — [[The Impact of Generative AI on the CSCW Landscape Insights|The Impact of Generative AI on the CSCW Landscape Insig…]]
+- **Colin M. Gray** — [[Educating for Design Character (Boling Gray Smith)|Educating for Design Character (Boling Gray Smith)]]
+- **Elizabeth Boling** — [[Educating for Design Character (Boling Gray Smith)|Educating for Design Character (Boling Gray Smith)]]
+- **Elizabeth D. Mynatt** — [[The Impact of Generative AI on the CSCW Landscape Insights|The Impact of Generative AI on the CSCW Landscape Insig…]]
+- **Gala Golubović** — [[Ethical Dimensions of AI in Graphic Design|Ethical Dimensions of AI in Graphic Design]]
+- **Guo Freeman** — [[The Impact of Generative AI on the CSCW Landscape Insights|The Impact of Generative AI on the CSCW Landscape Insig…]]
+- **Heloisa Candello** — [[The Impact of Generative AI on the CSCW Landscape Insights|The Impact of Generative AI on the CSCW Landscape Insig…]]
+- **Ian G. Johnson** — [[The Potential and Implications of Generative AI on HCI Education|The Potential and Implications of Generative AI on HCI…]]
+- **Ivana Jurič** — [[Ethical Dimensions of AI in Graphic Design|Ethical Dimensions of AI in Graphic Design]]
+- **Kennon M. Smith** — [[Educating for Design Character (Boling Gray Smith)|Educating for Design Character (Boling Gray Smith)]]
+- **Kori Inkpen** — [[The Impact of Generative AI on the CSCW Landscape Insights|The Impact of Generative AI on the CSCW Landscape Insig…]]
+- **Lotsos et al.** — [[Conceptions of Design Practice (Lotsos et al. Northwestern)|Conceptions of Design Practice (Lotsos et al. Northwest…]]
+- **Magdolna Pál** — [[Ethical Dimensions of AI in Graphic Design|Ethical Dimensions of AI in Graphic Design]]
+- **Naik et al.** — [[Tracing the Invisible Students Judgment in AI Design Work (Naik et al. Purdue)|Tracing the Invisible Students Judgment in AI Design Wo…]]
+- **Nemanja Kašiković** — [[Ethical Dimensions of AI in Graphic Design|Ethical Dimensions of AI in Graphic Design]]
+- **Nilsson et al.** — [[Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)|Navigating More-Than-Human Perspectives in HCI Educatio…]]
+- **Nitesh Goyal** — [[The Impact of Generative AI on the CSCW Landscape Insights|The Impact of Generative AI on the CSCW Landscape Insig…]]
+- **Patrick R. Lowenthal** — [[Labels DO Matter (Lowenthal and Wilson)|Labels DO Matter (Lowenthal and Wilson)]]
+- **Paul Parsons** — [[Teaching to Fail Premortem in HCI Education (Parsons and Toombs)|Teaching to Fail Premortem in HCI Education (Parsons an…]]
+- **Sandra Dedijer** — [[Ethical Dimensions of AI in Graphic Design|Ethical Dimensions of AI in Graphic Design]]
+- **Saša Petrović** — [[Ethical Dimensions of AI in Graphic Design|Ethical Dimensions of AI in Graphic Design]]
+- **Shukla et al.** — [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)|De-skilling Cognitive Offloading and Misplaced Responsi…]]
+- **Živko Pavlović** — [[Ethical Dimensions of AI in Graphic Design|Ethical Dimensions of AI in Graphic Design]]
