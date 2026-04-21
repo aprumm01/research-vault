@@ -1,47 +1,33 @@
 ---
-source_file: "research_docs/P106.pdf"
-type: ""
+title: "Januszewski and Molenda - Educational Technology Definition (2008)"
+type: paper
 community: "Instructional Design Theory"
-tags:
-  - community/Instructional_Design_Theory
-authors: "Alan Januszewski, Michael Molenda (Eds.)"
 year: 2008
-venue: "Educational Technology: A Definition with Commentary (Lawrence Erlbaum)"
+venue: ""
+institution: "and Terminology Committee of the Association for Educational"
+source_file: "Januszewski_Molenda_2008--Ed Tech Book Chapter 1 Definition of ed tech.pdf"
+tags:
+  - type/paper
+  - community/Instructional_Design_Theory
+  - topic/constructivism
 ---
-
 # Januszewski and Molenda - Educational Technology Definition (2008)
 
-## Summary
-Januszewski and Molenda (2008) present the AECT Definition and Terminology Committee's revised definition of educational technology: "the study and ethical practice of facilitating learning and improving performance by creating, using, and managing appropriate technological processes and resources." This foundational chapter elaborates each element of the definition, positioning the field as both a theoretical study and an ethical practice. The revision explicitly adds "ethical practice" to prior definitions and emphasizes performance alongside learning as legitimate field outcomes.
-
-## Key Concepts
-- **Educational technology**: Study and ethical practice of facilitating learning and improving performance
-- **Study**: Includes research and reflective practice; knowledge construction through inquiry
-- **Ethical practice**: Professional responsibility to learners, institutions, and society embedded in the definition
-- **Creating, using, managing**: Three functional domains encompassing the field's activities
-- **Technological processes and resources**: Both systematic procedures and tools/materials
-
-## Theoretical Framework
-Definitional and conceptual work synthesizing prior AECT definitions and responding to field evolution. Reflects the committee's consensus position on how to bound and characterize educational technology as a distinct field.
-
-## Methods
-Committee deliberation and literature synthesis, presented as authoritative definition from AECT's official definitional body.
-
-## Main Arguments
-1. Educational technology is defined by its purposes (facilitating learning, improving performance) rather than its tools
-2. Ethical practice is not optional or external—it is constitutive of what educational technologists do
-3. The field's scope encompasses creating new technologies, facilitating their use, and managing their deployment
-4. Performance as an explicit goal distinguishes the 2008 definition from prior versions focused solely on learning
-
-## Limitations
-Definitional work is inherently contested and reflects the commitments of its authors and the AECT community. Critiqued by Lowenthal & Wilson (2010) for insufficient rationale and practitioner consultation.
-
-## Connections
-- Companion note to [[AECT Definition and Terminology (2008)]] (same source, different file)
-- Critiqued by [[Labels DO Matter (Lowenthal and Wilson)]]
-- Situates the field relative to [[Reiser (2018)--Chapter 1 What field]] on field identity
-
-## Connections
-- [[Constructivism]] - `` 
+**Year:** 2008
+**Institution:** and Terminology Committee of the Association for Educational
 
 
+## Key Finding
+concept or as a fi eld of practice. First, the defi nition of the concept: Educational technology is the study and ethical practice of facilitating learning and improving performance by creating, us
+
+
+## Topics
+`#topic/constructivism`
+
+
+## Connects To
+- [[Constructivism]] `concept` *(addresses)*
+
+
+## Community
+[[_COMMUNITY_Instructional Design Theory]]

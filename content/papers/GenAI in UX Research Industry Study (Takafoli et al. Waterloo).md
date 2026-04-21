@@ -1,22 +1,36 @@
 ---
-source_file: "research_docs/P15.pdf"
-type: ""
+title: "GenAI in UX Research: Industry Study (Takafoli et al. Waterloo)"
+type: paper
 community: "GenAI in UX and Design Practice"
+year: 2025
+venue: "CHI"
+institution: "University of Waterloo"
+source_file: ""
 tags:
+  - type/paper
   - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.1108/IJILT-07-2024-0141"
-authors: "Takafoli et al., University of Waterloo"
-year: 2024
-venue: "CHI / ACM"
+  - theme/genai-design-practice
+  - topic/human-ai-collaboration
 ---
-
 # GenAI in UX Research: Industry Study (Takafoli et al. Waterloo)
 
-**DOI:** [10.1108/IJILT-07-2024-0141](https://doi.org/10.1108/IJILT-07-2024-0141)
-
-## Connections
-- [[GenAI in UX and Design Practice]] - `` 
-- [[Human-AI Creative Collaboration]] - `` 
+**Year:** 2025
+**Venue:** CHI
+**Institution:** University of Waterloo
 
 
+## Key Finding
+24 practitioners; lack of company GenAI policies; individual-level adoption without team practices
+
+
+## Topics
+`#theme/genai-design-practice`  `#topic/human-ai-collaboration`
+
+
+## Connects To
+- [[Human-AI Creative Collaboration]] `concept` *(studies)*
+- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
+
+
+## Community
+[[_COMMUNITY_GenAI in UX and Design Practice]]
