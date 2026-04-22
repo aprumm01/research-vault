@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P201.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.37934/sijcad.4.1.2437"
 
 abstract: "The use of Artificial Intelligence (AI) in education has advanced rapidly, creating new prospects for improving creativity and critical thinking, particularly in digital media learning. This paper does a literature analysis to answer the research question: How beneficial is the employment of AI in design thinking-based activities in improving students' creativity and critical thinking in digital media education. A total of 118 peer-reviewed papers from the Scopus database (2020-2025) were initia"
@@ -47,7 +42,7 @@ Quasi-experimental study; pre/post comparison of student creative output and cri
 Quasi-experimental design cannot fully isolate the effect of AI integration from instructor enthusiasm, novelty effects, or contextual differences; creativity assessment instruments may not capture all relevant dimensions; conducted in a single institutional context.
 
 ## Connections
-- [[Design Thinking]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[Design Thinking]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

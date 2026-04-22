@@ -1,13 +1,8 @@
 ---
 title: "Exploring Resistance and Other Oppositional Responses to AI"
-source_file: "research_docs/P154.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1145/3715070.3748295"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -47,6 +42,6 @@ Conceptual framework development; interviews and case analysis of people who act
 The taxonomy requires empirical validation across diverse AI contexts; the normative argument for designing for resisters may be in tension with organizational incentives; resistance itself may change as AI becomes more embedded in essential services.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

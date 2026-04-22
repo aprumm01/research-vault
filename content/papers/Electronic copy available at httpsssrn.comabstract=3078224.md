@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P281.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 abstract: "While the term “Artiﬁcial Intelligence” (AI) was coined in the 1950s, in recent years AI has become a focus of attention in mainstream media. Yet the forces behind AI’s revival ha"
 
 doi: "10.2139/ssrn.3078224"
@@ -47,6 +42,6 @@ Historical and critical analysis; examination of AI discourse in media, policy, 
 Written in 2017 when AI capabilities were less mature; the critical/skeptical framing may be perceived as dismissive of genuine AI advances; the political economy analysis focuses on the US context and may not transfer to other national AI development contexts.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

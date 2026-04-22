@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P262.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.4324/9781315764269-18"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,6 +41,6 @@ Textbook synthesis of empirical learning science literature; integrative review 
 Survey breadth comes at the cost of depth; newer learning science perspectives (embodied cognition, complexity theory) are underrepresented in earlier editions.
 
 ## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

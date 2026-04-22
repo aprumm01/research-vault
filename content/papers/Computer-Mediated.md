@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P193.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 abstract: "This article proposes a computer-mediated intersensory learning model as an alternative to traditional instructional approaches for students with learning disabilities (LDs) in the inclusive classroom. Predominant practices of classroom inclusion today reflect the six principles of zero reject, nondiscriminatory evaluation, appropriate education, least restrictive environment, proce­ dural due process, and parental and student par­ ticipation. These practices guide the amended In­ dividuals with"
 
 doi: "10.1007/s11528-010-0385-4"
@@ -47,6 +42,6 @@ Theoretical model development drawing on cognitive psychology and special educat
 Primarily theoretical; the model requires empirical validation with specific student populations; accessibility guidelines evolve with assistive technology; the model predates current AI-adaptive learning tools that may offer more dynamic intersensory support.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P8.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.18175/VyS16.2.2025.9"
 
 abstract: "This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, as"
@@ -21,8 +16,8 @@ This testimonial article reflects on integrating Generative Artificial Intellige
 **DOI:** [10.18175/VyS16.2.2025.9](https://doi.org/10.18175/VyS16.2.2025.9)
 
 ## Connections
-- [[Creative Ambiguity]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Creative Ambiguity]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 

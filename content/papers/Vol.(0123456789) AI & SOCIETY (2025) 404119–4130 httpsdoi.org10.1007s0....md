@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P241.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 doi: "10.1007/s00146-025-02180-6"
 
 abstract: "Abstract This article explores how the emergence of creative AI technologies transforms creative workers’ self-apprehension in the context of critical theory and labor studies. The distinguishing contribution of this study resides in its focus on how CI laborers’ creativity perception and reception are affected by AI technologies’ intrusion into the creative domain. Creative AI technologies are expected to present new expressive capacities to creative workers and cost-cutting advantages for CIs’"
@@ -46,7 +41,7 @@ Theoretical analysis and conceptual argumentation; case analysis of creative ind
 Primarily theoretical with limited empirical grounding in specific creative labor contexts; the reconceptualization remains at a high level of abstraction; the specific implications for policy and practice need further development.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

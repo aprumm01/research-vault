@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P52.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 abstract: "This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for e"
 
 doi: "10.4324/9781315697420"
@@ -22,7 +17,7 @@ doi: "10.4324/9781315697420"
 This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
 
 ## Connections
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P45.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 doi: "10.1002/pfi.20061"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1002/pfi.20061](https://doi.org/10.1002/pfi.20061)
 
 ## Connections
-- [[Human Performance Technology]] - `` [EXTRACTED]
-- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
+- [[Human Performance Technology]] -
+- [[Kirkpatrick Evaluation Model]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
 

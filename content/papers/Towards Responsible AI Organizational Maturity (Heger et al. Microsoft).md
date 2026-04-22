@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P18.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 doi: "10.1145/3757514"
 
 abstract: "Artificial intelligence (AI) holds tremendous potential but also poses consequential risks. Regulation frameworks like the EU AI Act aim to mitigate these risks, yet organizations struggle to understand and operationalize Responsible AI (RAI). We introduce the RAI Organizational Maturity (RAI-OM) framework as an initial step towards a RAI maturity model to highlight the many factors that influence an organization's RAI maturity. Developed through in-depth qualitative interviews and co-design ses"
@@ -22,8 +17,8 @@ abstract: "Artificial intelligence (AI) holds tremendous potential but also pose
 Artificial intelligence (AI) holds tremendous potential but also poses consequential risks. Regulation frameworks like the EU AI Act aim to mitigate these risks, yet organizations struggle to understand and operationalize Responsible AI (RAI). We introduce the RAI Organizational Maturity (RAI-OM) framework as an initial step towards a RAI maturity model to highlight the many factors that influence an organization's RAI maturity. Developed through in-depth qualitative interviews and co-design sessions with 90 RAI experts, the RAI-OM framework consists of 24 dimensions grouped into three main categories: Organizational Foundations, Team Approach, and RAI Practices. Our findings also provide further evidence for the interdependent nature of RAI's organizational factors, the import of collaboration for mature RAI, and the need to start RAI early in the AI lifecyle. Researchers and practitioners can use the RAI-OM framework and our research findings to not only understand the different moving parts in RAI's complex organizational machinery, but also address organizational barriers to RAI, unpack the different types of collaborations needed for mature RAI, and support RAI's articulation work and process.
 
 ## Connections
-- [[Responsible AI Governance]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 

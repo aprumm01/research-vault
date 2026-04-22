@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P200.pdf"
 type: "paper"
 community: "Generative UI Tools"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Generative_UI_Tools
-
 doi: "10.1145/3715336.3735780"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,7 +41,7 @@ Large-scale deployment study with UX practitioners using prototype GenUI tools; 
 Large-scale deployment studies face ecological validity trade-offs; the prototype tools may not represent commercial GenUI tools' full capabilities; practitioner sample selection may bias toward early adopters.
 
 ## Connections
-- [[Generative UI Tools]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Generative UI Tools]] -
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools

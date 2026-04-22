@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P87.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -19,8 +14,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 *Abstract not yet found — search by title or check source PDF*
 
 ## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 

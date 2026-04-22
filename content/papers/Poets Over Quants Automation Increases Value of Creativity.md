@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P71.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.1177/01461672251337126"
 
 abstract: "We examine how perceived automation and AI threats (the belief that advanced technology threatens humans’ career prospects) shape workers’ strategies for career preparation. In nine studies ( N = 2,320; three preregistered), we find that perceived automation threat drives people to prioritize creative skills over technical and social skills. A pilot study revealed that people view creativity as less prone to automation and more likely to complement automation. Subsequent experiments confirmed th"
@@ -21,8 +16,8 @@ We examine how perceived automation and AI threats (the belief that advanced tec
 **DOI:** [10.1177/01461672251337126](https://doi.org/10.1177/01461672251337126)
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Job Displacement and Reskilling]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Job Displacement and Reskilling]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

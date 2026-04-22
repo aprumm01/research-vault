@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P17.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 abstract: "AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure"
 
 doi: "10.1145/3715336.3735745"
@@ -22,9 +17,9 @@ doi: "10.1145/3715336.3735745"
 AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure
 
 ## Connections
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] -
+- [[Responsible AI Governance]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 

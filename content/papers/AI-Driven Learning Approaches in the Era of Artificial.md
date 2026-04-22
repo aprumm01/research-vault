@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P222.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 abstract: "Artificial Intelligence (AI) is integrated with various domains for design education — expanding creativity, problem-solving, design methodologies, research, etc. due to its ability to simulate human cognition and behavior. Using systematic review and content anal- ysis, this study conducts a systematic review to understand the AI- powered curriculum innovation trends in design education. From the analyzed papers, five emerging themes were identified: (1) Art and Design Education, (2) Visual Com"
 
 doi: "10.1145/3729706.3729781"
@@ -47,8 +42,8 @@ Conceptual review and synthesis of AI-driven learning research across contexts; 
 The review spans very heterogeneous AI approaches and educational contexts; evidence quality for many AI-driven learning systems is limited; the field is moving faster than systematic evidence can accumulate.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Design Thinking]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Design Thinking]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

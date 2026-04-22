@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P127.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.7765/9781526111876.00007"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.7765/9781526111876.00007](https://doi.org/10.7765/9781526111876.00007)
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Design Theory and Cognition]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 

@@ -1,35 +1,25 @@
 ---
 type: community
-members: 7
+members: 10
 ---
 
 # Generative UI Tools
 
-**Members:** 7 nodes
+**Members:** 10 nodes
 
 ## Members
-- [[A Formative Study to Explore the Design of Generative UI Tools]] - research_docs/P167.pdf
-- [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] - research_docs/P3.pdf
+- [[A Formative Study to Explore the Design of Generative UI Tools]]
+- [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]]
 - [[Generative UI Tools]]
-- [[Google DeepMind]] - research_docs/I8.pdf
-- [[The GenUI Study (Chen Knearem Li)]] - research_docs/P4.pdf
-- [[The GenUI Study Exploring the Design of Generative UI Tools to]] - research_docs/P200.pdf
-- [[Xiang Anthony Chen]] - research_docs/A13.pdf
-
-## Live Query (requires Dataview plugin)
-
-```dataview
-TABLE source_file, type FROM #community/Generative_UI_Tools
-SORT file.name ASC
-```
-
+- [[The GenUI Study (Chen Knearem Li)]]
+- [[The GenUI Study: Exploring the Design of Generative UI Tools to]]
 ## Connections to other communities
-- 4 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
-- 1 edge to [[_COMMUNITY_HCI Education and Pedagogy]]
+- 4 edges to [[communities/GenAI in UX and Design Practice|GenAI in UX and Design Practice]]
+- 1 edge to [[communities/HCI Education and Pedagogy|HCI Education and Pedagogy]]
 
 ## Top bridge nodes
 - [[Generative UI Tools]] - degree 5, connects to 1 community
 - [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] - degree 4, connects to 1 community
 - [[The GenUI Study (Chen Knearem Li)]] - degree 4, connects to 1 community
 - [[A Formative Study to Explore the Design of Generative UI Tools]] - degree 2, connects to 1 community
-- [[The GenUI Study Exploring the Design of Generative UI Tools to]] - degree 2, connects to 1 community
+- [[The GenUI Study: Exploring the Design of Generative UI Tools to]] - degree 2, connects to 1 community

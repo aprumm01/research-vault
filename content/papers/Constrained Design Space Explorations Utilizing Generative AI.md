@@ -1,13 +1,8 @@
 ---
 title: "Constrained Design Space Explorations Utilizing Generative AI"
-source_file: "research_docs/P210.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 abstract: "Sensitivity is essential in art and Design education, traditionally culti- vated through observation. With advancements in AI technology, new educational approaches are emerging. AI can visualize abstract concepts expressed in lan- guage; however, its ability to accurately represent intangible elements such as emotions and impressions remains unclear. This research investigates the impact of AI-generated abstract expressions on human sensitivity, focusing on Eroti- cism, a key aesthetic element "
 
 doi: "10.2139/ssrn.5134919"
@@ -48,7 +43,7 @@ Mixed-methods study; survey of design faculty and students; follow-up interviews
 Survey response rates and sample representativeness may limit generalizability; the rapid pace of AI tool development means the findings may be partially outdated; disciplinary variation within design is not fully captured.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

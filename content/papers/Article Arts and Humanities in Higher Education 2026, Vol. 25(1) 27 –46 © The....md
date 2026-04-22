@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P232.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
 doi: "10.1177/14740222251342646"
 
 abstract: "Higher education institutions offering education in design need to review their teaching content in relation to a changing society and digitalization. In emerging post-digital era higher education is in a state of change. Metacognitive skills and a focus on digitalized world’s competencies are becoming integral components of curricula in modern days. During the 21 st century emphasis in design education has been on design thinking, user-centered design, and the utilization of service designers. "
@@ -46,8 +41,8 @@ Systematic literature review following PRISMA protocol; analysis of design compe
 Systematic review captures published literature which may lag practice; competency frameworks risk reifying skills that are fluid and context-dependent; the 2026 publication date means it captures AI-era competency discussion but may not yet have empirical validation of the new competency claims.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[Metacognitive Support]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Design Theory and Cognition]] -
+- [[Metacognitive Support]] -
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

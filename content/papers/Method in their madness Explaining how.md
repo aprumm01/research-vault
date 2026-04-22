@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P175.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
 doi: "10.1016/j.destud.2023.101219"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,8 +41,8 @@ Ethnographic observation of design teams in professional settings; qualitative a
 Ethnographic study of specific design contexts; generalizability across design disciplines and organizational settings requires further investigation; the "madness" framing may be somewhat rhetorical.
 
 ## Connections
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[Metacognitive Support]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] -
+- [[Metacognitive Support]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P182.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1002/pfi.20023"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,6 +41,6 @@ Conceptual framework development; historical review of HPT's intellectual origin
 Critics argue HPT's behavioral foundations undervalue intrinsic motivation and creativity; the field's corporate orientation can deprioritize worker wellbeing in favor of productivity metrics.
 
 ## Connections
-- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

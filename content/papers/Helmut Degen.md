@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P198.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 doi: "10.32431/kace.2026.29.1.011"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,7 +41,7 @@ Classroom-based research study; qualitative and quantitative data from elementar
 Limited to specific age groups and tool contexts; the rapid evolution of AI tools may quickly date specific findings; scale effects and equity implications of AI in elementary design education require further investigation.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

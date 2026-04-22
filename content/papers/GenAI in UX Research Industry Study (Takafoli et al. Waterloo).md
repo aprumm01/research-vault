@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P15.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 abstract: "This study investigates the misalignment between User Experi- ence pedagogy and evolving industry practices, with a focus on accessible design. Two research questions guide the inquiry: how well current UX pedagogy prepares students for industry needs and what strategies can bridge existing gaps. Methods included a rhetorical analysis of relevant literature and a Fall 2024 survey of Technical and Professional Communication educators. Findings re- veal persistent definitional ambiguity, pedagogic"
 
 doi: "10.1145/3643834.3660720"
@@ -22,8 +17,8 @@ doi: "10.1145/3643834.3660720"
 This study investigates the misalignment between User Experi- ence pedagogy and evolving industry practices, with a focus on accessible design. Two research questions guide the inquiry: how well current UX pedagogy prepares students for industry needs and what strategies can bridge existing gaps. Methods included a rhetorical analysis of relevant literature and a Fall 2024 survey of Technical and Professional Communication educators. Findings re- veal persistent definitional ambiguity, pedagogical misalignments, and limited academia-industry collaboration. Based on these re- sults, the paper proposes structural recommendations to formalize industry partnerships, recognize faculty engagement efforts, and build sustainable pipelines to enrich UX education. CCS Concepts • Social and professional topics ; • Professional topics; • Com- puting education;
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
+- [[Human-AI Creative Collaboration]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 

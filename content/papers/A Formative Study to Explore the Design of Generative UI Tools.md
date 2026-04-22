@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P167.pdf"
 type: "paper"
 community: "Generative UI Tools"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Generative_UI_Tools
-
 abstract: "AI can now generate high-fidelity UI mock-up screens from a high- level textual description, promising to support UX practitioners’ work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, developers, and product managers. Using a state-of-the-art Gen"
 
 doi: "10.1145/3715336.3735780"
@@ -47,7 +42,7 @@ Formative needs-finding study; semi-structured interviews and contextual inquiry
 Needs-finding study informs design requirements but does not evaluate specific implementations; practitioner sample may not represent all UX contexts; the formative nature means requirements will evolve as GenUI technology advances.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Generative UI Tools]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
+- [[Generative UI Tools]] -
 
 #graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools

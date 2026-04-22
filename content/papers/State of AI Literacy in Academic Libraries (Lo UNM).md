@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P73.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_Literacy
-
 doi: "10.25844/p9rv-vj67"
 
 abstract: "The Present Study aims to explore the use of AI Tools in information literacy programmes run by librarians of arts, commerce and science colleges in the districts of Dhule and Nan durbar which are affiliated to K.B.C.North Maharashtra University Jalgaon. The questionnaire survey of the study was used to collect data for study. A Structured questionnaire was constructed and distributed to 56 librarians provide them with the information needed to access their knowledge of artificial intelligence t"
@@ -21,8 +16,8 @@ The Present Study aims to explore the use of AI Tools in information literacy pr
 **DOI:** [10.25844/p9rv-vj67](https://doi.org/10.25844/p9rv-vj67)
 
 ## Connections
-- [[AI Literacy]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[AI Literacy]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy
 

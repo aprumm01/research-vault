@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P143.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.7767/9783205219880.643"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.7767/9783205219880.643](https://doi.org/10.7767/9783205219880.643)
 
 ## Connections
-- [[Human Performance Technology]] - `` [EXTRACTED]
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Human Performance Technology]] -
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

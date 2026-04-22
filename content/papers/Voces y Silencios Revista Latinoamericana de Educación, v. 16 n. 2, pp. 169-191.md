@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P189.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.18175/VyS16.2.2025.9"
 
 abstract: "This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, as"
@@ -46,8 +41,8 @@ Critical reflective essay with case analysis from Latin American design educatio
 Primarily critical/theoretical; limited empirical evidence from specific courses or student populations; the decolonial framing, while important, may be difficult to operationalize in resource-constrained design education settings.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Constructivism]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Constructivism]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

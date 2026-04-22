@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P16.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 abstract: "Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four str"
 
 doi: "10.1145/3706598.3714035"
@@ -22,9 +17,9 @@ doi: "10.1145/3706598.3714035"
 Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four strategies professionals employ to reshape their roles. Writing professionals employed GAI resist- ing strategies to maximize human potential, reinforce professional identity, carve out a profe
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Human-AI Creative Collaboration]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 

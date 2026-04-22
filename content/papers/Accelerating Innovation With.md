@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P172.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 doi: "10.1109/EMR.2023.3272799"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,8 +41,8 @@ Case studies of organizations using GenAI tools in digital prototyping and innov
 Case study evidence; GenAI innovation acceleration effects may be context-specific and depend on organizational readiness; the quality of AI-generated concepts is difficult to assess without long-term outcome tracking.
 
 ## Connections
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

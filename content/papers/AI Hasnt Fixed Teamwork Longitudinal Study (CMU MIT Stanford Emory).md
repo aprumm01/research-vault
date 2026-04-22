@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P67.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo"
 
 doi: "[Missing]"
@@ -19,7 +14,7 @@ doi: "[Missing]"
 When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

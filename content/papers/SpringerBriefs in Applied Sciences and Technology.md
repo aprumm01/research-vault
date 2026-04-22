@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P168.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1007/978-3-031-77521-5_5"
 
 abstract: "Abstract The chapter frames the AIXE (AI user eXperience Evaluation) scale, a statistically validated questionnaire to assess the UX of AI-infused products, describing its development process as well as its validation. AIXE is composed by 33 questions with 4 ordinal Likert-scale answers, organized around 12 descriptors related to the UX of the target systems. The questionnaire is meant to be proposed to the intended users of AI-infused products to quantitatively analyse the user experience they "
@@ -47,6 +42,6 @@ Framework development; evaluation case studies; expert review and application of
 Framework is primarily prescriptive; empirical validation of the evaluation instruments across diverse AI product types requires further study; the framework may be more applicable to consumer AI products than to enterprise or embedded AI systems.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P59.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 abstract: "This “teachable moment” paper introduces the premortem tech- nique as a reflective and forward-looking pedagogical strategy for HCI education. A premortem invites students to imagine that their project has already failed and then work backward to identify the reasons for that failure—flipping the common “will this work?” framing into “what went wrong?” Originally developed by deci- sion researchers as a way to surface hidden risks and counteract groupthink, the premortem has gained traction in b"
 
 doi: "10.1145/3742901.3742908"
@@ -22,8 +17,8 @@ doi: "10.1145/3742901.3742908"
 This “teachable moment” paper introduces the premortem tech- nique as a reflective and forward-looking pedagogical strategy for HCI education. A premortem invites students to imagine that their project has already failed and then work backward to identify the reasons for that failure—flipping the common “will this work?” framing into “what went wrong?” Originally developed by deci- sion researchers as a way to surface hidden risks and counteract groupthink, the premortem has gained traction in business and organizational planning, yet remains underexplored in design peda- gogy and HCI education. Drawing from our own teaching practice, we describe how we have adapted premortem exercises for the design classroom, typically as a structured reflection during an on- going student project. Anecdotal observations suggest the activity he
 
 ## Connections
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 

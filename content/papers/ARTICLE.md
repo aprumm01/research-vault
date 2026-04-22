@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P209.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1007/s40593-025-00518-1"
 
 abstract: "Artificial Intelligence and their derived Generative technologies are playing a cru - cial role in many applications that involve an active collaboration among machine assistants and human users. That is the case for User Experience courses that al - lowed students and instructors work together with Generative Artificial Intelligence tools to produce a collaborative design. The main purpose of this research consisted in reviewing several stages in design tasks that could take advantage of Artifi"
@@ -46,8 +41,8 @@ Qualitative study of multiple UX design courses integrating AI tools; student su
 Study conducted during rapid AI tool evolution; findings may not transfer to different course structures or student populations; long-term effects on collaborative design skill development are not tracked.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Prompt Engineering]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Prompt Engineering]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

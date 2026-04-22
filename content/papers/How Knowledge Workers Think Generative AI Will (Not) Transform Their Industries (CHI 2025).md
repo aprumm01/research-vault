@@ -1,13 +1,8 @@
 ---
 title: "How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries (CHI 2025)"
-source_file: "research_docs/P238.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "[Missing — PDF may need OCR]"
 
 abstract: "Abstract not available — PDF may need OCR or manual entry"
@@ -37,8 +32,8 @@ Professional interviews; thematic analysis.
 - Duplicate note; see P158 for complete analysis.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

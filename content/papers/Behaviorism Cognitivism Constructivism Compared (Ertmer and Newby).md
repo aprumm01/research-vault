@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P41.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1002/piq.21143"
 
 abstract: "The aim of this study was to investigate the theoretical basis upon which the instructional design process was built ; to achieve the aim of the study, a qualitative analytical approach was followed, and the available related literature was subjected to a semi- chronological scrutiny; findings of this study indicate that three learning theories have had central effects on orienting the process of instructional design: behaviorism , cognitivism , and constructivism have indirectly established the"
@@ -21,9 +16,9 @@ The aim of this study was to investigate the theoretical basis upon which the in
 **DOI:** [10.1002/piq.21143](https://doi.org/10.1002/piq.21143)
 
 ## Connections
-- [[Cognitive Load Theory]] - `` [EXTRACTED]
-- [[Constructivism]] - `` [EXTRACTED]
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Cognitive Load Theory]] -
+- [[Constructivism]] -
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P66.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoret"
 
 doi: "10.1108/et-01-2025-0034"
@@ -22,8 +17,8 @@ doi: "10.1108/et-01-2025-0034"
 Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoretical framework, we model workplace learning as an activity, intertwined with work and mediated by technology, and expose contradictions that arise when technology developed for formal
 
 ## Connections
-- [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[Sensemaking and AI Adoption]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

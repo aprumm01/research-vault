@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P213.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1080/00461520701263350"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,9 +16,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1080/00461520701263350](https://doi.org/10.1080/00461520701263350)
 
 ## Connections
-- [[Cognitive Load Theory]] - `` [EXTRACTED]
-- [[Constructivism]] - `` [EXTRACTED]
-- [[Problem-Based Learning]] - `` [EXTRACTED]
+- [[Cognitive Load Theory]] -
+- [[Constructivism]] -
+- [[Problem-Based Learning]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P257.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.1162/desi_a_00727"
 
 abstract: "“Designerly ways of knowing” is a phrase used in the much-cited article of the same name, written by Nigel Cross in 1982.1 The phrase was first used in Design in General Education2; it has been called “delightful”3; and Cross often refers to it in his subsequent publications.4 The key sentence in Cross’s 1982 article is this: “Design has its own distinct ‘things to know, ways of knowing them, and ways of finding out about them.’”5 Particularly in this article, this concept of “designerly ways of"
@@ -47,8 +42,8 @@ Conceptual argument based on analysis of design research, design education, and 
 The framework can romanticize design cognition and understate the diversity of practices within design; later empirical design cognition research (Schön, Cross's own work) nuanced the original claims considerably.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[Designerly Ways of Knowing]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Design Theory and Cognition]] -
+- [[Designerly Ways of Knowing]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

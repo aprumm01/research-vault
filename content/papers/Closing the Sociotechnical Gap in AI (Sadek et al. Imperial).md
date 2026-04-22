@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P20.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 doi: "10.1109/MTS.2024.3392280"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1109/MTS.2024.3392280](https://doi.org/10.1109/MTS.2024.3392280)
 
 ## Connections
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
-- [[Value-Sensitive Design]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] -
+- [[Value-Sensitive Design]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 

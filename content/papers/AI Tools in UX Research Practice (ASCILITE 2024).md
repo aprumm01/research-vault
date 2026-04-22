@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P96.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_Literacy
-
 doi: "10.14742/ascilite2021.0100"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,9 +16,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.14742/ascilite2021.0100](https://doi.org/10.14742/ascilite2021.0100)
 
 ## Connections
-- [[AI Literacy]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[AI Literacy]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy
 

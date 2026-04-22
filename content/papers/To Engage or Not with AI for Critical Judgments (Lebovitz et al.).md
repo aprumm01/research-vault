@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P49.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.1287/orsc.2021.1549"
 
 abstract: "Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa"
@@ -21,8 +16,8 @@ Artiﬁcial intelligence (AI) technologies promise to transform how professional
 **DOI:** [10.1287/orsc.2021.1549](https://doi.org/10.1287/orsc.2021.1549)
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

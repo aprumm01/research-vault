@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P159.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.1162/desi_a_00715"
 
 abstract: "Abstract Our article discusses the insights from original research conducted with design practitioners to better understand the experiences of industrial design graduates as they are adopting new professional roles in user experience (UX) affiliated positions. We utilize narrative identity work as the theoretical frame to interpret the legitimation strategies of industrial designers while grounding their motivations, perceived competence, and fitness to a UX position. Such narratives support our"
@@ -47,8 +42,8 @@ Semi-structured interviews with industrial designers working in UX roles; themat
 Sample limited to Spanish and UK industrial designers; the findings may reflect specific national design education traditions; the professionalization dynamics described may be specific to mid-career transitions rather than new graduates.
 
 ## Connections
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[Designerly Ways of Knowing]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] -
+- [[Designerly Ways of Knowing]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

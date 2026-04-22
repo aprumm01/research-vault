@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P248.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1109/jiot.2023.3319542"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,6 +41,6 @@ Conceptual synthesis and design framework development; literature review of coop
 Written in 1998 before current AI and adaptive learning technology; cooperative learning principle translation to software may require significant update for modern platforms; the framework is descriptive rather than empirically validated in ILS contexts.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

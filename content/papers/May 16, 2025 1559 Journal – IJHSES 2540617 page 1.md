@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P177.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1142/S0129156425406175"
 
 abstract: "A revolutionary transformation and overhaul of our approach to how we instruct and interact with educational content is being heralded by the simultaneous development of artificial intelligence and education. Businesses dealing with educational technology are greatly engaging and spending exponentially over technologies delivering education by artificial intelligence. Such technologies generate highly interactive and deeply engaging educational experiences for the learners creating an everlastin"
@@ -46,7 +41,7 @@ Mixed-methods study; analysis of learning outcomes in AI-integrated design cours
 Study conducted in a single institution with limited sample size; AI feedback quality varies significantly by tool and prompt; the "optimization" framing may privilege measurable outcomes over tacit design development.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

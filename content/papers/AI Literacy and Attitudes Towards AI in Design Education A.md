@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P224.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "Generative artificial intelligence (AI) has expanded its role in design processes, making it essential for design students to develop the skills needed to navigate AI’s opportunities while also critically reflecting on its risks. We used a two-part quantitative and qualitative survey to understand the attitudes of communication and architectural design students towards AI and assess their AI literacy. Students expressed positive and negative viewpoints on AI and rated their AI literacy skills as"
 
 doi: "10.5220/0013338100003932"
@@ -47,8 +42,8 @@ Survey study with design students; AI literacy assessment instruments; quantitat
 Self-reported literacy measures may not accurately capture actual capabilities; attitudes toward AI are rapidly shifting as tools evolve; the design student sample may not generalize across design disciplines or geographic contexts.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Job Displacement and Reskilling]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Job Displacement and Reskilling]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

@@ -42,7 +42,25 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const folderOrder = ["communities", "topics", "papers", "authors"]
+        if (a.isFolder && b.isFolder) {
+          const ai = folderOrder.indexOf(a.slugSegment ?? "")
+          const bi = folderOrder.indexOf(b.slugSegment ?? "")
+          if (ai !== -1 || bi !== -1) {
+            const av = ai !== -1 ? ai : 99
+            const bv = bi !== -1 ? bi : 99
+            return av - bv
+          }
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        if (!a.isFolder && !b.isFolder) {
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        return a.isFolder ? -1 : 1
+      },
+    }),
   ],
   right: [
     Component.Graph({
@@ -85,7 +103,25 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        const folderOrder = ["communities", "topics", "papers", "authors"]
+        if (a.isFolder && b.isFolder) {
+          const ai = folderOrder.indexOf(a.slugSegment ?? "")
+          const bi = folderOrder.indexOf(b.slugSegment ?? "")
+          if (ai !== -1 || bi !== -1) {
+            const av = ai !== -1 ? ai : 99
+            const bv = bi !== -1 ? bi : 99
+            return av - bv
+          }
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        if (!a.isFolder && !b.isFolder) {
+          return a.displayName.localeCompare(b.displayName, undefined, { numeric: true, sensitivity: "base" })
+        }
+        return a.isFolder ? -1 : 1
+      },
+    }),
   ],
   right: [],
 }

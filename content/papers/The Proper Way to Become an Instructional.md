@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P203.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -44,8 +39,8 @@ Conceptual analysis drawing on professional identity literature; reflective prac
 Primarily conceptual with limited empirical grounding; may overstate the coherence of alternative, direct-preparation pathways into instructional design.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Instructional Design Theory]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Instructional Design Theory]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

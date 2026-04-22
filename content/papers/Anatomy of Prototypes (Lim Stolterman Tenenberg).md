@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P28.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.1145/1375761.1375762"
 
 abstract: "The role of prototypes is well established in the field of HCI and Design. A lack of knowledge, however, about the fundamental nature of prototypes still exists. Researchers have attempted to identify different types of prototypes, such as low- vs. high-fidelity prototypes, but these attempts have centered on evaluation rather than support of design exploration. There have also been efforts to provide new ways of thinking about the activity of using prototypes, such as experience prototyping and"
@@ -22,9 +17,9 @@ abstract: "The role of prototypes is well established in the field of HCI and De
 The role of prototypes is well established in the field of HCI and Design. A lack of knowledge, however, about the fundamental nature of prototypes still exists. Researchers have attempted to identify different types of prototypes, such as low- vs. high-fidelity prototypes, but these attempts have centered on evaluation rather than support of design exploration. There have also been efforts to provide new ways of thinking about the activity of using prototypes, such as experience prototyping and paper prototyping, but these efforts do not provide a discourse for understanding fundamental characteristics of prototypes. In this article, we propose an anatomy of prototypes as a framework for prototype conceptualization. We view prototypes not only in their role in evaluation but also in their generative role in enabling designers to reflect on their design activities in exploring a design space. We base this framework on the findings of two case studies that reveal two key dimensions: prototypes as filters and prototypes as manifestations. We explain why these two dimensions are important and how this conceptual framework can benefit our field by establishing more solid and systematic knowledge about prototypes and prototyping.
 
 ## Connections
-- [[Cognitive Co-Evolution Model for Design (Cash et al.)]] - `` [EXTRACTED]
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[Design Thinking]] - `` [EXTRACTED]
+- [[Cognitive Co-Evolution Model for Design (Cash et al.)]] -
+- [[Design Theory and Cognition]] -
+- [[Design Thinking]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 

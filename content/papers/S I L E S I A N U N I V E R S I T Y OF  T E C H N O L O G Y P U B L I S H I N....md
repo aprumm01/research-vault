@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P250.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.29119/1641-3466.2025.224.4"
 
 abstract: "Purpose: The purpose of this paper is to explore how students at the Faculty of Management at the University of Gdańsk use ChatGPT, a generative AI tool, for academic purposes. The study focuses on their motivations, perceptions, and overall attitudes toward the tool in the context of higher education. Design/methodology/approach: The research combines a literature review with empirical findings from a survey conducted among 260 students. This mixed-method approach allows for an in-depth analysi"
@@ -46,6 +41,6 @@ Survey study with university students across faculties; usage frequency and purp
 Single institution study limits generalizability; self-reported usage may underestimate AI use due to integrity concerns; the specific capabilities of ChatGPT have evolved significantly since initial data collection; Polish higher education context may not transfer to other national systems.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P104.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1177/030631293023001004"
 
 abstract: "The new discipline of cybernetics expanded exponentially in the period 1943-70. Unlike traditional scientific disciplines, its practitioners claimed (to varying degrees) that they were producing a new universal science. This paper anatomizes the claim to universality, details some rhetorical strategies used to support that claim, and examines some practical consequences for the general economy of the sciences argued by cyberneticians. It concludes by characterizing cybernetic strategies in terms"
@@ -22,7 +17,7 @@ abstract: "The new discipline of cybernetics expanded exponentially in the perio
 The new discipline of cybernetics expanded exponentially in the period 1943-70. Unlike traditional scientific disciplines, its practitioners claimed (to varying degrees) that they were producing a new universal science. This paper anatomizes the claim to universality, details some rhetorical strategies used to support that claim, and examines some practical consequences for the general economy of the sciences argued by cyberneticians. It concludes by characterizing cybernetic strategies in terms of a form complementary to the obligatory passage point - the `distributed passage point'.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P42.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1007/BF02299088"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1007/BF02299088](https://doi.org/10.1007/BF02299088)
 
 ## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
-- [[Will Media Influence Learning Reframing the Debate (Kozma 1994)]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] -
+- [[Will Media Influence Learning Reframing the Debate (Kozma 1994)]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

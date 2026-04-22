@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P10.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 abstract: "This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for e"
 
 doi: "10.1145/3715336.3735805"
@@ -47,8 +42,8 @@ Case study of AI integration in Cornell design courses; qualitative data from st
 Single institution case study; the rapid evolution of AI tools means specific findings may have short validity; the study does not include long-term follow-up on student design practice.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Design Thinking]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Design Thinking]] -
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

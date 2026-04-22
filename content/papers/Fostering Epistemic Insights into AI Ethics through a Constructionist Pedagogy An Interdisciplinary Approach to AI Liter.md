@@ -1,13 +1,8 @@
 ---
 title: "Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy: An Interdisciplinary Approach to AI Literacy"
-source_file: "research_docs/P166.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_Literacy
-
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.1609/aaai.v39i28.35190"
@@ -48,8 +43,8 @@ Action research in an AI ethics course; qualitative analysis of student construc
 Single course context; epistemic development is difficult to measure rigorously; the constructionist approach requires significant technical infrastructure and may not scale to non-technical educational contexts.
 
 ## Connections
-- [[AI Literacy]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[AI Literacy]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy

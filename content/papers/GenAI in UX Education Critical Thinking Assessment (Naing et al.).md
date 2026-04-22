@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P51.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 doi: "10.3389/frai.2024.1452131"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.3389/frai.2024.1452131](https://doi.org/10.3389/frai.2024.1452131)
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 

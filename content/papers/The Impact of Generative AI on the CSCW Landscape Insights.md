@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P128.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 abstract: "Recently, we have witnessed emerging research agendas on expli- cating new opportunities, risks, and harm of generative AI from a CSCW perspective. Built upon these ongoing conversations and dialog, we believe that beyond merely discussing generative AI’s impacts on specific CSCW research directions, it is equally critical to promote in-depth discussions across academia and industry to reflect upon generative AI’s multidimensional impacts on the over-"
 
 doi: "10.1145/3715070.3748275"
@@ -22,9 +17,9 @@ doi: "10.1145/3715070.3748275"
 Recently, we have witnessed emerging research agendas on expli- cating new opportunities, risks, and harm of generative AI from a CSCW perspective. Built upon these ongoing conversations and dialog, we believe that beyond merely discussing generative AI’s impacts on specific CSCW research directions, it is equally critical to promote in-depth discussions across academia and industry to reflect upon generative AI’s multidimensional impacts on the over-
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
+- [[HCI Education and Pedagogy]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 

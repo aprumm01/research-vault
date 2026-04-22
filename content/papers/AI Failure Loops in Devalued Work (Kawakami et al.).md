@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P2.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 abstract: "A growing body of literature has focused on understanding and addressing workplace AI design failures. However, past work has largely overlooked the role of the devaluation of worker expertise in shaping the dynamics of AI development and deployment. In this paper, we examine the case of feminized labor: a class of devalued occupations historically misnomered as “women’s work,” such as social work, K-12 teaching, and home healthcare. Drawing on literature on AI deployments in feminized labor con"
 
 doi: "10.1177/20539517261424164"
@@ -22,10 +17,10 @@ doi: "10.1177/20539517261424164"
 A growing body of literature has focused on understanding and addressing workplace AI design failures. However, past work has largely overlooked the role of the devaluation of worker expertise in shaping the dynamics of AI development and deployment. In this paper, we examine the case of feminized labor: a class of devalued occupations historically misnomered as “women’s work,” such as social work, K-12 teaching, and home healthcare. Drawing on literature on AI deployments in feminized labor contexts, we conceptualizeAI Failure Loops: a set of interwoven, socio-technical failure modes that help explain how the systemic devaluation of workers’ expertise negatively impacts, and is impacted by, AI design, evaluation, and governance practices. These failures demonstrate how misjudgments on the automatability of workers’ skills can lead to AI deployments that fail to
 
 ## Connections
-- [[AI Failure Loops]] - `` [EXTRACTED]
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Feminized Labor and AI]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[AI Failure Loops]] -
+- [[AI and Future of Work]] -
+- [[Feminized Labor and AI]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 

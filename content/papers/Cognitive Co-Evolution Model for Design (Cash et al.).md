@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P53.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.1007/s00163-002-0016-y"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1007/s00163-002-0016-y](https://doi.org/10.1007/s00163-002-0016-y)
 
 ## Connections
-- [[Design Judgment]] - `` [EXTRACTED]
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Design Judgment]] -
+- [[Design Theory and Cognition]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 

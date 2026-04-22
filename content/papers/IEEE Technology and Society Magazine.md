@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P251.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 doi: "10.1109/MTS.2024.3392280"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,6 +41,6 @@ Instrument development and validation study; survey of practitioners across tech
 Instrument validation in specific organizational contexts; cross-sector generalizability requires further study; the measurement approach may not capture rapidly shifting sociotechnical gaps as AI capabilities and expectations evolve.
 
 ## Connections
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

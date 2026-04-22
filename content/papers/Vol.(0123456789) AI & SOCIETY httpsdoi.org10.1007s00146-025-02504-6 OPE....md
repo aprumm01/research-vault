@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P234.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1007/s00146-025-02504-6"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,7 +41,7 @@ Qualitative study; in-depth interviews with practicing industrial designers acro
 Qualitative sample may not represent the full diversity of industrial design practice globally; findings reflect a moment of rapid change and may evolve quickly; the interview context may elicit more reflective responses than designers' actual daily experience.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
+- [[Human-AI Creative Collaboration]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

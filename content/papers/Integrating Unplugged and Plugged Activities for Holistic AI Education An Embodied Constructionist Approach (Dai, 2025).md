@@ -1,4 +1,5 @@
 ---
+title: "Integrating Unplugged and Plugged Activities for Holistic AI Education: An Embodied Constructionist Approach (Dai, 2025)"
 type: "paper"
 community: "AI Literacy"
 tags:

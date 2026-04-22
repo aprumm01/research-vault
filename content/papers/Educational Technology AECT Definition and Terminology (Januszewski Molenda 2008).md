@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P255.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1111/j.1467-8535.2008.00925_4.x"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,6 +41,6 @@ Conceptual and historical analysis; committee-based definition development typic
 Definitional consensus documents necessarily smooth over genuine theoretical disagreements within the field; the 2008 definition has been critiqued for underemphasizing sociocultural and critical perspectives on technology.
 
 ## Connections
-- [[Constructivism]] - `` [EXTRACTED]
+- [[Constructivism]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

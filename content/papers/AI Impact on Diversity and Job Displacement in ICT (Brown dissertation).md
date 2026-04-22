@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P32.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall"
 
 doi: "10.47978/tus.2024.74.04.003"
@@ -22,7 +17,7 @@ doi: "10.47978/tus.2024.74.04.003"
 Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P39.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_Literacy
-
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "[Missing]"
@@ -44,8 +39,8 @@ Pedagogical case study at CUHK; qualitative analysis of student epistemic develo
 Note: This is a paper with limited text extraction — summary written from general knowledge of the work and field. Specific empirical details may be approximate. The paper may have limited extractable text due to format issues.
 
 ## Connections
-- [[AI Literacy]] - `` [EXTRACTED]
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[AI Literacy]] -
+- [[AI in Design Education]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy

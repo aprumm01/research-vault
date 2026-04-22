@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P72.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_Literacy
-
 abstract: "Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunit"
 
 doi: "10.1016/j.acalib.2024.102883"
@@ -22,8 +17,8 @@ doi: "10.1016/j.acalib.2024.102883"
 Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunities in high -tech fields such as AI development, cybersecurity, and robotics engineering. Approximately 30% of global jobs could be automated by the 2030s, disproportionately af fecting low -skilled workers and exacerbating income inequalities. Reskilling and upskilling initiatives emerge as critical for addressing these disruptions, with personalized AI -enabled training platforms showing promising results in preparing the workforce for AI-driven roles. The research identifies ethical and operati
 
 ## Connections
-- [[AI Literacy]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[AI Literacy]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy
 

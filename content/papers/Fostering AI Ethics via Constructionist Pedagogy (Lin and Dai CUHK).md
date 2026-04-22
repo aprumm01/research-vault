@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P70.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.1609/aaai.v39i28.35190"
@@ -47,7 +42,7 @@ Pedagogical study at CUHK; documentation of constructionist AI ethics learning a
 Note: Limited text extraction — summary written from general knowledge of the work and field. Specific empirical details may be approximate. This note and the Epistemic Insights note (P39) may represent two aspects of the same research program.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

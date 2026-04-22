@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P60.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 abstract: "This paper traces elements of the theoretical origins of artificial intelligence to capitalism, not neurophysiology. It considers efforts in the twentieth and twenty-first centuries to formalize a sci- ence of mental behaviour using the dynamics of social rather than neural phenomena. I first revisit early American theorists ’ controversial ambivalence toward neurophysiology, showing how this group benefited from post-war corporate and military investments in commercial and imperial expansion, w"
 
 doi: "10.1017/bjt.2023.14"
@@ -22,7 +17,7 @@ doi: "10.1017/bjt.2023.14"
 This paper traces elements of the theoretical origins of artificial intelligence to capitalism, not neurophysiology. It considers efforts in the twentieth and twenty-first centuries to formalize a sci- ence of mental behaviour using the dynamics of social rather than neural phenomena. I first revisit early American theorists ’ controversial ambivalence toward neurophysiology, showing how this group benefited from post-war corporate and military investments in commercial and imperial expansion, which sustained and expanded their influence over the emerging field. I then trace the lasting effect of the founders ’ early rhetoric through AI ’s institutionalization after 1960, arguing that from the 2010s technology corporations set out to veil their enclosure of the data commons via appeal to a curious precedent: the scientific pedigree of AI. By relating the fiel
 
 ## Connections
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P65.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "Purpose – The purpose of this study is to explore the process of initial sensemaking that organizational members activate when they reflect on AI adoption in their work settings, and how the perceived features of AI technologies trigger sensemaking processes which in turn have the potential to influence workplace learning modes and trajectories. Design/methodology/approach – We adopted an explorative qualitative and interactive approach to capture free fantasies and imaginative ideas of AI among"
 
 doi: "10.1108/itp-01-2023-0048"
@@ -22,8 +17,8 @@ doi: "10.1108/itp-01-2023-0048"
 Purpose – The purpose of this study is to explore the process of initial sensemaking that organizational members activate when they reflect on AI adoption in their work settings, and how the perceived features of AI technologies trigger sensemaking processes which in turn have the potential to influence workplace learning modes and trajectories. Design/methodology/approach – We adopted an explorative qualitative and interactive approach to capture free fantasies and imaginative ideas of AI among people within the industry. We adopt a conceptual perspective that combines theories on initial sens
 
 ## Connections
-- [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[Sensemaking and AI Adoption]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

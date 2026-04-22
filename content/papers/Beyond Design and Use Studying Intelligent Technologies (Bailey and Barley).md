@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P29.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.5565/rev/grafica.393"
 
 abstract: "The article is aimed at studying the impact of artificial intelligence(AI) on graphic design and presenting a possible future vision of the industry as a result of its development. Since the advent of artificial intelligence in graphic design, it has posed a serious challenge to the traditional graphic design industry and designers. In the article, we will look at how AI is used in graphic design, including task automation, the creation of new design ideas and the development of individual desig"
@@ -21,8 +16,8 @@ The article is aimed at studying the impact of artificial intelligence(AI) on gr
 **DOI:** [10.5565/rev/grafica.393](https://doi.org/10.5565/rev/grafica.393)
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

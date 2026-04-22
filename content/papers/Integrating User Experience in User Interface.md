@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P280.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
 abstract: "This study examines the integration of user experience (UX) princi- ples into user interface (UI) design education through a Problem-Based Learning (PBL) approach augmented by generative artiﬁcial intelligence (AI) technolo- gies. The PBL framework emphasizes addressing real-world challenges, fostering self-directed learning and collaboration among interdisciplinary student teams. Generative AI tools were employed to enhance creativity, streamline design pro- cesses, and provide immediate feedba"
 
 doi: "10.36948/ijfmr.2023.v05i06.9650"
@@ -47,8 +42,8 @@ Case study analysis of UX-UI integrated design projects; comparative analysis wi
 Case study design limits generalizability; the integration model requires organizational investment in tools and processes; small teams and freelancers may find the model less applicable than enterprise contexts.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Problem-Based Learning]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[HCI Education and Pedagogy]] -
+- [[Problem-Based Learning]] -
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

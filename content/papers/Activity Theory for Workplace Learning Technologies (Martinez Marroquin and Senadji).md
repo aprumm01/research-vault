@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P33.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoret"
 
 doi: "10.1108/ijilt-07-2024-0141"
@@ -47,8 +42,8 @@ Conceptual framework application; case analysis of workplace learning technology
 Activity Theory is complex and can be difficult to operationalize in design practice; the framework's Marxist roots create translation challenges in some organizational contexts; the application to technology design requires significant conceptual work.
 
 ## Connections
-- [[Activity Theory]] - `` [EXTRACTED]
-- [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[Activity Theory]] -
+- [[Sensemaking and AI Adoption]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

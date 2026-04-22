@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P258.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1080/15710882.2017.1393546"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,6 +41,6 @@ Case study of cross-cultural user research; qualitative analysis of designer jud
 Taylor & Francis publication starting with standard journal header — specific details of this paper's methodology and sample are derived from general knowledge of the CoDesign journal's focus areas.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

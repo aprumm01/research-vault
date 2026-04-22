@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P277.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.30935/cedtech/16433"
 
 abstract: "This article explores the theoretical and instructional underpinnings of distance learning with a specific focus on foreign language education. It examines constructivist, connectivist, and humanistic foundations, highlighting pedagogical advantages and limitations. Additionally, the article outlines effective instructional design models, including ADDIE and SAM, supported by cognitive theories and Bloom's taxonomy. Empirical data from global and regional contexts reinforce the practical relevan"
@@ -46,6 +41,6 @@ Framework development; literature synthesis of AI capabilities and ID process re
 Framework is primarily prescriptive without comprehensive empirical validation; AI capabilities at each ADDIE phase are evolving rapidly; the framework may be more applicable to large-scale ID contexts than rapid or agile development contexts.
 
 ## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

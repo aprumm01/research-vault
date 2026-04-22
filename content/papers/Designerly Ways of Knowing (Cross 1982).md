@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P27.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.1007/978-1-4471-7541-4_1"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1007/978-1-4471-7541-4_1](https://doi.org/10.1007/978-1-4471-7541-4_1)
 
 ## Connections
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[Designerly Ways of Knowing]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] -
+- [[Designerly Ways of Knowing]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 

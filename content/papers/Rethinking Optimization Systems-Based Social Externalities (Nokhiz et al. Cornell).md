@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P50.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 abstract: "Optimization is widely used for decision making across various domains, valued for its ability to improve efficiency. However, poor implementation practices can lead to unintended consequences, particularly in socioeconomic contexts where externalities (costs or benefits to third parties outside the optimization process) are significant. To propose solutions, it is crucial to first characterize in- volved stakeholders, their goals, and the types of subpar practices causing unforeseen outcomes. T"
 
 doi: "10.1609/aies.v8i2.36684"
@@ -47,7 +42,7 @@ Conceptual framework development; case analysis of AI systems where optimization
 The economics metaphor may oversimplify complex social dynamics; operationalizing externality identification in practice requires extensive domain expertise; the framework does not specify who is responsible for internalization of externalities.
 
 ## Connections
-- [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Algorithmic Bias and Fairness]] -
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

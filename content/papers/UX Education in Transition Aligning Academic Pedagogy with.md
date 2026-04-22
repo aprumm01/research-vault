@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P212.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 abstract: "This study investigates the misalignment between User Experi- ence pedagogy and evolving industry practices, with a focus on accessible design. Two research questions guide the inquiry: how well current UX pedagogy prepares students for industry needs and what strategies can bridge existing gaps. Methods included a rhetorical analysis of relevant literature and a Fall 2024 survey of Technical and Professional Communication educators. Findings re- veal persistent definitional ambiguity, pedagogic"
 
 doi: "10.1145/3711670.3764629"
@@ -47,6 +42,6 @@ Survey of UX educators and practitioners; in-depth interviews with program direc
 Survey-based alignment research captures stated rather than enacted competency needs; industry expectations themselves are rapidly evolving; the transition recommendations require significant curriculum redesign investment not all programs can make.
 
 ## Connections
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

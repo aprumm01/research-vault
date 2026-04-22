@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P1.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1145/3706598.3713500"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,7 +41,7 @@ Semi-structured interviews with 20 professional designers (product, graphic, UX,
 Sample of 20 designers drawn primarily from tech-forward contexts may not represent the full diversity of design practice; the "creative partner" framing may romanticize AI agency; findings may shift rapidly as tools evolve.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
+- [[Human-AI Creative Collaboration]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

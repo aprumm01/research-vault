@@ -1,13 +1,8 @@
 ---
 title: "Does Ai Development Polarized Job Market: Evidence from Dynamic Panel Analysis"
-source_file: "research_docs/P89.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "The research examines how artificial intelligence affects unemployment patterns by employing modern statistical methods with macroeconomic information. The main purpose of this paper involves studying the significant job displacement effects brought about by artificial intelligence technology and the resulting emergence of new employment opportunities from sector-specific technological advancements. The research utilized Generalized Method of Moments (GMM) techniques for data analysis by using d"
 
 doi: "10.2139/ssrn.5233820"
@@ -23,8 +18,8 @@ doi: "10.2139/ssrn.5233820"
 The research examines how artificial intelligence affects unemployment patterns by employing modern statistical methods with macroeconomic information. The main purpose of this paper involves studying the significant job displacement effects brought about by artificial intelligence technology and the resulting emergence of new employment opportunities from sector-specific technological advancements. The research utilized Generalized Method of Moments (GMM) techniques for data analysis by using data ranging from 2000 to 2022 coverin
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Job Displacement and Reskilling]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Job Displacement and Reskilling]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

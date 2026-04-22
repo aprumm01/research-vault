@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P194.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.61737/NNSO3210"
 
 abstract: "This study represents a foundational phase in a broader research program designed to guide investors and policymakers in the development of human capital standards. By examining the critical intersections between the future of work and artificial intelligence (AI), it investigates how technological advancements are reshaping workforce dynamics, redefining skill requirements, and influencing human capital strategies. In this initial stage, the study focuses on key issues, including the assessment"
@@ -46,6 +41,6 @@ Policy analysis; literature review of workforce development standards frameworks
 Policy analysis is prospective and normative; specific recommendations depend on AI capability trajectories that are uncertain; cross-national comparison faces significant institutional variation; the adaptive competency framework concept needs operationalization.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

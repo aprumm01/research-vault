@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P107.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -19,9 +14,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 *Abstract not yet found — search by title or check source PDF*
 
 ## Connections
-- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[Kirkpatrick Evaluation Model]] -
+- [[Responsible AI Governance]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
 

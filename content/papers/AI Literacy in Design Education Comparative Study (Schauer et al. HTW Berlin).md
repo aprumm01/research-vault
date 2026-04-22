@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P38.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_Literacy
-
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.5220/0013338100003932"
@@ -22,8 +17,8 @@ doi: "10.5220/0013338100003932"
 There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
 
 ## Connections
-- [[AI Literacy]] - `` [EXTRACTED]
-- [[AI in Design Education]] - `` [EXTRACTED]
+- [[AI Literacy]] -
+- [[AI in Design Education]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy
 

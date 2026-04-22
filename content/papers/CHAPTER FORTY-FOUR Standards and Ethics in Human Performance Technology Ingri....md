@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P219.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -44,7 +39,7 @@ Normative analysis of professional standards documents; case-based reasoning abo
 The chapter reflects the ISPI institutional perspective; independent consultants and in-house practitioners face different ethical pressures not fully addressed; the treatment of cultural and diversity considerations is limited.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Human Performance Technology]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P106.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1111/j.1467-8535.2008.00925_4.x"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,7 +16,7 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1111/j.1467-8535.2008.00925_4.x](https://doi.org/10.1111/j.1467-8535.2008.00925_4.x)
 
 ## Connections
-- [[Constructivism]] - `` [EXTRACTED]
+- [[Constructivism]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

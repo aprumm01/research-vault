@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P40.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_Literacy
-
 doi: "10.1007/s10639-024-13043-w"
 
 abstract: "There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI education for upper-primary students remains challenging due to the abstract and complex nature of AI and a lack of pedagogical experiences in schools. Against this backdrop, this study employs a design-based research (DBR) methodology to develop pedagogical solutions and theoretical knowledge. Drawing upo"
@@ -21,9 +16,9 @@ There is a growing consensus that AI literacy requires a holistic lens, includin
 **DOI:** [10.1007/s10639-024-13043-w](https://doi.org/10.1007/s10639-024-13043-w)
 
 ## Connections
-- [[AI Literacy]] - `` [EXTRACTED]
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Constructivism]] - `` [EXTRACTED]
+- [[AI Literacy]] -
+- [[AI in Design Education]] -
+- [[Constructivism]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P211.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.1145/3436954"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,7 +41,7 @@ Case study research; interviews with UX designers and stakeholders in enterprise
 Enterprise context may not generalize to startups, agencies, or public sector contexts; the case studies reflect a specific moment in enterprise AI adoption; UX practitioners' capacity to influence AI strategy depends heavily on organizational power dynamics.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

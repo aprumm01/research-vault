@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P246.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 abstract: "The rise of artificial intelligence (AI) and automation is reshaping the modern workplace, introducing both opportunities and challenges for businesses and employees alike. This paper explores the future of work, focusing on the balance between automation and human creativity in an increasingly AI-driven environment. While AI and automation offer significant benefits in terms of efficiency, productivity, and cost reduction, they also raise concerns about job displacement and the devaluation of h"
 
 doi: "10.2139/ssrn.5226742"
@@ -47,7 +42,7 @@ Literature review and conceptual synthesis; case analysis of automation deployme
 The optimistic complementarity narrative may understate genuine displacement effects; labor market data lags actual technology deployment; the organizational choice framework may overstate managerial agency in contexts with competitive market pressures.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

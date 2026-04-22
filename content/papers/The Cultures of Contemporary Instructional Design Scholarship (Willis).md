@@ -1,13 +1,8 @@
 ---
 title: "The Cultures of Contemporary Instructional Design Scholarship (Willis)"
-source_file: "research_docs/P142.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -20,7 +15,7 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 *Abstract not yet found — search by title or check source PDF*
 
 ## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

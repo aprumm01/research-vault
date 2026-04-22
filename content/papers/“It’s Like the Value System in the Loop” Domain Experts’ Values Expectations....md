@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P227.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.1145/3532106.3533483"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,6 +41,6 @@ Participatory design sessions and interviews with domain experts (legal, medical
 Study limited to three professional domains; the participatory design setting may elicit different values expressions than naturalistic AI deployment; NLP capabilities have advanced since the study, potentially changing the values landscape.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

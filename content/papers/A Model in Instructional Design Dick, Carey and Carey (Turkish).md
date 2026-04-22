@@ -1,13 +1,8 @@
 ---
 title: "A Model in Instructional Design: Dick, Carey and Carey (Turkish)"
-source_file: "research_docs/P214.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.24315/trkefd.321226"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -22,9 +17,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.24315/trkefd.321226](https://doi.org/10.24315/trkefd.321226)
 
 ## Connections
-- [[Constructivism]] - `` [EXTRACTED]
-- [[Instructional Design Theory]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Constructivism]] -
+- [[Instructional Design Theory]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

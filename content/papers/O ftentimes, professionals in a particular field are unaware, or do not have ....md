@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P220.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -44,6 +39,6 @@ Review and analysis of existing ethics codes (AECT, ISPI); case-based ethical re
 The chapter's focus on professional codes may underemphasize critical perspectives on whose interests ID serves; the treatment of cultural and equity dimensions of ethics is limited.
 
 ## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

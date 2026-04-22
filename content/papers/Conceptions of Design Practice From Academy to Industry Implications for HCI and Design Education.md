@@ -1,13 +1,8 @@
 ---
 title: "Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education"
-source_file: "research_docs/P254.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 abstract: "Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates "
 
 doi: "10.1145/3742901.3742905"
@@ -48,8 +43,8 @@ Qualitative study; semi-structured interviews with design educators and design p
 Sample limited to a single national context; the academic-industry binary may overstate the homogeneity of each context; findings may be more applicable to product and interaction design than to other design disciplines.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[HCI Education and Pedagogy]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

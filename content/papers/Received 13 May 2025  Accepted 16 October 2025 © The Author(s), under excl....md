@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P231.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.1007/s10798-025-10045-8"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,8 +41,8 @@ Controlled comparison study; concurrent think-aloud protocol analysis with stude
 Laboratory-like protocol study may not capture real design studio practice; student participants are novice designers, limiting generalizability to professional practice; the quality assessment of design artifacts involves subjective judgment.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Design Theory and Cognition]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

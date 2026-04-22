@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P252.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
 doi: "10.1145/3715336.3735805"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,8 +41,8 @@ Multiple case studies of design projects explicitly framing AI as a collaborator
 Case study design limits generalizability; the concept of AI as "collaborator" remains contested; findings depend on specific transformer capabilities that may rapidly change.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Metacognitive Support]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Metacognitive Support]] -
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

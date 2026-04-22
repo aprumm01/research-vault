@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P9.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 abstract: "Prompts are central to creative work with generative AI systems, yet they are often treated as simple and static interface components. This paper proposes a different view: prompts function as cogni- tive interfaces that mediate between user intent and algorithmic generation. Integrating theories of external cognition, interface semiotics, and pragmatist theories of situated inquiry, the paper provides a theoretical framing of prompting along three interre- lated dimensions: semantic projection,"
 
 doi: "10.1145/3746175.3747192"
@@ -22,9 +17,9 @@ doi: "10.1145/3746175.3747192"
 Prompts are central to creative work with generative AI systems, yet they are often treated as simple and static interface components. This paper proposes a different view: prompts function as cogni- tive interfaces that mediate between user intent and algorithmic generation. Integrating theories of external cognition, interface semiotics, and pragmatist theories of situated inquiry, the paper provides a theoretical framing of prompting along three interre- lated dimensions: semantic projection, compositional structuring, and interpretive negotiation. Through an empirical vignette from branding communication, I show how prompting can be seen as a dynamic representational activity, deeply embedded in cognitive processes of exploration, articulation, and iterative refinement. By reframing the prompt as a site of cognitive labor rather than as a static interface, this expands our understanding of interaction with generative AI as epistemic, semiotic, and sit
 
 ## Connections
-- [[Creative Ambiguity]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Prompt Engineering]] - `` [EXTRACTED]
+- [[Creative Ambiguity]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Prompt Engineering]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P108.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
 doi: "10.1007/bf02299676"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,9 +16,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
 
 ## Connections
-- [[Human Performance Technology]] - `` [EXTRACTED]
-- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Human Performance Technology]] -
+- [[Kirkpatrick Evaluation Model]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
 

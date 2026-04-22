@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P266.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.54489/ijtim.v3i1.195"
 
 abstract: "This study investigates the integration of AI language model tools, specifically ChatGPT, in the Design Thinking process to evaluate their effect on product design. While previous research has primarily focused on Design Thinking, limited research has been conducted on the application of AI tools in the process. This study involved redesigning two previous projects using AI tools in the Design Thinking process. We conducted interviews with five designers and analysed ten Product Manager reports "
@@ -47,7 +42,7 @@ Mixed-methods study; online survey with UX practitioners; follow-up qualitative 
 Survey at a single point in time as ChatGPT was newly available; findings may date quickly; the sample of UX practitioners willing to respond to an AI survey may skew toward early adopters.
 
 ## Connections
-- [[Design Thinking]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Design Thinking]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

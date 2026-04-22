@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P30.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.1016/0090-2616(85)90033-6"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,9 +16,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1016/0090-2616(85)90033-6](https://doi.org/10.1016/0090-2616(85)90033-6)
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] - `` [EXTRACTED]
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] -
+- [[Workplace Learning and AI]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

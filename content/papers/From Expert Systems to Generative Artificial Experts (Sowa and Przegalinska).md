@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P34.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.1613/jair.1.17175"
 
 abstract: "This paper introduces Generative Artificial Experts (GAEs) - a concept of a new type of generative AI agents designed for human-AI collaboration in knowledge work. GAEs have specialized domain expertise, perform tasks within bounded autonomy, include a synthetic persona and possess multimodal generative AI capabilities, among other features. We provide a definition of GAEs which includes seven defining traits, offering a taxonomy which sets them apart from other generative AI systems. We use lit"
@@ -22,9 +17,9 @@ abstract: "This paper introduces Generative Artificial Experts (GAEs) - a concep
 This paper introduces Generative Artificial Experts (GAEs) - a concept of a new type of generative AI agents designed for human-AI collaboration in knowledge work. GAEs have specialized domain expertise, perform tasks within bounded autonomy, include a synthetic persona and possess multimodal generative AI capabilities, among other features. We provide a definition of GAEs which includes seven defining traits, offering a taxonomy which sets them apart from other generative AI systems. We use literature-review based conceptual analysis with abductive reasoning to propose the new concept that addresses identified limitations in existing systems. The paper explores the emergence of GAEs as a leap from expert systems. We name two enablers for GAEs - ongoing development of a research field of human-AI collaboration and growing capabilities of generative artificial intelligence systems. We discuss existing generative AI agents, noting that GAEs as such do not exist yet, but are starting to emerge. Due conceptual nature of this paper we do not explore the technical aspects of GAEs development. Instead, we use illustrative examples to present possible applications of GAEs and their potential role in the future of knowledge work. This article appears in the AI &amp; Society track.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Hybrid Intelligence]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Hybrid Intelligence]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

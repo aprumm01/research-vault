@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P174.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 doi: "10.1007/s43681-021-00038-3"
 
 abstract: "Value sensitive design (VSD) is an established method for integrating values into technical design. It has been applied to different technologies and, more recently, to artificial intelligence (AI). We argue that AI poses a number of challenges spe- cific to VSD that require a somewhat modified VSD approach. Machine learning (ML), in particular, poses two challenges. First, humans may not understand how an AI system learns certain things. This requires paying attention to values such as transpar"
@@ -46,7 +41,7 @@ Conceptual mapping; case analysis applying VSD methodology to AI-for-social-good
 VSD has been critiqued for assuming values can be resolved into design features and for its dependency on designer interpretation of what counts as a value; applying VSD to large-scale AI systems raises scalability questions the paper does not fully address.
 
 ## Connections
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
-- [[Value-Sensitive Design]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] -
+- [[Value-Sensitive Design]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

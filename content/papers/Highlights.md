@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P204.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.5143/jesk.2024.43.6.575"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,8 +41,8 @@ Systematic literature review; search across HCI, AI, and design research databas
 The rapid evolution of LLMs means the review may be partially outdated by publication; heterogeneous study designs make cross-study comparison difficult; the review does not address LLMs' impact on UX practitioner skill development.
 
 ## Connections
-- [[Design Thinking]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[Design Thinking]] -
+- [[GenAI in UX and Design Practice]] -
+- [[Human-AI Creative Collaboration]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

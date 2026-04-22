@@ -1,13 +1,8 @@
 ---
 title: "Optimizing Design Education Using Artificial Intelligence: Joint Application of OBE Teaching, Intelligent Color Platform, and BP Neural Network"
-source_file: "research_docs/P163.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.1142/S0129156425406175"
 
 abstract: "Abstract Recently, generative AI has been at the center of disruptive innovation in various settings, including educational sectors. This article investigates ChatGPT, which is one of the most prominent generative AI in the market, to explore its usefulness and potential for instructional design. Four researchers used a set of prompts to generate a course map for an online course that is aimed to teach the topic of makerspace and conducted SWOT analysis to identify strengths, weaknesses, opportu"

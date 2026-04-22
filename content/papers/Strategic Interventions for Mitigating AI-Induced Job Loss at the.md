@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P195.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunit"
 
 doi: "10.2139/ssrn.5131120"
@@ -47,8 +42,8 @@ Literature review of intervention evidence; policy analysis; evaluation of progr
 Evidence base for long-term intervention effectiveness is thin; the scale of AI-induced disruption anticipated may exceed the capacity of current intervention models; geographic and industry variation in AI disruption patterns limits generalizability.
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Job Displacement and Reskilling]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Job Displacement and Reskilling]] -
+- [[Responsible AI Governance]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P264.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
 doi: "10.1007/978-3-031-93746-0_28"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,8 +41,8 @@ Edited volume; synthetic chapters reviewing empirical research programs in colla
 As an edited volume, coherence across chapters depends on editorial framing; collaborative learning research is most robust in controlled settings and may not fully transfer to authentic organizational or educational contexts.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Problem-Based Learning]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
+- [[HCI Education and Pedagogy]] -
+- [[Problem-Based Learning]] -
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

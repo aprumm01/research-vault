@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P62.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1007/s00146-025-02667-2"
 
 abstract: "Generative Artificial Intelligence (GenAI) is fundamentally transforming notions of creativity and creative production across disciplines, yet a comprehensive understanding of professional attitudes and integration patterns remains challenging. This scoping review examines how creative professionals perceive and integrate GenAI technologies across four domains: visual art and design, writing and literature, performing arts, and environmental and spatial design. Following PRISMA-ScR guidelines, w"
@@ -21,7 +16,7 @@ Generative Artificial Intelligence (GenAI) is fundamentally transforming notions
 **DOI:** [10.1007/s00146-025-02667-2](https://doi.org/10.1007/s00146-025-02667-2)
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 

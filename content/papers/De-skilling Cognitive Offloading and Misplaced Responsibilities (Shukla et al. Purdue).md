@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P7.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
-
 abstract: "The rapid adoption of generative AI (GenAI) in design has sparked discussions about its benefits and unintended consequences. While AI is often framed as a tool for enhancing productivity by automat- ing routine tasks, historical research on automation warns of para- doxical effects, such as de-skilling and misplaced responsibilities. To assess UX practitioners’ perceptions o"
 
 doi: "10.1145/3706599.3719931"
@@ -22,10 +17,10 @@ doi: "10.1145/3706599.3719931"
 The rapid adoption of generative AI (GenAI) in design has sparked discussions about its benefits and unintended consequences. While AI is often framed as a tool for enhancing productivity by automat- ing routine tasks, historical research on automation warns of para- doxical effects, such as de-skilling and misplaced responsibilities. To assess UX practitioners’ perceptions o
 
 ## Connections
-- [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]
-- [[Design Judgment]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Cognitive Offloading and De-skilling]] -
+- [[Design Judgment]] -
+- [[GenAI in UX and Design Practice]] -
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
@@ -55,7 +50,3 @@ Qualitative content analysis of 120+ articles and discussions from UX-focused su
 Reddit-sourced data skews toward vocal, tech-savvy practitioners and may not represent the full spectrum of UX professional views; self-selected online discourse is not a random or representative sample.
 
 ## Connections
-- [[Cognitive Offloading and De-skilling]] - `` 
-- [[Design Judgment]] - `` 
-- [[GenAI in UX and Design Practice]] - `` 
-- [[HCI Education and Pedagogy]] - ``

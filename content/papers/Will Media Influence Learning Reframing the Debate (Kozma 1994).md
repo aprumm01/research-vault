@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P43.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1007/bf02299087"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,7 +16,7 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1007/bf02299087](https://doi.org/10.1007/bf02299087)
 
 ## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

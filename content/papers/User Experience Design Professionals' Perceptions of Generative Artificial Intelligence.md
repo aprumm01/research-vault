@@ -1,13 +1,8 @@
 ---
 title: "User Experience Design Professionals' Perceptions of Generative Artificial Intelligence"
-source_file: "research_docs/P242.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
 doi: "10.1145/3613904.3642114"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -47,6 +42,6 @@ Semi-structured interviews with UX professionals across roles; thematic analysis
 CHI venue sample may skew toward sophisticated practitioners; perceptions may shift with AI tool evolution; does not track actual behavior.
 
 ## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

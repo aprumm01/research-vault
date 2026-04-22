@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P44.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.1207/s15326985ep3801_6"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.1207/s15326985ep3801_6](https://doi.org/10.1207/s15326985ep3801_6)
 
 ## Connections
-- [[Cognitive Load Theory]] - `` [EXTRACTED]
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Cognitive Load Theory]] -
+- [[Instructional Design Theory]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 

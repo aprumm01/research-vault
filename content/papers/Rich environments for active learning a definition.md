@@ -1,13 +1,8 @@
 ---
 title: "Rich environments for active learning: a definition"
-source_file: "research_docs/P190.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
-
 doi: "10.3402/rlt.v3i2.9606"
 
 abstract: "In today's complex world, simply knowing how to use tools and knowledge in a single domain is not sufficient to remain competitive as either individuals or companies. People must also learn to apply tools and knowledge in new domains and different situations. Industry specialists report that people at every organizational level must be creative and flexible problem solvers (Lynton, 1989). This requires the ability to apply experience and a definition knowledge to address novel problems. Conseque"
@@ -49,7 +44,7 @@ Conceptual framework synthesis; reviews empirical literature on PBL, anchored in
 Implementation of REALs is resource-intensive and requires significant instructional design expertise; the framework provides limited guidance on how to scaffold students who struggle with self-direction; some critics argue the constructivist assumptions undervalue explicit instruction for novice learners.
 
 ## Connections
-- [[ADDIE Model]] - `` [EXTRACTED]
-- [[Constructivism]] - `` [EXTRACTED]
+- [[ADDIE Model]] -
+- [[Constructivism]] -
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

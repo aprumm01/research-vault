@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P120.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "Research purpose. This paper aims to analyse how university students perceive the role of Artificial Intelligence and human-centric technologies in shaping the future workforce within the context of Industry 5.0. By focusin"
 
 doi: "10.2478/jec-2025-0011"
@@ -22,7 +17,7 @@ doi: "10.2478/jec-2025-0011"
 Research purpose. This paper aims to analyse how university students perceive the role of Artificial Intelligence and human-centric technologies in shaping the future workforce within the context of Industry 5.0. By focusin
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

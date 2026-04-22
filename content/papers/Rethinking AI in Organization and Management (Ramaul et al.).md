@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P35.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 doi: "10.37725/mgmt.2026.14066"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,8 +16,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.37725/mgmt.2026.14066](https://doi.org/10.37725/mgmt.2026.14066)
 
 ## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Hybrid Intelligence]] - `` [EXTRACTED]
+- [[AI and Future of Work]] -
+- [[Hybrid Intelligence]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

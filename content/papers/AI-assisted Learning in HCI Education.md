@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P221.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 abstract: "The use of generative artificial intelligence (GenAI) tools has in- creased across all sectors in society, including human-computer interaction (HCI) education. While previous research has explored the pedagogical applications of GenAI and the challenges faced by educators and students, there is less focus on GenAI in the context of a design education. We present findings from group interviews and a survey study conducted with interaction design bachelor students, foregrounding the attitudes and"
 
 doi: "10.1145/3742901.3742910"
@@ -47,8 +42,8 @@ Empirical study of AI-assisted learning tools in HCI courses; comparison of lear
 Single-discipline study may not generalize; learning outcome measures may not capture tacit HCI skill development; the rapid evolution of AI tools makes specific findings time-sensitive.
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[GenAI in UX and Design Practice]] -
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

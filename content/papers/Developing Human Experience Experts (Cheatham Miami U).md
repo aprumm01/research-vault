@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P23.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
 abstract: "The rapid development of generative AI tools is transforming design practice, shifting designers’ roles from technical producers to human experi- ence experts. As AI increasingly handles production tasks, design education must evolve to develop graduates who can understand complex human needs and cre- ate meaningful experiences. This paper presents a process-centric framework for design education built on four theoretical foundations: systems thinking, phe- nomenology, activity theory, and futur"
 
 doi: "10.1007/978-3-031-93233-5_3"
@@ -22,10 +17,10 @@ doi: "10.1007/978-3-031-93233-5_3"
 The rapid development of generative AI tools is transforming design practice, shifting designers’ roles from technical producers to human experi- ence experts. As AI increasingly handles production tasks, design education must evolve to develop graduates who can understand complex human needs and cre- ate meaningful experiences. This paper presents a process-centric framework for design education built on four theoretical foundations: systems thinking, phe- nomenology, activity theory, and futures studies. Drawing from implementations in undergraduate and graduate courses at Miami University from 2023–2025, the paper demonstrates how these foundations can be translated into practical teaching methods emphasizing process over product. Through analysis of spe- ciﬁc interventions, including ripple effect diagrams and speciﬁcations grading, the paper shows how des
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[Activity Theory]] - `` [EXTRACTED]
-- [[Design Thinking]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[Activity Theory]] -
+- [[Design Thinking]] -
+- [[HCI Education and Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P31.pdf"
 type: "paper"
 community: "Responsible AI and Ethics"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
 doi: "10.5040/9798216385448.ch-17"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -21,7 +16,7 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 **DOI:** [10.5040/9798216385448.ch-17](https://doi.org/10.5040/9798216385448.ch-17)
 
 ## Connections
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] -
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 

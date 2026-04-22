@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P263.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 doi: "10.21606/drs.2020.120"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -46,8 +41,8 @@ Conceptual framework development; qualitative case analysis from design educatio
 "Design character" resists precise operationalization; the virtue ethics framework may carry cultural assumptions that don't transfer across design education contexts globally; empirical evidence for the pedagogical claims is limited.
 
 ## Connections
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] -
+- [[HCI Education and Pedagogy]] -
+- [[Studio Pedagogy]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

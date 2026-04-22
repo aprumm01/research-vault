@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P136.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
 abstract: "This work explores the integration of Generative AI (GenAI) tools into web development ed"
 
 doi: "10.3390/app15137389"
@@ -22,8 +17,8 @@ doi: "10.3390/app15137389"
 This work explores the integration of Generative AI (GenAI) tools into web development ed
 
 ## Connections
-- [[AI in Design Education]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[AI in Design Education]] -
+- [[GenAI in UX and Design Practice]] -
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 

@@ -1,12 +1,7 @@
 ---
-source_file: "research_docs/P192.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
@@ -19,8 +14,8 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 *Abstract not yet found — search by title or check source PDF*
 
 ## Connections
-- [[Metacognitive Support]] - `` [EXTRACTED]
-- [[Problem-Based Learning]] - `` [EXTRACTED]
+- [[Metacognitive Support]] -
+- [[Problem-Based Learning]] -
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
 
