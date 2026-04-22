@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1002/9781118093429.ch3"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Spector 2008 - Theoretical Foundations Ed Communication and Tech
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1002/9781118093429.ch3](https://doi.org/10.1002/9781118093429.ch3)
 

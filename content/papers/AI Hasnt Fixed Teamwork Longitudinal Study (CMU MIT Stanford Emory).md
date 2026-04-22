@@ -8,6 +8,8 @@ tags:
   - community/AI_and_Future_of_Work
 
 abstract: "When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo"
+
+doi: "[Missing]"
 ---
 
 # AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)

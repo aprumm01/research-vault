@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1007/978-1-4614-3185-5_31"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Mayer 2014 - Multimedia Instruction (Handbook Chapter)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/978-1-4614-3185-5_31](https://doi.org/10.1007/978-1-4614-3185-5_31)
 

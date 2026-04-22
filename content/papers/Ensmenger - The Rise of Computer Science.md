@@ -8,9 +8,15 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.7551/mitpress/9780262050937.003.0005"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Ensmenger - The Rise of Computer Science
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.7551/mitpress/9780262050937.003.0005](https://doi.org/10.7551/mitpress/9780262050937.003.0005)
 

@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Choi 2024 Utilizing Generative AI for Instructional Design: SWOT Analysis
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]

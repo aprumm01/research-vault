@@ -8,9 +8,15 @@ tags:
   - community/Problem-Based_Learning
 
 doi: "10.1016/0307-4412(93)90084-d"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Problem-based Learning
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1016/0307-4412(93)90084-d](https://doi.org/10.1016/0307-4412(93)90084-d)
 

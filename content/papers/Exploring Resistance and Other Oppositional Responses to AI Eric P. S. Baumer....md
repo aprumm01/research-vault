@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3715070.3748295"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Exploring Resistance and Other Oppositional Responses to AI Eric P. S. Baumer...
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3715070.3748295](https://doi.org/10.1145/3715070.3748295)
 

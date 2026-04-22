@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1007/s00146-025-02504-6"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (Süner-Pla-Cerdà et al., AI & Society 2025)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/s00146-025-02504-6](https://doi.org/10.1007/s00146-025-02504-6)
 

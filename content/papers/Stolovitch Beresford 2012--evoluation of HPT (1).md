@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Stolovitch Beresford 2012--evoluation of HPT (1)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]

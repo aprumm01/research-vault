@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1109/access.2024.3502628"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # UI UX for Generative AI: Taxonomy Trend Challenge (Kim et al.)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1109/access.2024.3502628](https://doi.org/10.1109/access.2024.3502628)
 

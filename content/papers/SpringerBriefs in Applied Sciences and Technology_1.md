@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # User Experience and AI: Assessing the Qualities of AI-Infused Systems (Springer)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Summary
 This second Springer Brief on AI and UX presents a framework for assessing the qualities of AI-infused systems from a user experience perspective, examining how AI capabilities change the nature of the user-product relationship and what new quality dimensions this creates. The book extends traditional product quality models (ISO 9241, usability heuristics) to account for AI's adaptive, learning, and predictive behaviors. It provides UX designers and evaluators with a comprehensive quality model for AI-infused products that balances AI capability assessment with human-centered quality criteria.

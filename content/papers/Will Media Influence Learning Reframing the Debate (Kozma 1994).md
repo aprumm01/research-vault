@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1007/bf02299087"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Will Media Influence Learning? Reframing the Debate (Kozma 1994)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/bf02299087](https://doi.org/10.1007/bf02299087)
 

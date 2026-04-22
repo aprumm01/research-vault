@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1201/9781315208169-23"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Designing the Constraints: Co-creation Exercises (Eckert and Stacey)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1201/9781315208169-23](https://doi.org/10.1201/9781315208169-23)
 

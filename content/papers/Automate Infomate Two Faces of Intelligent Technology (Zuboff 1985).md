@@ -8,9 +8,15 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1016/0090-2616(85)90033-6"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1016/0090-2616(85)90033-6](https://doi.org/10.1016/0090-2616(85)90033-6)
 

@@ -8,9 +8,15 @@ tags:
   - community/Problem-Based_Learning
 
 doi: "10.1145/3715336.3735805"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Co-Designing with Transformers: Unpacking the Complex Role
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3715336.3735805](https://doi.org/10.1145/3715336.3735805)
 

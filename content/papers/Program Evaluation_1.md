@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1007/978-1-4615-4789-1_4"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Program Evaluation
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/978-1-4615-4789-1_4](https://doi.org/10.1007/978-1-4615-4789-1_4)
 

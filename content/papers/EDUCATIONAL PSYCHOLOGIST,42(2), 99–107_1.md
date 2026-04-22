@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Problem-Based_Learning
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # EDUCATIONAL PSYCHOLOGIST,42(2), 99–107
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Connections
 - [[Metacognitive Support]] - `` [EXTRACTED]

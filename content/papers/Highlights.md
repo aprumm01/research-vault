@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.5143/jesk.2024.43.6.575"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # The Role of Large Language Models in UI/UX Design: A Systematic Review
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.5143/jesk.2024.43.6.575](https://doi.org/10.5143/jesk.2024.43.6.575)
 

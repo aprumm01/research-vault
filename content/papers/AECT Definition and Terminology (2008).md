@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # AECT Definition and Terminology (2008)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]

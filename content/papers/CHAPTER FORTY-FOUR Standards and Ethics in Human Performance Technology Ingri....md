@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Standards and Ethics in Human Performance Technology (Guerra, 2006)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Summary
 Guerra's chapter on standards and ethics in HPT examines the professional obligations of performance technologists, reviewing ISPI's performance standards and the ethical principles that should guide HPT practice. The chapter addresses tensions between client demands, organizational goals, and practitioner ethics, arguing that HPT professionals must maintain independent judgment about the appropriateness and ethics of interventions. It positions ethics not as an add-on but as integral to competent HPT practice.

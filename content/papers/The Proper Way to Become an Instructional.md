@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # The Proper Way to Become an Instructional
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Summary
 This paper examines the professional identity formation of instructional designers, arguing that entry into the field typically occurs through lateral moves from subject matter expertise rather than direct preparation, creating challenges for developing a coherent professional identity. The author traces how instructional designers come to see themselves as professionals rather than technical support staff, and what conditions support that identity development. The work speaks to the broader question of how a relatively young applied field constructs and transmits professional norms.

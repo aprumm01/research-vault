@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1601/ex.8970"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Van Tiem et al. 2004--performance tech defined
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1601/ex.8970](https://doi.org/10.1601/ex.8970)
 

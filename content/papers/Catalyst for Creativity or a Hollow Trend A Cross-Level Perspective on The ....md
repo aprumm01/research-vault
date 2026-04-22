@@ -8,9 +8,15 @@ tags:
   - community/Responsible_AI_Governance
 
 doi: "10.1145/3706598.3713233"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The ...
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3706598.3713233](https://doi.org/10.1145/3706598.3713233)
 

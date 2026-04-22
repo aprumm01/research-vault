@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+doi: "[Missing — PDF may need OCR]"
+
+abstract: "Abstract not available — PDF may need OCR or manual entry"
 ---
 
 # AI And Machine Learning W hy New Technologies Don’tTransform Incumbents by Sa...
+
+
+## Abstract
+*Abstract not available — PDF may need OCR or manual entry*
 
 ## Summary
 This paper examines why new AI and machine learning technologies frequently fail to transform incumbent organizations, analyzing the organizational, strategic, and cognitive factors that prevent established firms from capturing value from technological innovations they often helped create. Drawing on innovation management literature, the paper documents how incumbents' existing processes, capabilities, and business models create structural barriers to AI transformation even when they have access to the technology. The paper offers theoretical explanation for the often-observed pattern of disruption coming from outside rather than inside incumbent organizations.

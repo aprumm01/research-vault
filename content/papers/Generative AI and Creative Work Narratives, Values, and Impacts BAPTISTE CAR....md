@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Generative AI and Creative Work: Narratives, Values, and Impacts (Caramiaux et al., Microsoft Research, 2023)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Summary
 Caramiaux and colleagues at Microsoft Research and partner institutions present a qualitative study of how creative professionals across disciplines (visual artists, musicians, writers, designers) narrate their experiences with generative AI, examining the values at stake in creative AI adoption and the impacts practitioners report on their creative work. The study surfaces three dominant narrative types: generative AI as tool (instrumental), as collaborator (relational), and as threat (existential) — and documents how these narratives correlate with different value commitments and adoption strategies. The paper argues for a values-centered account of creative AI adoption.

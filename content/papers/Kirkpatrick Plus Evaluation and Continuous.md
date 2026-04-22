@@ -8,9 +8,15 @@ tags:
   - community/Responsible_AI_Governance
 
 doi: "10.1007/bf02299676"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Kirkpatrick Plus: Evaluation and Continuous
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
 

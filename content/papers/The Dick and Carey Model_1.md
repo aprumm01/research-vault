@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.24315/trkefd.321226"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # The Dick and Carey Model:
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.24315/trkefd.321226](https://doi.org/10.24315/trkefd.321226)
 

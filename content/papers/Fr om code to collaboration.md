@@ -8,6 +8,8 @@ tags:
   - community/Instructional_Design_Theory
 
 abstract: "Purpose – Artificial intelligence is creating a significant technological disruption in all industries. The adoption of AI in business has been proliferated by the use of data analytics, machine learning and robotics. One of the sectors that was significantly impacted by this disruption is the IT sector . The present study aims to understand employee perceptions regarding AI advancements, their impact on job roles and organizational interventions for effective AI integration. Design/methodology/"
+
+doi: "[Missing]"
 ---
 
 # Fr om code to collaboration:

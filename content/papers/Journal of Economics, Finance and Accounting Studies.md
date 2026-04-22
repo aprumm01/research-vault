@@ -8,9 +8,15 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.32996/jefas"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # A Review of Human-Centric AI in Industry 5.0
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.32996/jefas](https://doi.org/10.32996/jefas)
 

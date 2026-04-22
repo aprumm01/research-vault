@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1007/s00163-002-0016-y"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Cognitive Co-Evolution Model for Design (Cash et al.)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/s00163-002-0016-y](https://doi.org/10.1007/s00163-002-0016-y)
 

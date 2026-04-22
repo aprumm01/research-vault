@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1109/tse.2026.3655626"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # From Disruptions to Discussions: How GenAI Impacts Human Interactions in Software Development
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1109/tse.2026.3655626](https://doi.org/10.1109/tse.2026.3655626)
 

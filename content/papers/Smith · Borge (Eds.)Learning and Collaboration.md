@@ -8,9 +8,15 @@ tags:
   - community/Problem-Based_Learning
 
 doi: "10.1007/978-3-031-93746-0_28"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Smith · Borge (Eds.)Learning and Collaboration
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/978-3-031-93746-0_28](https://doi.org/10.1007/978-3-031-93746-0_28)
 

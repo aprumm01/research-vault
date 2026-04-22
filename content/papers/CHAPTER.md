@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.4324/9781315764269-18"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Learning Theories and Instructional Design (Driscoll)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.4324/9781315764269-18](https://doi.org/10.4324/9781315764269-18)
 

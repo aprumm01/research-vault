@@ -8,9 +8,15 @@ tags:
   - community/HCI_Education_and_Pedagogy
 
 doi: "10.3389/frai.2024.1452131"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # GenAI in UX Education: Critical Thinking Assessment (Naing et al.)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.3389/frai.2024.1452131](https://doi.org/10.3389/frai.2024.1452131)
 

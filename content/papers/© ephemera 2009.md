@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Stop Whining, Start Doing! Identity Conflict in Project-Managed Software Environments (Case & Piñeiro, 2009)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Summary
 Case and Piñeiro's ephemera article examines the identity conflicts that arise in project-managed software environments, arguing that project management's temporal and goal-bounded structure creates distinctive identity stresses for workers whose professional identity is tied to craft and ongoing relationships rather than discrete deliverable production. Through ethnographic data from software development teams, the paper documents how workers navigate the tension between project identity (what the project needs now) and professional identity (who they are as practitioners over time). The paper connects organizational sociology to workplace experience in knowledge work.

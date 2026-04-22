@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1007/s10798-025-10045-8"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Comparing Student Designers' Metacognition and Design Processes With and Without Generative AI (Chen et al., 2025)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/s10798-025-10045-8](https://doi.org/10.1007/s10798-025-10045-8)
 

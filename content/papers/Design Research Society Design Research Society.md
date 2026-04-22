@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.5040/9781472596178-bed-d070"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Design Research Society Design Research Society
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.5040/9781472596178-bed-d070](https://doi.org/10.5040/9781472596178-bed-d070)
 

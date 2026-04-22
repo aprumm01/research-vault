@@ -8,6 +8,8 @@ tags:
   - community/HCI_Education_and_Pedagogy
 
 abstract: "When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo"
+
+doi: "[Missing]"
 ---
 
 # AI Hasn’t Fixed Teamwork, But It Shifted Collaborative

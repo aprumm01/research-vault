@@ -8,9 +8,15 @@ tags:
   - community/HCI_Education_and_Pedagogy
 
 doi: "10.32431/kace.2026.29.1.011"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # The Application of Generative AI in Design-Based Elementary Education
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.32431/kace.2026.29.1.011](https://doi.org/10.32431/kace.2026.29.1.011)
 

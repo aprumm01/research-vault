@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Developing Students' Instrumental Design Judgment (MurdochKitt et al., DECIPHER 2018)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Summary
 MurdochKitt, Culén, and Mainsah's conference paper investigates how design students develop instrumental design judgment — the capacity to make principled choices about design tools and methods in context. Using a constructivist pedagogical framework, they examine how explicit instruction in judgment development differs from tacit acquisition through studio experience alone. The paper argues that design education must move beyond method instruction to cultivate the meta-cognitive capacities that allow designers to evaluate and select among methods appropriately.

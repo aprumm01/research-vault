@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.21606/drs.2020.120"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Educating for Design Character in Higher Education: Challenges in Teaching Design Judgment (MurdochKitt et al.)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.21606/drs.2020.120](https://doi.org/10.21606/drs.2020.120)
 

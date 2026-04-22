@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.32403/0554-4866-2024-2-88-133-139"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Integrating AI into the Design Process
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.32403/0554-4866-2024-2-88-133-139](https://doi.org/10.32403/0554-4866-2024-2-88-133-139)
 

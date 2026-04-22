@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.25844/p9rv-vj67"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Prompting Progress: An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.25844/p9rv-vj67](https://doi.org/10.25844/p9rv-vj67)
 

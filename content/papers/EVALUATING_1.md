@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # EVALUATING
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Connections
 - [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]

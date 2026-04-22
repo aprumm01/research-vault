@@ -8,9 +8,15 @@ tags:
   - community/Responsible_AI_and_Ethics
 
 doi: "10.1109/MTS.2024.3392280"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1109/MTS.2024.3392280](https://doi.org/10.1109/MTS.2024.3392280)
 

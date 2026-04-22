@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.7765/9781526111876.00007"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # The designer's judgement
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.7765/9781526111876.00007](https://doi.org/10.7765/9781526111876.00007)
 

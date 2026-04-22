@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3643834.3661624"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Clay to Play With: GenAI in UX Practice (Uusitalo et al. Aalto)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3643834.3661624](https://doi.org/10.1145/3643834.3661624)
 

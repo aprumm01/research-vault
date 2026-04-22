@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1080/14626268.2020.1722708"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # The Nature of Design Practice and Implications for Interaction Design Research (Nelson & Stolterman, IJOD 2008)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1080/14626268.2020.1722708](https://doi.org/10.1080/14626268.2020.1722708)
 

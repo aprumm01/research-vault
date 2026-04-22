@@ -8,9 +8,15 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1145/3436954"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # UX Designers Pushing AI in the Enterprise: A Case for Adaptive UIs (Zimmerman, CMU)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3436954](https://doi.org/10.1145/3436954)
 

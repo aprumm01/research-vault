@@ -6,9 +6,17 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "[Missing]"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Professional Ethics and Rules of Conduct in Instructional Design (Smaldino, Donaldson & Herring, 2012)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 ## Summary
 Smaldino, Donaldson, and Herring's chapter examines the professional ethics obligations of instructional designers, arguing that practitioners often lack awareness of or formal preparation in the ethical standards that govern their field. The authors review AECT and ISPI ethics codes, examine common ethical dilemmas in ID practice, and argue for integrating ethics education into instructional design preparation programs. The chapter positions ethical competence as a core professional skill, not an optional add-on.

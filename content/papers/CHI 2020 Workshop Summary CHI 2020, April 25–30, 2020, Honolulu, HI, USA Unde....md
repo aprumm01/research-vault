@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3334480.3375168"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Understanding the Past, Present, and Future of Design Fictions (Muller & Fiesler, CHI 2020)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3334480.3375168](https://doi.org/10.1145/3334480.3375168)
 

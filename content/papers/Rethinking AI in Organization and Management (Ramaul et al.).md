@@ -8,9 +8,15 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.37725/mgmt.2026.14066"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Rethinking AI in Organization and Management (Ramaul et al.)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.37725/mgmt.2026.14066](https://doi.org/10.37725/mgmt.2026.14066)
 

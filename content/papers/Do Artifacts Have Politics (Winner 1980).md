@@ -8,9 +8,15 @@ tags:
   - community/Responsible_AI_and_Ethics
 
 doi: "10.5040/9798216385448.ch-17"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Do Artifacts Have Politics? (Winner 1980)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.5040/9798216385448.ch-17](https://doi.org/10.5040/9798216385448.ch-17)
 

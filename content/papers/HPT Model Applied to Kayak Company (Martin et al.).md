@@ -8,9 +8,15 @@ tags:
   - community/Responsible_AI_Governance
 
 doi: "10.1002/pfi.20061"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # HPT Model Applied to Kayak Company (Martin et al.)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1002/pfi.20061](https://doi.org/10.1002/pfi.20061)
 

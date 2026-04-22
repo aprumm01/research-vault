@@ -8,6 +8,8 @@ tags:
   - community/Generative_UI_Tools
 
 abstract: "AI can now generate high-fidelity UI mock-up screens from a high- level textual description, promising to support UX practitioners’ work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, developers, and product managers. Using a state-of-the-art Gen"
+
+doi: "[Missing]"
 ---
 
 # Formative Study on GenUI Tools (Chen et al. Google DeepMind)

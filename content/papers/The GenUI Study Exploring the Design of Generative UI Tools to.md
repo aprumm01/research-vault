@@ -8,9 +8,15 @@ tags:
   - community/Generative_UI_Tools
 
 doi: "10.1145/3715336.3735780"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # The GenUI Study: Exploring the Design of Generative UI Tools to
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3715336.3735780](https://doi.org/10.1145/3715336.3735780)
 

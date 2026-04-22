@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1111/j.1467-8535.2004.00409_15.x"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Handbook of Research on Educational Communications and Technology (Jonassen et al., 1996)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1111/j.1467-8535.2004.00409_15.x](https://doi.org/10.1111/j.1467-8535.2004.00409_15.x)
 

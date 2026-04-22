@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1007/978-1-4842-6461-4_10"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Design Thinking and Agile Design
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/978-1-4842-6461-4_10](https://doi.org/10.1007/978-1-4842-6461-4_10)
 

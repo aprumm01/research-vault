@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1080/00461520701263350"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1080/00461520701263350](https://doi.org/10.1080/00461520701263350)
 

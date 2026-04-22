@@ -8,6 +8,8 @@ tags:
   - community/AI_Literacy
 
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
+
+doi: "[Missing]"
 ---
 
 # Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)

@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1207/s15326985ep3801_6"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1207/s15326985ep3801_6](https://doi.org/10.1207/s15326985ep3801_6)
 

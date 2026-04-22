@@ -8,9 +8,15 @@ tags:
   - community/AI_and_Future_of_Work
 
 doi: "10.1145/3532106.3533483"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # "It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation (Showkat & Baumer)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3532106.3533483](https://doi.org/10.1145/3532106.3533483)
 

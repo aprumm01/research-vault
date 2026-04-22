@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.4324/9781315669199-13"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Motivation, Volition, and Performamce
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.4324/9781315669199-13](https://doi.org/10.4324/9781315669199-13)
 

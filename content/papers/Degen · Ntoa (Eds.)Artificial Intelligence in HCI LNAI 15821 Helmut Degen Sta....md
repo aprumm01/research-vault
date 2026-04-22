@@ -8,9 +8,15 @@ tags:
   - community/HCI_Education_and_Pedagogy
 
 doi: "10.1007/978-3-031-93418-6_2"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # How Hands-on Experience with Generative AI Shapes Design Students' Perspectives on AI's Future Impact
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/978-3-031-93418-6_2](https://doi.org/10.1007/978-3-031-93418-6_2)
 

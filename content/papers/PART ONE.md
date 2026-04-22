@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.1002/pfi.20023"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Fundamentals of Human Performance Technology (Pershing, 2006)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1002/pfi.20023](https://doi.org/10.1002/pfi.20023)
 

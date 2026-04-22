@@ -8,9 +8,15 @@ tags:
   - community/Responsible_AI_Governance
 
 doi: "10.1016/j.bushor.2024.02.002"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Unlocking training transfer in the age of
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1016/j.bushor.2024.02.002](https://doi.org/10.1016/j.bushor.2024.02.002)
 

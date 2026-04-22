@@ -8,9 +8,15 @@ tags:
   - community/Instructional_Design_Theory
 
 doi: "10.4324/9781003354697-5"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Characteristics and Evolution of Foundational Instructional 
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.4324/9781003354697-5](https://doi.org/10.4324/9781003354697-5)
 

@@ -8,9 +8,15 @@ tags:
   - community/AI_Literacy
 
 doi: "10.14742/ascilite2021.0100"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # ASCILITE 2024
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.14742/ascilite2021.0100](https://doi.org/10.14742/ascilite2021.0100)
 

@@ -8,9 +8,15 @@ tags:
   - community/AI_in_Design_Education
 
 doi: "10.1007/978-1-4471-7541-4_1"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Designerly Ways of Knowing (Cross 1982)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/978-1-4471-7541-4_1](https://doi.org/10.1007/978-1-4471-7541-4_1)
 

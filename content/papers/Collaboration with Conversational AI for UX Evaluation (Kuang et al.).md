@@ -8,9 +8,15 @@ tags:
   - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3544548.3581247"
+
+abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Collaboration with Conversational AI for UX Evaluation (Kuang et al.)
+
+
+## Abstract
+*Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3544548.3581247](https://doi.org/10.1145/3544548.3581247)
 
