@@ -43,3 +43,25 @@ AI metacognitive agents help designers with intent formulation and problem explo
 
 ## Community
 [[_COMMUNITY_Responsible AI and Ethics]]
+
+## Summary
+Gmeiner et al. at Carnegie Mellon University explore the design of metacognitive support agents that help designers maintain reflective engagement when using generative AI design tools. They find that cognitive offloading to AI leads to underspecification of design intent and reduced ability to evaluate AI outputs. Their proposed metacognitive agents prompt designers to articulate goals, reflect on AI suggestions, and maintain critical oversight—addressing fundamental cognitive challenges in human-AI co-creation.
+
+## Key Concepts
+- Metacognitive support
+- Human-AI co-creation
+- Cognitive offloading
+- Design AI tools
+- Reflective practice
+
+## Theoretical Framework
+Metacognitive theory and cognitive offloading research frame the analysis of how AI tool use in design affects designers' reflective engagement, drawing on dual-process theory and theories of distributed cognition.
+
+## Methods
+Design research; likely includes user studies, prototype development, and evaluation of metacognitive support agent prototypes with design practitioners.
+
+## Main Arguments
+- Generative AI tools create cognitive offloading that reduces designers' engagement with and understanding of design outcomes
+- Metacognitive support agents can prompt reflection at critical decision points in AI-assisted design
+- Designers need support for intent formulation—specifying what they want before engaging AI generation
+- Human oversight and interpretive engagement with AI outputs are necessary conditions for high-quality co-created design

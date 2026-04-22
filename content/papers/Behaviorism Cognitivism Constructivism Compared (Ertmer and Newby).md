@@ -35,3 +35,24 @@ Comparative analysis of three learning theories from instructional design perspe
 
 ## Community
 [[_COMMUNITY_Instructional Design Theory]]
+
+## Summary
+Ertmer and Newby compare three foundational learning theories — behaviorism, cognitivism, and constructivism — along critical features relevant to instructional design, including assumptions about the nature of learning, the role of the learner, and the implications for instructional practice. The paper argues that ID professionals need to understand all three paradigms as tools, selecting the appropriate framework based on the learning task, context, and learner characteristics. Published in Performance Improvement Quarterly (2013), it is a widely used reference in instructional design education.
+
+## Key Concepts
+- Behaviorism (observable behavior, reinforcement, stimulus-response)
+- Cognitivism (mental processes, schema, information processing)
+- Constructivism (knowledge construction, context, social learning)
+- Learning theory application in instructional design
+
+## Theoretical Framework
+Comparative meta-theoretical analysis; treats learning theories as design frameworks with different assumptions about knowledge, learning, and instruction rather than as competing truth claims.
+
+## Methods
+Conceptual comparative analysis structured around critical features (nature of learning, learner role, instructional implications, assessment); published in Performance Improvement Quarterly, Vol. 26, No. 2, 2013, DOI: 10.1002/piq.21143.
+
+## Main Arguments
+- Each learning theory reflects fundamentally different assumptions about the nature of knowledge and learning
+- Instructional designers should be theoretically pluralistic — matching theory to context and task
+- The three theories are complementary, not mutually exclusive, as frameworks for practice
+- Understanding theoretical foundations prevents atheoretical or purely intuitive instructional design

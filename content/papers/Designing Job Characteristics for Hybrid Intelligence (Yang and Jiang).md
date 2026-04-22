@@ -34,3 +34,25 @@ Job Characteristic Theory applied to hybrid intelligence work; 23 manager interv
 
 ## Community
 [[_COMMUNITY_AI and Future of Work]]
+
+## Summary
+Yang and Jiang apply Job Characteristics Theory (JCT) to the emerging context of hybrid intelligence, where human and AI capabilities are fused to address complex organizational tasks. Through 23 semi-structured interviews with managers at Chinese service companies, they identify key job features that enable effective human-AI collaboration—including task significance, autonomy, and feedback—and highlight tensions around accountability and skill development in AI-augmented roles.
+
+## Key Concepts
+- Hybrid intelligence
+- Job Characteristics Theory (JCT)
+- Human-AI collaboration
+- Task design
+- Organizational management
+
+## Theoretical Framework
+Job Characteristics Theory (Hackman & Oldham) provides the analytical lens, extended to account for AI partners as non-human collaborators with distinct capabilities and constraints.
+
+## Methods
+Qualitative; 23 semi-structured interviews with middle managers from 10 service companies in China; inductive and deductive thematic analysis.
+
+## Main Arguments
+- Hybrid intelligence benefits from job designs that preserve meaningful task identity and autonomy for human workers
+- AI participation alters the feedback and accountability structures of traditional job design
+- Organizations need new management principles to govern human-AI hybrid roles
+- Skill atrophy and over-reliance on AI are key risks when job characteristics are poorly designed

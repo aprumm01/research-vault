@@ -30,3 +30,25 @@ Author(s): Geof Bowker Source: Social Studies of Science, Vol. 23, No. 1 (Feb., 
 
 ## Community
 [[_COMMUNITY_GenAI in UX and Design Practice]]
+
+## Summary
+Geof Bowker analyzes the expansion of cybernetics as a discipline between 1943 and 1970, examining the rhetorical and institutional strategies through which cyberneticians positioned their framework as universally applicable across biology, engineering, social science, and management. He argues that cybernetics achieved disciplinary expansion not through empirical success but through strategic boundary work and translation—making its concepts applicable to whatever domain required legitimation.
+
+## Key Concepts
+- Cybernetics
+- Disciplinary expansion
+- Boundary work
+- Universalism
+- History of science
+
+## Theoretical Framework
+Science and Technology Studies (STS) and sociology of knowledge frame the analysis of how cybernetics constructed claims to universal applicability through institutional and rhetorical strategies.
+
+## Methods
+Historical and sociological analysis; archival and secondary source research on the cybernetics movement from Wiener to the late 1960s.
+
+## Main Arguments
+- Cybernetics expanded by translating its concepts into the language of multiple host disciplines
+- Claims to universality were achieved through strategic institutional alliances and public communication
+- The apparent neutrality of cybernetic language masked its political and institutional investments
+- Understanding cybernetics as a boundary science illuminates how interdisciplinary frameworks gain (and lose) legitimacy

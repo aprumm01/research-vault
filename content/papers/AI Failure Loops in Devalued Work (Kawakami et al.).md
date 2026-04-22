@@ -42,3 +42,24 @@ Introduces AI Failure Loops; devaluation of feminized labor drives AI deployment
 
 ## Community
 [[_COMMUNITY_Responsible AI and Ethics]]
+
+## Summary
+Kawakami et al. conceptualize "AI Failure Loops" — self-reinforcing sociotechnical failures that occur when workplace AI is deployed in feminized labor contexts (social work, K-12 teaching, home healthcare) where worker expertise is systematically devalued. The paper argues that overconfidence in AI capabilities and underconfidence in worker expertise compound each other, producing AI systems that fail to enhance labor and further erode workers' visibility. Understanding occupational devaluation is essential to diagnosing why workplace AI so consistently disappoints in these contexts.
+
+## Key Concepts
+- AI Failure Loops (interwoven sociotechnical failure modes)
+- Feminized labor (historically devalued care/service occupations)
+- Occupational devaluation and worker expertise
+- AI governance failures in devalued work contexts
+
+## Theoretical Framework
+Draws on Science and Technology Studies (STS), organizational sociology of labor, and HCI literature on AI deployment failures; centers occupational devaluation as the explanatory mechanism that prior accounts have overlooked.
+
+## Methods
+Focused literature review of academic and grey literature on AI deployments in three feminized labor domains in the US (K-12 education, home healthcare, social work); conceptual framework-building through synthetic analysis; published in Big Data & Society.
+
+## Main Arguments
+- Occupational devaluation shapes AI design assumptions, creating systems that fail to capture tacit worker knowledge
+- AI Failure Loops are cyclical: poor AI design → reduced trust → reduced use → further devaluation → worse AI design
+- Three case domains show consistent patterns of AI tools that add burden and reduce autonomy
+- Responsible AI governance must explicitly account for labor power dynamics and occupational status
