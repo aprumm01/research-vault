@@ -1,33 +1,19 @@
 ---
-title: "The Impact of AI Development on the Future of Work"
-type: paper
+source_file: "research_docs/P129.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: ""
-venue: ""
-institution: ""
-source_file: "The impact of the development of artificial intelligence on computer graphic design.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
 ---
+
 # The Impact of AI Development on the Future of Work
 
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
 
-## Key Finding
-The article is aimed at studying the impact of artificial intelligence(AI) on graphic design and presenting a possible future vision of the industry as a result of its development. Since the advent
-
-
-## Topics
-`#theme/ai-future-of-work`
-
-
-## Connects To
-- [[AI and Future of Work]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Petrosyan examines how AI development is impacting computer graphic design as a profession, analyzing both the productive capabilities AI enables (automation, new creative possibilities, personalization) and the challenges it creates (authenticity concerns, skill displacement, professional identity questions). The essay considers possible future visions for the graphic design industry as AI becomes more capable and accessible.

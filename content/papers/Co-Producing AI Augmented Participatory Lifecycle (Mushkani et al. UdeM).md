@@ -1,39 +1,20 @@
 ---
-title: "Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)"
-type: paper
+source_file: "research_docs/P21.pdf"
+type: "paper"
 community: "Responsible AI and Ethics"
-year: 2025
-venue: "CVPR workshop"
-institution: "Universite de Montreal / Mila"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
-  - theme/responsible-ai-ethics
-  - topic/algorithmic-bias-fairness
 ---
+
 # Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)
 
-**Year:** 2025
-**Venue:** CVPR workshop
-**Institution:** Universite de Montreal / Mila
+## Connections
+- [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-
-## Key Finding
-Re-architecture of AI pipeline centered on co-production, DEI, multidisciplinary collaboration
-
-
-## Topics
-`#theme/responsible-ai-ethics`  `#topic/algorithmic-bias-fairness`
-
-
-## Connects To
-- [[Algorithmic Bias and Fairness]] `concept` *(addresses)*
-- [[Responsible AI and Ethics]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Responsible AI and Ethics]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Mushkani et al. propose an augmented participatory lifecycle framework for AI co-production that extends traditional participatory design principles to AI system development, ensuring that diverse stakeholders — including affected communities — are involved throughout the AI development lifecycle. The paper argues that current AI development practices are insufficiently participatory and proposes practical methods for involving stakeholders at each stage from problem definition to deployment and evaluation. Published at CHI or similar venue from Université de Montréal.

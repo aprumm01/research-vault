@@ -1,44 +1,21 @@
 ---
-title: "Vibe Coding for Product Design (Li et al.)"
-type: paper
+source_file: "research_docs/P14.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2025
-venue: "ACM"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/genai-design-practice
-  - theme/ai-future-of-work
-  - topic/vibe-coding
 ---
+
 # Vibe Coding for Product Design (Li et al.)
 
-**Year:** 2025
-**Venue:** ACM
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Vibe Coding]] - `` [EXTRACTED]
 
-
-## Key Finding
-Vibe coding four-stage workflow: ideation, generation, debugging, review; 22 interviews
-
-
-## Topics
-`#theme/genai-design-practice`  `#theme/ai-future-of-work`  `#topic/vibe-coding`
-
-
-## Connects To
-- [[Vibe Coding]] `concept` *(studies)*
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Hancheng Cao]] `author` *(co-authored)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Li et al. investigate "vibe coding"—where product team members express intent in natural language and AI generates functional prototypes and code—through interviews with 22 product team members across enterprises, startups, and academia. They find that vibe coding follows a four-stage workflow (ideation, generation, debugging, review) that accelerates iteration and lowers participation barriers, but also raises concerns about code quality, over-reliance, and the blurring of design and development roles.

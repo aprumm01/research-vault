@@ -1,37 +1,19 @@
 ---
-title: "Learning from Notes: Groupware Implementation (Orlikowski 2002)"
-type: paper
+source_file: "research_docs/P48.pdf"
+type: "paper"
 community: "Workplace Learning and AI"
-year: 2002
-venue: "CSCW 2002"
-institution: "MIT Sloan"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Workplace_Learning_and_AI
-  - theme/workplace-learning-ai
 ---
+
 # Learning from Notes: Groupware Implementation (Orlikowski 2002)
 
-**Year:** 2002
-**Venue:** CSCW 2002
-**Institution:** MIT Sloan
+## Connections
+- [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-
-## Key Finding
-Groupware implementation shaped by mental models and org culture; technology alone insufficient
-
-
-## Topics
-`#theme/workplace-learning-ai`
-
-
-## Connects To
-- [[Workplace Learning and AI]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Workplace Learning and AI]]
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
 
 ## Summary
 Wanda Orlikowski's classic study examines the introduction of Lotus Notes groupware into a consulting organization, finding that the technology's collaborative potential was not realized because workers lacked the mental models and organizational culture necessary to use it for sharing and collaboration. Workers interpreted the tool through familiar individual productivity frameworks, and organizational incentives did not support cooperative use. The study establishes mental models and organizational culture as critical determinants of technology implementation success.

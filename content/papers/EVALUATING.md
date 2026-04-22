@@ -1,37 +1,21 @@
 ---
-title: "EVALUATING"
-type: paper
+source_file: "research_docs/P107.pdf"
+type: "paper"
 community: "Human Performance Technology"
-year: ""
-venue: ""
-institution: ""
-source_file: "Kirkpatrick_evaluating_training_programs copy.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Human_Performance_Technology
-  - topic/kirkpatrick-evaluation
-  - topic/studio-pedagogy
-  - topic/responsible-ai-governance
 ---
+
 # EVALUATING
 
+## Connections
+- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
 
-## Key Finding
-TRAINING PROGRAMS THE FOUR LEVELS
-
-
-## Topics
-`#topic/kirkpatrick-evaluation`  `#topic/studio-pedagogy`  `#topic/responsible-ai-governance`
-
-
-## Connects To
-- [[Responsible AI Governance]] `concept` *(addresses)*
-- [[Kirkpatrick Evaluation Model]] `concept` *(addresses)*
-- [[Studio Pedagogy]] `concept` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Human Performance Technology]]
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
 
 ## Summary
 Donald Kirkpatrick's seminal work introduces the Four Levels model of training evaluation: Reaction, Learning, Behavior, and Results. The model provides a systematic framework for assessing the effectiveness of training programs at progressively deeper levels—from participant satisfaction to demonstrable organizational outcomes. The framework has become the foundational standard for training evaluation in business, government, and educational organizations worldwide.

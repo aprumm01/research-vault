@@ -1,40 +1,21 @@
 ---
-title: "Generative AI Integrated Educational Model for User-Centered"
-type: paper
+source_file: "research_docs/P102.pdf"
+type: "paper"
 community: "AI in Design Education"
-year: ""
-venue: "China 201651000015@jmu.edu.cn Xiaoping Zeng Chengyi College,"
-institution: "n Yanan Wu∗ Chengyi College, Jimei University Xiamen, Fujian"
-source_file: "Generative AI Integrated Educational Model for User-Centered Design.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_in_Design_Education
-  - topic/design-thinking
-  - theme/ai-design-education
-  - theme/genai-design-practice
 ---
+
 # Generative AI Integrated Educational Model for User-Centered
 
-**Venue:** China 201651000015@jmu.edu.cn Xiaoping Zeng Chengyi College,
-**Institution:** n Yanan Wu∗ Chengyi College, Jimei University Xiamen, Fujian
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-The advent of artificial intelligence (AI) has profoundly transformed the educational landscape. Many educators are exploring how AI tools can enhance learning instructional programs. However, there i
-
-
-## Topics
-`#topic/design-thinking`  `#theme/ai-design-education`  `#theme/genai-design-practice`
-
-
-## Connects To
-- [[Design Thinking]] `concept` *(addresses)*
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-- [[AI in Design Education]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_AI in Design Education]]
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Wu et al. develop and empirically test an educational model integrating generative AI—specifically ChatGPT and Midjourney—into user-centered design curricula at Jimei University. Built on design thinking theory, the model uses AI tools in both divergent (ideation) and convergent (refinement) phases of design education, finding that AI integration fosters students creativity and problem-solving skills. The study offers a structured curriculum model for AI-assisted UX/design education.

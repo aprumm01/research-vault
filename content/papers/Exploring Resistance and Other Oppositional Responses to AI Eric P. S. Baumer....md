@@ -1,0 +1,16 @@
+---
+source_file: "research_docs/P154.pdf"
+type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+---
+
+# Exploring Resistance and Other Oppositional Responses to AI Eric P. S. Baumer...
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,36 +1,19 @@
 ---
-title: "Shaping the Future Workforce - Students Perceptions on AI"
-type: paper
+source_file: "research_docs/P120.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: ""
-venue: "chitecture, European University of Tirana, Tirana, Albania,"
-institution: "hitecture, European University of Tirana, Tirana, Albania, a"
-source_file: "Shaping-the-Future-Workforce-Students'-Perceptions-on-AI-and-Human-Centric-Technologies-in-Industry-5.0.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
 ---
+
 # Shaping the Future Workforce - Students Perceptions on AI
 
-**Venue:** chitecture, European University of Tirana, Tirana, Albania,
-**Institution:** hitecture, European University of Tirana, Tirana, Albania, a
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
 
-
-## Key Finding
-Research purpose. This paper aims to analyse how university students perceive the role of Artificial Intelligence and human-centric technologies in shaping the future workforce within the context of
-
-
-## Topics
-`#theme/ai-future-of-work`
-
-
-## Connects To
-- [[AI and Future of Work]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Ferhataj, Biçoku, and Memaj examine how university students perceive AI and human-centric technologies in the context of Industry 5.0—a framework emphasizing human-machine collaboration and social value creation. Their survey-based study finds that students recognize AI's transformative potential for future work but are ambivalent about its impact on human roles, with significant variation by discipline and prior AI exposure.

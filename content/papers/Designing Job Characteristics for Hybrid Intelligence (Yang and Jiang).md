@@ -1,39 +1,20 @@
 ---
-title: "Designing Job Characteristics for Hybrid Intelligence (Yang and Jiang)"
-type: paper
+source_file: "research_docs/P56.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2025
-venue: "Management journal 2025"
-institution: "Shenzhen University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
-  - topic/hybrid-intelligence
 ---
+
 # Designing Job Characteristics for Hybrid Intelligence (Yang and Jiang)
 
-**Year:** 2025
-**Venue:** Management journal 2025
-**Institution:** Shenzhen University
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Hybrid Intelligence]] - `` [EXTRACTED]
 
-
-## Key Finding
-Job Characteristic Theory applied to hybrid intelligence work; 23 manager interviews
-
-
-## Topics
-`#theme/ai-future-of-work`  `#topic/hybrid-intelligence`
-
-
-## Connects To
-- [[Hybrid Intelligence]] `concept` *(addresses)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Yang and Jiang apply Job Characteristics Theory (JCT) to the emerging context of hybrid intelligence, where human and AI capabilities are fused to address complex organizational tasks. Through 23 semi-structured interviews with managers at Chinese service companies, they identify key job features that enable effective human-AI collaboration—including task significance, autonomy, and feedback—and highlight tensions around accountability and skill development in AI-augmented roles.

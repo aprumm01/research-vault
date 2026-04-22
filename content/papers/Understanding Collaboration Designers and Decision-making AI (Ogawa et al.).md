@@ -1,37 +1,19 @@
 ---
-title: "Understanding Collaboration: Designers and Decision-making AI (Ogawa et al.)"
-type: paper
+source_file: "research_docs/P55.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2025
-venue: "PACM HCI 2025"
-institution: "CyberAgent / University of Tokyo"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # Understanding Collaboration: Designers and Decision-making AI (Ogawa et al.)
 
-**Year:** 2025
-**Venue:** PACM HCI 2025
-**Institution:** CyberAgent / University of Tokyo
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-Case study of professional designers working with AI decision systems in workplace
-
-
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Ogawa et al. at CyberAgent and the University of Tokyo present a case study of how professional designers collaborate with decision-making AI systems in a real workplace setting. Through longitudinal field research, they examine how designers negotiate agency with AI recommendation systems, develop new interpretive practices, and integrate AI decisions into their creative and strategic workflows. The study reveals tensions between design judgment and algorithmic recommendations in professional practice.

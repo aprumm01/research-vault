@@ -1,43 +1,20 @@
 ---
-title: "Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)"
-type: paper
+source_file: "research_docs/P8.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2025
-venue: "HCI"
-institution: "Aarhus University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
-  - topic/creative-ambiguity
 ---
+
 # Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)
 
-**Year:** 2025
-**Venue:** HCI
-**Institution:** Aarhus University
+## Connections
+- [[Creative Ambiguity]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-AI misalignments are generative creative forces; shift from optimization to reflection design
-
-
-## Topics
-`#theme/genai-design-practice`  `#topic/creative-ambiguity`
-
-
-## Connects To
-- [[Creative Ambiguity]] `concept` *(introduces)*
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Peter Dalsgaard]] `author` *(authored)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Dalsgaard examines the creative and cognitive dynamics that emerge when designers work with generative AI tools, arguing that a productive tension arises from the ambiguity inherent in AI-generated outputs. Rather than treating ambiguity as a problem to be solved, Dalsgaard proposes that creative ambiguity is a generative resource — the gap between what the AI produces and what the designer intended creates cognitive tension that stimulates creative exploration and design development. The paper contributes a theoretical account of the creative value of AI indeterminacy.

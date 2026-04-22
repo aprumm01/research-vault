@@ -1,41 +1,19 @@
 ---
-title: "Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)"
-type: paper
+source_file: "research_docs/P60.pdf"
+type: "paper"
 community: "Responsible AI and Ethics"
-year: 2023
-venue: "STS Journal 2023"
-institution: "Cambridge"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
-  - theme/responsible-ai-ethics
 ---
+
 # Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)
 
-**Year:** 2023
-**Venue:** STS Journal 2023
-**Institution:** Cambridge
+## Connections
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-
-## Key Finding
-AI theoretical origins traced to capitalism not neurophysiology; data colonial doctrine of discovery
-
-
-## Topics
-`#theme/responsible-ai-ethics`
-
-
-## Connects To
-- [[Responsible AI and Ethics]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Manufacturing an AI Revolution (Katz 2017)]] `paper` *(related_to)*
-
-
-## Community
-[[_COMMUNITY_Responsible AI and Ethics]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Penn argues that AI's origin story — as told by technology companies and popular discourse — reproduces a colonial logic analogous to "terra nullius" (unclaimed land) by treating training data as "animo nullius" (data without spirit or ownership). This framing renders invisible the labor, cultural production, and intellectual work embedded in training data, enabling tech companies to extract value without recognition or compensation. Penn's critical analysis connects AI development to data colonialism, challenging the neutrality of AI's foundational narratives.

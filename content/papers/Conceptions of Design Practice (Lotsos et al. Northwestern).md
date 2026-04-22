@@ -1,39 +1,20 @@
 ---
-title: "Conceptions of Design Practice (Lotsos et al. Northwestern)"
-type: paper
+source_file: "research_docs/P25.pdf"
+type: "paper"
 community: "HCI Education and Pedagogy"
-year: 2025
-venue: "CHI 2025"
-institution: "Northwestern University TIDAL Lab"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-  - theme/hci-education-pedagogy
-  - topic/design-judgment
 ---
+
 # Conceptions of Design Practice (Lotsos et al. Northwestern)
 
-**Year:** 2025
-**Venue:** CHI 2025
-**Institution:** Northwestern University TIDAL Lab
+## Connections
+- [[Design Judgment]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-
-## Key Finding
-21 interviews; gap between academic and industry conceptions of design practice
-
-
-## Topics
-`#theme/hci-education-pedagogy`  `#topic/design-judgment`
-
-
-## Connects To
-- [[Design Judgment]] `concept` *(addresses)*
-- [[HCI Education and Pedagogy]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_HCI Education and Pedagogy]]
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Lotsos et al. examine how conceptions of design practice differ between academic and industry contexts, finding significant gaps between how design is theorized in educational settings and how it is practiced in professional environments. Drawing on interviews and analysis from Northwestern University, the paper documents the assumptions about design work that practitioners bring from academia to industry and where those assumptions fail or need revision. The paper contributes to understanding the transition from design education to professional practice.

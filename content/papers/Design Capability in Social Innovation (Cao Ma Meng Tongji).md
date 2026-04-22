@@ -1,37 +1,19 @@
 ---
-title: "Design Capability in Social Innovation (Cao Ma Meng Tongji)"
-type: paper
+source_file: "research_docs/P69.pdf"
+type: "paper"
 community: "Design Theory and Cognition"
-year: 2025
-venue: "DUXU 2025"
-institution: "Tongji University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
-  - theme/design-theory-cognition
 ---
+
 # Design Capability in Social Innovation (Cao Ma Meng Tongji)
 
-**Year:** 2025
-**Venue:** DUXU 2025
-**Institution:** Tongji University
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
 
-
-## Key Finding
-Design attitude as implicit generative capability; Nice Commune social innovation case study
-
-
-## Topics
-`#theme/design-theory-cognition`
-
-
-## Connects To
-- [[Design Theory and Cognition]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Design Theory and Cognition]]
+#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
 
 ## Summary
 Cao, Ma, and Meng from Tongji University synthesize the concept of design capability in social innovation, identifying the professional skills and design attitudes that enable designers to contribute effectively to social innovation projects. The paper develops a framework integrating technical design skills with social awareness, collaborative capacity, and systemic thinking — arguing that social innovation requires an expanded conception of design capability beyond artifact creation. The Tongji perspective draws on China's significant tradition of design-for-social-good research.

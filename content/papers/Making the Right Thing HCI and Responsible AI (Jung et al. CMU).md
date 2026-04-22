@@ -1,47 +1,21 @@
 ---
-title: "Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)"
-type: paper
+source_file: "research_docs/P17.pdf"
+type: "paper"
 community: "Responsible AI and Ethics"
-year: 2025
-venue: "CHI 2025"
-institution: "Carnegie Mellon HCII"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
-  - theme/responsible-ai-ethics
-  - theme/hci-education-pedagogy
-  - topic/responsible-ai-governance
 ---
+
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
 
-**Year:** 2025
-**Venue:** CHI 2025
-**Institution:** Carnegie Mellon HCII
+## Connections
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-
-## Key Finding
-Framework bridging HCI and responsible AI in early-stage AI concept selection
-
-
-## Topics
-`#theme/responsible-ai-ethics`  `#theme/hci-education-pedagogy`  `#topic/responsible-ai-governance`
-
-
-## Connects To
-- [[Responsible AI Governance]] `concept` *(addresses)*
-- [[HCI Education and Pedagogy]] `theme` *(belongs_to)*
-- [[Responsible AI and Ethics]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Kenneth Holstein]] `author` *(co-authored)*
-- [[Jodi Forlizzi]] `author` *(co-authored)*
-- [[John Zimmerman]] `author` *(co-authored)*
-
-
-## Community
-[[_COMMUNITY_Responsible AI and Ethics]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Jung et al. at Carnegie Mellon University address the challenge of integrating responsible AI (RAI) practices into early-stage AI concept selection, where HCI designers make critical decisions that shape later ethical and technical constraints. They propose a framework bridging HCI design methods with RAI principles to help practitioners identify ethical risks before development begins. The paper argues that responsible AI must be built into design thinking processes, not retrofitted after systems are built.

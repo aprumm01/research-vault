@@ -1,37 +1,19 @@
 ---
-title: "Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)"
-type: paper
+source_file: "research_docs/P58.pdf"
+type: "paper"
 community: "HCI Education and Pedagogy"
-year: 2025
-venue: "CHI 2025"
-institution: "Malmo Aarhus Eindhoven"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-  - theme/hci-education-pedagogy
 ---
+
 # Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)
 
-**Year:** 2025
-**Venue:** CHI 2025
-**Institution:** Malmo Aarhus Eindhoven
+## Connections
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-
-## Key Finding
-Teaching more-than-human perspectives to 800 students; ongoing pedagogical challenges
-
-
-## Topics
-`#theme/hci-education-pedagogy`
-
-
-## Connects To
-- [[HCI Education and Pedagogy]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_HCI Education and Pedagogy]]
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Nilsson et al. report on challenges encountered when teaching more-than-human perspectives in HCI and technology design education, drawing on experience with nearly 800 students across multiple institutions. They describe teaching activities developed to help students engage with non-anthropocentric design thinking—considering animals, ecosystems, and posthuman entities as stakeholders—and reflect on the persistent difficulties of shifting students' default human-centered assumptions.

@@ -1,41 +1,21 @@
 ---
-title: "AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)"
-type: paper
+source_file: "research_docs/P16.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2025
-venue: "CHI 2025"
-institution: "NYU Tandon"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/ai-future-of-work
-  - theme/genai-design-practice
-  - topic/human-ai-collaboration
 ---
+
 # AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)
 
-**Year:** 2025
-**Venue:** CHI 2025
-**Institution:** NYU Tandon
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 
-
-## Key Finding
-Job crafting theory applied to GenAI resistance and adoption; four professional reshaping strategies
-
-
-## Topics
-`#theme/ai-future-of-work`  `#theme/genai-design-practice`  `#topic/human-ai-collaboration`
-
-
-## Connects To
-- [[Human-AI Creative Collaboration]] `concept` *(addresses)*
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Varanasi, Wiesenfeld, and Nov study how writing professionals at NYU frame their relationship to GenAI as a matter of craft identity — either embracing AI as a tool that extends their craft or resisting it as a threat to professional distinctiveness. The paper finds that craft identity serves as a key psychological and professional resource through which writers negotiate AI's encroachment on their domain, with both resistance and embracement strategies reflecting craft values. This contributes a craft theory framework to professional identity research under AI disruption.

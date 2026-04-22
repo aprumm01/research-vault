@@ -1,29 +1,19 @@
 ---
-title: "Moore"
-type: paper
+source_file: "research_docs/P111.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: ""
-venue: ""
-institution: ""
-source_file: "Moore.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # Moore
 
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This work by Moore addresses foundational concepts in instructional design, educational technology, or distance learning. Moore's scholarship has been influential in developing theoretical frameworks for understanding learner-instructor, learner-content, and learner-learner interactions in technology-mediated learning environments, as well as theories of transactional distance in distance education.

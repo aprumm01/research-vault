@@ -1,40 +1,19 @@
 ---
-title: "The Future of Work is Blended Not Hybrid (Constantinides et al.)"
-type: paper
+source_file: "research_docs/P46.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2025
-venue: "CHI 2025"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
 ---
+
 # The Future of Work is Blended Not Hybrid (Constantinides et al.)
 
-**Year:** 2025
-**Venue:** CHI 2025
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
 
-
-## Key Finding
-Hybrid work obsolete; AI reshapes agency and creativity; blended human-AI workspaces emerging
-
-
-## Topics
-`#theme/ai-future-of-work`
-
-
-## Connects To
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Abdallah El Ali]] `author` *(co-authored)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Constantinides et al. argue that work is no longer simply "hybrid" (split between home and office) but "blended"—deeply integrated with AI co-workers, algorithmic decisions, and AI-mediated outputs that reshape human roles, agency, and expertise. They contend that AI has fundamentally infiltrated knowledge, creative, and service work, redistributing agency and creativity in ways that require new conceptual frameworks beyond simple human-machine binary thinking.

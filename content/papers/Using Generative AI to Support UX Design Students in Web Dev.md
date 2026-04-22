@@ -1,37 +1,20 @@
 ---
-title: "Using Generative AI to Support UX Design Students in Web Dev"
-type: paper
+source_file: "research_docs/P136.pdf"
+type: "paper"
 community: "AI in Design Education"
-year: ""
-venue: "distributed under the terms and conditions of the Creative C"
-institution: ""
-source_file: "Using Generative AI to Support UX Design Students in Web Development Courses.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_in_Design_Education
-  - theme/ai-design-education
-  - theme/genai-design-practice
 ---
+
 # Using Generative AI to Support UX Design Students in Web Dev
 
-**Venue:** distributed under the terms and conditions of the Creative C
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-This work explores the integration of Generative AI (GenAI) tools into web development ed
-
-
-## Topics
-`#theme/ai-design-education`  `#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-- [[AI in Design Education]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_AI in Design Education]]
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Buendía-García and Piris-Ruano investigate the integration of generative AI tools into web development courses for UX design students at the Universitat Politècnica de Valencia, assessing how AI supports design-development workflows and student learning outcomes. Their study finds that GenAI tools reduce technical barriers for design students, enabling focus on UX quality rather than implementation details, while also raising concerns about skill development and critical evaluation of AI outputs.

@@ -1,39 +1,20 @@
 ---
-title: "GenAI in UX Research: Industry Study (Takafoli et al. Waterloo)"
-type: paper
+source_file: "research_docs/P15.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2025
-venue: "CHI"
-institution: "University of Waterloo"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
-  - topic/human-ai-collaboration
 ---
+
 # GenAI in UX Research: Industry Study (Takafoli et al. Waterloo)
 
-**Year:** 2025
-**Venue:** CHI
-**Institution:** University of Waterloo
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 
-
-## Key Finding
-24 practitioners; lack of company GenAI policies; individual-level adoption without team practices
-
-
-## Topics
-`#theme/genai-design-practice`  `#topic/human-ai-collaboration`
-
-
-## Connects To
-- [[Human-AI Creative Collaboration]] `concept` *(studies)*
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Takafoli, Li, and Mäkelä at the University of Waterloo investigate how UX practitioners, teams, and companies are integrating generative AI into research and design processes through an industry study. Published at DIS 2024, the study documents adoption patterns, organizational dynamics, and challenges as GenAI becomes embedded in professional UX workflows. The findings reveal that GenAI is used most for synthesis and ideation tasks, but concerns about quality control, research integrity, and team dynamics remain.

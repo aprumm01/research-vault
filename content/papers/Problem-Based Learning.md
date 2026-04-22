@@ -1,29 +1,19 @@
 ---
-title: "Problem-based Learning"
-type: paper
+source_file: "research_docs/P115.pdf"
+type: "paper"
 community: "Instructional Design Theory"
-year: ""
-venue: ""
-institution: ""
-source_file: "Problem-based Learning.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-  - topic/problem-based-learning
 ---
+
 # Problem-based Learning
 
+## Connections
+- [[Problem-Based Learning]] - `` [EXTRACTED]
 
-## Topics
-`#topic/problem-based-learning`
-
-
-## Connects To
-- [[Problem-Based Learning]] `concept` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Instructional Design Theory]]
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 This work addresses problem-based learning (PBL) as a constructivist instructional approach in which learners are presented with authentic, ill-structured problems as the starting point for learning. PBL originated in medical education and has since been applied broadly across professional training contexts, developing students' problem-solving, self-directed learning, and collaborative skills through engagement with real-world scenarios rather than abstract didactic content.

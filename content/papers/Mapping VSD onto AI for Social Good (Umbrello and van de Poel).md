@@ -1,38 +1,20 @@
 ---
-title: "Mapping VSD onto AI for Social Good (Umbrello and van de Poel)"
-type: paper
+source_file: "research_docs/P19.pdf"
+type: "paper"
 community: "Responsible AI and Ethics"
-year: 2021
-venue: "AI and Ethics"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
-  - theme/responsible-ai-ethics
-  - topic/value-sensitive-design
 ---
+
 # Mapping VSD onto AI for Social Good (Umbrello and van de Poel)
 
-**Year:** 2021
-**Venue:** AI and Ethics
+## Connections
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Value-Sensitive Design]] - `` [EXTRACTED]
 
-
-## Key Finding
-Modified VSD for ML; transparency, explicability, accountability; value disembodiment challenge
-
-
-## Topics
-`#theme/responsible-ai-ethics`  `#topic/value-sensitive-design`
-
-
-## Connects To
-- [[Value-Sensitive Design]] `concept` *(extends)*
-- [[Responsible AI and Ethics]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Responsible AI and Ethics]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Umbrello and van de Poel adapt Value Sensitive Design (VSD) methodology to address the specific challenges posed by AI systems, arguing that machine learning creates new problems for value embeddedness that require modifications to standard VSD approaches. They propose integrating AI4SG (AI for Social Good) principles into VSD to address transparency, explicability, and the risk that ML systems may "disembody" their initial value constraints as they adapt over time.

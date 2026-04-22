@@ -1,39 +1,20 @@
 ---
-title: "Evolving Roles of Creative Practitioners in GenAI Age (Palani and Ramos)"
-type: paper
+source_file: "research_docs/P12.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2024
-venue: "C and C 2024"
-institution: "Microsoft Research"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/genai-design-practice
-  - theme/ai-future-of-work
 ---
+
 # Evolving Roles of Creative Practitioners in GenAI Age (Palani and Ramos)
 
-**Year:** 2024
-**Venue:** C and C 2024
-**Institution:** Microsoft Research
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-Creative practitioners become AI integrators, curators, and directors of generative systems
-
-
-## Topics
-`#theme/genai-design-practice`  `#theme/ai-future-of-work`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Palani and Ramos investigate how creative practitioners—writers, designers, and other creative professionals—are adapting their roles and workflows in response to generative AI tools. Through empirical research presented at C&C 2024, they find that practitioners are developing new hybrid roles as AI curators, directors, and critics rather than simply being replaced. The study documents how creative work is being reconfigured around AI collaboration, with important implications for creative labor and professional identity.

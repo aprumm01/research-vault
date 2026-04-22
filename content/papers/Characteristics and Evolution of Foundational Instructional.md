@@ -1,29 +1,19 @@
 ---
-title: "Characteristics and Evolution of Foundational Instructional "
-type: paper
+source_file: "research_docs/P80.pdf"
+type: "paper"
 community: "Instructional Design Theory"
-year: ""
-venue: ""
-institution: ""
-source_file: "Characteristics and Evolution of Foundational Instructional Design Models.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-  - theme/instructional-design
 ---
+
 # Characteristics and Evolution of Foundational Instructional 
 
+## Connections
+- [[Instructional Design Theory]] - `` [EXTRACTED]
 
-## Topics
-`#theme/instructional-design`
-
-
-## Connects To
-- [[Instructional Design Theory]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Instructional Design Theory]]
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 This paper traces the development and characteristic features of foundational instructional design models, examining how models like ADDIE, Dick and Carey, and others evolved from their origins in military and behavioral psychology to their current forms. The analysis identifies common structural elements (analysis, design, development, implementation, evaluation) while noting how different models emphasize different values — systematic process, learner-centeredness, performance improvement, or rapid development. The paper is a useful historical and comparative reference for instructional design scholarship.

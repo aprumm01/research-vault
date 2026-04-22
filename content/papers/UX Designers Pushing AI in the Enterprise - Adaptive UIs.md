@@ -1,37 +1,20 @@
 ---
-title: "UX Designers Pushing AI in the Enterprise - Adaptive UIs"
-type: paper
+source_file: "research_docs/P137.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: ""
-venue: ""
-institution: "John Zimmerman, Carnegie Mellon University Changhoon Oh, Car"
-source_file: "UX Designers pushing AI in the eneterprise_a case for adaptive UIs.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/genai-design-practice
-  - theme/ai-future-of-work
 ---
+
 # UX Designers Pushing AI in the Enterprise - Adaptive UIs
 
-**Institution:** John Zimmerman, Carnegie Mellon University Changhoon Oh, Car
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-Changhoon Oh, Carnegie Mellon University Nur Yildirim, Carnegie Mellon University Alex Kass, Accenture
-
-
-## Topics
-`#theme/genai-design-practice`  `#theme/ai-future-of-work`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-- [[AI and Future of Work]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Zimmerman, Oh, Yildirim, Kass, Tung, and Forlizzi at Carnegie Mellon and Accenture argue that UX designers have a unique opportunity to push adaptive user interfaces (AUIs) into enterprise settings, where AI can learn from workers' repetitive actions and automate the most routine tasks. They make the case that small amounts of AI can enrich enterprise UIs in practical ways, and that UX designers are well-positioned to champion and shape responsible AI integration in organizational software.

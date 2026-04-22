@@ -1,29 +1,19 @@
 ---
-title: "Clark Mayer"
-type: paper
+source_file: "research_docs/P83.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: ""
-venue: ""
-institution: ""
-source_file: "Clark_Mayer.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # Clark Mayer
 
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Clark and Mayer's textbook "e-Learning and the Science of Instruction" applies cognitive learning science principles to the design of e-learning materials, translating research on multimedia learning into practical guidelines for instructional designers. The book introduces principles such as the coherence principle, signaling principle, contiguity principle, and modality principle, each grounded in Mayer's cognitive theory of multimedia learning. It is the foundational applied reference for evidence-based e-learning design.

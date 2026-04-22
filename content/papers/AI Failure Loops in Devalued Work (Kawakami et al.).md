@@ -1,47 +1,22 @@
 ---
-title: "AI Failure Loops in Devalued Work (Kawakami et al.)"
-type: paper
+source_file: "research_docs/P2.pdf"
+type: "paper"
 community: "Responsible AI and Ethics"
-year: 2025
-venue: "Big Data and Society"
-institution: "Carnegie Mellon HCII"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
-  - theme/ai-future-of-work
-  - theme/responsible-ai-ethics
-  - topic/ai-failure-loops
-  - topic/feminized-labor-ai
 ---
+
 # AI Failure Loops in Devalued Work (Kawakami et al.)
 
-**Year:** 2025
-**Venue:** Big Data and Society
-**Institution:** Carnegie Mellon HCII
+## Connections
+- [[AI Failure Loops]] - `` [EXTRACTED]
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Feminized Labor and AI]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-
-## Key Finding
-Introduces AI Failure Loops; devaluation of feminized labor drives AI deployment failures
-
-
-## Topics
-`#theme/ai-future-of-work`  `#theme/responsible-ai-ethics`  `#topic/ai-failure-loops`  `#topic/feminized-labor-ai`
-
-
-## Connects To
-- [[AI Failure Loops]] `concept` *(introduces)*
-- [[Feminized Labor and AI]] `concept` *(addresses)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-- [[Responsible AI and Ethics]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Anna Kawakami]] `author` *(authored)*
-
-
-## Community
-[[_COMMUNITY_Responsible AI and Ethics]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Kawakami et al. conceptualize "AI Failure Loops" — self-reinforcing sociotechnical failures that occur when workplace AI is deployed in feminized labor contexts (social work, K-12 teaching, home healthcare) where worker expertise is systematically devalued. The paper argues that overconfidence in AI capabilities and underconfidence in worker expertise compound each other, producing AI systems that fail to enhance labor and further erode workers' visibility. Understanding occupational devaluation is essential to diagnosing why workplace AI so consistently disappoints in these contexts.

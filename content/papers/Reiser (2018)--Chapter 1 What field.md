@@ -1,31 +1,19 @@
 ---
-title: "Reiser (2018)--Chapter 1 What field"
-type: paper
+source_file: "research_docs/P117.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2018
-venue: ""
-institution: ""
-source_file: "Reiser (2018)--Chapter 1 What field.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # Reiser (2018)--Chapter 1 What field
 
-**Year:** 2018
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Robert Reiser's chapter examines the question of what field instructional design and technology (IDT) belongs to, tracing its historical development from audiovisual communications through programmed instruction to contemporary technology-enhanced learning. Reiser argues that IDT is a coherent field defined by its focus on systematic approaches to designing effective instruction, with a distinct history of theory and practice that justifies its status as an independent discipline.

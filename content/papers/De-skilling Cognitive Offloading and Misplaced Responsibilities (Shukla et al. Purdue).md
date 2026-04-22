@@ -1,15 +1,22 @@
 ---
 source_file: "research_docs/P7.pdf"
-type: ""
+type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-authors: "Shukla et al., Purdue University"
-year: 2024
-venue: "CHI 2024"
 ---
 
 # De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)
+
+## Connections
+- [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]
+- [[Design Judgment]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Shukla et al. analyze over 120 Reddit articles and discussions from UX practitioners to surface perceptions of AI's risks, finding that practitioners recognize both productivity gains and alarming automation ironies — including de-skilling, cognitive offloading, and the misplacement of design responsibilities onto AI tools. Drawing on human-automation interaction literature (particularly Bainbridge's ironies of automation), they argue that UX professionals must critically evaluate AI beyond immediate efficiency gains and consider long-term implications for creative autonomy and expertise. The paper connects practitioner folk wisdom to formal automation theory.
@@ -40,6 +47,4 @@ Reddit-sourced data skews toward vocal, tech-savvy practitioners and may not rep
 - [[Cognitive Offloading and De-skilling]] - `` 
 - [[Design Judgment]] - `` 
 - [[GenAI in UX and Design Practice]] - `` 
-- [[HCI Education and Pedagogy]] - `` 
-
-
+- [[HCI Education and Pedagogy]] - ``

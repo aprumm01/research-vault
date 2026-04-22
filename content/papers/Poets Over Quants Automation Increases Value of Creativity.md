@@ -1,38 +1,20 @@
 ---
-title: "Poets Over Quants: Automation Increases Value of Creativity"
-type: paper
+source_file: "research_docs/P71.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2025
-venue: "Personality and Social Psychology Bulletin 2025"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
-  - topic/job-displacement-reskilling
 ---
+
 # Poets Over Quants: Automation Increases Value of Creativity
 
-**Year:** 2025
-**Venue:** Personality and Social Psychology Bulletin 2025
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Job Displacement and Reskilling]] - `` [EXTRACTED]
 
-
-## Key Finding
-Automation threat increases lay beliefs about value of creativity in workforce
-
-
-## Topics
-`#theme/ai-future-of-work`  `#topic/job-displacement-reskilling`
-
-
-## Connects To
-- [[Job Displacement and Reskilling]] `concept` *(addresses)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 This Personality and Social Psychology Bulletin study examines how automation and AI threats change people's lay beliefs about which skills are most valuable in the workforce. Across multiple experiments, the authors find that perceived threats from automation and AI increase the value people place on creative skills relative to quantitative skills—a psychological response suggesting that when machines can "out-quant" humans, creativity becomes a marker of distinctive human value.

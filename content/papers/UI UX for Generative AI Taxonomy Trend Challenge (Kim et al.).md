@@ -1,37 +1,19 @@
 ---
-title: "UI UX for Generative AI: Taxonomy Trend Challenge (Kim et al.)"
-type: paper
+source_file: "research_docs/P63.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2024
-venue: "IEEE Access 2024"
-institution: "Sejong University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # UI UX for Generative AI: Taxonomy Trend Challenge (Kim et al.)
 
-**Year:** 2024
-**Venue:** IEEE Access 2024
-**Institution:** Sejong University
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-Taxonomy of UI/UX approaches for GenAI systems; trends and open challenges
-
-
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Kim et al. develop a comprehensive taxonomy of UI/UX design patterns for generative AI applications, reviewing current trends and identifying open challenges. Published in IEEE Access, the paper categorizes interaction paradigms, output presentation strategies, and user control mechanisms across GenAI systems, providing designers with a systematic framework for understanding the design space. They identify key unsolved challenges including uncertainty communication, error recovery, and user agency preservation.

@@ -1,37 +1,21 @@
 ---
-title: "Cogent Social Sciences"
-type: paper
+source_file: "research_docs/P113.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: ""
-venue: ""
-institution: ""
-source_file: "Optimizing employee roles in the era of generative AI  a multi-criteria decision-making analysis of co-creation dynamics.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - topic/human-ai-collaboration
-  - topic/studio-pedagogy
-  - theme/genai-design-practice
 ---
+
 # Cogent Social Sciences
 
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
 
-## Key Finding
-ISSN: 2331-1886 (Online) Journal homepage: www.tandfonline.com/journals/oass20 Optimizing employee roles in the era of generative AI: a multi-criteria decision-making
-
-
-## Topics
-`#topic/human-ai-collaboration`  `#topic/studio-pedagogy`  `#theme/genai-design-practice`
-
-
-## Connects To
-- [[Human-AI Creative Collaboration]] `concept` *(addresses)*
-- [[Studio Pedagogy]] `concept` *(addresses)*
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This paper examines how generative AI is reshaping employee roles in organizations through a multi-criteria decision-making (MCDM) analysis of co-creation dynamics, proposing an optimization framework for role allocation in AI-integrated work environments. Published in Cogent Social Sciences, the paper addresses the managerial challenge of deciding which tasks and roles should be assigned to humans, AI, or human-AI co-creation teams, using quantitative MCDM methods to identify optimal configurations.

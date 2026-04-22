@@ -1,35 +1,37 @@
 ---
 type: community
-community_id: 8
 members: 9
-tags:
-  - type/community
-  - community/Human_Performance_Technology
 ---
 
 # Human Performance Technology
 
-**9 members** · **Community 8**
+**Members:** 9 nodes
 
-
-## Papers
-
-- [[E1C01_1 10142009 5]] (2010)
-- [[EVALUATING]]
-- [[Fr om code to collaboration]]
-- [[HPT Model Applied to Kayak Company (Martin et al.)]] (2009)
-- [[Kirkpatrick Plus Evaluation and Continuous]]
-- [[Stolovitch Beresford 2012--evoluation of HPT (1)]] (2012)
-- [[The Current State of Human]] (2011)
-
-## Concepts & Themes
-
+## Members
+- [[E1C01_1 10142009 5]] - research_docs/P143.pdf
+- [[EVALUATING]] - research_docs/P107.pdf
+- [[Fr om code to collaboration]] - research_docs/P99.pdf
+- [[HPT Model Applied to Kayak Company (Martin et al.)]] - research_docs/P45.pdf
 - [[Human Performance Technology]]
 - [[Kirkpatrick Evaluation Model]]
+- [[Kirkpatrick Plus Evaluation and Continuous]] - research_docs/P108.pdf
+- [[Stolovitch Beresford 2012--evoluation of HPT (1)]] - research_docs/P124.pdf
+- [[The Current State of Human]] - research_docs/P82.pdf
 
-## Connections to Other Communities
+## Live Query (requires Dataview plugin)
 
-- [[_COMMUNITY_Responsible AI and Ethics]] — 3 edges
-- [[_COMMUNITY_Instructional Design Theory]] — 2 edges
-- [[_COMMUNITY_HCI Education and Pedagogy]] — 1 edge
-- [[_COMMUNITY_AI in Design Education]] — 1 edge
+```dataview
+TABLE source_file, type FROM #community/Human_Performance_Technology
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 3 edges to [[_COMMUNITY_Responsible AI and Ethics]]
+- 2 edges to [[_COMMUNITY_Instructional Design Theory]]
+- 1 edge to [[_COMMUNITY_AI in Design Education]]
+- 1 edge to [[_COMMUNITY_HCI Education and Pedagogy]]
+
+## Top bridge nodes
+- [[EVALUATING]] - degree 3, connects to 2 communities
+- [[Kirkpatrick Plus Evaluation and Continuous]] - degree 3, connects to 1 community
+- [[E1C01_1 10142009 5]] - degree 2, connects to 1 community

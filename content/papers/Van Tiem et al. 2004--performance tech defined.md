@@ -1,31 +1,19 @@
 ---
-title: "Van Tiem et al. 2004--performance tech defined"
-type: paper
+source_file: "research_docs/P139.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2004
-venue: ""
-institution: ""
-source_file: "Van_Tiem_et_al._2004--performance tech defined.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # Van Tiem et al. 2004--performance tech defined
 
-**Year:** 2004
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Van Tiem et al. provide a foundational definition and conceptual overview of performance technology as a field, articulating its core principles, distinguishing features, and relationship to adjacent disciplines like training, organizational development, and management. The work situates performance technology within a systematic, results-oriented tradition and outlines the competencies, methods, and values that define professional practice in the field.

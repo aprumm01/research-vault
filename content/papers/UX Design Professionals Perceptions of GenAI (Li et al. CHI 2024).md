@@ -1,43 +1,20 @@
 ---
-title: "UX Design Professionals Perceptions of GenAI (Li et al. CHI 2024)"
-type: paper
+source_file: "research_docs/P6.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2024
-venue: "CHI 2024"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/genai-design-practice
-  - topic/human-ai-collaboration
 ---
+
 # UX Design Professionals Perceptions of GenAI (Li et al. CHI 2024)
 
-**Year:** 2024
-**Venue:** CHI 2024
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 
-
-## Key Finding
-20 UX designers; experienced confident in originality; fears about junior over-reliance
-
-
-## Topics
-`#theme/genai-design-practice`  `#topic/human-ai-collaboration`
-
-
-## Connects To
-- [[Human-AI Creative Collaboration]] `concept` *(addresses)*
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Hancheng Cao]] `author` *(co-authored)*
-- [[Abdallah El Ali]] `author` *(co-authored)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Li et al. present findings from CHI 2024 on how UX design professionals perceive generative AI tools, drawing on interviews and studies with practitioners across industry. They find that UX designers view GenAI ambivalently: valuing its speed and ideation support while concerned about quality, creativity, and professional identity. The study maps how perceptions vary by role, experience, and organizational context, contributing to understanding of how GenAI is being absorbed into professional UX practice.

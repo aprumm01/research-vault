@@ -1,36 +1,19 @@
 ---
-title: "Fr om code to collaboration:"
-type: paper
+source_file: "research_docs/P99.pdf"
+type: "paper"
 community: "Human Performance Technology"
-year: ""
-venue: "disruption in all industries. The adoption of AI in business"
-institution: "a Pandita Symbiosis Institute of Business Management Pune, S"
-source_file: "From code to collaboration.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Human_Performance_Technology
-  - theme/human-performance-technology
 ---
+
 # Fr om code to collaboration:
 
-**Venue:** disruption in all industries. The adoption of AI in business
-**Institution:** a Pandita Symbiosis Institute of Business Management Pune, S
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
 
-
-## Key Finding
-Purpose – Artificial intelligence is creating a significant technological disruption in all industries. The adoption of AI in business has been proliferated by the use of data analytics, machine learn
-
-
-## Topics
-`#theme/human-performance-technology`
-
-
-## Connects To
-- [[Human Performance Technology]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Human Performance Technology]]
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
 
 ## Summary
 Rastogi and Pandita examine employee perceptions of AI advancements in the IT sector through qualitative interviews with 27 IT specialists from multinational corporations, finding that AI is transforming job roles from technical execution toward strategic collaboration and decision-making. While employees recognize AI's productivity benefits, they also express concerns about skill redundancy, job security, and the pace of change. The study identifies organizational interventions needed to support effective AI integration.

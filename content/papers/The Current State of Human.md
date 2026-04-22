@@ -1,35 +1,19 @@
 ---
-title: "The Current State of Human"
-type: paper
+source_file: "research_docs/P82.pdf"
+type: "paper"
 community: "Human Performance Technology"
-year: 2011
-venue: ""
-institution: ""
-source_file: "Cho_Jo_Park_Kang_Chen_2011--current state of HPT.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Human_Performance_Technology
-  - theme/human-performance-technology
 ---
+
 # The Current State of Human
 
-**Year:** 2011
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
 
-
-## Key Finding
-Performance Technology: A Citation Network Analysis of Performance Improvement Quarterly, 1988–2010
-
-
-## Topics
-`#theme/human-performance-technology`
-
-
-## Connects To
-- [[Human Performance Technology]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Human Performance Technology]]
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
 
 ## Summary
 Cho et al. conduct a citation network analysis of Performance Improvement Quarterly from 1988 to 2010 to map the intellectual structure and current state of Human Performance Technology (HPT) as a field. They find that HPT has developed a coherent citation network with identifiable clusters around performance analysis, intervention design, and evaluation, but that theory development remains limited relative to practice-oriented contributions. The analysis reveals HPT's intellectual dependencies and areas for scholarly growth.

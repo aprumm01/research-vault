@@ -1,39 +1,21 @@
 ---
-title: "ASCILITE 2024"
-type: paper
+source_file: "research_docs/P96.pdf"
+type: "paper"
 community: "Responsible AI and Ethics"
-year: ""
-venue: ""
-institution: "and Winn Chow The University of Melbourne Presently, artific"
-source_file: "Exploring the Role of AI in UX Research.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
-  - topic/responsible-ai-governance
-  - topic/ai-literacy
-  - theme/genai-design-practice
 ---
+
 # ASCILITE 2024
 
-**Institution:** and Winn Chow The University of Melbourne Presently, artific
+## Connections
+- [[AI Literacy]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
 
-
-## Key Finding
-Navigating the Terrain: Emerging Frontiers in Learning Spaces, Pedagogies, and Technologies Exploring the Role of AI in UX Research: Challenges, Opportunities,
-
-
-## Topics
-`#topic/responsible-ai-governance`  `#topic/ai-literacy`  `#theme/genai-design-practice`
-
-
-## Connects To
-- [[Responsible AI Governance]] `concept` *(addresses)*
-- [[AI Literacy]] `concept` *(addresses)*
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Responsible AI and Ethics]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 This ASCILITE 2024 conference paper explores the role of AI tools in UX research practice, examining how UX researchers are integrating AI into their workflows and what implications this has for research quality, efficiency, and professional competency. The paper documents emerging patterns of AI use in UX research contexts and raises questions about the impact of AI assistance on research rigor and practitioner skill development.

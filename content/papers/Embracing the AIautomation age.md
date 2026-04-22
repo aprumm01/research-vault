@@ -1,38 +1,20 @@
 ---
-title: "Embracing the AI/automation age:"
-type: paper
+source_file: "research_docs/P90.pdf"
+type: "paper"
 community: "HCI Education and Pedagogy"
-year: ""
-venue: "chines working together Emmanuel Senior Tenakwah and Chrysti"
-institution: "ety, Charles Darwin University, Darwin, Australia Abstract P"
-source_file: "Embracing the AI-automation age.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-  - topic/studio-pedagogy
-  - theme/ai-future-of-work
 ---
+
 # Embracing the AI/automation age:
 
-**Venue:** chines working together Emmanuel Senior Tenakwah and Chrysti
-**Institution:** ety, Charles Darwin University, Darwin, Australia Abstract P
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
 
-
-## Key Finding
-Purpose – This paper aims to highlight the crucial role of strategic human resource management and leadership in preparing workforces for the artiﬁcial intelligence (AI) and automation age. Design/met
-
-
-## Topics
-`#topic/studio-pedagogy`  `#theme/ai-future-of-work`
-
-
-## Connects To
-- [[Studio Pedagogy]] `concept` *(addresses)*
-- [[AI and Future of Work]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_HCI Education and Pedagogy]]
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Tenakwah and Watson argue that successfully integrating AI and automation into the workforce requires proactive strategic human resource management (HRM) that aligns AI adoption with organizational goals. Through a conceptual review drawing on industry examples, they develop a framework for building AI-literate, adaptable workforces that can collaborate effectively with intelligent systems. The paper emphasizes leadership responsibility in enabling workforce transitions through reskilling and new AI-centric role creation.

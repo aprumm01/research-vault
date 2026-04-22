@@ -1,39 +1,20 @@
 ---
-title: "Designerly Ways of Knowing (Cross 1982)"
-type: paper
+source_file: "research_docs/P27.pdf"
+type: "paper"
 community: "Design Theory and Cognition"
-year: 1982
-venue: "Design Studies"
-institution: "Open University UK"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
-  - theme/design-theory-cognition
-  - topic/designerly-ways-of-knowing
 ---
+
 # Designerly Ways of Knowing (Cross 1982)
 
-**Year:** 1982
-**Venue:** Design Studies
-**Institution:** Open University UK
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Designerly Ways of Knowing]] - `` [EXTRACTED]
 
-
-## Key Finding
-Design is a third area of human knowing distinct from sciences and humanities
-
-
-## Topics
-`#theme/design-theory-cognition`  `#topic/designerly-ways-of-knowing`
-
-
-## Connects To
-- [[Designerly Ways of Knowing]] `concept` *(introduces)*
-- [[Design Theory and Cognition]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Design Theory and Cognition]]
+#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
 
 ## Summary
 Nigel Cross argues that design constitutes a "third culture" alongside sciences and humanities, with its own distinct epistemology rooted in constructive problem-solving and abductive reasoning. He contends that design education must move beyond instrumental training toward developing intrinsic designerly values: the ability to model, represent, and synthesize solutions to ill-defined problems. The paper is foundational for framing design as a legitimate cognitive discipline.

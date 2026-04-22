@@ -1,38 +1,20 @@
 ---
-title: "Rethinking AI in Organization and Management (Ramaul et al.)"
-type: paper
+source_file: "research_docs/P35.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2025
-venue: "Journal of Management Studies 2025"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
-  - topic/hybrid-intelligence
 ---
+
 # Rethinking AI in Organization and Management (Ramaul et al.)
 
-**Year:** 2025
-**Venue:** Journal of Management Studies 2025
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Hybrid Intelligence]] - `` [EXTRACTED]
 
-
-## Key Finding
-Problematizing review of rationality and anthropomorphism in AI theorization in management
-
-
-## Topics
-`#theme/ai-future-of-work`  `#topic/hybrid-intelligence`
-
-
-## Connects To
-- [[Hybrid Intelligence]] `concept` *(theorizes)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Ramaula et al. conduct a problematizing review of how AI is theorized in organization and management research, identifying two dominant and problematic assumptions: AI as purely rational decision-maker and AI as anthropomorphized agent. They argue that both framings are theoretically inadequate for understanding AI as it now exists—capable of approaching human-level performance in domains previously considered exclusively human. The paper calls for new theoretical frameworks that move beyond rationality and anthropomorphism.

@@ -1,37 +1,20 @@
 ---
-title: "Transforming Software Development with Generative AI"
-type: paper
+source_file: "research_docs/P133.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: ""
-venue: ""
-institution: "ent of Informatics, University of Oslo, Oslo, Norway stray@u"
-source_file: "Transforming Software Development with Generative AI - Empirical Insights on Collaboration and Workflow.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/genai-design-practice
-  - theme/ai-future-of-work
 ---
+
 # Transforming Software Development with Generative AI
 
-**Institution:** ent of Informatics, University of Oslo, Oslo, Norway stray@u
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-Generative AI (GenAI) has fundamentally changed how knowl- edge workers, such as software developers, solve tasks and collaborate to build software products. Introducing innovative tools like ChatGPT
-
-
-## Topics
-`#theme/genai-design-practice`  `#theme/ai-future-of-work`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-- [[AI and Future of Work]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Ulfsnes et al. conduct an empirical study with 13 data scientists, managers, developers, and designers at a Norwegian software company to investigate how generative AI tools (particularly ChatGPT and GitHub Copilot) are changing software development workflows and team collaboration. They find that GenAI represents a paradigm shift in how developers solve problems, enabling faster iteration and knowledge access, but also introducing new challenges around code quality, dependency, and team knowledge-sharing norms.

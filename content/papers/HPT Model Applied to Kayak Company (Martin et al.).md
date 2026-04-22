@@ -1,38 +1,20 @@
 ---
-title: "HPT Model Applied to Kayak Company (Martin et al.)"
-type: paper
+source_file: "research_docs/P45.pdf"
+type: "paper"
 community: "Human Performance Technology"
-year: 2009
-venue: "Performance Improvement 2009"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Human_Performance_Technology
-  - theme/human-performance-technology
-  - topic/kirkpatrick-evaluation
 ---
+
 # HPT Model Applied to Kayak Company (Martin et al.)
 
-**Year:** 2009
-**Venue:** Performance Improvement 2009
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
 
-
-## Key Finding
-Step-by-step HPT application; gap analysis, cause analysis, intervention selection for business problems
-
-
-## Topics
-`#theme/human-performance-technology`  `#topic/kirkpatrick-evaluation`
-
-
-## Connects To
-- [[Kirkpatrick Evaluation Model]] `concept` *(applies)*
-- [[Human Performance Technology]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Human Performance Technology]]
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
 
 ## Summary
 Martin et al. provide a detailed case study of applying the Human Performance Technology (HPT) model to a premier kayak company on the North Carolina coast, addressing performance problems including misinformed customers, dissatisfied customers, and guide no-shows. The case study walks through each step of the HPT process—organizational analysis, environmental analysis, gap analysis, cause analysis, and intervention design—demonstrating how HPT translates theory into actionable organizational solutions.

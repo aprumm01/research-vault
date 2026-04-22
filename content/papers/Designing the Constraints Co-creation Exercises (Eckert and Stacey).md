@@ -1,36 +1,19 @@
 ---
-title: "Designing the Constraints: Co-creation Exercises (Eckert and Stacey)"
-type: paper
+source_file: "research_docs/P64.pdf"
+type: "paper"
 community: "Design Theory and Cognition"
-year: 2017
-venue: "Book chapter 2017"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
-  - theme/design-theory-cognition
 ---
+
 # Designing the Constraints: Co-creation Exercises (Eckert and Stacey)
 
-**Year:** 2017
-**Venue:** Book chapter 2017
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
 
-
-## Key Finding
-Co-creation exercise with Chinese consumers; constraint gathering in user experience design context
-
-
-## Topics
-`#theme/design-theory-cognition`
-
-
-## Connects To
-- [[Design Theory and Cognition]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Design Theory and Cognition]]
+#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
 
 ## Summary
 Eckert and Stacey examine how design teams gather contextual constraints by framing co-creation exercises as analogous to constraint-gathering phases in artistic design. Through analysis of a user experience co-creation study with Chinese consumers conducted by a European car company, they show how narrative co-creation produces rich value data that can inform design constraint spaces. The paper bridges participatory design methods with constraint-based design theory.

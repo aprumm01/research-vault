@@ -1,35 +1,19 @@
 ---
-title: "How to Be Universal: Some Cybernetic Strategies, 1943-70"
-type: paper
+source_file: "research_docs/P104.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: ""
-venue: "chive indicates your acceptance of the Terms & Conditions of"
-institution: ""
-source_file: "How to be Universal - Some cybernetic strategies - Bowker1993.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # How to Be Universal: Some Cybernetic Strategies, 1943-70
 
-**Venue:** chive indicates your acceptance of the Terms & Conditions of
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-Author(s): Geof Bowker Source: Social Studies of Science, Vol. 23, No. 1 (Feb., 1993), pp. 107-127 Published by: Sage Publications, Ltd.
-
-
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Geof Bowker analyzes the expansion of cybernetics as a discipline between 1943 and 1970, examining the rhetorical and institutional strategies through which cyberneticians positioned their framework as universally applicable across biology, engineering, social science, and management. He argues that cybernetics achieved disciplinary expansion not through empirical success but through strategic boundary work and translation—making its concepts applicable to whatever domain required legitimation.

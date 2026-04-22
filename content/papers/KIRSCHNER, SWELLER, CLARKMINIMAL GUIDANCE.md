@@ -1,40 +1,21 @@
 ---
-title: "KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE"
-type: paper
+source_file: "research_docs/P140.pdf"
+type: "paper"
 community: "Instructional Design Theory"
-year: ""
-venue: "Discovery, Problem-Based, Experiential, and Inquiry-Based Te"
-institution: "pertise Center Open University of the Netherlands Research C"
-source_file: "Why Minimal Guidance During Instruction Does Not - Kirschner.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-  - topic/cognitive-load-theory
-  - topic/constructivism
-  - topic/problem-based-learning
 ---
+
 # KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE
 
-**Venue:** Discovery, Problem-Based, Experiential, and Inquiry-Based Te
-**Institution:** pertise Center Open University of the Netherlands Research C
+## Connections
+- [[Cognitive Load Theory]] - `` [EXTRACTED]
+- [[Constructivism]] - `` [EXTRACTED]
+- [[Problem-Based Learning]] - `` [EXTRACTED]
 
-
-## Key Finding
-Why Minimal Guidance During Instruction Does Not Work: An Analysis of the Failure of Constructivist, Discovery, Problem-Based, Experiential, and
-
-
-## Topics
-`#topic/cognitive-load-theory`  `#topic/constructivism`  `#topic/problem-based-learning`
-
-
-## Connects To
-- [[Constructivism]] `concept` *(addresses)*
-- [[Cognitive Load Theory]] `concept` *(addresses)*
-- [[Problem-Based Learning]] `concept` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Instructional Design Theory]]
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Kirschner, Sweller, and Clark mount a cognitive-scientific critique of minimally guided instruction, arguing that constructivist, discovery, problem-based, and inquiry-based approaches are less effective than explicit instruction because they ignore how human cognitive architecture works. Drawing on cognitive load theory and research on expert-novice differences, they contend that novices lack the schemas necessary to benefit from minimal guidance, making direct instruction more efficient and effective for initial learning.

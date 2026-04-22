@@ -1,36 +1,19 @@
 ---
-title: "Examining the Interplay of Efficiency (AI Workplace)"
-type: paper
+source_file: "research_docs/P94.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: ""
-venue: "dist University Email: makpan@methodist.edu Dr. Adeyemi Ad"
-institution: "counting Methodist University Email: makpan@methodist.edu Dr"
-source_file: "Examining the Interplay of Efficiency,.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
 ---
+
 # Examining the Interplay of Efficiency (AI Workplace)
 
-**Venue:** dist University Email: makpan@methodist.edu Dr. Adeyemi Ad
-**Institution:** counting Methodist University Email: makpan@methodist.edu Dr
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
 
-
-## Key Finding
-Artificial Intelligence's (AI) rapid development and growth not only transformed industries but also fired up important debates about its impacts on employment, resource allocation, and the ethics i
-
-
-## Topics
-`#theme/ai-future-of-work`
-
-
-## Connects To
-- [[AI and Future of Work]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Akpan and Adebayo examine what they call the "dual paradoxes" of AI adoption in the workplace: while AI dramatically increases operational efficiency, it simultaneously increases energy consumption and displaces traditional labor, creating contradictory pressures on organizations and society. Through literature analysis, they explore how AI is reshaping human labor roles, creating hybrid positions, and raising fundamental questions about the ethics of automation and workforce displacement.

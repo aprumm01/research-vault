@@ -1,43 +1,20 @@
 ---
-title: "Beyond Design and Use: Studying Intelligent Technologies (Bailey and Barley)"
-type: paper
+source_file: "research_docs/P29.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2019
-venue: "Information and Organization"
-institution: "Cornell / UCSB"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
-  - theme/responsible-ai-ethics
 ---
+
 # Beyond Design and Use: Studying Intelligent Technologies (Bailey and Barley)
 
-**Year:** 2019
-**Venue:** Information and Organization
-**Institution:** Cornell / UCSB
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-
-## Key Finding
-Unified approach: variation, power, ideology, institutions as four glossed issues in AI research
-
-
-## Topics
-`#theme/ai-future-of-work`  `#theme/responsible-ai-ethics`
-
-
-## Connects To
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-- [[Responsible AI and Ethics]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Automate Infomate Two Faces of Intelligent Technology (Zuboff 1985)]] `paper` *(precedes)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Bailey and Barley argue in this Information and Organization article that the traditional "design and use" frame in organizational informatics is inadequate for studying intelligent technologies like AI, which learn, adapt, and act in ways that blur the boundary between artifact and agent. They call for scholars to theorize AI as an active participant in organizational processes rather than as a passive tool designed by humans and used by workers. The paper is a landmark methodological and theoretical intervention for studying AI in organizations.

@@ -1,36 +1,19 @@
 ---
-title: "The Cultures of Contemporary Instructional Design Scholarship, Part One: Deve..."
-type: paper
+source_file: "research_docs/P142.pdf"
+type: "paper"
 community: "Instructional Design Theory"
-year: 2011
-venue: "discover, use, and build upon a wide range of content in a t"
-institution: ""
-source_file: "Willis-CulturesContemporaryInstructional-2011.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-  - theme/instructional-design
 ---
+
 # The Cultures of Contemporary Instructional Design Scholarship, Part One: Deve...
 
-**Year:** 2011
-**Venue:** discover, use, and build upon a wide range of content in a t
+## Connections
+- [[Instructional Design Theory]] - `` [EXTRACTED]
 
-
-## Key Finding
-Based on Behavioral and Cognitive Science Foundations Author(s): Jerry Willis Source: Educational Technology, January-February 2011, Vol. 51, No. 1 (January-February
-
-
-## Topics
-`#theme/instructional-design`
-
-
-## Connects To
-- [[Instructional Design Theory]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Instructional Design Theory]]
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Jerry Willis analyzes the cultures of contemporary instructional design scholarship, focusing in Part One on traditions grounded in behavioral and cognitive science. He examines how these foundational paradigms shape ID research questions, methods, and prescriptions, and critiques the limitations of overly prescriptive, algorithmic approaches that treat design as an engineering problem. The paper is part of a series examining the multiple intellectual cultures that constitute the ID field.

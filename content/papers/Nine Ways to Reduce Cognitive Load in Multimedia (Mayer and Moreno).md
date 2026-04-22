@@ -1,38 +1,20 @@
 ---
-title: "Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)"
-type: paper
+source_file: "research_docs/P44.pdf"
+type: "paper"
 community: "Instructional Design Theory"
-year: 2003
-venue: "Educational Psychologist 2003"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-  - theme/instructional-design
-  - topic/cognitive-load-theory
 ---
+
 # Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)
 
-**Year:** 2003
-**Venue:** Educational Psychologist 2003
+## Connections
+- [[Cognitive Load Theory]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
 
-
-## Key Finding
-Cognitive theory of multimedia learning; dual-channel, limited-capacity; nine overload remediation strategies
-
-
-## Topics
-`#theme/instructional-design`  `#topic/cognitive-load-theory`
-
-
-## Connects To
-- [[Cognitive Load Theory]] `concept` *(extends)*
-- [[Instructional Design Theory]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Instructional Design Theory]]
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Mayer and Moreno propose a theory of multimedia learning based on dual-channel processing, limited cognitive capacity, and active processing, then use this theory to identify five overload scenarios and nine corresponding strategies for reducing cognitive load in multimedia instruction. The strategies—including pre-training, modality effects, segmentation, coherence, and signaling—provide evidence-based design guidance for instructional multimedia.

@@ -1,53 +1,50 @@
 ---
 type: community
-community_id: 5
-members: 18
-tags:
-  - type/community
-  - community/AI_in_Design_Education
+members: 17
 ---
 
 # AI in Design Education
 
-**18 members** · **Community 5**
+**Members:** 17 nodes
 
-
-## Papers
-
-- [[AI Literacy in Design Education Comparative Study (Schauer et al. HTW Berlin)]] (2025)
-- [[AI-Driven Learning Innovations in Design Education (Yang and Chou)]] (2025)
-- [[AI-assisted Learning in HCI Education (Heyer et al. Malmo)]] (2025)
-- [[Co-Designing with Transformers GenAI in Design Education (Sandhaus et al. Cornel]] (2025)
-- [[Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)]] (2025)
-- [[Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)]] (2025)
-- [[GenAI in UX Education Critical Thinking Assessment (Naing et al.)]] (2025)
-- [[Generative AI Integrated Educational Model for User-Centered]]
-- [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]] (2024)
-- [[Promoting Students Deep Learning via Design-Based Learning (Weng et al.)]] (2023)
-- [[Using Generative AI to Support UX Design Students in Web Dev]]
-
-## Authors
-
-- [[Hauke Sandhaus]]
-- [[Wendy Ju]]
-
-## Institutions
-
-- [[Cornell Tech]]
-
-## Concepts & Themes
-
+## Members
 - [[ADDIE Model]]
 - [[AI Literacy]]
+- [[AI Literacy in Design Education Comparative Study (Schauer et al. HTW Berlin)]] - research_docs/P38.pdf
 - [[AI in Design Education]]
+- [[AI-Driven Learning Innovations in Design Education (Yang and Chou)]] - research_docs/P22.pdf
+- [[Co-Designing with Transformers GenAI in Design Education (Sandhaus et al. Cornell)]] - research_docs/P10.pdf
+- [[Cornell Tech]] - research_docs/I5.pdf
 - [[Design Thinking]]
+- [[Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)]] - research_docs/P39.pdf
+- [[Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)]] - research_docs/P70.pdf
+- [[GenAI in UX Education Critical Thinking Assessment (Naing et al.)]] - research_docs/P51.pdf
+- [[Generative AI Integrated Educational Model for User-Centered]] - research_docs/P102.pdf
+- [[Hauke Sandhaus]] - research_docs/A10.pdf
+- [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]] - research_docs/P40.pdf
+- [[Promoting Students Deep Learning via Design-Based Learning (Weng et al.)]] - research_docs/P68.pdf
+- [[Using Generative AI to Support UX Design Students in Web Dev]] - research_docs/P136.pdf
+- [[Wendy Ju]] - research_docs/A9.pdf
 
-## Connections to Other Communities
+## Live Query (requires Dataview plugin)
 
-- [[_COMMUNITY_HCI Education and Pedagogy]] — 6 edges
-- [[_COMMUNITY_Workplace Learning and AI]] — 4 edges
-- [[_COMMUNITY_Instructional Design Theory]] — 3 edges
-- [[_COMMUNITY_Design Theory and Cognition]] — 3 edges
-- [[_COMMUNITY_Responsible AI and Ethics]] — 3 edges
-- [[_COMMUNITY_GenAI in UX and Design Practice]] — 3 edges
-- [[_COMMUNITY_Human Performance Technology]] — 1 edge
+```dataview
+TABLE source_file, type FROM #community/AI_in_Design_Education
+SORT file.name ASC
+```
+
+## Connections to other communities
+- 6 edges to [[_COMMUNITY_HCI Education and Pedagogy]]
+- 4 edges to [[_COMMUNITY_Workplace Learning and AI]]
+- 3 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
+- 3 edges to [[_COMMUNITY_Instructional Design Theory]]
+- 3 edges to [[_COMMUNITY_Design Theory and Cognition]]
+- 3 edges to [[_COMMUNITY_Responsible AI and Ethics]]
+- 1 edge to [[_COMMUNITY_Human Performance Technology]]
+
+## Top bridge nodes
+- [[ADDIE Model]] - degree 3, connects to 2 communities
+- [[AI in Design Education]] - degree 20, connects to 1 community
+- [[Design Thinking]] - degree 7, connects to 1 community
+- [[Co-Designing with Transformers GenAI in Design Education (Sandhaus et al. Cornell)]] - degree 5, connects to 1 community
+- [[Generative AI Integrated Educational Model for User-Centered]] - degree 3, connects to 1 community

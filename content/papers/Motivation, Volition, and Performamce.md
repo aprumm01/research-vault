@@ -1,29 +1,19 @@
 ---
-title: "Motivation, Volition, and Performamce"
-type: paper
+source_file: "research_docs/P112.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: ""
-venue: ""
-institution: ""
-source_file: "Motivation, Volition, and Performamce.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # Motivation, Volition, and Performamce
 
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This work examines the motivational and volitional dimensions of human performance, addressing how goals, intentions, and self-regulatory processes translate motivation into sustained action and performance outcomes. The paper engages with performance improvement frameworks that must account not just for ability but for the motivational and volitional factors that determine whether capable individuals actually perform effectively in organizational settings.

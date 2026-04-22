@@ -1,45 +1,21 @@
 ---
-title: "Thinking through Prompting: Cognitive Mediation (Dalsgaard)"
-type: paper
+source_file: "research_docs/P9.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2025
-venue: "CHI"
-institution: "Aarhus University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
-  - topic/prompt-engineering
-  - topic/creative-ambiguity
 ---
+
 # Thinking through Prompting: Cognitive Mediation (Dalsgaard)
 
-**Year:** 2025
-**Venue:** CHI
-**Institution:** Aarhus University
+## Connections
+- [[Creative Ambiguity]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Prompt Engineering]] - `` [EXTRACTED]
 
-
-## Key Finding
-Prompts as cognitive interfaces; semantic projection, compositional structuring, interpretive negotiation
-
-
-## Topics
-`#theme/genai-design-practice`  `#topic/prompt-engineering`  `#topic/creative-ambiguity`
-
-
-## Connects To
-- [[Prompt Engineering]] `concept` *(theorizes)*
-- [[Creative Ambiguity]] `concept` *(addresses)*
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Peter Dalsgaard]] `author` *(authored)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Peter Dalsgaard proposes a theoretical reframing of prompting in generative AI as a form of cognitive mediation rather than simple interface input. Drawing on external cognition theory, interface semiotics, and pragmatist philosophy, he articulates three dimensions of prompting: semantic projection, compositional structuring, and interpretive negotiation. Through an empirical vignette from branding communication, Dalsgaard shows prompting as a dynamic, cognitively rich activity of exploration and iterative meaning-making.

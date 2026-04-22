@@ -1,39 +1,21 @@
 ---
-title: "Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive"
-type: paper
+source_file: "research_docs/P78.pdf"
+type: "paper"
 community: "Responsible AI and Ethics"
-year: ""
-venue: "disabilities. Grounded in labor market segmentation theory"
-institution: ""
-source_file: "An AI-Driven Universal Job Allocation Model for Inclusive Workforce Integration.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
-  - topic/algorithmic-bias-fairness
-  - theme/human-performance-technology
-  - theme/responsible-ai-ethics
 ---
+
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive
 
-**Venue:** disabilities. Grounded in labor market segmentation theory
+## Connections
+- [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-
-## Key Finding
-Unemployment remains a major global issue, particularly for marginalized groups such as ex-offenders, rural workers, and individuals with disabilities. Grounded in labor market segmentation theory a
-
-
-## Topics
-`#topic/algorithmic-bias-fairness`  `#theme/human-performance-technology`  `#theme/responsible-ai-ethics`
-
-
-## Connects To
-- [[Algorithmic Bias and Fairness]] `concept` *(addresses)*
-- [[Responsible AI and Ethics]] `theme` *(addresses)*
-- [[Human Performance Technology]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Responsible AI and Ethics]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 This paper proposes "Employment Shopping," an AI-powered mobile employment solution designed to address systemic exclusion of marginalized workers—including ex-offenders, rural workers, and people with disabilities—from mainstream job platforms. The model combines personalized AI job recommendations with in-person support through mobile Employment Buses, functioning as an act of institutional entrepreneurship that challenges algorithmic bias and digital access barriers to achieve inclusive workforce integration.

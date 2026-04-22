@@ -1,37 +1,20 @@
 ---
-title: "The designer's judgement"
-type: paper
+source_file: "research_docs/P127.pdf"
+type: "paper"
 community: "Design Theory and Cognition"
-year: ""
-venue: ""
-institution: "al Engineering, The University of Queensland, 4072, Australi"
-source_file: "The designer's judgement.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
-  - theme/ai-design-education
-  - theme/design-theory-cognition
 ---
+
 # The designer's judgement
 
-**Institution:** al Engineering, The University of Queensland, 4072, Australi
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
 
-
-## Key Finding
-J.E. Holt, Department of Mechanical Engineering, The University of Queensland, 4072, Australia Judgement is ubiquitous in engineering work but the demand for the
-
-
-## Topics
-`#theme/ai-design-education`  `#theme/design-theory-cognition`
-
-
-## Connects To
-- [[AI in Design Education]] `theme` *(addresses)*
-- [[Design Theory and Cognition]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Design Theory and Cognition]]
+#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
 
 ## Summary
 Holt examines the nature of judgment in engineering design, drawing on Geoffrey Vickers's concept of the "appreciative system" to argue that design judgment operates across three knowledge domains: formative, commercial, and instrumental. He addresses what judgment is, how its quality can be assessed, and whether it can be taught—concluding with a strategy for engineering education that develops judgment capacity alongside technical knowledge through situated practice and mentorship.

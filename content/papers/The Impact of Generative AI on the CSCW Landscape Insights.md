@@ -1,40 +1,21 @@
 ---
-title: "The Impact of Generative AI on the CSCW Landscape: Insights"
-type: paper
+source_file: "research_docs/P128.pdf"
+type: "paper"
 community: "HCI Education and Pedagogy"
-year: ""
-venue: "CSCW Landscape: Insights from HCI Education, Industry Dynami"
-institution: "Guo Freeman Clemson University Clemson, South Carolina, USA "
-source_file: "The Impact of Generative AI on the CSCW Landscape_Insights from HCI Education_industry dynamics_and funding perspectives.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-  - topic/studio-pedagogy
-  - theme/genai-design-practice
-  - theme/hci-education-pedagogy
 ---
+
 # The Impact of Generative AI on the CSCW Landscape: Insights
 
-**Venue:** CSCW Landscape: Insights from HCI Education, Industry Dynami
-**Institution:** Guo Freeman Clemson University Clemson, South Carolina, USA 
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
 
-
-## Key Finding
-Recently, we have witnessed emerging research agendas on expli- cating new opportunities, risks, and harm of generative AI from a CSCW perspective. Built upon these ongoing conversations and dialog, w
-
-
-## Topics
-`#topic/studio-pedagogy`  `#theme/genai-design-practice`  `#theme/hci-education-pedagogy`
-
-
-## Connects To
-- [[Studio Pedagogy]] `concept` *(addresses)*
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-- [[HCI Education and Pedagogy]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_HCI Education and Pedagogy]]
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Freeman et al.—senior researchers from Clemson, Northeastern, Michigan, IBM Research, and Microsoft—reflect on generative AI's multidimensional impact on the CSCW (Computer-Supported Cooperative Work) research landscape, HCI education, industry dynamics, and research funding. They call for deeper reflection across academia and industry about how GenAI is reshaping collaborative work, what research questions it opens, and what organizational and educational structures must evolve in response.

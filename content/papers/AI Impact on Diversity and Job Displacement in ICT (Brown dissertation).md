@@ -1,36 +1,19 @@
 ---
-title: "AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)"
-type: paper
+source_file: "research_docs/P32.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 2025
-venue: "PhD Dissertation National University"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/ai-future-of-work
 ---
+
 # AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)
 
-**Year:** 2025
-**Venue:** PhD Dissertation National University
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
 
-
-## Key Finding
-Correlational study; AI impacts workforce diversity and job displacement in ICT sector
-
-
-## Topics
-`#theme/ai-future-of-work`
-
-
-## Connects To
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Brown's doctoral dissertation investigates the correlational relationship between AI adoption and both diversity outcomes and job displacement in the ICT industry, using quantitative methods across a large sample of ICT organizations. The study finds that AI adoption correlates with increased job displacement, particularly affecting diverse and lower-skilled worker populations, raising concerns about AI's differential impact on ICT workforce equity. Published March 2025, this is one of the first large-scale quantitative dissertations specifically examining AI's equity effects in the ICT sector.

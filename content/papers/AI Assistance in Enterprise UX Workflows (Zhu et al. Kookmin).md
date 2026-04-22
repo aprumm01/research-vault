@@ -1,37 +1,19 @@
 ---
-title: "AI Assistance in Enterprise UX Workflows (Zhu et al. Kookmin)"
-type: paper
+source_file: "research_docs/P36.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2025
-venue: "Frontiers in AI"
-institution: "Kookmin University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # AI Assistance in Enterprise UX Workflows (Zhu et al. Kookmin)
 
-**Year:** 2025
-**Venue:** Frontiers in AI
-**Institution:** Kookmin University
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-ChatGPT enhances design brief creation; AI tools improve operational experience for designers
-
-
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Zhu et al. examine how ChatGPT affects enterprise UX designers' design brief creation processes at Kookmin University, using expert interviews, experimental testing, and third-party evaluations. The study finds that AI tools significantly enhance both operational efficiency and subjective perceptions across most design brief tasks, though benefits vary by task type and designer experience level. The paper provides empirical evidence for AI's role in professional UX workflows and visual comparisons of AI-assisted vs. unassisted design brief quality.

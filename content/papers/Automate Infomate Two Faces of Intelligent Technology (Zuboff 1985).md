@@ -1,39 +1,21 @@
 ---
-title: "Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)"
-type: paper
+source_file: "research_docs/P30.pdf"
+type: "paper"
 community: "AI and Future of Work"
-year: 1985
-venue: "Organizational Dynamics"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-  - theme/workplace-learning-ai
-  - theme/ai-future-of-work
 ---
+
 # Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)
 
-**Year:** 1985
-**Venue:** Organizational Dynamics
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] - `` [EXTRACTED]
+- [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-
-## Key Finding
-Automating replaces human tasks; informating transforms work through data transparency
-
-
-## Topics
-`#theme/workplace-learning-ai`  `#theme/ai-future-of-work`
-
-
-## Connects To
-- [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] `paper` *(precedes)*
-- [[AI and Future of Work]] `theme` *(belongs_to)*
-- [[Workplace Learning and AI]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_AI and Future of Work]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Zuboff's foundational 1985 article distinguishes two logics of intelligent technology in the workplace: "automate" (replacing human action with machine action) and "infomate" (generating new information as a byproduct of automated processes, which can augment human intelligence). Zuboff argues that most organizations focus on automation while neglecting informating — the capacity of intelligent technology to render work processes visible and inform human decision-making in new ways. This distinction remains central to debates about technology's role in work and organization.

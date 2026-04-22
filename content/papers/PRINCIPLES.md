@@ -1,36 +1,19 @@
 ---
-title: "PRINCIPLES"
-type: paper
+source_file: "research_docs/P101.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: ""
-venue: "Chicago RINEHART San Francisco Philadelphia Montreal Toron"
-institution: "riggs Florida State University Wolter W. Wager HOLT, Fort Wo"
-source_file: "Gagne etal_Principles of ID_Ch10.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
 ---
+
 # PRINCIPLES
 
-**Venue:** Chicago RINEHART San Francisco Philadelphia Montreal Toron
-**Institution:** riggs Florida State University Wolter W. Wager HOLT, Fort Wo
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-
-## Key Finding
-OF INSTRUCTIONAL DESIGN
-
-
-## Topics
-`#theme/genai-design-practice`
-
-
-## Connects To
-- [[GenAI in UX and Design Practice]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Gagné, Briggs, and Wager's chapter on "The Events of Instruction" presents a systematic framework for planning individual lessons based on nine instructional events—from gaining attention to enhancing retention and transfer. The events are derived from information processing theory and correspond to internal learning processes, providing instructional designers and teachers with a research-grounded structure for sequencing instructional activities.

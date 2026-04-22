@@ -1,35 +1,19 @@
 ---
-title: "Ethical Dimensions of AI in Graphic Design"
-type: paper
+source_file: "research_docs/P93.pdf"
+type: "paper"
 community: "HCI Education and Pedagogy"
-year: ""
-venue: ""
-institution: "vić, Gala Golubović University of Novi Sad, Serbia Abstract "
-source_file: "Ethical dimensions of artificial intelligence in graphic design.pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-  - topic/studio-pedagogy
 ---
+
 # Ethical Dimensions of AI in Graphic Design
 
-**Institution:** vić, Gala Golubović University of Novi Sad, Serbia Abstract 
+## Connections
+- [[Studio Pedagogy]] - `` [EXTRACTED]
 
-
-## Key Finding
-Artificial Intelligence (AI) is rapidly reshaping societal dynamics and is ex - pected to continue influencing various sectors. In the field of graphic de - sign, its integration has generated both en
-
-
-## Topics
-`#topic/studio-pedagogy`
-
-
-## Connects To
-- [[Studio Pedagogy]] `concept` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_HCI Education and Pedagogy]]
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Dedijer et al. examine the ethical dimensions of AI integration in graphic design practice, addressing challenges around authenticity, originality, intellectual property, and the future of creative labor. While AI tools accelerate design production and expand creative possibilities, the paper argues that designers must navigate new ethical responsibilities around authorship, client transparency, and cultural impact. The paper situates these challenges within broader debates about AI's societal influence on creative industries.

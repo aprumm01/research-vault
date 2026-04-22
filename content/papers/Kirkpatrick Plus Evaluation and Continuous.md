@@ -1,39 +1,21 @@
 ---
-title: "Kirkpatrick Plus: Evaluation and Continuous"
-type: paper
+source_file: "research_docs/P108.pdf"
+type: "paper"
 community: "Human Performance Technology"
-year: ""
-venue: "ching evaluation from four d~ferent per- spectivesmreaction"
-institution: ""
-source_file: "Kirkpatrick Plus Evaluation and Continuous Improvement with a Community Focus_ Watkins et al..pdf"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Human_Performance_Technology
-  - topic/kirkpatrick-evaluation
-  - theme/human-performance-technology
-  - topic/responsible-ai-governance
 ---
+
 # Kirkpatrick Plus: Evaluation and Continuous
 
-**Venue:** ching evaluation from four d~ferent per- spectivesmreaction
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
 
-
-## Key Finding
-Improvement with a Community Focus [] Ryan Watkins Doug Leigh
-
-
-## Topics
-`#topic/kirkpatrick-evaluation`  `#theme/human-performance-technology`  `#topic/responsible-ai-governance`
-
-
-## Connects To
-- [[Responsible AI Governance]] `concept` *(addresses)*
-- [[Kirkpatrick Evaluation Model]] `concept` *(addresses)*
-- [[Human Performance Technology]] `theme` *(addresses)*
-
-
-## Community
-[[_COMMUNITY_Human Performance Technology]]
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
 
 ## Summary
 Watkins, Leigh, Foshay, and Kaufman propose "Kirkpatrick Plus," a framework that extends Kirkpatrick's four-level evaluation model by adding a fifth level—societal outcomes—and incorporating continuous improvement and community impact perspectives. They argue that as organizations are increasingly accountable to stakeholders beyond their boundaries, training evaluation must assess contributions to community and societal good, not just organizational performance.

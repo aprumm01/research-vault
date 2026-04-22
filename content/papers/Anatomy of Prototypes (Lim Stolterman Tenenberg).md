@@ -1,40 +1,21 @@
 ---
-title: "Anatomy of Prototypes (Lim Stolterman Tenenberg)"
-type: paper
+source_file: "research_docs/P28.pdf"
+type: "paper"
 community: "Design Theory and Cognition"
-year: 2008
-venue: "ACM TOCHI"
-institution: "Indiana University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/Design_Theory_and_Cognition
-  - theme/design-theory-cognition
-  - topic/design-thinking
 ---
+
 # Anatomy of Prototypes (Lim Stolterman Tenenberg)
 
-**Year:** 2008
-**Venue:** ACM TOCHI
-**Institution:** Indiana University
+## Connections
+- [[Cognitive Co-Evolution Model for Design (Cash et al.)]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
 
-
-## Key Finding
-Prototypes as filters and manifestations of design ideas; anatomy framework for conceptualization
-
-
-## Topics
-`#theme/design-theory-cognition`  `#topic/design-thinking`
-
-
-## Connects To
-- [[Design Thinking]] `concept` *(addresses)*
-- [[Cognitive Co-Evolution Model for Design (Cash et al.)]] `paper` *(related_to)*
-- [[Design Theory and Cognition]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_Design Theory and Cognition]]
+#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
 
 ## Summary
 Lim, Stolterman, and Tenenberg develop a conceptual framework — the "anatomy of prototypes" — that systematizes the properties of prototypes along dimensions of filtering (what aspects of a design artifact the prototype represents) and resolution (how accurately those aspects are represented). The framework helps designers and researchers understand why prototypes have different epistemic and communicative functions, and when different prototyping strategies are appropriate. Published in 2008, it remains a foundational reference in design and HCI prototyping research.

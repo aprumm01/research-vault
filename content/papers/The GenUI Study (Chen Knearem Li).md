@@ -1,43 +1,20 @@
 ---
-title: "The GenUI Study (Chen Knearem Li)"
-type: paper
+source_file: "research_docs/P4.pdf"
+type: "paper"
 community: "GenAI in UX and Design Practice"
-year: 2025
-venue: "ACM"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-  - theme/genai-design-practice
-  - topic/generative-ui-tools
 ---
+
 # The GenUI Study (Chen Knearem Li)
 
-**Year:** 2025
-**Venue:** ACM
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Generative UI Tools]] - `` [EXTRACTED]
 
-
-## Key Finding
-GenUI should support roles beyond UXD; team-level activities; accessibility challenges
-
-
-## Topics
-`#theme/genai-design-practice`  `#topic/generative-ui-tools`
-
-
-## Connects To
-- [[Generative UI Tools]] `concept` *(studies)*
-- [[GenAI in UX and Design Practice]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Xiang Anthony Chen]] `author` *(authored)*
-- [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] `paper` *(same_study)*
-
-
-## Community
-[[_COMMUNITY_GenAI in UX and Design Practice]]
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Chen, Knearem, and Li present the full GenUI study—an extended version of their formative work—examining how generative UI tools can support UX practitioners and beyond. Through a week-long diary study with 37 UX-related professionals, they develop design implications for GenUI tools that better serve multiple roles (designers, researchers, developers, product managers) and support team-level collaboration. The study concludes that GenUI produces a "good first draft" but struggles with the "last mile" of design refinement.

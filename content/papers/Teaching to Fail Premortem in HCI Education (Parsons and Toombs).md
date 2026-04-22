@@ -1,43 +1,20 @@
 ---
-title: "Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)"
-type: paper
+source_file: "research_docs/P59.pdf"
+type: "paper"
 community: "HCI Education and Pedagogy"
-year: 2025
-venue: "CHI 2025"
-institution: "Purdue / Indiana University"
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-  - theme/hci-education-pedagogy
-  - topic/studio-pedagogy
 ---
+
 # Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)
 
-**Year:** 2025
-**Venue:** CHI 2025
-**Institution:** Purdue / Indiana University
+## Connections
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
 
-
-## Key Finding
-Premortem technique for design classroom; surfaces hidden risks; counteracts groupthink
-
-
-## Topics
-`#theme/hci-education-pedagogy`  `#topic/studio-pedagogy`
-
-
-## Connects To
-- [[Studio Pedagogy]] `concept` *(uses)*
-- [[HCI Education and Pedagogy]] `theme` *(belongs_to)*
-
-
-## Connected From
-- [[Paul Parsons]] `author` *(authored)*
-
-
-## Community
-[[_COMMUNITY_HCI Education and Pedagogy]]
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Parsons and Toombs introduce the premortem technique—imagining a project has already failed and working backward to identify likely causes—as a pedagogical strategy in HCI education. Adapted from decision research and organizational planning, the premortem invites students to engage in prospective failure analysis during ongoing projects, surfacing hidden risks, challenging assumptions, and counteracting groupthink. The paper argues the technique develops critical design judgment and realistic project assessment.

@@ -1,40 +1,21 @@
 ---
-title: "Integrating Unplugged and Plugged for Holistic AI Education (Dai)"
-type: paper
+source_file: "research_docs/P40.pdf"
+type: "paper"
 community: "AI in Design Education"
-year: 2024
-venue: "Education and Information Technologies 2024"
-institution: ""
-source_file: ""
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
   - community/AI_in_Design_Education
-  - theme/ai-design-education
-  - topic/ai-literacy
-  - topic/constructivism
 ---
+
 # Integrating Unplugged and Plugged for Holistic AI Education (Dai)
 
-**Year:** 2024
-**Venue:** Education and Information Technologies 2024
+## Connections
+- [[AI Literacy]] - `` [EXTRACTED]
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Constructivism]] - `` [EXTRACTED]
 
-
-## Key Finding
-Embodied constructionist approach; understand-make-reflect cycle for upper-primary AI literacy
-
-
-## Topics
-`#theme/ai-design-education`  `#topic/ai-literacy`  `#topic/constructivism`
-
-
-## Connects To
-- [[Constructivism]] `concept` *(uses)*
-- [[AI Literacy]] `concept` *(addresses)*
-- [[AI in Design Education]] `theme` *(belongs_to)*
-
-
-## Community
-[[_COMMUNITY_AI in Design Education]]
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 This longitudinal study by Lively and Hutson at Lindenwood University examines how student motivation shapes outcomes when AI tools are integrated into web design and UX education across five semesters (Spring 2023 to Spring 2024). The study finds that text-based AI tools significantly improved writing efficiency and coding, while image-based tools enhanced ideation and color selection. Importantly, student motivation levels moderated the degree to which AI tools augmented creative capabilities.
