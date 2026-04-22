@@ -1,17 +1,17 @@
 ---
-source_file: ""
+title: "Job Displacement and Reskilling"
 type: "concept"
-community: "AI and Future of Work"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - graphify/concept
 ---
 
 # Job Displacement and Reskilling
 
-## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Hybrid Intelligence]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+- [[papers/Poets Over Quants Automation Increases Value of Creativity|Poets Over Quants: Automation Increases Value of Creativity]] — *addresses*
+- [[papers/Does AI Development Polarized Job Market|Does AI Development Polarized Job Market:]] — *addresses*
+- [[papers/Strategic Interventions for Mitigating AI-Induced Job Loss at the|"Strategic Interventions for Mitigating AI-Induced Job Loss at the]] — *addresses*
+- [[papers/AI Literacy and Attitudes Towards AI in Design Education A|AI Literacy and Attitudes Towards AI in Design Education: A]] — *addresses*
+

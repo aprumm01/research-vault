@@ -1,16 +1,15 @@
 ---
-source_file: ""
+title: "Activity Theory"
 type: "concept"
-community: "AI and Future of Work"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - graphify/concept
 ---
 
 # Activity Theory
 
-## Connections
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+- [[papers/Developing Human Experience Experts (Cheatham Miami U)|Developing Human Experience Experts (Cheatham Miami U)]] — *uses*
+- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] — *uses*
+

@@ -1,16 +1,15 @@
 ---
-source_file: ""
+title: "Creative Ambiguity"
 type: "concept"
-community: "GenAI in UX and Design Practice"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - graphify/concept
 ---
 
 # Creative Ambiguity
 
-## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+- [[papers/Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)|Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)]] — *introduces*
+- [[papers/Thinking through Prompting Cognitive Mediation (Dalsgaard)|Thinking through Prompting: Cognitive Mediation (Dalsgaard)]] — *addresses*
+

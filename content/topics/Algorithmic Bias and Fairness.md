@@ -1,17 +1,16 @@
 ---
-source_file: ""
+title: "Algorithmic Bias and Fairness"
 type: "concept"
-community: "Responsible AI and Ethics"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
+  - graphify/concept
 ---
 
 # Algorithmic Bias and Fairness
 
-## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+- [[papers/Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)|Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] — *addresses*
+- [[papers/Rethinking Optimization Systems-Based Social Externalities (Nokhiz et al. Cornell)|Rethinking Optimization: Systems-Based Social Externalities (Nokhiz et al. Cornell)]] — *addresses*
+- [[papers/Employment Shopping An AI-Driven Universal Job Allocation Model for Inclusive|Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive]] — *addresses*
+

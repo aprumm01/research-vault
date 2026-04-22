@@ -1,16 +1,17 @@
 ---
-source_file: ""
+title: "Cognitive Load Theory"
 type: "concept"
-community: "Instructional Design Theory"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - graphify/concept
 ---
 
 # Cognitive Load Theory
 
-## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+- [[papers/Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)|Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] — *analyzes*
+- [[papers/Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)|Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)]] — *extends*
+- [[papers/KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE|KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE]] — *addresses*
+- [[papers/KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE_1|KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE]] — *addresses*
+

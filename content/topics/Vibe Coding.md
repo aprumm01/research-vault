@@ -1,17 +1,14 @@
 ---
-source_file: ""
+title: "Vibe Coding"
 type: "concept"
-community: "AI and Future of Work"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - graphify/concept
 ---
 
 # Vibe Coding
 
-## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+- [[papers/Vibe Coding for Product Design (Li et al.)|Vibe Coding for Product Design (Li et al.)]] — *studies*
+

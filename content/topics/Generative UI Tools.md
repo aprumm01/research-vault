@@ -1,16 +1,17 @@
 ---
-source_file: ""
+title: "Generative UI Tools"
 type: "concept"
-community: "Generative UI Tools"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - graphify/concept
 ---
 
 # Generative UI Tools
 
-## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+- [[papers/Formative Study on GenUI Tools (Chen et al. Google DeepMind)|Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] — *studies*
+- [[papers/The GenUI Study (Chen Knearem Li)|The GenUI Study (Chen Knearem Li)]] — *studies*
+- [[papers/A Formative Study to Explore the Design of Generative UI Tools|A Formative Study to Explore the Design of Generative UI Tools]] — *addresses*
+- [[papers/The GenUI Study Exploring the Design of Generative UI Tools to|The GenUI Study: Exploring the Design of Generative UI Tools to]] — *addresses*
+

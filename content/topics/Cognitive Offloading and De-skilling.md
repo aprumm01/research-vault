@@ -1,17 +1,15 @@
 ---
-source_file: ""
+title: "Cognitive Offloading and De-skilling"
 type: "concept"
-community: "HCI Education and Pedagogy"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - graphify/concept
 ---
 
 # Cognitive Offloading and De-skilling
 
-## Connections
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+- [[papers/Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)|Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] — *addresses*
+- [[papers/De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)|De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] — *introduces*
+

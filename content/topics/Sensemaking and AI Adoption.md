@@ -1,16 +1,16 @@
 ---
-source_file: ""
+title: "Sensemaking and AI Adoption"
 type: "concept"
-community: "AI and Future of Work"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - graphify/concept
 ---
 
 # Sensemaking and AI Adoption
 
-## Connections
-- [[Workplace Learning and AI]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] — *addresses*
+- [[papers/AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)]] — *studies*
+- [[papers/Beyond the Hype Responsible AI in Workplace Learning (Sposato)|Beyond the Hype: Responsible AI in Workplace Learning (Sposato)]] — *addresses*
+

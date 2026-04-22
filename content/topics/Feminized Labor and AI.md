@@ -1,17 +1,14 @@
 ---
-source_file: ""
+title: "Feminized Labor and AI"
 type: "concept"
-community: "Responsible AI and Ethics"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
+  - graphify/concept
 ---
 
 # Feminized Labor and AI
 
-## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+- [[papers/AI Failure Loops in Devalued Work (Kawakami et al.)|AI Failure Loops in Devalued Work (Kawakami et al.)]] — *addresses*
+

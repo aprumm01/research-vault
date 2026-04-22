@@ -1,16 +1,17 @@
 ---
-source_file: ""
+title: "Kirkpatrick Evaluation Model"
 type: "concept"
-community: "Responsible AI Governance"
+community: ""
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - graphify/concept
 ---
 
 # Kirkpatrick Evaluation Model
 
-## Connections
-- [[Human Performance Technology]] - `` [EXTRACTED]
+## Related Papers
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+- [[papers/HPT Model Applied to Kayak Company (Martin et al.)|HPT Model Applied to Kayak Company (Martin et al.)]] — *applies*
+- [[papers/EVALUATING|EVALUATING]] — *addresses*
+- [[papers/Kirkpatrick Plus Evaluation and Continuous|Kirkpatrick Plus: Evaluation and Continuous]] — *addresses*
+- [[papers/EVALUATING_1|EVALUATING]] — *addresses*
+
