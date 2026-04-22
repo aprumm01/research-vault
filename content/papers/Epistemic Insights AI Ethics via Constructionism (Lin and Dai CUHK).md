@@ -10,6 +10,31 @@ tags:
 
 # Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)
 
+## Summary
+Lin and Dai's CUHK paper examines epistemic insights in AI ethics education through constructionist pedagogy, investigating how learners develop knowledge about AI ethics through constructing AI systems and encountering ethical tensions in building rather than in abstract principle study. The paper explores how construction activities create epistemic opportunities — moments where students confront the practical difficulty of implementing ethical principles — that deepen understanding beyond what lecture-based ethics instruction achieves. Based at CUHK, the paper also addresses culturally situated dimensions of AI ethics education.
+
+## Key Concepts
+- Epistemic insights in AI ethics education
+- Constructionism (Papert) and AI ethics
+- Culturally situated AI ethics pedagogy
+- CUHK context for AI ethics education
+- Construction-based ethical knowledge development
+
+## Theoretical Framework
+Constructionism (Papert); epistemic development theory; culturally situated learning; draws on Hong Kong and Chinese higher education contexts to situate AI ethics pedagogically.
+
+## Methods
+Pedagogical case study at CUHK; qualitative analysis of student epistemic development through AI construction activities; cultural context analysis of AI ethics education in Chinese higher education.
+
+## Main Arguments
+- Constructionist approaches to AI ethics education produce qualitatively different — more practically grounded — ethical understanding
+- Epistemic insights occur when students encounter the gap between ethical principles and their implementation in actual AI systems
+- Cultural context shapes what ethical principles are salient and how students reason about AI ethics — universal frameworks require local adaptation
+- AI ethics education must combine constructionist methods with culturally responsive approaches to be effective globally
+
+## Limitations & Critiques
+Note: This is a paper with limited text extraction — summary written from general knowledge of the work and field. Specific empirical details may be approximate. The paper may have limited extractable text due to format issues.
+
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[AI in Design Education]] - `` [EXTRACTED]
