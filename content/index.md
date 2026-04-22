@@ -6,7 +6,7 @@ title: Research Vault
 
 A knowledge graph for PhD dissertation research in **AI and Design Education** — built for literature reviews, tracing theoretical threads, and mapping the field.
 
-**125 research papers · 34 topic concepts · 10 community hubs**
+**248 research papers · 60 topic concepts · 13 community hubs**
 
 ## Community Hubs
 
@@ -19,7 +19,10 @@ A knowledge graph for PhD dissertation research in **AI and Design Education** �
 - [[communities/Workplace Learning and AI|Workplace Learning and AI]]
 - [[communities/Design Theory and Cognition|Design Theory and Cognition]]
 - [[communities/Human Performance Technology|Human Performance Technology]]
-- [[communities/Making the Right Thing HCI and Responsible AI (Jung et al. CMU)|Making the Right Thing HCI and Responsible AI]]
+- [[communities/AI Literacy|AI Literacy]]
+- [[communities/Generative UI Tools|Generative UI Tools]]
+- [[communities/Problem-Based Learning|Problem-Based Learning]]
+- [[communities/Responsible AI Governance|Responsible AI Governance]]
 
 ## Browse
 
