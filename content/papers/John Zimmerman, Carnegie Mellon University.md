@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "10.1145/3436954"
 ---
 
 # UX Designers Pushing AI in the Enterprise: A Case for Adaptive UIs (Zimmerman, CMU)
+
+**DOI:** [10.1145/3436954](https://doi.org/10.1145/3436954)
 
 ## Summary
 Zimmerman's CMU paper examines how UX designers are advocating for and driving AI integration within enterprise organizations, arguing that UX designers occupy a unique position to bridge technical AI capabilities and human-centered organizational needs. Drawing on case studies of enterprise AI deployments, the paper documents how UX designers are expanding their roles to include AI strategy, prompt engineering, and AI governance — while also identifying the challenges when UX perspectives are marginalized in technical AI development processes. It calls for UX practitioners to claim greater agency in enterprise AI design.

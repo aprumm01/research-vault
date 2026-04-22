@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.1080/00461520701263350"
 ---
 
 # KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE
+
+**DOI:** [10.1080/00461520701263350](https://doi.org/10.1080/00461520701263350)
 
 ## Connections
 - [[Cognitive Load Theory]] - `` [EXTRACTED]

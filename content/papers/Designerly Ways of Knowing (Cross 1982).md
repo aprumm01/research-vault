@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.1007/978-1-4471-7541-4_1"
 ---
 
 # Designerly Ways of Knowing (Cross 1982)
+
+**DOI:** [10.1007/978-1-4471-7541-4_1](https://doi.org/10.1007/978-1-4471-7541-4_1)
 
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]

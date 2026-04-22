@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "10.1016/0090-2616(85)90033-6"
 ---
 
 # Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)
+
+**DOI:** [10.1016/0090-2616(85)90033-6](https://doi.org/10.1016/0090-2616(85)90033-6)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

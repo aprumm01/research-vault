@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_Literacy
+
+doi: "10.1007/s10639-024-13043-w"
+
+abstract: "There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI education for upper-primary students remains challenging due to the abstract and complex nature of AI and a lack of pedagogical experiences in schools. Against this backdrop, this study employs a design-based research (DBR) methodology to develop pedagogical solutions and theoretical knowledge. Drawing upo"
 ---
 
 # Integrating Unplugged and Plugged Activities for Holistic AI Education: An Embodied Constructionist Approach (Dai, 2025)
+
+
+## Abstract
+There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI education for upper-primary students remains challenging due to the abstract and complex nature of AI and a lack of pedagogical experiences in schools. Against this backdrop, this study employs a design-based research (DBR) methodology to develop pedagogical solutions and theoretical knowledge. Drawing upon theories about AI literacy and learning sciences, this study proposes a novel pedagogical approach, namely, the embodied constructionist approach. This approach, by integrating embodied analogies and constructionist making, forges a cyclical understand–make–reflect process.
+
+**DOI:** [10.1007/s10639-024-13043-w](https://doi.org/10.1007/s10639-024-13043-w)
 
 ## Summary
 Dai's 2025 paper presents an educational framework that integrates "unplugged" (hands-on, device-free) and "plugged" (digital, computational) AI learning activities for holistic AI education in K-12 contexts. The approach argues that unplugged activities build conceptual understanding of AI principles (algorithms, data, bias) through physical and embodied experience, while plugged activities then provide authentic implementation contexts. The framework emphasizes constructionist and embodied cognition principles to create AI education that develops whole-child understanding rather than only coding skills.

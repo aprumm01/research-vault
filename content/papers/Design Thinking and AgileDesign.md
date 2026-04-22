@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.1007/978-1-4842-6461-4_10"
 ---
 
 # Design Thinking and Agile Design
+
+**DOI:** [10.1007/978-1-4842-6461-4_10](https://doi.org/10.1007/978-1-4842-6461-4_10)
 
 ## Summary
 This paper examines the relationship between Design Thinking — a human-centered, divergent-convergent problem-solving methodology — and Agile software development — an iterative, sprint-based development approach. The authors argue that while the two frameworks are complementary in principle (both emphasize iteration, user feedback, and embracing change), they can conflict in practice due to different timelines, team structures, and validation standards. The paper offers a synthesis model for integrating Design Thinking's front-end exploration with Agile's development cycles.

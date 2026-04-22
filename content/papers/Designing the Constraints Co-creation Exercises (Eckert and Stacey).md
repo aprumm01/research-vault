@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.1201/9781315208169-23"
 ---
 
 # Designing the Constraints: Co-creation Exercises (Eckert and Stacey)
+
+**DOI:** [10.1201/9781315208169-23](https://doi.org/10.1201/9781315208169-23)
 
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]

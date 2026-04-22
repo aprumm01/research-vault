@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1145/3706599.3719277"
+
+abstract: "Recent advancements in AI, particularly those focused on replicat- ing creativity, have"
 ---
 
 # Steering Blind Algorithms: Exploring the Impact of Generative AI on the Role of Designers
+
+
+## Abstract
+Recent advancements in AI, particularly those focused on replicat- ing creativity, have
+
+**DOI:** [10.1145/3706599.3719277](https://doi.org/10.1145/3706599.3719277)
 
 ## Connections
 - [[Aalto University]] - `` [EXTRACTED]

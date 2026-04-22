@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+doi: "10.1109/EMR.2023.3272799"
 ---
 
 # Accelerating Innovation With
+
+**DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
 
 ## Summary
 This paper examines how generative AI tools are accelerating innovation workflows through AI-augmented digital prototyping and innovation methods, arguing that GenAI represents a qualitative shift in innovation capacity by compressing the ideation-to-prototype cycle. The authors present case studies of organizations using GenAI in early-stage innovation, documenting how AI-augmented digital prototyping enables rapid exploration of a wider solution space than traditional methods allow. The paper argues for a new "AI-augmented innovation" methodology that systematically integrates GenAI into established innovation frameworks.

@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+
+abstract: "Unemployment remains a major global issue, particularly for marginalized groups such as ex-offenders, rural workers, and individuals with disabilities. Grounded in labor market segmentation theory and a critique of institutional barriers, this study argues that existing AI-driven job platforms often reproduce systemic exclusion due to digital access gaps and algorithmic bias. This study proposes Employment Shopping, an AI-powered, mobile employment solution that combines personalized job recomme"
+
+doi: "10.2139/ssrn.5315510"
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive
+
+
+## Abstract
+
+**DOI:** [10.2139/ssrn.5315510](https://doi.org/10.2139/ssrn.5315510)
+
+Unemployment remains a major global issue, particularly for marginalized groups such as ex-offenders, rural workers, and individuals with disabilities. Grounded in labor market segmentation theory and a critique of institutional barriers, this study argues that existing AI-driven job platforms often reproduce systemic exclusion due to digital access gaps and algorithmic bias. This study proposes Employment Shopping, an AI-powered, mobile employment solution that combines personalized job recommendations with in- person support via mobile Employment Buses. By functioning as an act of institutional entrepreneurship, the model leverages bias-mitigating AI and public-private partnerships to enhance accessibility and inclusivity. This research evaluates the model's feasibility, ethical implications, and expected impact, theoretically positioning Employment Shopping as a scalable, socio-technical intervention aligned with UN SDGs on poverty reduction, decent work, and eco
 
 ## Connections
 - [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]

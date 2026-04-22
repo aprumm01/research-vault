@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.4324/9781315669199-13"
 ---
 
 # Motivation, Volition, and Performamce
+
+**DOI:** [10.4324/9781315669199-13](https://doi.org/10.4324/9781315669199-13)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

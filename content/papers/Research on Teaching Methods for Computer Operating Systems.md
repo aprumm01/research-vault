@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+abstract: "As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin"
+
+doi: "10.1145/3744367.3744368"
 ---
 
 # Research on Teaching Methods for Computer Operating Systems
+
+
+## Abstract
+
+**DOI:** [10.1145/3744367.3744368](https://doi.org/10.1145/3744367.3744368)
+
+As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

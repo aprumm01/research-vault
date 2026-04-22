@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.24315/trkefd.321226"
 ---
 
 # The Dick and Carey Model:
+
+**DOI:** [10.24315/trkefd.321226](https://doi.org/10.24315/trkefd.321226)
 
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]

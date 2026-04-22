@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1601/ex.8970"
 ---
 
 # Van Tiem et al. 2004--performance tech defined
+
+**DOI:** [10.1601/ex.8970](https://doi.org/10.1601/ex.8970)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

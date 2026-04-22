@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Problem-Based_Learning
+
+doi: "10.1016/0307-4412(93)90084-d"
 ---
 
 # Problem-based Learning
+
+**DOI:** [10.1016/0307-4412(93)90084-d](https://doi.org/10.1016/0307-4412(93)90084-d)
 
 ## Connections
 - [[Problem-Based Learning]] - `` [EXTRACTED]

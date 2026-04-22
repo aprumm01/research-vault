@@ -6,9 +6,15 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+abstract: "Purpose – Artificial intelligence is creating a significant technological disruption in all industries. The adoption of AI in business has been proliferated by the use of data analytics, machine learning and robotics. One of the sectors that was significantly impacted by this disruption is the IT sector . The present study aims to understand employee perceptions regarding AI advancements, their impact on job roles and organizational interventions for effective AI integration. Design/methodology/"
 ---
 
 # Fr om code to collaboration:
+
+
+## Abstract
+Purpose – Artificial intelligence is creating a significant technological disruption in all industries. The adoption of AI in business has been proliferated by the use of data analytics, machine learning and robotics. One of the sectors that was significantly impacted by this disruption is the IT sector . The present study aims to understand employee perceptions regarding AI advancements, their impact on job roles and organizational interventions for effective AI integration. Design/methodology/approach – A qualitative approach was used in this study to explore IT professionals’ perceptions of AI advancements in the workplace. A purposive sampling technique was used for this study . In- depth semi-structured interviews were conducted with 27 IT specialists from multinational corporations. The present study conducts a thematic analysis to identify gaps and provide solutions for organizati ons to miti
 
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]

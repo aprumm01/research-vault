@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+abstract: "Generative AI (GAI) is impacting teaching and learning directly or indirectly across a range of subjects and disciplines. As educators, we need to understand the potential and limitations of AI in HCI education and ensure our graduating HCI students are aware of the potential and limitations of AI in HCI. In this paper, we report on the main pedagogical insights gained from the inclusion of generative AI into a 10-week undergraduate module. We designed the module to encourage student experimenta"
+
+doi: "10.1145/3658619.3658627"
 ---
 
 # The Potential and Implications of Generative AI on HCI Education
+
+
+## Abstract
+
+**DOI:** [10.1145/3658619.3658627](https://doi.org/10.1145/3658619.3658627)
+
+Generative AI (GAI) is impacting teaching and learning directly or indirectly across a range of subjects and disciplines. As educators, we need to understand the potential and limitations of AI in HCI education and ensure our graduating HCI students are aware of the potential and limitations of AI in HCI. In this paper, we report on the main pedagogical insights gained from the inclusion of generative AI into a 10-week undergraduate module. We designed the module to encourage student experimentation with GAI models as part of the design brief requirement and planned practical sessions and discussions. Our insights are based on replies to a survey sent out to the students after completing the module. Our key findings, for HCI educators, report on the use of AI as a persona for developing project ideas and creating resources for
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

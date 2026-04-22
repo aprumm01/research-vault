@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+doi: "10.1016/j.bushor.2024.02.002"
 ---
 
 # Unlocking training transfer in the age of
+
+**DOI:** [10.1016/j.bushor.2024.02.002](https://doi.org/10.1016/j.bushor.2024.02.002)
 
 ## Connections
 - [[Responsible AI Governance]] - `` [EXTRACTED]

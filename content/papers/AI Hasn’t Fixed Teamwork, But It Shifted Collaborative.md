@@ -6,9 +6,15 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+abstract: "When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo"
 ---
 
 # AI Hasn’t Fixed Teamwork, But It Shifted Collaborative
+
+
+## Abstract
+When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo
 
 ## Summary
 This paper examines how AI tools have changed collaborative dynamics in professional teams, arguing that while AI has not solved fundamental teamwork challenges (coordination, communication, trust), it has shifted where and how those challenges manifest. Through case studies and interviews with teams using AI tools, the authors document how AI changes the distribution of work within teams, the nature of handoffs, and the skills required for effective collaboration. The paper identifies new collaboration competencies required in AI-mediated team contexts.

@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Problem-Based_Learning
+
+doi: "10.1016/j.destud.2023.101219"
 ---
 
 # Method in their madness: Explaining how
+
+**DOI:** [10.1016/j.destud.2023.101219](https://doi.org/10.1016/j.destud.2023.101219)
 
 ## Summary
 This paper investigates the apparent irrationality in designers' method selection practices, arguing that what looks like "madness" in method choice is actually explicable through understanding the social, political, and contextual factors that shape design method decisions in practice. Through ethnographic observation of design teams, the authors document how designers choose methods not only for their technical utility but for their communicative, rhetorical, and political functions — methods are used to build consensus, satisfy client expectations, and signal professional competence. The paper calls for a more socially grounded account of design method use.

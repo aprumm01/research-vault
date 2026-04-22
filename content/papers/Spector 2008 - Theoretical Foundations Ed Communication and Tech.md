@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1002/9781118093429.ch3"
 ---
 
 # Spector 2008 - Theoretical Foundations Ed Communication and Tech
+
+**DOI:** [10.1002/9781118093429.ch3](https://doi.org/10.1002/9781118093429.ch3)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

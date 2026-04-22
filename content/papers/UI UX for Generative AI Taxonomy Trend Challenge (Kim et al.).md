@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1109/access.2024.3502628"
 ---
 
 # UI UX for Generative AI: Taxonomy Trend Challenge (Kim et al.)
+
+**DOI:** [10.1109/access.2024.3502628](https://doi.org/10.1109/access.2024.3502628)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

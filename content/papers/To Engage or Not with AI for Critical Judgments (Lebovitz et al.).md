@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "10.1287/orsc.2021.1549"
+
+abstract: "Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa"
 ---
 
 # To Engage or Not with AI for Critical Judgments (Lebovitz et al.)
+
+
+## Abstract
+Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa
+
+**DOI:** [10.1287/orsc.2021.1549](https://doi.org/10.1287/orsc.2021.1549)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

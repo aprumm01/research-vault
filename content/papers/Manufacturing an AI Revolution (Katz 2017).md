@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+
+doi: "10.37665/ppgqpme61840"
+
+abstract: "ABSTRACT Data collection and analytics are critical to navigating today’s supply chain challenges and market demands. The increasing complexity of electronic products manufactured today, coupled with higher demands on quality and reliability, makes this now a requirement to be competitive. Often termed Factory Digitization, it is being enabled by modern solutions such as a Manufacturing Execution System (MES) that integrates Internet of Things (IoT) and machine data in order to capture a compreh"
 ---
 
 # Manufacturing an AI Revolution (Katz 2017)
+
+
+## Abstract
+
+**DOI:** [10.37665/ppgqpme61840](https://doi.org/10.37665/ppgqpme61840)
+
+ABSTRACT Data collection and analytics are critical to navigating today’s supply chain challenges and market demands. The increasing complexity of electronic products manufactured today, coupled with higher demands on quality and reliability, makes this now a requirement to be competitive. Often termed Factory Digitization, it is being enabled by modern solutions such as a Manufacturing Execution System (MES) that integrates Internet of Things (IoT) and machine data in order to capture a comprehensive digital history of product manufacturing and testing. These solutions use web scale technologies that require lower support costs, provide plug-n-play type data connectivity, rapid adoption, enabling enterprises to be nimble and adaptable amidst growing industry complexity. Factory digitization results in highly contextual data, and this is what is unleashing the next manufacturing innovation wave of applied AI/ML, currently making its way through semiconductor fabrication, backend assembly, and testing. And now penetrating the SMT industry. This paper covers key points of how AI/ML requires Factory Digitization in order to be adopted, the barriers and risks to implementing this digital transformation, and how the right infrastructure and AI/ML approach is able to deliver exceptional competitive advantages to electronics manufacturing.
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

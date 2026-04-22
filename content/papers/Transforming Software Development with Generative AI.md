@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+abstract: "Generative AI (GenAI) has fundamentally changed how knowl- edge workers, such as software developers, solve tasks and collaborate to build software products. Introducing innovative tools like ChatGPT and Copilot has created new opportunities to assist and augment software developers across various problems. We conducted an empirical study involving interviews with 13 data scientists, managers, developers, de- signers, and frontend developers to investigate the usage of GenAI. Our study reveals t"
+
+doi: "10.1515/9783111677798-008"
 ---
 
 # Transforming Software Development with Generative AI
+
+
+## Abstract
+
+**DOI:** [10.1515/9783111677798-008](https://doi.org/10.1515/9783111677798-008)
+
+Generative AI (GenAI) has fundamentally changed how knowl- edge workers, such as software developers, solve tasks and collaborate to build software products. Introducing innovative tools like ChatGPT and Copilot has created new opportunities to assist and augment software developers across various problems. We conducted an empirical study involving interviews with 13 data scientists, managers, developers, de- signers, and frontend developers to investigate the usage of GenAI. Our study reveals that ChatGPT signifies a paradigm shift in the workflow of software developers. The technolo
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

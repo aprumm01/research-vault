@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+abstract: "Sensitivity is essential in art and Design education, traditionally culti- vated through observation. With advancements in AI technology, new educational approaches are emerging. AI can visualize abstract concepts expressed in lan- guage; however, its ability to accurately represent intangible elements such as emotions and impressions remains unclear. This research investigates the impact of AI-generated abstract expressions on human sensitivity, focusing on Eroti- cism, a key aesthetic element "
+
+doi: "10.2139/ssrn.5134919"
 ---
 
 # Utilizing Generative AI in Design Education:
+
+
+## Abstract
+
+**DOI:** [10.2139/ssrn.5134919](https://doi.org/10.2139/ssrn.5134919)
+
+Sensitivity is essential in art and Design education, traditionally culti- vated through observation. With advancements in AI technology, new educational approaches are emerging. AI can visualize abstract concepts expressed in lan- guage; however, its ability to accurately represent intangible elements such as emotions and impressions remains unclear. This research investigates the impact of AI-generated abstract expressions on human sensitivity, focusing on Eroti- cism, a key aesthetic element in art and Design. Eroticism, deeply connected to human instincts, evokes strong emotions through color, form, and texture, mak- ing it signiﬁcant for educational applications. We conducted a survey to identify words associated with Eroticism and selected 15 prompts. Using DALL·E 3, we generated images and col
 
 ## Summary
 This paper examines faculty and student perspectives on utilizing generative AI in design education, drawing on survey data and interviews to understand current adoption patterns, attitudes, and concerns. The study finds wide variation in how design educators approach AI integration: some embrace it as a new design material and studio tool, others resist it as a threat to skill development, and many are navigating uncertainty about appropriate use. The paper argues for discipline-wide dialogue about AI's role in design education rather than ad hoc individual responses.

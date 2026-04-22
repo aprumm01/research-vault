@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+doi: "10.1007/978-3-031-93418-6_2"
 ---
 
 # How Hands-on Experience with Generative AI Shapes Design Students' Perspectives on AI's Future Impact
+
+**DOI:** [10.1007/978-3-031-93418-6_2](https://doi.org/10.1007/978-3-031-93418-6_2)
 
 ## Summary
 This LNAI (Lecture Notes in AI) volume edited by Degen and Ntoa presents collected research on artificial intelligence in human-computer interaction from the 2025 HCI International conference. The volume covers advances in AI-mediated interaction design, intelligent interface systems, conversational AI UX, and AI evaluation methods. As an edited conference proceedings volume, it represents the current state of AI-HCI research practice, providing a snapshot of where the field is directing its attention in the integration of AI capabilities with human-centered interaction design.

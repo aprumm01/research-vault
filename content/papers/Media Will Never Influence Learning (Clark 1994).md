@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.1007/BF02299088"
 ---
 
 # Media Will Never Influence Learning (Clark 1994)
+
+**DOI:** [10.1007/BF02299088](https://doi.org/10.1007/BF02299088)
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]

@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+abstract: "The rapid adoption of generative AI (GenAI) in design has sparked discussions about its benefits and unintended consequences. While AI is often framed as a tool for enhancing productivity by automat- ing routine tasks, historical research on automation warns of para- doxical effects, such as de-skilling and misplaced responsibilities. To assess UX practitioners’ perceptions o"
+
+doi: "10.1145/3706599.3719931"
 ---
 
 # De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)
+
+
+## Abstract
+
+**DOI:** [10.1145/3706599.3719931](https://doi.org/10.1145/3706599.3719931)
+
+The rapid adoption of generative AI (GenAI) in design has sparked discussions about its benefits and unintended consequences. While AI is often framed as a tool for enhancing productivity by automat- ing routine tasks, historical research on automation warns of para- doxical effects, such as de-skilling and misplaced responsibilities. To assess UX practitioners’ perceptions o
 
 ## Connections
 - [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]

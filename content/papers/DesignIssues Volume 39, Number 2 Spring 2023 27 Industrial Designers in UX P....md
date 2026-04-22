@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.1162/desi_a_00715"
+
+abstract: "Abstract Our article discusses the insights from original research conducted with design practitioners to better understand the experiences of industrial design graduates as they are adopting new professional roles in user experience (UX) affiliated positions. We utilize narrative identity work as the theoretical frame to interpret the legitimation strategies of industrial designers while grounding their motivations, perceived competence, and fitness to a UX position. Such narratives support our"
 ---
 
 # Industrial Designers in UX Practice: Motivations, Professionalization, and Designer Identity (Süner-Pla-Cerdà et al., 2023)
+
+
+## Abstract
+
+**DOI:** [10.1162/desi_a_00715](https://doi.org/10.1162/desi_a_00715)
+
+Abstract Our article discusses the insights from original research conducted with design practitioners to better understand the experiences of industrial design graduates as they are adopting new professional roles in user experience (UX) affiliated positions. We utilize narrative identity work as the theoretical frame to interpret the legitimation strategies of industrial designers while grounding their motivations, perceived competence, and fitness to a UX position. Such narratives support our arguments on the conscious efforts of designers toward the construction of a professional designer identity, which is stimulated by this role change.
 
 ## Summary
 Süner-Pla-Cerdà, Bohemia, and colleagues' 2023 Design Issues paper examines how industrial designers navigate entry into and practice within user experience design, documenting the motivations, professionalization dynamics, and identity negotiations involved. Through interviews with industrial designers working in UX roles, the paper finds that lateral entrants from industrial design bring distinctive competencies (material thinking, form development, manufacturing context) that enrich UX practice while creating professional identity tensions with UX-native practitioners. The paper contributes to understanding of design discipline boundary permeability and professional identity in multidisciplinary design work.

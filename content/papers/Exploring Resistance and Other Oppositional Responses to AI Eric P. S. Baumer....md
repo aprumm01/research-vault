@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1145/3715070.3748295"
 ---
 
 # Exploring Resistance and Other Oppositional Responses to AI Eric P. S. Baumer...
+
+**DOI:** [10.1145/3715070.3748295](https://doi.org/10.1145/3715070.3748295)
 
 ## Summary
 Baumer et al.'s paper is a foundational contribution to understanding how and why people resist, reject, or develop oppositional relationships with AI technologies. Moving beyond adoption/non-adoption binary, the paper develops a taxonomy of oppositional AI responses — from principled resistance rooted in values to pragmatic non-use based on perceived utility — and examines the conditions under which each type emerges. The work is important for HCI and AI ethics because it frames resistance as legitimate, potentially valuable, and worthy of design accommodation rather than a failure of adoption.

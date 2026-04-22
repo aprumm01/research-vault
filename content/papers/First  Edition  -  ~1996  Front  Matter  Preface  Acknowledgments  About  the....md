@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.1111/j.1467-8535.2004.00409_15.x"
 ---
 
 # Handbook of Research on Educational Communications and Technology (Jonassen et al., 1996)
+
+**DOI:** [10.1111/j.1467-8535.2004.00409_15.x](https://doi.org/10.1111/j.1467-8535.2004.00409_15.x)
 
 ## Summary
 Jonassen, Driscoll, and colleagues' 1996 Handbook of Research on Educational Communications and Technology represents a comprehensive synthesis of the field's foundational research, covering learning theory, instructional design, media and technology research, diffusion of innovation, and evaluation methods. As the first major research handbook in the field, it established educational communications and technology (ECT) as a serious research discipline with its own methods, phenomena, and theoretical traditions. The handbook's breadth makes it a foundational reference for understanding the intellectual roots of educational technology and instructional design.

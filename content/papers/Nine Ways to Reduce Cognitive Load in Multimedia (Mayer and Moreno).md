@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.1207/s15326985ep3801_6"
 ---
 
 # Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)
+
+**DOI:** [10.1207/s15326985ep3801_6](https://doi.org/10.1207/s15326985ep3801_6)
 
 ## Connections
 - [[Cognitive Load Theory]] - `` [EXTRACTED]

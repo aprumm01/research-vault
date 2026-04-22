@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1109/tse.2026.3655626"
 ---
 
 # From Disruptions to Discussions: How GenAI Impacts Human Interactions in Software Development
+
+**DOI:** [10.1109/tse.2026.3655626](https://doi.org/10.1109/tse.2026.3655626)
 
 ## Summary
 This paper investigates how generative AI is disrupting and reshaping human interactions in software development teams, examining how AI coding assistants affect collaboration patterns, communication, and team knowledge distribution. Through a study of software development teams using AI code generation tools, the authors find that AI shifts developers' attention from production to review and integration, changes the social dynamics of pair programming and code review, and creates new coordination challenges around AI-generated code ownership and quality. The paper frames these as discussions that teams and organizations must engage proactively.

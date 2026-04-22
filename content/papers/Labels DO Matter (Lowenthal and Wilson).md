@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+abstract: "AECT has recently (yet again!) redefined our field, reverting back to the use of the term educational technology. We believe this recent change is problematic for a number of reasons, but primarily because of the weak rationale of - fered for the change. This change affects how external audiences view our profession and is likely to confuse practitioners in corporate and higher edu - cation settings in particu - lar. We offer a review of job postings, program titles, and listserv discussions to "
+
+doi: "10.5465/amproc.2024.13075abstract"
 ---
 
 # Labels DO Matter (Lowenthal and Wilson)
+
+
+## Abstract
+
+**DOI:** [10.5465/amproc.2024.13075abstract](https://doi.org/10.5465/amproc.2024.13075abstract)
+
+AECT has recently (yet again!) redefined our field, reverting back to the use of the term educational technology. We believe this recent change is problematic for a number of reasons, but primarily because of the weak rationale of - fered for the change. This change affects how external audiences view our profession and is likely to confuse practitioners in corporate and higher edu - cation settings in particu - lar. We offer a review of job postings, program titles, and listserv discussions to support our case. The labels we use to define ourselves are critically important - and we hope to see a stron- ger case made for changes for our foundational defi - nitions in the future. Keywords: Definitions, Redefinition of Field, Labels, Language and Identity, Branding, Practi- tioner Perspectives Students, academics, and working profes - sionals struggle with some of the naming and labeling conventions used in our field. Most pro- f
 
 ## Connections
 - [[Studio Pedagogy]] - `` [EXTRACTED]

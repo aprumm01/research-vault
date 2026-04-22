@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+abstract: "Today, designers are increasingly expected to engage with real-world complexities and act as creative change-makers, particularly in the context of social innovation. Designers’ capabilities in tackling such challenges deserve a closer examination. This study deﬁnes the implicit and generative capabilities in social innovation practice as “design attitude.” Through empirical research, it aims to articulate these elusive capabilities in detail and categorize their various dimen- sions into major "
+
+doi: "10.1007/978-3-031-93233-5_2"
 ---
 
 # Design Capability in Social Innovation (Cao Ma Meng Tongji)
+
+
+## Abstract
+
+**DOI:** [10.1007/978-3-031-93233-5_2](https://doi.org/10.1007/978-3-031-93233-5_2)
+
+Today, designers are increasingly expected to engage with real-world complexities and act as creative change-makers, particularly in the context of social innovation. Designers’ capabilities in tackling such challenges deserve a closer examination. This study deﬁnes the implicit and generative capabilities in social innovation practice as “design attitude.” Through empirical research, it aims to articulate these elusive capabilities in detail and categorize their various dimen- sions into major types. This research explores how the interaction between design skills and design attitude shapes the capabilities needed for social innovation prac- tice. Using Nice Commune, a social innovation network in Shanghai, China, as a case study, data were collected through workshop
 
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]

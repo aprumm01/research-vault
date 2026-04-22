@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+abstract: "Using the model of analysis, design, development, implementation and evaluation (ADDIE) with regards to instructional design has become a prevalent practi se among e-learning designers and developers. This model assumes assigning specific r"
+
+doi: "10.18844/prosoc.v5i3.3906"
 ---
 
 # Reconciling ADDIE and Agile Instructional Design Models: A Case Study
+
+
+## Abstract
+
+**DOI:** [10.18844/prosoc.v5i3.3906](https://doi.org/10.18844/prosoc.v5i3.3906)
+
+Using the model of analysis, design, development, implementation and evaluation (ADDIE) with regards to instructional design has become a prevalent practi se among e-learning designers and developers. This model assumes assigning specific r
 
 ## Summary
 This case study examines the tension between ADDIE (Analysis, Design, Development, Implementation, Evaluation) — the dominant sequential instructional design model — and Agile development methodologies that emphasize iteration, speed, and user involvement. The author documents an institutional effort to reconcile these approaches, arguing that neither pure ADDIE nor pure Agile adequately meets the demands of modern instructional development projects. The proposed reconciliation retains ADDIE's analytical rigor while incorporating Agile's iterative development cycles and rapid prototyping.

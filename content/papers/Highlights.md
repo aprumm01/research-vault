@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.5143/jesk.2024.43.6.575"
 ---
 
 # The Role of Large Language Models in UI/UX Design: A Systematic Review
+
+**DOI:** [10.5143/jesk.2024.43.6.575](https://doi.org/10.5143/jesk.2024.43.6.575)
 
 ## Summary
 This systematic review examines the growing literature on the role of large language models (LLMs) in UI/UX design, cataloguing how LLMs are being used across the design process: from user research and requirements synthesis to wireframing support, design pattern generation, and usability evaluation. The review finds that LLMs show significant promise for automating routine design documentation and supporting ideation, but consistently struggle with tasks requiring aesthetic judgment, contextual user understanding, and iterative refinement based on design-specific feedback. The paper maps current capabilities and critical gaps for the research agenda.

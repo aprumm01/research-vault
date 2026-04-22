@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+doi: "10.3389/frai.2024.1452131"
 ---
 
 # GenAI in UX Education: Critical Thinking Assessment (Naing et al.)
+
+**DOI:** [10.3389/frai.2024.1452131](https://doi.org/10.3389/frai.2024.1452131)
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]

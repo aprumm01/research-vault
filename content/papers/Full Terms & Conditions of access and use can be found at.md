@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1080/15710882.2017.1393546"
 ---
 
 # Full Terms & Conditions of access and use can be found at
+
+**DOI:** [10.1080/15710882.2017.1393546](https://doi.org/10.1080/15710882.2017.1393546)
 
 ## Summary
 This paper on designers' articulation and activation of instrumental design judgements in cross-cultural user research (published in CoDesign) examines how design researchers make and communicate judgments in complex, cross-cultural research contexts. The research investigates how designers articulate their reasoning during cross-cultural user research activities, documenting the tacit and explicit knowledge that professional designers activate when working across cultural boundaries. The paper contributes to understanding of design judgment in international and cross-cultural design practice.

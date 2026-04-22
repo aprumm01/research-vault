@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+doi: "10.21606/drs.2020.120"
+
+abstract: "Some particular challenges in studio pedagogy arise from teaching for design character versus focusing solely on skills, knowledge or the cognitive processes of our students. In this paper, three authors with extensive combined experience in studio learning, teaching, and scholarship address these challenges via reflection on our own experiences of research and teaching and in-depth discussion with each other. We adopt a co/autoethnographic approach (Coia & Taylor, 2009), identifying a range of "
 ---
 
 # Educating for Design Character (Boling Gray Smith)
+
+
+## Abstract
+Some particular challenges in studio pedagogy arise from teaching for design character versus focusing solely on skills, knowledge or the cognitive processes of our students. In this paper, three authors with extensive combined experience in studio learning, teaching, and scholarship address these challenges via reflection on our own experiences of research and teaching and in-depth discussion with each other. We adopt a co/autoethnographic approach (Coia & Taylor, 2009), identifying a range of challenges we have faced ourselves across three established and emergent design disciplines. These challenges are grouped in relationship to students, to curriculum, to our colleagues, and to ourselves. In our experience these challenges affect instructors differently than—and in addition to—those presented by traditional studio, and we present opportunities to build on these articulated challenges to further studio pedagogy.
+
+**DOI:** [10.21606/drs.2020.120](https://doi.org/10.21606/drs.2020.120)
 
 ## Connections
 - [[Design Judgment]] - `` [EXTRACTED]

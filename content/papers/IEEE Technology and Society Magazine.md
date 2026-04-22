@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+doi: "10.1109/MTS.2024.3392280"
 ---
 
 # Closing the Sociotechnical Gap in AI: Measuring Practitioners' Attitudes and Perceptions
+
+**DOI:** [10.1109/MTS.2024.3392280](https://doi.org/10.1109/MTS.2024.3392280)
 
 ## Summary
 This IEEE paper examines the "sociotechnical gap" in AI development — the space between what technology can do and what social practice requires — by measuring practitioners' attitudes and perceptions toward AI in their organizational contexts. The study develops and validates an instrument for assessing the sociotechnical gap in AI deployments, finding that gaps are consistently underestimated by technical teams and overestimated by end users, with middle management showing the widest divergence from both. The paper argues for bridging the gap through participatory AI development practices.

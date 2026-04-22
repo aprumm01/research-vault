@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_Literacy
+
+doi: "10.25844/p9rv-vj67"
+
+abstract: "The Present Study aims to explore the use of AI Tools in information literacy programmes run by librarians of arts, commerce and science colleges in the districts of Dhule and Nan durbar which are affiliated to K.B.C.North Maharashtra University Jalgaon. The questionnaire survey of the study was used to collect data for study. A Structured questionnaire was constructed and distributed to 56 librarians provide them with the information needed to access their knowledge of artificial intelligence t"
 ---
 
 # State of AI Literacy in Academic Libraries (Lo UNM)
+
+
+## Abstract
+The Present Study aims to explore the use of AI Tools in information literacy programmes run by librarians of arts, commerce and science colleges in the districts of Dhule and Nan durbar which are affiliated to K.B.C.North Maharashtra University Jalgaon. The questionnaire survey of the study was used to collect data for study. A Structured questionnaire was constructed and distributed to 56 librarians provide them with the information needed to access their knowledge of artificial intelligence tools and its use in information literacy programme. Out of 46 (82.14%) questionnaire was received for data analysis. Grammarly, ChatGPT, Google Gemini, and the least expensive plagiarism detection software for academic purposes are just a few of the reference services, information literacy instruction, and research support services that are examined in this study.There are numerous obstacles to using AI-integrated tools to teach information literacy by academic librarians, including a lack of training, ethical concerns with AI, and the rapid advancement of new AI technologies. According to the study, in order for libraries to offer information
+
+**DOI:** [10.25844/p9rv-vj67](https://doi.org/10.25844/p9rv-vj67)
 
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]

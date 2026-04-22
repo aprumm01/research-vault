@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.1007/bf02299087"
 ---
 
 # Will Media Influence Learning? Reframing the Debate (Kozma 1994)
+
+**DOI:** [10.1007/bf02299087](https://doi.org/10.1007/bf02299087)
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]

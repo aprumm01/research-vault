@@ -6,9 +6,15 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_Literacy
+
+abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 ---
 
 # Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)
+
+
+## Abstract
+There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
 
 ## Summary
 Lin and Dai's CUHK paper examines epistemic insights in AI ethics education through constructionist pedagogy, investigating how learners develop knowledge about AI ethics through constructing AI systems and encountering ethical tensions in building rather than in abstract principle study. The paper explores how construction activities create epistemic opportunities — moments where students confront the practical difficulty of implementing ethical principles — that deepen understanding beyond what lecture-based ethics instruction achieves. Based at CUHK, the paper also addresses culturally situated dimensions of AI ethics education.

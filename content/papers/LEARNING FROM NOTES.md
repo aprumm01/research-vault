@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+abstract: "This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people’s mental models and organizations’ structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupwae was interpreted in terms of familiar personal, stand-alone technologies such as spre"
+
+doi: "10.1016/b978-0-7506-9849-8.50014-9"
 ---
 
 # Learning from Notes: Organizational Issues in Groupware Implementation (Orlikowski, 2002)
+
+
+## Abstract
+
+**DOI:** [10.1016/b978-0-7506-9849-8.50014-9](https://doi.org/10.1016/b978-0-7506-9849-8.50014-9)
+
+This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people’s mental models and organizations’ structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupwae was interpreted in terms of familiar personal, stand-alone technologies such as spreadsheets. Further, the culture and structure provided few incentives or norms for cooperating or sharing expertise, hence the groupware on its own was unlikely to engender collaboration. Recognizing the central influence of these cognitive and organizational elements is critical to developers, researchers, and practitioners of groupware, KE
 
 ## Summary
 Orlikowski's 2002 paper documents an organizational case study of Lotus Notes implementation, arguing that the gap between a technology's designed affordances and its actual organizational use reveals how technology adoption is shaped by social structures, power dynamics, and organizational culture rather than technical features alone. The paper develops the concept of "technologies-in-practice" — the enacted technologies that emerge from actual use rather than designed systems — and demonstrates how different groups in the same organization develop radically different practices with the same tool. It is a foundational text for sociomaterial and practice-based approaches to technology in organizations.

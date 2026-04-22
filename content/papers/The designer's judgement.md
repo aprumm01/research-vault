@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.7765/9781526111876.00007"
 ---
 
 # The designer's judgement
+
+**DOI:** [10.7765/9781526111876.00007](https://doi.org/10.7765/9781526111876.00007)
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]

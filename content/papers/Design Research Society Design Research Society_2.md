@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.21606/drs.2020.120"
 ---
 
 # Educating for Design Character in Higher Education: Challenges in Teaching Design Judgment (MurdochKitt et al.)
+
+**DOI:** [10.21606/drs.2020.120](https://doi.org/10.21606/drs.2020.120)
 
 ## Summary
 MurdochKitt, Culén, and Mainsah's Design Research Society paper examines the challenge of educating for design character — the dispositional qualities (curiosity, care, integrity, courage) that distinguish excellent designers beyond technical skill. Drawing on virtue ethics and phronesis, the paper argues that design character cannot be taught through method instruction alone but requires pedagogical approaches that cultivate practical wisdom through reflection, mentorship, and exposure to complex design challenges. It positions character education as a legitimate and necessary dimension of higher design education.

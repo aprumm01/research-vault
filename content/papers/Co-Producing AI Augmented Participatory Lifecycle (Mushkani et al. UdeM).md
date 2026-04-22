@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+
+abstract: "Despite efforts to mitigate the inherent risks and bi- ases of artificial intelligence (AI) algorithms, these algo- rithms can disproportionately impact culturally marginal- ized groups. A range of approaches has been proposed to address or reduce these risks, including the develop- ment of ethical guidelines and principles for responsible AI, as well as technical solutions that promote algorith- mic fairness. Drawing on design justice, expansive learn- ing theory, and recent empirical work on p"
+
+doi: "10.1609/aies.v8i2.36674"
 ---
 
 # Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)
+
+
+## Abstract
+
+**DOI:** [10.1609/aies.v8i2.36674](https://doi.org/10.1609/aies.v8i2.36674)
+
+Despite efforts to mitigate the inherent risks and bi- ases of artificial intelligence (AI) algorithms, these algo- rithms can disproportionately impact culturally marginal- ized groups. A range of approaches has been proposed to address or reduce these risks, including the develop- ment of ethical guidelines and principles for responsible AI, as well as technical solutions that promote algorith- mic fairness. Drawing on design justice, expansive learn- ing theory, and recent empirical work on participatory AI, we argue that mitigating these harms requires a funda- mental re-architecture of the AI production pipeline. This re-design should center co-production, diversity, equity, in- clusion (DEI), and multidisciplinary collaboration. We intro- duce an augmented AI lifecycle consisting of f
 
 ## Connections
 - [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]

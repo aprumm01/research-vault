@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+abstract: "Widespread integration of Generative AI tools is transform- ing white-collar work, reshaping how workers define their roles, manage their tasks, and collaborate with peers. This has created a need to de- velop an overarching understanding of common worker-driven patterns around these transformations. To fill this gap, we conducted a systematic literaturereviewof23studiesfromtheACMDigitalLibrarythatfocused on workers’ lived-experiences and practices with GenAI. Our findings re- veal that while ma"
+
+doi: "10.1007/978-3-031-92823-9_10"
 ---
 
 # Generative AI & Changing Work: Systematic Review of Practitioner-led Transformations through Job Crafting (Law & Varanasi, 2025)
+
+
+## Abstract
+
+**DOI:** [10.1007/978-3-031-92823-9_10](https://doi.org/10.1007/978-3-031-92823-9_10)
+
+Widespread integration of Generative AI tools is transform- ing white-collar work, reshaping how workers define their roles, manage their tasks, and collaborate with peers. This has created a need to de- velop an overarching understanding of common worker-driven patterns around these transformations. To fill this gap, we conducted a systematic literaturereviewof23studiesfromtheACMDigitalLibrarythatfocused on workers’ lived-experiences and practices with GenAI. Our findings re- veal that while many professionals have delegated routine tasks to GenAI to focus on core responsibilities, they have also taken on new forms of AI managerial labor to monitor and refine GenAI outputs. Additionally, practitioners have restructured collaborations, sometimes bypassing tra- ditional peer and subordinate interactions in favor of GenAI assistance. These shifts have
 
 ## Summary
 Law and Varanasi's 2025 systematic review examines how practitioners across fields are using Job Crafting as a framework to understand how they reshape their work in response to Generative AI. Synthesizing 47 studies, the review finds that practitioners are actively crafting new task, relational, and cognitive boundaries around GenAI adoption: taking on new AI-managerial tasks, redefining their value to clients/employers, and developing new expertise in AI direction and quality control. The paper argues that Job Crafting theory is productive for understanding the active, agentive dimensions of AI-mediated work transformation.

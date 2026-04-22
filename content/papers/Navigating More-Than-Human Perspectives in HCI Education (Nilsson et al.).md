@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+abstract: "This paper follows up on the challenges we encountered when we initially began teaching more-than-human perspectives in human- computer interaction (HCI) and technology design. Since then, we have developed a collection of teaching activities and conducted pi- lots with nearly 800 students, exploring how these perspectives can be taught in various settings. Although we think that our teaching activities address some of the initial challenges, several c"
+
+doi: "10.1145/3742901.3742907"
 ---
 
 # Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)
+
+
+## Abstract
+
+**DOI:** [10.1145/3742901.3742907](https://doi.org/10.1145/3742901.3742907)
+
+This paper follows up on the challenges we encountered when we initially began teaching more-than-human perspectives in human- computer interaction (HCI) and technology design. Since then, we have developed a collection of teaching activities and conducted pi- lots with nearly 800 students, exploring how these perspectives can be taught in various settings. Although we think that our teaching activities address some of the initial challenges, several c
 
 ## Connections
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]

@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Problem-Based_Learning
+
+doi: "10.1145/3715336.3735805"
 ---
 
 # Co-Designing with Transformers: Unpacking the Complex Role
+
+**DOI:** [10.1145/3715336.3735805](https://doi.org/10.1145/3715336.3735805)
 
 ## Summary
 This paper unpacks the complex and often contradictory role that transformer-based AI systems play when introduced as collaborative participants in design processes, examining case studies where teams explicitly co-designed with AI rather than using it as a tool. The authors find that AI as collaborator introduces new dynamics around authorship, creative responsibility, and team communication that existing design collaboration frameworks do not adequately address. The paper calls for new theoretical frameworks that account for AI as a genuine participant in design processes with distinct capabilities, biases, and limitations.

@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+abstract: "Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates "
+
+doi: "10.1145/3742901.3742905"
 ---
 
 # Conceptions of Design Practice From Academy to Industry:
+
+
+## Abstract
+
+**DOI:** [10.1145/3742901.3742905](https://doi.org/10.1145/3742901.3742905)
+
+Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates conceptions of design practice in current and future design professionals. We share findings from 21 semi-structured interviews with students, educators, and profes- sionals. Our analysis reveals t
 
 ## Summary
 This paper investigates the gap between how design practice is conceptualized in academic design education versus how it is enacted in professional industry contexts. Through interviews with practitioners and analysis of design education curricula, the authors find that academic design education tends to emphasize process, reflection, and conceptual development, while industry contexts emphasize speed, constraint satisfaction, and iterative user feedback. The paper argues for design education that explicitly bridges these different conceptions, preparing students for the transition without abandoning the intellectual rigor of academic design.

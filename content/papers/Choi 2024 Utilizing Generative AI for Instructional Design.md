@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.1142/S0129156425406175"
+
+abstract: "Abstract Recently, generative AI has been at the center of disruptive innovation in various settings, including educational sectors. This article investigates ChatGPT, which is one of the most prominent generative AI in the market, to explore its usefulness and potential for instructional design. Four researchers used a set of prompts to generate a course map for an online course that is aimed to teach the topic of makerspace and conducted SWOT analysis to identify strengths, weaknesses, opportu"
 ---
 
 # Choi 2024 Utilizing Generative AI for Instructional Design: SWOT Analysis
+
+
+## Abstract
+Abstract Recently, generative AI has been at the center of disruptive innovation in various settings, including educational sectors. This article investigates ChatGPT, which is one of the most prominent generative AI in the market, to explore its usefulness and potential for instructional design. Four researchers used a set of prompts to generate a course map for an online course that is aimed to teach the topic of makerspace and conducted SWOT analysis to identify strengths, weaknesses, opportunities, and threats of using generative AI for instructional design. The findings suggest that there is promise in using ChatGPT as an efficient and effective tool for creating course maps, yet it still requires the domain knowledge and instructional design expertise to warrant quality and reliability of the tool.
+
+**DOI:** [10.1142/S0129156425406175](https://doi.org/10.1142/S0129156425406175)
 
 ## Connections
 - [[AI in Design Education]] - `EXTRACTED`

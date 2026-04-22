@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.25844/p9rv-vj67"
 ---
 
 # Prompting Progress: An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico)
+
+**DOI:** [10.25844/p9rv-vj67](https://doi.org/10.25844/p9rv-vj67)
 
 ## Summary
 This paper reports on an eight-week AI literacy cohort program designed for academic professionals (librarians, administrators, faculty support staff) at the University of New Mexico, examining how a structured, cohort-based approach to AI literacy development differs from self-directed learning and one-time workshops. The program was designed around practical AI use cases relevant to academic work, supported by peer learning, and included critical reflection components. Participants reported significant gains in AI confidence and competence, and the cohort model produced community effects beyond individual skill development.

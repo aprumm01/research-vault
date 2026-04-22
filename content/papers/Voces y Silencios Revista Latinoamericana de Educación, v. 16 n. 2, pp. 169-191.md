@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.18175/VyS16.2.2025.9"
+
+abstract: "This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, as"
 ---
 
 # Reflecting on the Integration of Generative AI in Design Education (Voces y Silencios, 2024)
+
+
+## Abstract
+This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, assessing the impact of AI on creativity, pedagogical practices, and learning outcomes. The theoretical framework draws on Constructivist Learning Theory, Kolb’s
+
+**DOI:** [10.18175/VyS16.2.2025.9](https://doi.org/10.18175/VyS16.2.2025.9)
 
 ## Summary
 This paper from a Latin American education journal reflects critically on the integration of generative AI into design education from a sociocultural perspective, examining how AI tools interact with local educational contexts, linguistic diversity, and power dynamics. The author argues that uncritical adoption of Northern-developed AI tools in Latin American design education risks perpetuating colonial patterns in design knowledge and erasing culturally situated design practices. The paper calls for critical pedagogy frameworks that situate AI integration within local educational and cultural contexts.

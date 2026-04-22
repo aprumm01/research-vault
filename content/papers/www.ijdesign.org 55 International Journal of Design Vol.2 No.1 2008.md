@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.1080/14626268.2020.1722708"
 ---
 
 # The Nature of Design Practice and Implications for Interaction Design Research (Nelson & Stolterman, IJOD 2008)
+
+**DOI:** [10.1080/14626268.2020.1722708](https://doi.org/10.1080/14626268.2020.1722708)
 
 ## Summary
 Nelson and Stolterman's influential paper argues that design practice is characterized by intentional creation of the "ultimate particular" — a unique artifact situated in a specific context that has never existed before and addresses a situation that may never recur. They contrast design with science (which seeks general laws) and art (which expresses subjective vision), positioning design as a third mode of human inquiry. The paper has significant implications for interaction design research, arguing that design scholarship must develop methods appropriate for studying unique, intentional, and situated artifacts rather than borrowing wholesale from natural science.

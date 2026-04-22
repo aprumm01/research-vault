@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_Literacy
+
+doi: "10.14742/ascilite2021.0100"
 ---
 
 # ASCILITE 2024
+
+**DOI:** [10.14742/ascilite2021.0100](https://doi.org/10.14742/ascilite2021.0100)
 
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]

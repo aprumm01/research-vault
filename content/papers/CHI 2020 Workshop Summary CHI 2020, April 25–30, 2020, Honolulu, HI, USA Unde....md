@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1145/3334480.3375168"
 ---
 
 # Understanding the Past, Present, and Future of Design Fictions (Muller & Fiesler, CHI 2020)
+
+**DOI:** [10.1145/3334480.3375168](https://doi.org/10.1145/3334480.3375168)
 
 ## Summary
 Muller and Fiesler's CHI 2020 workshop summary documents a collaborative inquiry into the past, present, and future of design fictions — speculative design artifacts that explore possible and preferable futures to stimulate reflection, debate, and ethical inquiry. The workshop surfaces tensions in design fiction practice: whether it is primarily artistic, analytical, or activist; how it relates to speculative design and critical design; and how it can be made more inclusive and diverse. The summary synthesizes emerging consensus and open questions for the design fiction research community.

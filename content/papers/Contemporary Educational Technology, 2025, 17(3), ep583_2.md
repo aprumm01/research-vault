@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.30935/cedtech/16433"
+
+abstract: "This article explores the theoretical and instructional underpinnings of distance learning with a specific focus on foreign language education. It examines constructivist, connectivist, and humanistic foundations, highlighting pedagogical advantages and limitations. Additionally, the article outlines effective instructional design models, including ADDIE and SAM, supported by cognitive theories and Bloom's taxonomy. Empirical data from global and regional contexts reinforce the practical relevan"
 ---
 
 # Integrating AI into Instructional Design: A Pedagogical Framework (Contemporary Ed Tech, 2025)
+
+
+## Abstract
+This article explores the theoretical and instructional underpinnings of distance learning with a specific focus on foreign language education. It examines constructivist, connectivist, and humanistic foundations, highlighting pedagogical advantages and limitations. Additionally, the article outlines effective instructional design models, including ADDIE and SAM, supported by cognitive theories and Bloom's taxonomy. Empirical data from global and regional contexts reinforce the practical relevance of the theoretical framework. Illustrative tables and figures are included to support the comparative and conceptual analysis.c
+
+**DOI:** [10.30935/cedtech/16433](https://doi.org/10.30935/cedtech/16433)
 
 ## Summary
 This 2025 paper in Contemporary Educational Technology proposes a pedagogical framework for integrating AI into instructional design practice, addressing the gap between available AI tools and principled frameworks for using them in ID work. The framework organizes AI integration around the core activities of instructional design (needs analysis, design, development, implementation, evaluation) and specifies where AI assistance adds value versus where human judgment is indispensable. The paper argues that instructional designers need frameworks grounded in learning theory, not just technical capability, to integrate AI responsibly.

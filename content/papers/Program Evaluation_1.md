@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1007/978-1-4615-4789-1_4"
 ---
 
 # Program Evaluation
+
+**DOI:** [10.1007/978-1-4615-4789-1_4](https://doi.org/10.1007/978-1-4615-4789-1_4)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

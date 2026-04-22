@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
+
+abstract: "Purpose – This paper aims to highlight the crucial role of strategic human resource management and leadership in preparing workforces for the artiﬁcial intelligence (AI) and automation age. Design/methodology/approach – The paper adopts a conceptual approach, reviewing existing literature, drawing insights from industry experts, and real-world examples to develop a framework for preparing and sustaining workforces for the AI era. Findings – The paper ﬁnds that successfully integrating AI and aut"
+
+doi: "10.5121/ijscai.2024.13101"
 ---
 
 # Embracing the AI/automation age:
+
+
+## Abstract
+
+**DOI:** [10.5121/ijscai.2024.13101](https://doi.org/10.5121/ijscai.2024.13101)
+
+Purpose – This paper aims to highlight the crucial role of strategic human resource management and leadership in preparing workforces for the artiﬁcial intelligence (AI) and automation age. Design/methodology/approach – The paper adopts a conceptual approach, reviewing existing literature, drawing insights from industry experts, and real-world examples to develop a framework for preparing and sustaining workforces for the AI era. Findings – The paper ﬁnds that successfully integrating AI and automation in the workforce requires a proactive and strategic approach from HR leaders, emphasising the critical importance of aligning AI and automation strategies with overall business goals through strategic workforce planning. Developing an AI- literate and adaptable workforce is crucial for embracing AI-driven changes, necessitating the creation of new AI-centric roles and caree
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

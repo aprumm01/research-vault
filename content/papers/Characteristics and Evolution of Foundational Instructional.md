@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.4324/9781003354697-5"
 ---
 
 # Characteristics and Evolution of Foundational Instructional 
+
+**DOI:** [10.4324/9781003354697-5](https://doi.org/10.4324/9781003354697-5)
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]

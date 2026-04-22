@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+
+doi: "10.5040/9798216385448.ch-17"
 ---
 
 # Do Artifacts Have Politics? (Winner 1980)
+
+**DOI:** [10.5040/9798216385448.ch-17](https://doi.org/10.5040/9798216385448.ch-17)
 
 ## Connections
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]

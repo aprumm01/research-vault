@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_and_Ethics
+
+abstract: "AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure"
+
+doi: "10.1145/3715336.3735745"
 ---
 
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
+
+
+## Abstract
+
+**DOI:** [10.1145/3715336.3735745](https://doi.org/10.1145/3715336.3735745)
+
+AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure
 
 ## Connections
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]

@@ -6,9 +6,15 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+abstract: "When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo"
 ---
 
 # AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)
+
+
+## Abstract
+When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1080/00461520.2013.804395"
 ---
 
 # Full Terms & Conditions of access and use can be found at
+
+**DOI:** [10.1080/00461520.2013.804395](https://doi.org/10.1080/00461520.2013.804395)
 
 ## Summary
 "Do Learners Really Know Best?" investigates the "urban legend" in education that learner control and student preference for learning methods are reliable guides to effective instructional design. The paper critically reviews the research evidence on learner preference and self-directed learning effectiveness, arguing that there is a significant gap between what learners prefer and what produces optimal learning outcomes. The work challenges constructivist and learner-centered rhetoric that privileges learner choice by synthesizing research showing that novice learners particularly benefit from guidance rather than unstructured exploration.

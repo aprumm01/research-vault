@@ -6,9 +6,19 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+doi: "10.1007/s11423-025-10492-z"
+
+abstract: "Artificial Intelligence (AI) tools are becoming increasingly popular in education, provid- ing teachers with new opportunities to enhance student learning experience and build upon existing teaching practices. This study employs a co-design approach to develop AI-inte- grated learning materials and explore their implementation in elementary classrooms. In collaboration with researchers, twenty-five in-service teachers co-designed engaging, age- appropriate lesson plans aligned with the national "
 ---
 
 # Integrating AI in Literacy Lessons for Elementary Classrooms: A Co-Design Approach
+
+
+## Abstract
+Artificial Intelligence (AI) tools are becoming increasingly popular in education, provid- ing teachers with new opportunities to enhance student learning experience and build upon existing teaching practices. This study employs a co-design approach to develop AI-inte- grated learning materials and explore their implementation in elementary classrooms. In collaboration with researchers, twenty-five in-service teachers co-designed engaging, age- appropriate lesson plans aligned with the national elementary curriculum and adaptable to diverse classroom needs. Qualitative analysis of teachers’ focus groups (n = 25) high- lighted the co-desi
+
+**DOI:** [10.1007/s11423-025-10492-z](https://doi.org/10.1007/s11423-025-10492-z)
 
 ## Summary
 This paper presents a co-design study for integrating AI into literacy lessons in elementary classrooms, documenting a collaborative process in which teachers, designers, and researchers co-created AI-integrated literacy activities for early elementary students. The study examines how co-design methodology surfaces teacher pedagogical concerns, student developmental considerations, and institutional constraints that would be missed in top-down AI curriculum development. The paper contributes both a co-designed curriculum artifact and a co-design methodology for AI-integrated elementary education.

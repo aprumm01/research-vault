@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+doi: "10.37725/mgmt.2026.14066"
 ---
 
 # Rethinking AI in Organization and Management (Ramaul et al.)
+
+**DOI:** [10.37725/mgmt.2026.14066](https://doi.org/10.37725/mgmt.2026.14066)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

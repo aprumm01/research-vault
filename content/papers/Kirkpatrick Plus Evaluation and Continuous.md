@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Responsible_AI_Governance
+
+doi: "10.1007/bf02299676"
 ---
 
 # Kirkpatrick Plus: Evaluation and Continuous
+
+**DOI:** [10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
 
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]

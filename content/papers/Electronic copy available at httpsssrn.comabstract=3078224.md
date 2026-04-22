@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+
+abstract: "While the term “Artiﬁcial Intelligence” (AI) was coined in the 1950s, in recent years AI has become a focus of attention in mainstream media. Yet the forces behind AI’s revival ha"
+
+doi: "10.2139/ssrn.3078224"
 ---
 
 # Manufacturing an Artificial Intelligence Revolution (Katz, 2017)
+
+
+## Abstract
+
+**DOI:** [10.2139/ssrn.3078224](https://doi.org/10.2139/ssrn.3078224)
+
+While the term “Artiﬁcial Intelligence” (AI) was coined in the 1950s, in recent years AI has become a focus of attention in mainstream media. Yet the forces behind AI’s revival ha
 
 ## Summary
 Katz's 2017 SSRN paper provides a critical historical and political analysis of how "AI revolution" narratives are manufactured and propagated, arguing that claims about AI's transformative potential serve ideological and economic interests as much as — or more than — empirical evidence. Drawing on the history of previous technology hype cycles, Katz examines how AI rhetoric is constructed, who benefits from revolutionary framing, and what gets obscured when AI is positioned as an autonomous revolutionary force rather than a set of technologies shaped by human choices, power structures, and economic interests.

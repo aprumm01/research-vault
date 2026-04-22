@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+
+doi: "10.1002/pfi.20023"
 ---
 
 # Fundamentals of Human Performance Technology (Pershing, 2006)
+
+**DOI:** [10.1002/pfi.20023](https://doi.org/10.1002/pfi.20023)
 
 ## Summary
 Pershing's foundational chapter on Human Performance Technology (HPT) defines the field, traces its historical origins in behavioral psychology and systems thinking, and presents the core HPT framework that distinguishes performance problems from training solutions. The chapter establishes that HPT is not synonymous with training but encompasses the full range of interventions — from job redesign and incentive systems to communication improvements — needed to close performance gaps. It argues for a systematic, evidence-based approach to workplace performance improvement.

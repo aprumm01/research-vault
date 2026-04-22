@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+
+doi: "10.1007/s00163-002-0016-y"
 ---
 
 # Cognitive Co-Evolution Model for Design (Cash et al.)
+
+**DOI:** [10.1007/s00163-002-0016-y](https://doi.org/10.1007/s00163-002-0016-y)
 
 ## Connections
 - [[Design Judgment]] - `` [EXTRACTED]

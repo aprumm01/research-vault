@@ -6,9 +6,20 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+
+abstract: "Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall"
+
+doi: "10.47978/tus.2024.74.04.003"
 ---
 
 # AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)
+
+
+## Abstract
+
+**DOI:** [10.47978/tus.2024.74.04.003](https://doi.org/10.47978/tus.2024.74.04.003)
+
+Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

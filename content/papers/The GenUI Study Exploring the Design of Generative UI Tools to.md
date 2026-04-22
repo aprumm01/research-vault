@@ -6,9 +6,13 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Generative_UI_Tools
+
+doi: "10.1145/3715336.3735780"
 ---
 
 # The GenUI Study: Exploring the Design of Generative UI Tools to
+
+**DOI:** [10.1145/3715336.3735780](https://doi.org/10.1145/3715336.3735780)
 
 ## Summary
 The GenUI Study is a large-scale investigation into how generative UI tools should be designed to support UX practitioners, following up on a formative needs-finding study with a design exploration and evaluation phase. The study deploys prototype GenUI tools with UX practitioners and evaluates how different tool designs affect workflow integration, design quality, and practitioner satisfaction. The results inform a set of evidence-based design principles for GenUI tools that account for the full complexity of professional UX practice.
