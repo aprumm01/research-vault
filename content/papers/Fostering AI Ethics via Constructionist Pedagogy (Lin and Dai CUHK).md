@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P70.pdf"
 type: "paper"
-community: "AI in Design Education"
+community: "Responsible AI and Ethics"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Responsible_AI_and_Ethics
 ---
 
 # Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)
@@ -14,4 +14,4 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

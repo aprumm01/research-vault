@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P45.pdf"
 type: "paper"
-community: "Human Performance Technology"
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Responsible_AI_Governance
 ---
 
 # HPT Model Applied to Kayak Company (Martin et al.)
@@ -14,7 +14,7 @@ tags:
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
 
 ## Summary
 Martin et al. provide a detailed case study of applying the Human Performance Technology (HPT) model to a premier kayak company on the North Carolina coast, addressing performance problems including misinformed customers, dissatisfied customers, and guide no-shows. The case study walks through each step of the HPT process—organizational analysis, environmental analysis, gap analysis, cause analysis, and intervention design—demonstrating how HPT translates theory into actionable organizational solutions.

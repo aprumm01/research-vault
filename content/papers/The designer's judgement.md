@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P127.pdf"
 type: "paper"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # The designer's judgement
@@ -14,7 +14,7 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Holt examines the nature of judgment in engineering design, drawing on Geoffrey Vickers's concept of the "appreciative system" to argue that design judgment operates across three knowledge domains: formative, commercial, and instrumental. He addresses what judgment is, how its quality can be assessed, and whether it can be taught—concluding with a strategy for engineering education that develops judgment capacity alongside technical knowledge through situated practice and mentorship.

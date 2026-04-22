@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P73.pdf"
 type: "paper"
-community: "Workplace Learning and AI"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_Literacy
 ---
 
 # State of AI Literacy in Academic Libraries (Lo UNM)
@@ -14,7 +14,7 @@ tags:
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
 
 ## Summary
 Leo S. Lo at the University of New Mexico conducts a follow-up study on the state of AI literacy in academic libraries, examining barriers and opportunities for librarians to develop and provide AI literacy programming. The study finds that while awareness of AI literacy needs has grown, significant barriers remain including lack of training resources, administrative support, and practical competency frameworks. Lo identifies opportunities for libraries to position themselves as AI literacy hubs for their campus communities.

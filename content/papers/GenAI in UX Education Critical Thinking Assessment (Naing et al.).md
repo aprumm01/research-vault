@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P51.pdf"
 type: "paper"
-community: "AI in Design Education"
+community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/HCI_Education_and_Pedagogy
 ---
 
 # GenAI in UX Education: Critical Thinking Assessment (Naing et al.)
@@ -14,7 +14,7 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Naing et al. assess how generative AI tools (ChatGPT, Figma AI, UX Pilot) affect critical thinking, problem-solving, and design iteration speed in UX education at Mae Fah Luang University. Their study finds a tension between AI's ability to accelerate design iteration and its potential to reduce students' active cognitive engagement—raising questions about whether AI assistance in UX education enhances or undermines the development of design thinking capacities.

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P3.pdf"
 type: "paper"
-community: "GenAI in UX and Design Practice"
+community: "Generative UI Tools"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Generative_UI_Tools
 ---
 
 # Formative Study on GenUI Tools (Chen et al. Google DeepMind)
@@ -15,7 +15,7 @@ tags:
 - [[Generative UI Tools]] - `` [EXTRACTED]
 - [[The GenUI Study (Chen Knearem Li)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
 
 ## Summary
 Chen, Knearem, and Li at Google DeepMind conduct a formative study with 37 UX-related professionals to understand how they would integrate Generative UI (GenUI) models into their design workflows. Through a week-long diary study and interviews, they find that GenUI produces good first drafts but struggles with the "last mile" of detailed design refinement. The study identifies workflow integration points, challenges, and design implications for building GenUI tools that genuinely support professional UX practice.

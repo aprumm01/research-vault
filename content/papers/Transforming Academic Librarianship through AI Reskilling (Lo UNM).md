@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P72.pdf"
 type: "paper"
-community: "Workplace Learning and AI"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_Literacy
 ---
 
 # Transforming Academic Librarianship through AI Reskilling (Lo UNM)
@@ -14,7 +14,7 @@ tags:
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
 
 ## Summary
 Leo S. Lo presents a case study of the GPT-4 Exploration Program at the University of New Mexico's College of University Libraries and Learning Sciences, which provided librarians with hands-on AI experience to build AI literacy and foster a culture of continuous learning. Drawing on Knowles's Adult Learning Principles (andragogy), Lo analyzes the program's structure, the diverse projects undertaken by participants, and lessons for professional development in academic librarianship.

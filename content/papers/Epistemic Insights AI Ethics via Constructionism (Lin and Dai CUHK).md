@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P39.pdf"
 type: "paper"
-community: "AI in Design Education"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/AI_Literacy
 ---
 
 # Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)
@@ -15,4 +15,4 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

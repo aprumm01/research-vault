@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P132.pdf"
 type: "paper"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # Design Research Society Design Research Society
@@ -14,7 +14,7 @@ tags:
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 This paper, presented at the Design Research Society, examines how generative AI is shaping the concept of distributed creativity in design contexts. Building on theories of distributed cognition and collective creativity, the paper investigates how GenAI tools extend the creative system beyond individual designers to include AI as a participant in distributed creative processes. The work contributes a distributed creativity framework for understanding GenAI's role in collective and collaborative design work.

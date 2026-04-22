@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P23.pdf"
 type: "paper"
-community: "Workplace Learning and AI"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_and_Future_of_Work
 ---
 
 # Developing Human Experience Experts (Cheatham Miami U)
@@ -16,7 +16,7 @@ tags:
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Dennis Cheatham presents a process-centric framework for design education in response to generative AI, arguing that as AI takes over production tasks, designers must develop as "human experience experts" capable of understanding complex human needs. Built on four theoretical foundations—systems thinking, phenomenology, activity theory, and futures studies—the framework is illustrated through course implementations at Miami University (2023–2025), demonstrating how process-oriented pedagogy cultivates judgment over technical skill.

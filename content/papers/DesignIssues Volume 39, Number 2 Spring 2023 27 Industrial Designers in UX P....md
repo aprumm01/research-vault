@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P159.pdf"
 type: "paper"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # DesignIssues: Volume 39, Number 2 Spring 2023 27 Industrial Designers in UX P...
@@ -15,4 +15,4 @@ tags:
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

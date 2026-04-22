@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P40.pdf"
 type: "paper"
-community: "AI in Design Education"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/AI_Literacy
 ---
 
 # Integrating Unplugged and Plugged for Holistic AI Education (Dai)
@@ -15,7 +15,7 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Constructivism]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
 
 ## Summary
 This longitudinal study by Lively and Hutson at Lindenwood University examines how student motivation shapes outcomes when AI tools are integrated into web design and UX education across five semesters (Spring 2023 to Spring 2024). The study finds that text-based AI tools significantly improved writing efficiency and coding, while image-based tools enhanced ideation and color selection. Importantly, student motivation levels moderated the degree to which AI tools augmented creative capabilities.

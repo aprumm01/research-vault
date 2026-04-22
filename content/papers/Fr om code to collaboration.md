@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P99.pdf"
 type: "paper"
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # Fr om code to collaboration:
@@ -13,7 +13,7 @@ tags:
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Rastogi and Pandita examine employee perceptions of AI advancements in the IT sector through qualitative interviews with 27 IT specialists from multinational corporations, finding that AI is transforming job roles from technical execution toward strategic collaboration and decision-making. While employees recognize AI's productivity benefits, they also express concerns about skill redundancy, job security, and the pace of change. The study identifies organizational interventions needed to support effective AI integration.

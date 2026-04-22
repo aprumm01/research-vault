@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/I8.pdf"
 type: "institution"
-community: "GenAI in UX and Design Practice"
+community: "Generative UI Tools"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Generative_UI_Tools
 ---
 
 # Google DeepMind
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools

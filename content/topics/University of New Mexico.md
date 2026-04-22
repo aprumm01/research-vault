@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/I9.pdf"
 type: "institution"
-community: "Workplace Learning and AI"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_Literacy
 ---
 
 # University of New Mexico
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

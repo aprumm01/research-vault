@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P53.pdf"
 type: "paper"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # Cognitive Co-Evolution Model for Design (Cash et al.)
@@ -14,7 +14,7 @@ tags:
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Cash et al. develop and elaborate the cognitive co-evolution model of design thinking, which explains how designers simultaneously develop both the problem and solution spaces throughout the design process. The model accounts for the dynamic, iterative nature of design cognition — designers do not first fully specify a problem and then solve it, but rather problem and solution co-evolve through cycles of reflection, exploration, and refinement. The paper provides empirical and theoretical elaboration of this foundational design cognition model.

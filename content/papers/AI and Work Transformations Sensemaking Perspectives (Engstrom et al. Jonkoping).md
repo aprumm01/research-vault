@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P65.pdf"
 type: "paper"
-community: "Workplace Learning and AI"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_and_Future_of_Work
 ---
 
 # AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)
@@ -14,7 +14,7 @@ tags:
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Engström et al. investigate how organizational members make initial sense of AI adoption in their work settings, using a qualitative, explorative approach with industry participants at Jönköping University. The study finds that AI's perceived features trigger distinct sensemaking processes that in turn shape workplace learning trajectories — how workers interpret AI determines what and how they learn in response to it. The paper contributes a sensemaking lens to AI adoption research, foregrounding the interpretive work that precedes behavioral and organizational change.

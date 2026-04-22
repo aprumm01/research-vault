@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "theme"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # Design Theory and Cognition
@@ -14,4 +14,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

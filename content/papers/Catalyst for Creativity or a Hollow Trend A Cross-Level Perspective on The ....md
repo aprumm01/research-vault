@@ -1,0 +1,18 @@
+---
+source_file: "research_docs/P230.pdf"
+type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+---
+
+# Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The ...
+
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

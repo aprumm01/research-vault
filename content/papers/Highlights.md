@@ -1,0 +1,18 @@
+---
+source_file: "research_docs/P204.pdf"
+type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+---
+
+# Highlights
+
+## Connections
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

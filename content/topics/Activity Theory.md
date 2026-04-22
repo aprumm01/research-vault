@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "concept"
-community: "Workplace Learning and AI"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_and_Future_of_Work
 ---
 
 # Activity Theory
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

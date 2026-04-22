@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P27.pdf"
 type: "paper"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # Designerly Ways of Knowing (Cross 1982)
@@ -14,7 +14,7 @@ tags:
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Nigel Cross argues that design constitutes a "third culture" alongside sciences and humanities, with its own distinct epistemology rooted in constructive problem-solving and abductive reasoning. He contends that design education must move beyond instrumental training toward developing intrinsic designerly values: the ability to model, represent, and synthesize solutions to ill-defined problems. The paper is foundational for framing design as a legitimate cognitive discipline.

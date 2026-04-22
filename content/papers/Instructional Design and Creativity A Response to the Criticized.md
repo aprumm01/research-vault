@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P77.pdf"
 type: "paper"
-community: "Instructional Design Theory"
+community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/HCI_Education_and_Pedagogy
 ---
 
 # Instructional Design and Creativity: A Response to the Criticized
@@ -14,7 +14,7 @@ tags:
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Gordon Rowland responds to debates about creativity in instructional design, arguing that the systematic processes of ID are compatible with—and indeed can foster—creative thinking. Published in Educational Technology in 1995, Rowland contends that critics who frame ID as mechanistic miss the intellectual and creative demands of designing effective instruction. He advocates for a view of instructional design as a reflective, generative practice rather than a linear algorithm.

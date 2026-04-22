@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "concept"
-community: "Responsible AI and Ethics"
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
+  - community/Responsible_AI_Governance
 ---
 
 # Responsible AI Governance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

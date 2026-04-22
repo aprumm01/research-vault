@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P124.pdf"
 type: "paper"
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # Stolovitch Beresford 2012--evoluation of HPT (1)
@@ -13,7 +13,7 @@ tags:
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Stolovitch and Beresford trace the evolution of Human Performance Technology (HPT) from its origins in behaviorism and programmed instruction through its development into a comprehensive performance improvement framework. They examine how HPT has incorporated systems thinking, organization development, and cognitive science while maintaining its core commitment to performance-based outcomes and measurable results. The paper contextualizes contemporary HPT within the broader history of the field.

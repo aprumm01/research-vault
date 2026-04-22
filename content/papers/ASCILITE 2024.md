@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P96.pdf"
 type: "paper"
-community: "Responsible AI and Ethics"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
+  - community/AI_Literacy
 ---
 
 # ASCILITE 2024
@@ -15,7 +15,7 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
 
 ## Summary
 This ASCILITE 2024 conference paper explores the role of AI tools in UX research practice, examining how UX researchers are integrating AI into their workflows and what implications this has for research quality, efficiency, and professional competency. The paper documents emerging patterns of AI use in UX research contexts and raises questions about the impact of AI assistance on research rigor and practitioner skill development.

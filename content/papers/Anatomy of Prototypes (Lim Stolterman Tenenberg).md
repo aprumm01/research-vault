@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P28.pdf"
 type: "paper"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # Anatomy of Prototypes (Lim Stolterman Tenenberg)
@@ -15,7 +15,7 @@ tags:
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Lim, Stolterman, and Tenenberg develop a conceptual framework — the "anatomy of prototypes" — that systematizes the properties of prototypes along dimensions of filtering (what aspects of a design artifact the prototype represents) and resolution (how accurately those aspects are represented). The framework helps designers and researchers understand why prototypes have different epistemic and communicative functions, and when different prototyping strategies are appropriate. Published in 2008, it remains a foundational reference in design and HCI prototyping research.

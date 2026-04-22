@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P69.pdf"
 type: "paper"
-community: "Design Theory and Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Theory_and_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # Design Capability in Social Innovation (Cao Ma Meng Tongji)
@@ -13,7 +13,7 @@ tags:
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Theory_and_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Cao, Ma, and Meng from Tongji University synthesize the concept of design capability in social innovation, identifying the professional skills and design attitudes that enable designers to contribute effectively to social innovation projects. The paper develops a framework integrating technical design skills with social awareness, collaborative capacity, and systemic thinking — arguing that social innovation requires an expanded conception of design capability beyond artifact creation. The Tongji perspective draws on China's significant tradition of design-for-social-good research.

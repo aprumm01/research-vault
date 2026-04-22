@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "concept"
-community: "Responsible AI and Ethics"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
+  - community/Problem-Based_Learning
 ---
 
 # Metacognitive Support
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

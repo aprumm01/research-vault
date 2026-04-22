@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/A8.pdf"
 type: "author"
-community: "Workplace Learning and AI"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_Literacy
 ---
 
 # Leo S. Lo
@@ -15,4 +15,4 @@ tags:
 - [[Transforming Academic Librarianship through AI Reskilling (Lo UNM)]] - `` [EXTRACTED]
 - [[University of New Mexico]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

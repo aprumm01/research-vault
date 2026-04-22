@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P119.pdf"
 type: "paper"
-community: "Responsible AI and Ethics"
+community: "Problem-Based Learning"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
+  - community/Problem-Based_Learning
 ---
 
 # EDUCATIONAL PSYCHOLOGIST,42(2), 99–107
@@ -14,7 +14,7 @@ tags:
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
 
 ## Summary
 Hmelo-Silver, Duncan, and Chinn respond to Kirschner, Sweller, and Clark's critique of minimally guided instruction, arguing that problem-based learning (PBL) and inquiry learning (IL) are not unguided discovery learning but are, in fact, highly scaffolded approaches. They present evidence that PBL and IL effectively reduce cognitive load through structured support while promoting deep understanding—contradicting the claim that these methods are inherently less effective than direct instruction.

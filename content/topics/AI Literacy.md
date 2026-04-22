@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "concept"
-community: "AI in Design Education"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/AI_Literacy
 ---
 
 # AI Literacy
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

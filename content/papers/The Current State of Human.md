@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P82.pdf"
 type: "paper"
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # The Current State of Human
@@ -13,7 +13,7 @@ tags:
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Cho et al. conduct a citation network analysis of Performance Improvement Quarterly from 1988 to 2010 to map the intellectual structure and current state of Human Performance Technology (HPT) as a field. They find that HPT has developed a coherent citation network with identifiable clusters around performance analysis, intervention design, and evaluation, but that theory development remains limited relative to practice-oriented contributions. The analysis reveals HPT's intellectual dependencies and areas for scholarly growth.

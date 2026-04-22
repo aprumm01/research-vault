@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: "concept"
-community: "Human Performance Technology"
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Responsible_AI_Governance
 ---
 
 # Kirkpatrick Evaluation Model
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P33.pdf"
 type: "paper"
-community: "Workplace Learning and AI"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_and_Future_of_Work
 ---
 
 # Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)
@@ -15,4 +15,4 @@ tags:
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

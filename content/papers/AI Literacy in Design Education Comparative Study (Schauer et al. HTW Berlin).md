@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P38.pdf"
 type: "paper"
-community: "AI in Design Education"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/AI_Literacy
 ---
 
 # AI Literacy in Design Education: Comparative Study (Schauer et al. HTW Berlin)
@@ -14,7 +14,7 @@ tags:
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[AI in Design Education]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
 
 ## Summary
 Schauer, Simbeck, and Pinkwart conduct a comparative quantitative and qualitative survey of communication design and architectural design students at HTW Berlin and Humboldt University, assessing AI literacy levels and attitudes toward AI. Students self-rate their AI literacy as moderate, express awareness of both AI's productivity benefits and its risks (decreased creativity, job losses, copyright concerns), and show disciplinary differences between communication and architecture students. The paper contributes empirical baseline data on design students' AI competencies and attitudes.
