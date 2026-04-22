@@ -1,4 +1,5 @@
 ---
+title: "Beyond Replacement or Enhancement: How AI Transforms Work Through Simultaneous Automation and Augmentation"
 source_file: "research_docs/P229.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "10.70175/hclreview.2020.33.1.5"
 abstract: "The discourse surrounding artificial intelligence and employment has largely positioned automation and augmentation as opposing forces—jobs either get replaced or enhanced. This framing obscures what recent empirical evidence reveals: AI simultaneously automates some tasks while amplifying others, often within the same roles. Analysis of millions of U.S. job postings spanning 2020–2025 demonstrates that skills exposed to AI automation show 16% higher likelihood of declining demand, while augment"
 ---
 
-# Beyond Replacement or Augmentation: How Creative Workers Reconfigure Division...
+# Beyond Replacement or Enhancement: How AI Transforms Work Through Simultaneous Automation and Augmentation
 
 
 ## Abstract

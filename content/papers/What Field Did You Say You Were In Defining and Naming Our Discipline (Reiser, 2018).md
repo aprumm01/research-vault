@@ -1,4 +1,5 @@
 ---
+title: "What Field Did You Say You Were In? Defining and Naming Our Discipline (Reiser, 2018)"
 source_file: "research_docs/P117.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "[Missing]"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Reiser (2018)--Chapter 1 What field
+# What Field Did You Say You Were In? Defining and Naming Our Discipline (Reiser, 2018)
 
 
 ## Abstract

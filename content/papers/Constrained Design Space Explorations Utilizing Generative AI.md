@@ -1,4 +1,5 @@
 ---
+title: "Constrained Design Space Explorations Utilizing Generative AI"
 source_file: "research_docs/P210.pdf"
 type: "paper"
 community: "AI in Design Education"
@@ -12,7 +13,7 @@ abstract: "Sensitivity is essential in art and Design education, traditionally c
 doi: "10.2139/ssrn.5134919"
 ---
 
-# Utilizing Generative AI in Design Education:
+# Constrained Design Space Explorations Utilizing Generative AI
 
 
 ## Abstract

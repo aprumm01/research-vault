@@ -1,4 +1,5 @@
 ---
+title: "Why AI and Machine Learning Fail to Transform Incumbent Organizations"
 source_file: "research_docs/P156.pdf"
 type: "paper"
 community: "Responsible AI Governance"
@@ -12,7 +13,7 @@ doi: "[Missing — PDF may need OCR]"
 abstract: "Abstract not available — PDF may need OCR or manual entry"
 ---
 
-# AI And Machine Learning W hy New Technologies Don’tTransform Incumbents by Sa...
+# Why AI and Machine Learning Fail to Transform Incumbent Organizations
 
 
 ## Abstract

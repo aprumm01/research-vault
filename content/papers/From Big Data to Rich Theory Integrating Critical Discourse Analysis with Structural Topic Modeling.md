@@ -1,4 +1,5 @@
 ---
+title: "From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling"
 source_file: "research_docs/P153.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
@@ -12,7 +13,7 @@ doi: "10.1111/EMRE.12452"
 abstract: "A growing interest in the study of discourses has spread in management research, but so far, it has mostly relied on in-depth qualitative analyses of textual material. With the increasing availability of large textual data, several challenges arise. This paper offers a mixed-methods approach to integrate critical discourse analysis with structural topic modeling to turn these challenges into valuable opportunities. We argue that combining both approaches overcomes their limitations and provides "
 ---
 
-# From Big Data to Rich Theory: Integrating Critical Discourse Analysis with St...
+# From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling
 
 
 ## Abstract

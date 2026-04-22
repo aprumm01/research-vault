@@ -1,4 +1,5 @@
 ---
+title: "Does Ai Development Polarized Job Market: Evidence from Dynamic Panel Analysis"
 source_file: "research_docs/P89.pdf"
 type: "paper"
 community: "AI and Future of Work"
@@ -12,7 +13,7 @@ abstract: "The research examines how artificial intelligence affects unemploymen
 doi: "10.2139/ssrn.5233820"
 ---
 
-# Does AI Development Polarized Job Market:
+# Does Ai Development Polarized Job Market: Evidence from Dynamic Panel Analysis
 
 
 ## Abstract

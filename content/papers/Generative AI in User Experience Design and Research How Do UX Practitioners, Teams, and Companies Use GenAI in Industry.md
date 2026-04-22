@@ -1,4 +1,5 @@
 ---
+title: "Generative AI in User Experience Design and Research: How Do UX Practitioners, Teams, and Companies Use GenAI in Industry?"
 source_file: "research_docs/P217.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "10.1145/3643834.3660720"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# . . Latest updates: hps://dl.acm.org/doi/10.1145/3643834.3660720 . . RESEARC...
+# Generative AI in User Experience Design and Research: How Do UX Practitioners, Teams, and Companies Use GenAI in Industry?
 
 
 ## Abstract

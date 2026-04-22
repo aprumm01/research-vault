@@ -1,4 +1,5 @@
 ---
+title: "A Model in Instructional Design: Dick, Carey and Carey (Turkish)"
 source_file: "research_docs/P214.pdf"
 type: "paper"
 community: "Instructional Design Theory"
@@ -12,7 +13,7 @@ doi: "10.24315/trkefd.321226"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# The Dick and Carey Model:
+# A Model in Instructional Design: Dick, Carey and Carey (Turkish)
 
 
 ## Abstract

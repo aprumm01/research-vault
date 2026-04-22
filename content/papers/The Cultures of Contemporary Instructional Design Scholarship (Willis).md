@@ -1,4 +1,5 @@
 ---
+title: "The Cultures of Contemporary Instructional Design Scholarship (Willis)"
 source_file: "research_docs/P142.pdf"
 type: "paper"
 community: "Instructional Design Theory"
@@ -12,7 +13,7 @@ doi: "[Missing]"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# The Cultures of Contemporary Instructional Design Scholarship, Part One: Deve...
+# The Cultures of Contemporary Instructional Design Scholarship (Willis)
 
 
 ## Abstract

@@ -1,4 +1,5 @@
 ---
+title: "Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy: An Interdisciplinary Approach to AI Literacy"
 source_file: "research_docs/P166.pdf"
 type: "paper"
 community: "AI Literacy"
@@ -12,7 +13,7 @@ abstract: "There is a growing consensus on the importance of AI ethics in K-12 e
 doi: "10.1609/aaai.v39i28.35190"
 ---
 
-# Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy:
+# Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy: An Interdisciplinary Approach to AI Literacy
 
 
 ## Abstract

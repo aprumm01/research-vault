@@ -1,4 +1,5 @@
 ---
+title: "How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries"
 source_file: "research_docs/P158.pdf"
 type: "paper"
 community: "AI and Future of Work"
@@ -12,7 +13,7 @@ doi: "10.1145/3613904.3642700"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# . . Latest updates: hps://dl.acm.org/doi/10.1145/3613904.3642700 . . RESEARC...
+# How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries
 
 
 ## Abstract

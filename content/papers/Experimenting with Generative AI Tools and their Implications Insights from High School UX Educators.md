@@ -1,4 +1,5 @@
 ---
+title: "Experimenting with Generative AI Tools and their Implications: Insights from High School UX Educators"
 source_file: "research_docs/P265.pdf"
 type: "paper"
 community: "Responsible AI Governance"
@@ -12,7 +13,7 @@ abstract: "As generative AI (GAI) tools become more advanced and adopted in prof
 doi: "10.1145/3742901.3742912"
 ---
 
-# Experimenting with Generative AI Tools and their Implications:
+# Experimenting with Generative AI Tools and their Implications: Insights from High School UX Educators
 
 
 ## Abstract

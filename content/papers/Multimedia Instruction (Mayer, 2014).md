@@ -1,4 +1,5 @@
 ---
+title: "Multimedia Instruction (Mayer, 2014)"
 source_file: "research_docs/P110.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "10.1007/978-1-4614-3185-5_31"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Mayer 2014 - Multimedia Instruction (Handbook Chapter)
+# Multimedia Instruction (Mayer, 2014)
 
 
 ## Abstract

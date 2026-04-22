@@ -1,4 +1,5 @@
 ---
+title: "Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education"
 source_file: "research_docs/P254.pdf"
 type: "paper"
 community: "Responsible AI Governance"
@@ -12,7 +13,7 @@ abstract: "Interactive technologies increasingly permeate our everyday lives, an
 doi: "10.1145/3742901.3742905"
 ---
 
-# Conceptions of Design Practice From Academy to Industry:
+# Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education
 
 
 ## Abstract

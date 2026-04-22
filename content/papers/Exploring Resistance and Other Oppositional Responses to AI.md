@@ -1,4 +1,5 @@
 ---
+title: "Exploring Resistance and Other Oppositional Responses to AI"
 source_file: "research_docs/P154.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "10.1145/3715070.3748295"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Exploring Resistance and Other Oppositional Responses to AI Eric P. S. Baumer...
+# Exploring Resistance and Other Oppositional Responses to AI
 
 
 ## Abstract

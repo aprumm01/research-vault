@@ -1,4 +1,5 @@
 ---
+title: "The Evolution of Human Performance Technology (Stolovitch and Beresford, 2012)"
 source_file: "research_docs/P124.pdf"
 type: "paper"
 community: "Instructional Design Theory"
@@ -12,7 +13,7 @@ doi: "[Missing]"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Stolovitch Beresford 2012--evoluation of HPT (1)
+# The Evolution of Human Performance Technology (Stolovitch and Beresford, 2012)
 
 
 ## Abstract

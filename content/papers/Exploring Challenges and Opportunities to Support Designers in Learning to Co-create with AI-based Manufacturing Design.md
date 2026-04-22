@@ -1,4 +1,5 @@
 ---
+title: "Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools"
 source_file: "research_docs/P235.pdf"
 type: "paper"
 community: "Responsible AI Governance"
@@ -12,7 +13,7 @@ doi: "10.1145/3544548.3580999"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Exploring Challenges and Opportunities to Support Designers in Learning to Co...
+# Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools
 
 
 ## Abstract

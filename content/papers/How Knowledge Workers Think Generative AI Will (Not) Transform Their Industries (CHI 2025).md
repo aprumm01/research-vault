@@ -1,4 +1,5 @@
 ---
+title: "How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries (CHI 2025)"
 source_file: "research_docs/P238.pdf"
 type: "paper"
 community: "AI and Future of Work"
@@ -12,7 +13,7 @@ doi: "[Missing — PDF may need OCR]"
 abstract: "Abstract not available — PDF may need OCR or manual entry"
 ---
 
-# . . Latest updates: hps://dl.acm.org/doi/10.1145/3613904.3642700 . . RESEARC...
+# How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries (CHI 2025)
 
 
 ## Abstract

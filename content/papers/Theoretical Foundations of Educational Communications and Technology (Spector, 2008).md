@@ -1,4 +1,5 @@
 ---
+title: "Theoretical Foundations of Educational Communications and Technology (Spector, 2008)"
 source_file: "research_docs/P122.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "10.1002/9781118093429.ch3"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Spector 2008 - Theoretical Foundations Ed Communication and Tech
+# Theoretical Foundations of Educational Communications and Technology (Spector, 2008)
 
 
 ## Abstract

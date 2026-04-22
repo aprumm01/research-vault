@@ -1,4 +1,5 @@
 ---
+title: "User Experience Design Professionals' Perceptions of Generative Artificial Intelligence"
 source_file: "research_docs/P242.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "10.1145/3613904.3642114"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# . . Latest updates: hps://dl.acm.org/doi/10.1145/3613904.3642114 . . RESEARC...
+# User Experience Design Professionals' Perceptions of Generative Artificial Intelligence
 
 
 ## Abstract

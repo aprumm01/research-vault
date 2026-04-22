@@ -1,4 +1,5 @@
 ---
+title: "Why New Technologies Do Not Transform Incumbents (Choudary, HBR)"
 source_file: "research_docs/P155.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "[Missing]"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Why New Technologies Don't Transform Incumbents Sangeet Paul Choudary | Harva...
+# Why New Technologies Do Not Transform Incumbents (Choudary, HBR)
 
 
 ## Abstract

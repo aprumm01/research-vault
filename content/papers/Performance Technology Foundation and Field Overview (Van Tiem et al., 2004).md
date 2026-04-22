@@ -1,4 +1,5 @@
 ---
+title: "Performance Technology: Foundation and Field Overview (Van Tiem et al., 2004)"
 source_file: "research_docs/P139.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
@@ -12,7 +13,7 @@ doi: "10.1601/ex.8970"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Van Tiem et al. 2004--performance tech defined
+# Performance Technology: Foundation and Field Overview (Van Tiem et al., 2004)
 
 
 ## Abstract

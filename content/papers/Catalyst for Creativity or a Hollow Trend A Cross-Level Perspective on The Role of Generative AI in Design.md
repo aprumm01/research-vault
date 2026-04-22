@@ -1,4 +1,5 @@
 ---
+title: "Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design"
 source_file: "research_docs/P230.pdf"
 type: "paper"
 community: "Responsible AI Governance"
@@ -12,7 +13,7 @@ doi: "10.1145/3706598.3713233"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The ...
+# Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design
 
 
 ## Abstract

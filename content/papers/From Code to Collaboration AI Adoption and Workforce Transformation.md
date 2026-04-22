@@ -1,4 +1,5 @@
 ---
+title: "From Code to Collaboration: AI Adoption and Workforce Transformation"
 source_file: "research_docs/P271.pdf"
 type: "paper"
 community: "Instructional Design Theory"
@@ -12,7 +13,7 @@ abstract: "Purpose – Artificial intelligence is creating a significant technol
 doi: "[Missing]"
 ---
 
-# Fr om code to collaboration:
+# From Code to Collaboration: AI Adoption and Workforce Transformation
 
 
 ## Abstract

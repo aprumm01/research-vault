@@ -1,4 +1,5 @@
 ---
+title: "AI in Test Automation: Overcoming Challenges, Embracing Imperatives"
 source_file: "research_docs/P90.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
@@ -12,7 +13,7 @@ abstract: "Purpose – This paper aims to highlight the crucial role of strategi
 doi: "10.5121/ijscai.2024.13101"
 ---
 
-# Embracing the AI/automation age:
+# AI in Test Automation: Overcoming Challenges, Embracing Imperatives
 
 
 ## Abstract
