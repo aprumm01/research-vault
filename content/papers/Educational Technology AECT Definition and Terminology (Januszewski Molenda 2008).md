@@ -12,7 +12,7 @@ doi: "10.1111/j.1467-8535.2008.00925_4.x"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# AECT Definition and Terminology: Educational Technology (Januszewski & Molenda, 2008)
+# Educational Technology AECT Definition and Terminology (Januszewski Molenda 2008)
 
 
 ## Abstract

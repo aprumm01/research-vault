@@ -1,5 +1,5 @@
 ---
-source_file: "research_docs/P140.pdf"
+source_file: "research_docs/P213.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
@@ -12,7 +12,7 @@ doi: "10.1080/00461520701263350"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# KIRSCHNER, SWELLER, CLARKMINIMAL GUIDANCE
+# Why Minimal Guidance During Instruction Does Not Work (Kirschner Sweller Clark)
 
 
 ## Abstract

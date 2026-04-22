@@ -12,7 +12,7 @@ doi: "10.2307/j.ctv11990qk.7"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Clark Mayer
+# e-Learning and the Science of Instruction (Clark and Mayer)
 
 
 ## Abstract

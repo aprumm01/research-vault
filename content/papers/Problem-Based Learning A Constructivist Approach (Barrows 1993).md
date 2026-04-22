@@ -12,7 +12,7 @@ doi: "10.1016/0307-4412(93)90084-d"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Problem-based Learning
+# Problem-Based Learning A Constructivist Approach (Barrows 1993)
 
 
 ## Abstract
