@@ -10,11 +10,6 @@ tags:
 
 ## Related Papers
 
-- [[papers/Developing Human Experience Experts (Cheatham Miami U)|Developing Human Experience Experts (Cheatham Miami U)]] — *uses*
-- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] — *uses*
-
-## Related Papers
-
-- [[papers/Developing Human Experience Experts (Cheatham Miami U)|Developing Human Experience Experts (Cheatham Miami U)]] — *uses*
-- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] — *uses*
+- [[papers/Developing Human Experience Experts (Cheatham Miami U)|Developing Human Experience Experts (Cheatham Miami U)]]
+- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]]
 

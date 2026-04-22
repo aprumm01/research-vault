@@ -10,13 +10,7 @@ tags:
 
 ## Related Papers
 
-- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] — *addresses*
-- [[papers/AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)]] — *studies*
-- [[papers/Beyond the Hype Responsible AI in Workplace Learning (Sposato)|Beyond the Hype: Responsible AI in Workplace Learning (Sposato)]] — *addresses*
-
-## Related Papers
-
-- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] — *addresses*
-- [[papers/AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)]] — *studies*
-- [[papers/Beyond the Hype Responsible AI in Workplace Learning (Sposato)|Beyond the Hype: Responsible AI in Workplace Learning (Sposato)]] — *addresses*
+- [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]]
+- [[papers/AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)|AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)]]
+- [[papers/Beyond the Hype Responsible AI in Workplace Learning (Sposato)|Beyond the Hype: Responsible AI in Workplace Learning (Sposato)]]
 

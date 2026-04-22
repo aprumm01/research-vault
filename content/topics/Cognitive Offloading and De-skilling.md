@@ -10,11 +10,6 @@ tags:
 
 ## Related Papers
 
-- [[papers/Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)|Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] — *addresses*
-- [[papers/De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)|De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] — *introduces*
-
-## Related Papers
-
-- [[papers/Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)|Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] — *addresses*
-- [[papers/De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)|De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] — *introduces*
+- [[papers/Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)|Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]]
+- [[papers/De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)|De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]]
 
