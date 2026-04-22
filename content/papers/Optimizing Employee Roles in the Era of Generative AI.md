@@ -1,5 +1,5 @@
 ---
-source_file: "research_docs/P178.pdf"
+source_file: "research_docs/P113.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
@@ -12,7 +12,7 @@ doi: "10.1080/23311886.2025.2476737"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Cogent Social Sciences
+# Optimizing Employee Roles in the Era of Generative AI
 
 
 ## Abstract

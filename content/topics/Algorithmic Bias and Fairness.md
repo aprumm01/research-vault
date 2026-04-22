@@ -14,3 +14,9 @@ tags:
 - [[papers/Rethinking Optimization Systems-Based Social Externalities (Nokhiz et al. Cornell)|Rethinking Optimization: Systems-Based Social Externalities (Nokhiz et al. Cornell)]] — *addresses*
 - [[papers/Employment Shopping An AI-Driven Universal Job Allocation Model for Inclusive|Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive]] — *addresses*
 
+## Related Papers
+
+- [[papers/Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)|Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] — *addresses*
+- [[papers/Rethinking Optimization Systems-Based Social Externalities (Nokhiz et al. Cornell)|Rethinking Optimization: Systems-Based Social Externalities (Nokhiz et al. Cornell)]] — *addresses*
+- [[papers/Employment Shopping An AI-Driven Universal Job Allocation Model for Inclusive|Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive]] — *addresses*
+

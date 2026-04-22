@@ -12,3 +12,7 @@ tags:
 
 - [[papers/Vibe Coding for Product Design (Li et al.)|Vibe Coding for Product Design (Li et al.)]] — *studies*
 
+## Related Papers
+
+- [[papers/Vibe Coding for Product Design (Li et al.)|Vibe Coding for Product Design (Li et al.)]] — *studies*
+

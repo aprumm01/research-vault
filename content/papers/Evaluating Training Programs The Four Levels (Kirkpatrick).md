@@ -1,5 +1,5 @@
 ---
-source_file: "research_docs/P173.pdf"
+source_file: "research_docs/P107.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
@@ -12,7 +12,7 @@ doi: "[Missing]"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# EVALUATING
+# Evaluating Training Programs: The Four Levels (Kirkpatrick)
 
 
 ## Abstract

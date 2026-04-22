@@ -12,7 +12,7 @@ doi: "10.1080/00461520.2013.804395"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Full Terms & Conditions of access and use can be found at
+# Do Learners Really Know Best Urban Legends in Education
 
 
 ## Abstract

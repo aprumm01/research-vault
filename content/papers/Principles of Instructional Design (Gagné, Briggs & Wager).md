@@ -12,7 +12,7 @@ doi: "[Missing]"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# PRINCIPLES
+# Principles of Instructional Design (Gagné, Briggs & Wager)
 
 
 ## Abstract

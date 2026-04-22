@@ -12,7 +12,7 @@ doi: "[Missing]"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# EDUCATIONAL PSYCHOLOGIST,42(2), 99–107
+# Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)
 
 
 ## Abstract

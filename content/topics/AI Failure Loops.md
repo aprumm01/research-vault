@@ -12,3 +12,7 @@ tags:
 
 - [[papers/AI Failure Loops in Devalued Work (Kawakami et al.)|AI Failure Loops in Devalued Work (Kawakami et al.)]] — *introduces*
 
+## Related Papers
+
+- [[papers/AI Failure Loops in Devalued Work (Kawakami et al.)|AI Failure Loops in Devalued Work (Kawakami et al.)]] — *introduces*
+

@@ -12,7 +12,7 @@ doi: "10.7767/9783205219880.643"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# E1C01_1 10/14/2009 5
+# Human Performance Technology Models Overview (Wilmoth, Prigmore & Bray)
 
 
 ## Abstract

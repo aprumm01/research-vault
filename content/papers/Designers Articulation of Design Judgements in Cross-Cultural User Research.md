@@ -12,7 +12,7 @@ doi: "10.1080/15710882.2017.1393546"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Full Terms & Conditions of access and use can be found at
+# Designers Articulation of Design Judgements in Cross-Cultural User Research
 
 
 ## Abstract

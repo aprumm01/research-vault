@@ -1,5 +1,5 @@
 ---
-source_file: "research_docs/P267.pdf"
+source_file: "research_docs/P96.pdf"
 type: "paper"
 community: "AI Literacy"
 tags:
@@ -12,7 +12,7 @@ doi: "10.14742/ascilite2021.0100"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# ASCILITE 2024
+# AI Tools in UX Research Practice (ASCILITE 2024)
 
 
 ## Abstract
@@ -23,7 +23,7 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy
 

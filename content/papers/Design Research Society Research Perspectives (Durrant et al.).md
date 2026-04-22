@@ -12,7 +12,7 @@ doi: "10.5040/9781472596178-bed-d070"
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Design Research Society Design Research Society
+# Design Research Society Research Perspectives (Durrant et al.)
 
 
 ## Abstract
