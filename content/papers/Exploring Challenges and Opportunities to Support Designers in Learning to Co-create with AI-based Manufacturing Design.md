@@ -4,15 +4,14 @@ type: "paper"
 doi: "10.1145/3544548.3580999"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Gmeiner, F., Yang, H., Yao, L., Holstein, K., & Martelaro, N."
+apa: "Gmeiner, F., Yang, H., Yao, L., Holstein, K., & Martelaro, N. (2023). Exploring challenges and opportunities to support designers in learning to co-create with ai-based manufacturing design tools. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 1-20. https://doi.org/10.1145/3544548.3580999"
 ---
 
 # Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3544548.3580999](https://doi.org/10.1145/3544548.3580999)
-
 
 ## Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]

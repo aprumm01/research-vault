@@ -5,13 +5,12 @@ type: "paper"
 doi: "10.37725/mgmt.2026.14066"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Barlatier, P., & Michel, S."
+apa: "Barlatier, P., & Michel, S. (2026). Rethinking responsibility in organization and management research. M@n@gement, 29(1), 1-6. https://doi.org/10.37725/mgmt.2026.14066"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.37725/mgmt.2026.14066](https://doi.org/10.37725/mgmt.2026.14066)
-
 
 ## Topics
 - [[topics/Hybrid Intelligence|Hybrid Intelligence]]

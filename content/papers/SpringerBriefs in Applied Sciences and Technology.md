@@ -3,11 +3,11 @@ type: "paper"
 doi: "10.1007/978-3-031-77521-5_5"
 
 abstract: "Abstract The chapter frames the AIXE (AI user eXperience Evaluation) scale, a statistically validated questionnaire to assess the UX of AI-infused products, describing its development process as well as its validation. AIXE is composed by 33 questions with 4 ordinal Likert-scale answers, organized around 12 descriptors related to the UX of the target systems. The questionnaire is meant to be proposed to the intended users of AI-infused products to quantitatively analyse the user experience they "
+authors: "Spallazzo, D., Sciannamè, M., & Ceconello, M."
+apa: "Spallazzo, D., Sciannamè, M., & Ceconello, M. (2025). Aixe. a method to evaluate the ux of systems integrating ai. SpringerBriefs in Applied Sciences and Technology, 65-82. https://doi.org/10.1007/978-3-031-77521-5_5"
 ---
 
 ## Abstract
-
-**DOI:** [10.1007/978-3-031-77521-5_5](https://doi.org/10.1007/978-3-031-77521-5_5)
 
 Abstract The chapter frames the AIXE (AI user eXperience Evaluation) scale, a statistically validated questionnaire to assess the UX of AI-infused products, describing its development process as well as its validation. AIXE is composed by 33 questions with 4 ordinal Likert-scale answers, organized around 12 descriptors related to the UX of the target systems. The questionnaire is meant to be proposed to the intended users of AI-infused products to quantitatively analyse the user experience they convey. The chapter further illustrates how the scale can be applied, its limitations and future opportunities.
 

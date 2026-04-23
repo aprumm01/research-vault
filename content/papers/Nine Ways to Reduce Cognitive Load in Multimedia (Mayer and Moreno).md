@@ -5,13 +5,12 @@ type: "paper"
 doi: "10.1207/s15326985ep3801_6"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Mayer, R.E., & Moreno, R."
+apa: "Mayer, R.E., & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. Educational Psychologist, 38(1), 43-52. https://doi.org/10.1207/s15326985ep3801_6"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1207/s15326985ep3801_6](https://doi.org/10.1207/s15326985ep3801_6)
-
 
 ## Topics
 - [[topics/Cognitive Load Theory|Cognitive Load Theory]]

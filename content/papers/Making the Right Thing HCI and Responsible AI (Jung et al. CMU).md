@@ -3,11 +3,11 @@ type: "paper"
 abstract: "AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure"
 
 doi: "10.1145/3715336.3735745"
+authors: "Jung, J., Saxena, D., Park, M., Kim, J., Forlizzi, J., Holstein, K., & Zimmerman, J."
+apa: "Jung, J., Saxena, D., Park, M., Kim, J., Forlizzi, J., Holstein, K., & Zimmerman, J. (2025). Making the right thing: Bridging hci and responsible ai in early-stage ai concept selection. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 2992-3012. https://doi.org/10.1145/3715336.3735745"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3715336.3735745](https://doi.org/10.1145/3715336.3735745)
 
 AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure
 

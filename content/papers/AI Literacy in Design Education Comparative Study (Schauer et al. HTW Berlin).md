@@ -3,11 +3,11 @@ type: "paper"
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.5220/0013338100003932"
+authors: "Schauer, S., Simbeck, K., & Pinkwart, N."
+apa: "Schauer, S., Simbeck, K., & Pinkwart, N. (2025). Ai literacy and attitudes towards ai in design education: A comparative study of communication and architectural design students. Proceedings of the 17th International Conference on Computer Supported Education, 464-471. https://doi.org/10.5220/0013338100003932"
 ---
 
 ## Abstract
-
-**DOI:** [10.5220/0013338100003932](https://doi.org/10.5220/0013338100003932)
 
 There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
 

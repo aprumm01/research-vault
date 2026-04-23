@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1016/j.destud.2023.101219"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Cash, P., Gonçalves, M., & Dorst, K."
+apa: "Cash, P., Gonçalves, M., & Dorst, K. (2023). Method in their madness: Explaining how designers think and act through the cognitive co-evolution model. Design Studies, 88, 101219. https://doi.org/10.1016/j.destud.2023.101219"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1016/j.destud.2023.101219](https://doi.org/10.1016/j.destud.2023.101219)
-
 
 ## Topics
 - [[topics/Metacognitive Support|Metacognitive Support]]

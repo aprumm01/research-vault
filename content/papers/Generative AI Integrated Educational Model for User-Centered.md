@@ -4,11 +4,11 @@ type: "paper"
 abstract: "The advent of artificial intelligence (AI) has profoundly transformed the educational landscape. Many educators are exploring how AI tools can enhance learning instructional programs. However, there is less focus on how its application within design education— particularly when teaching user-centered design. This study devel- oped an educational model utilizing AI for user-centered design curriculum. Based on design thinking theory, this model integrates ChatGPT and Midjourney into the divergent"
 
 doi: "10.1145/3722237.3722260"
+authors: "Wu, Y., Zeng, X., & Lin, Q."
+apa: "Wu, Y., Zeng, X., & Lin, Q. (2024). Generative ai integrated educational model for user-centered design. Proceedings of the 2024 3rd International Conference on Artificial Intelligence and Education, 129-135. https://doi.org/10.1145/3722237.3722260"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3722237.3722260](https://doi.org/10.1145/3722237.3722260)
 
 The advent of artificial intelligence (AI) has profoundly transformed the educational landscape. Many educators are exploring how AI tools can enhance learning instructional programs. However, there is less focus on how its application within design education— particularly when teaching user-centered design. This study devel- oped an educational model utilizing AI for user-centered design curriculum. Based on design thinking theory, this model integrates ChatGPT and Midjourney into the divergent and convergent design phases to facilitate the workflow. The empirical research showed that educational model can foster students’ creativity and problem- solving skills. The findings highlight the efficacy of AI integration in curricula design and instruction
 

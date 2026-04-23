@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1002/piq.21143"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Ertmer, P.A., & Newby, T.J."
+apa: "Ertmer, P.A., & Newby, T.J. (2013). Behaviorism, cognitivism, constructivism: Comparing critical features from an instructional design perspective. Performance Improvement Quarterly, 26(2), 43-71. https://doi.org/10.1002/piq.21143"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1002/piq.21143](https://doi.org/10.1002/piq.21143)
-
 
 ## Topics
 - [[topics/Constructivism|Constructivism]]

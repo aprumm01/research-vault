@@ -4,11 +4,11 @@ type: "paper"
 abstract: "Research purpose. This paper aims to analyse how university students perceive the role of Artificial Intelligence and human-centric technologies in shaping the future workforce within the context of Industry 5.0. By focusin"
 
 doi: "10.2478/jec-2025-0011"
+authors: "Ferhataj, A., Biçoku, J., & Memaj, F."
+apa: "Ferhataj, A., Biçoku, J., & Memaj, F. (2025). Shaping the future workforce: Students' perceptions on ai and human-centric technologies in industry 5.0. Economics and Culture, 22(1), 136-147. https://doi.org/10.2478/jec-2025-0011"
 ---
 
 ## Abstract
-
-**DOI:** [10.2478/jec-2025-0011](https://doi.org/10.2478/jec-2025-0011)
 
 Research purpose. This paper aims to analyse how university students perceive the role of Artificial Intelligence and human-centric technologies in shaping the future workforce within the context of Industry 5.0. By focusin
 

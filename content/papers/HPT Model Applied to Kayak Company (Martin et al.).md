@@ -5,13 +5,12 @@ type: "paper"
 doi: "10.1002/pfi.20061"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Martin, F., Hall, H.A., Blakely, A., Gayford, M.C., & Gunter, E."
+apa: "Martin, F., Hall, H.A., Blakely, A., Gayford, M.C., & Gunter, E. (2009). The hpt model applied to a kayak company's registration process. Performance Improvement, 48(3), 26-35. https://doi.org/10.1002/pfi.20061"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1002/pfi.20061](https://doi.org/10.1002/pfi.20061)
-
 
 ## Topics
 - [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]

@@ -3,11 +3,11 @@ type: "paper"
 abstract: "Author Affiliations: Full Text Word Count: ISSN: Record: 1 Reconsidering the Instructional Design and Technology Timeline Through a Lens of Social Justice. Bradshaw, Amy C. bradshaw@ou.edu TechTrends: Linking Research & Practice to Improve Learning. Jul2018, Vol. 62 Issue 4, p336-344. 9p. Article *EDUCATIONAL technology *INSTRUCTIONAL systems design *TEACHING methods *SOCIAL justice *TEACHER education Equity History Inclusion Social justice A combined timeline project of major events in the fiel"
 
 doi: "10.31577/filozofia.2024.79.5.5"
+authors: "Schreiber, G."
+apa: "Schreiber, G. (2024). Reconsidering agency in the age of ai. Filozofia, 79(5), 529-537. https://doi.org/10.31577/filozofia.2024.79.5.5"
 ---
 
 ## Abstract
-
-**DOI:** [10.31577/filozofia.2024.79.5.5](https://doi.org/10.31577/filozofia.2024.79.5.5)
 
 Author Affiliations: Full Text Word Count: ISSN: Record: 1 Reconsidering the Instructional Design and Technology Timeline Through a Lens of Social Justice. Bradshaw, Amy C. bradshaw@ou.edu TechTrends: Linking Research & Practice to Improve Learning. Jul2018, Vol. 62 Issue 4, p336-344. 9p. Article *EDUCATIONAL technology *INSTRUCTIONAL systems design *TEACHING methods *SOCIAL justice *TEACHER education Equity History Inclusion Social justice A combined timeline project of major events in the field of instructional design and technology (IDT) and concurrent events in the broader social context was engaged as part of an effort to understand why social justice issues seem to be perceived as irrelevant to and disconnected from professional work in IDT. A brief review of IDT is presented, including an example reinforcing tendencies toward mechanistic thinking, and key moments when the field shifted in response to attention being called to
 

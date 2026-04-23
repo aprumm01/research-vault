@@ -4,12 +4,12 @@ type: "paper"
 doi: "10.5040/9781472596178-bed-d070"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Armstrong, L."
+apa: "Armstrong, L. (2016). Design research society (1966–). The Bloomsbury Encyclopedia of Design, 399-400. https://doi.org/10.5040/9781472596178-bed-d070"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.5040/9781472596178-bed-d070](https://doi.org/10.5040/9781472596178-bed-d070)
 
 ## Summary
 This paper, presented at the Design Research Society, examines how generative AI is shaping the concept of distributed creativity in design contexts. Building on theories of distributed cognition and collective creativity, the paper investigates how GenAI tools extend the creative system beyond individual designers to include AI as a participant in distributed creative processes. The work contributes a distributed creativity framework for understanding GenAI's role in collective and collaborative design work.

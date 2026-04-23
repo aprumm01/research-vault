@@ -4,11 +4,11 @@ type: "paper"
 doi: "10.3402/rlt.v3i2.9606"
 
 abstract: "In today's complex world, simply knowing how to use tools and knowledge in a single domain is not sufficient to remain competitive as either individuals or companies. People must also learn to apply tools and knowledge in new domains and different situations. Industry specialists report that people at every organizational level must be creative and flexible problem solvers (Lynton, 1989). This requires the ability to apply experience and a definition knowledge to address novel problems. Conseque"
+authors: "Grabinger, R.S., & Dunlap, J.C."
+apa: "Grabinger, R.S., & Dunlap, J.C. (2011). Rich environments for active learning: A definition. Research in Learning Technology, 3(2). https://doi.org/10.3402/rlt.v3i2.9606"
 ---
 
 ## Abstract
-
-**DOI:** [10.3402/rlt.v3i2.9606](https://doi.org/10.3402/rlt.v3i2.9606)
 
 In today's complex world, simply knowing how to use tools and knowledge in a single domain is not sufficient to remain competitive as either individuals or companies. People must also learn to apply tools and knowledge in new domains and different situations. Industry specialists report that people at every organizational level must be creative and flexible problem solvers (Lynton, 1989). This requires the ability to apply experience and a definition knowledge to address novel problems. Consequently, learning to think critically, to analyse and synthesize information to solve technical, social, economic, political, and scientific problems, and to work productively in groups are crucial skills for successful and fulfilling participation in our modern, competitive society.DOI:10.1080/0968776950030202
 

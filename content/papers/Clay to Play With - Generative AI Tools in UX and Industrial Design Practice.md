@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1145/3643834.3661624"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Uusitalo, S., Salovaara, A., Jokela, T., & Salmimaa, M."
+apa: "Uusitalo, S., Salovaara, A., Jokela, T., & Salmimaa, M. (2024). ”clay to play with”: Generative ai tools in ux and industrial design practice. Designing Interactive Systems Conference, 1566-1578. https://doi.org/10.1145/3643834.3661624"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3643834.3661624](https://doi.org/10.1145/3643834.3661624)
 
 ## Summary
 This paper explores industrial and UX designers' use of generative AI tools through the metaphor of "clay to play with" — positioning AI as a malleable, generative material that enables exploratory, low-stakes design experimentation. Through design research with practitioners in product and experience design contexts, the authors find that successful AI integration occurs when designers approach tools playfully and experimentally rather than instrumentally, treating AI outputs as starting points for design exploration rather than finished products. The paper argues for a materials-centered approach to understanding AI in design practice.

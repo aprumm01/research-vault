@@ -5,12 +5,12 @@ type: "paper"
 doi: "10.1109/MTS.2024.3392280"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Sadek, M., Calvo, R.A., & Mougenot, C."
+apa: "Sadek, M., Calvo, R.A., & Mougenot, C. (2024). Closing the socio–technical gap in ai: The need for measuring practitioners’ attitudes and perceptions. IEEE Technology and Society Magazine, 43(2), 88-91. https://doi.org/10.1109/mts.2024.3392280"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1109/MTS.2024.3392280](https://doi.org/10.1109/MTS.2024.3392280)
 
 ## Topics
 - [[topics/Value-Sensitive Design|Value-Sensitive Design]]

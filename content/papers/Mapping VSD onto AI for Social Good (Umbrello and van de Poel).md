@@ -5,13 +5,12 @@ type: "paper"
 doi: "10.1007/s43681-021-00038-3"
 
 abstract: "Value sensitive design (VSD) is an established method for integrating values into technical design. It has been applied to different technologies and, more recently, to artificial intelligence (AI). We argue that AI poses a number of challenges spe- cific to VSD that require a somewhat modified VSD approach. Machine learning (ML), in particular, poses two challenges. First, humans may not understand how an AI system learns certain things. This requires paying attention to values such as transpar"
+authors: "Umbrello, S., & van de Poel, I."
+apa: "Umbrello, S., & van de Poel, I. (2021). Mapping value sensitive design onto ai for social good principles. AI and Ethics, 1(3), 283-296. https://doi.org/10.1007/s43681-021-00038-3"
 ---
 
 ## Abstract
 Value sensitive design (VSD) is an established method for integrating values into technical design. It has been applied to different technologies and, more recently, to artificial intelligence (AI). We argue that AI poses a number of challenges spe- cific to VSD that require a somewhat modified VSD approach. Machine learning (ML), in particular, poses two challenges. First, humans may not understand how an AI system learns certain things. This requires paying attention to values such as transparency, explicability, and accountability. Second, ML may lead to AI systems adapting in ways that ‘disembody’ the values embedded in them. To address this, we propose a threefold modified VSD approach: (1) integrating a known set of VSD principles (AI4SG) as design nor
-
-**DOI:** [10.1007/s43681-021-00038-3](https://doi.org/10.1007/s43681-021-00038-3)
-
 
 ## Topics
 - [[topics/Value-Sensitive Design|Value-Sensitive Design]]

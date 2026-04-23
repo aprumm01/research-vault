@@ -4,13 +4,12 @@ type: "paper"
 doi: "10.24315/trkefd.321226"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "esmer, E."
+apa: "esmer, E. (2018). Öğretim tasarımında bir model: Dick&amp;carey&amp;carey. Trakya Üniversitesi Eğitim Fakültesi Dergisi, 274-284. https://doi.org/10.24315/trkefd.321226"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.24315/trkefd.321226](https://doi.org/10.24315/trkefd.321226)
-
 
 ## Topics
 - [[topics/Constructivism|Constructivism]]

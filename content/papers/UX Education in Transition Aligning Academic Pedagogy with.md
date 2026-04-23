@@ -3,11 +3,11 @@ type: "paper"
 abstract: "This study investigates the misalignment between User Experi- ence pedagogy and evolving industry practices, with a focus on accessible design. Two research questions guide the inquiry: how well current UX pedagogy prepares students for industry needs and what strategies can bridge existing gaps. Methods included a rhetorical analysis of relevant literature and a Fall 2024 survey of Technical and Professional Communication educators. Findings re- veal persistent definitional ambiguity, pedagogic"
 
 doi: "10.1145/3711670.3764629"
+authors: "Gallagher, P.B., & Oswal, S.K."
+apa: "Gallagher, P.B., & Oswal, S.K. (2025). Ux education in transition: Aligning academic pedagogy with new industry needs. Proceedings of the 43rd ACM International Conference on Design of Communication, 128-134. https://doi.org/10.1145/3711670.3764629"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3711670.3764629](https://doi.org/10.1145/3711670.3764629)
 
 This study investigates the misalignment between User Experi- ence pedagogy and evolving industry practices, with a focus on accessible design. Two research questions guide the inquiry: how well current UX pedagogy prepares students for industry needs and what strategies can bridge existing gaps. Methods included a rhetorical analysis of relevant literature and a Fall 2024 survey of Technical and Professional Communication educators. Findings re- veal persistent definitional ambiguity, pedagogical misalignments, and limited academia-industry collaboration. Based on these re- sults, the paper proposes structural recommendations to formalize industry partnerships, recognize faculty engagement efforts, and build sustainable pipelines to enrich UX education. CCS Concepts • Social and professional topics ; • Professional topics; • Com- puting education; •
 

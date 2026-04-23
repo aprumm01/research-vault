@@ -5,12 +5,12 @@ type: "paper"
 doi: "10.1007/s00163-002-0016-y"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Maher, M., & Tang, H."
+apa: "Maher, M., & Tang, H. (2003). Co-evolution as a computational and cognitive model of design. Research in Engineering Design, 14(1), 47-64. https://doi.org/10.1007/s00163-002-0016-y"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/s00163-002-0016-y](https://doi.org/10.1007/s00163-002-0016-y)
 
 ## Topics
 - [[topics/Design Judgment|Design Judgment]]

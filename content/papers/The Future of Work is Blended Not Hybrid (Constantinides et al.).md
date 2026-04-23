@@ -6,11 +6,10 @@ type: "paper"
 abstract: "The way we work is no longer hybrid—it is blended with AI co- workers, automated decisions, and virtual presence reshaping hu- man roles, agency, and expertise. We now work through AI, with our outputs shaped by invisible algorithms. AI’s infiltration into knowledge, creative, and service work is not just about automation, but concerns redistribution of agency, creativity, and control. How do we deal with physical and distributed AI-mediated workspaces? What happens when algorithms co-author rep"
 
 doi: "10.1145/3729176.3729202"
+apa: "Constantinides, M., Verma, H., Sadeghian, S., & El Ali, A. (2025). The future of work is blended, not hybrid. Proceedings of the 4th Annual Symposium on Human-Computer Interaction for Work, 1-13. https://doi.org/10.1145/3729176.3729202"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3729176.3729202](https://doi.org/10.1145/3729176.3729202)
 
 The way we work is no longer hybrid—it is blended with AI co- workers, automated decisions, and virtual presence reshaping hu- man roles, agency, and expertise. We now work through AI, with our outputs shaped by invisible algorithms. AI’s infiltration into knowledge, creative, and service work is not just about automation, but concerns redistribution of agency, creativity, and control. How do we deal with physical and distributed AI-mediated workspaces? What happens when algorithms co-author reports, and draft our creative work? In this provocation, we argue that hybrid work is obsolete. Blended work is the future, not just in physic
 

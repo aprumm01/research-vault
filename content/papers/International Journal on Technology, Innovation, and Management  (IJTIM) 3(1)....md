@@ -3,11 +3,11 @@ type: "paper"
 doi: "10.54489/ijtim.v3i1.195"
 
 abstract: "This study investigates the integration of AI language model tools, specifically ChatGPT, in the Design Thinking process to evaluate their effect on product design. While previous research has primarily focused on Design Thinking, limited research has been conducted on the application of AI tools in the process. This study involved redesigning two previous projects using AI tools in the Design Thinking process. We conducted interviews with five designers and analysed ten Product Manager reports "
+authors: "Al-sa'di, A., & Miller, D."
+apa: "Al-sa'di, A., & Miller, D. (2023). Exploring the impact of artificial intelligence language model chatgpt on the user experience. International Journal of Technology, Innovation and Management (IJTIM), 3(1), 1-8. https://doi.org/10.54489/ijtim.v3i1.195"
 ---
 
 ## Abstract
-
-**DOI:** [10.54489/ijtim.v3i1.195](https://doi.org/10.54489/ijtim.v3i1.195)
 
 This study investigates the integration of AI language model tools, specifically ChatGPT, in the Design Thinking process to evaluate their effect on product design. While previous research has primarily focused on Design Thinking, limited research has been conducted on the application of AI tools in the process. This study involved redesigning two previous projects using AI tools in the Design Thinking process. We conducted interviews with five designers and analysed ten Product Manager reports to understand the impact of using AI tools on one of the most popular innovation and problem-solving approaches called Design Thinking. The findings indicate that integrating AI tools into the design thinking process, specifically in the Define and Ideate stages, can improve the efficiency and creativity of the UI. However, the successful implementation of AI tools requires a combination of technological expertise and creative design thinking. The study emphasizes the potential for AI tools to complement human creativity and expertise in the design process, rather than replace them. The results contribute to understanding the appropriate application of AI tools in design and innovation while underscoring the importance of keeping humans at the centre of the process.
 

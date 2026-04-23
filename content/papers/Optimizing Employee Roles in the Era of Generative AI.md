@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1080/23311886.2025.2476737"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Agarwal, A."
+apa: "Agarwal, A. (2025). Optimizing employee roles in the era of generative ai: A multi-criteria decision-making analysis of co-creation dynamics. Cogent Social Sciences, 11(1). https://doi.org/10.1080/23311886.2025.2476737"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1080/23311886.2025.2476737](https://doi.org/10.1080/23311886.2025.2476737)
 
 ## Topics
 - [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

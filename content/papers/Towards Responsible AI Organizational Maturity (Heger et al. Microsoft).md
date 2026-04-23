@@ -5,11 +5,11 @@ type: "paper"
 doi: "10.1145/3757514"
 
 abstract: "Artificial intelligence (AI) holds tremendous potential but also poses consequential risks. Regulation frameworks like the EU AI Act aim to mitigate these risks, yet organizations struggle to understand and operationalize Responsible AI (RAI). We introduce the RAI Organizational Maturity (RAI-OM) framework as an initial step towards a RAI maturity model to highlight the many factors that influence an organization's RAI maturity. Developed through in-depth qualitative interviews and co-design ses"
+authors: "Heger, A.K., Passi, S., Dhanorkar, S., Kahn, Z., Wang, R., & Vorvoreanu, M."
+apa: "Heger, A.K., Passi, S., Dhanorkar, S., Kahn, Z., Wang, R., & Vorvoreanu, M. (2025). Towards a responsible ai organizational maturity model. Proceedings of the ACM on Human-Computer Interaction, 9(7), 1-33. https://doi.org/10.1145/3757514"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3757514](https://doi.org/10.1145/3757514)
 
 Artificial intelligence (AI) holds tremendous potential but also poses consequential risks. Regulation frameworks like the EU AI Act aim to mitigate these risks, yet organizations struggle to understand and operationalize Responsible AI (RAI). We introduce the RAI Organizational Maturity (RAI-OM) framework as an initial step towards a RAI maturity model to highlight the many factors that influence an organization's RAI maturity. Developed through in-depth qualitative interviews and co-design sessions with 90 RAI experts, the RAI-OM framework consists of 24 dimensions grouped into three main categories: Organizational Foundations, Team Approach, and RAI Practices. Our findings also provide further evidence for the interdependent nature of RAI's organizational factors, the import of collaboration for mature RAI, and the need to start RAI early in the AI lifecyle. Researchers and practitioners can use the RAI-OM framework and our research findings to not only understand the different moving parts in RAI's complex organizational machinery, but also address organizational barriers to RAI, unpack the different types of collaborations needed for mature RAI, and support RAI's articulation work and process.
 

@@ -5,12 +5,12 @@ type: "paper"
 doi: "10.1007/BF02299088"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Clark, R.E."
+apa: "Clark, R.E. (1994). Media will never influence learning. Educational Technology Research and Development, 42(2), 21-29. https://doi.org/10.1007/bf02299088"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/BF02299088](https://doi.org/10.1007/BF02299088)
 
 ## Summary
 Richard Clark's influential and controversial 1994 paper argues that media are "mere vehicles" for delivering instruction and that no medium produces learning gains that could not be achieved with a different, often less expensive medium. Clark contends that learning is determined by instructional methods, not the delivery medium, and warns against investing resources in new technologies based on medium-specific learning claims. The paper sparked decades of debate in educational technology.

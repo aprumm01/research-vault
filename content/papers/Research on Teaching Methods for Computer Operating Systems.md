@@ -4,11 +4,11 @@ type: "paper"
 abstract: "As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin"
 
 doi: "10.1145/3744367.3744368"
+authors: "Wei, Z., Chen, L., Sun, L., Li, J., Wang, L., Liu, L., & Meng, J."
+apa: "Wei, Z., Chen, L., Sun, L., Li, J., Wang, L., Liu, L., & Meng, J. (2025). Research on teaching methods for computer operating systems integrating ai and structured seminars. Proceedings of the 2025 International Conference on Artificial Intelligence and Educational Systems, 1-7. https://doi.org/10.1145/3744367.3744368"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3744367.3744368](https://doi.org/10.1145/3744367.3744368)
 
 As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin
 

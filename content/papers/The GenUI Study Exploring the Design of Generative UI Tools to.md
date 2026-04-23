@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1145/3715336.3735780"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Chen, X.'., Knearem, T., & Li, Y."
+apa: "Chen, X.'., Knearem, T., & Li, Y. (2025). The genui study: Exploring the design of generative ui tools to support ux practitioners and beyond. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 1179-1196. https://doi.org/10.1145/3715336.3735780"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3715336.3735780](https://doi.org/10.1145/3715336.3735780)
-
 
 ## Topics
 - [[topics/Generative UI Tools|Generative UI Tools]]

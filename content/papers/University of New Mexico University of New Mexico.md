@@ -8,8 +8,6 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-**DOI:** [10.25844/p9rv-vj67](https://doi.org/10.25844/p9rv-vj67)
-
 ## Summary
 This paper reports on an eight-week AI literacy cohort program designed for academic professionals (librarians, administrators, faculty support staff) at the University of New Mexico, examining how a structured, cohort-based approach to AI literacy development differs from self-directed learning and one-time workshops. The program was designed around practical AI use cases relevant to academic work, supported by peer learning, and included critical reflection components. Participants reported significant gains in AI confidence and competence, and the cohort model produced community effects beyond individual skill development.
 

@@ -5,11 +5,11 @@ type: "paper"
 abstract: "Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four str"
 
 doi: "10.1145/3635636.3656190"
+authors: "Palani, S., & Ramos, G."
+apa: "Palani, S., & Ramos, G. (2024). Evolving roles and workflows of creative practitioners in the age of generative ai. Creativity and Cognition, 170-184. https://doi.org/10.1145/3635636.3656190"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3635636.3656190](https://doi.org/10.1145/3635636.3656190)
 
 Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four strategies professionals employ to reshape their roles. Writing professionals employed GAI resist- ing strategies to maximize human potential, reinforce professional identity, carve out a profe
 

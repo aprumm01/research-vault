@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.21606/drs.2020.120"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Boling, E., Gray, C.M., & Smith, K.M."
+apa: "Boling, E., Gray, C.M., & Smith, K.M. (2020). Educating for design character in higher education: Challenges in studio pedagogy. Proceedings of DRS. https://doi.org/10.21606/drs.2020.120"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.21606/drs.2020.120](https://doi.org/10.21606/drs.2020.120)
 
 ## Summary
 MurdochKitt, Culén, and Mainsah's Design Research Society paper examines the challenge of educating for design character — the dispositional qualities (curiosity, care, integrity, courage) that distinguish excellent designers beyond technical skill. Drawing on virtue ethics and phronesis, the paper argues that design character cannot be taught through method instruction alone but requires pedagogical approaches that cultivate practical wisdom through reflection, mentorship, and exposure to complex design challenges. It positions character education as a legitimate and necessary dimension of higher design education.

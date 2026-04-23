@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.61737/NNSO3210"
 
 abstract: "This study represents a foundational phase in a broader research program designed to guide investors and policymakers in the development of human capital standards. By examining the critical intersections between the future of work and artificial intelligence (AI), it investigates how technological advancements are reshaping workforce dynamics, redefining skill requirements, and influencing human capital strategies. In this initial stage, the study focuses on key issues, including the assessment"
+authors: "Saba, T., Hubert, A., & Bernet, M."
+apa: "Saba, T., Hubert, A., & Bernet, M. (2024). Shaping human capital standards: Exploring the intersections of the future of work and artificial intelligence. https://doi.org/10.61737/nnso3210"
 ---
 
 ## Abstract
 This study represents a foundational phase in a broader research program designed to guide investors and policymakers in the development of human capital standards. By examining the critical intersections between the future of work and artificial intelligence (AI), it investigates how technological advancements are reshaping workforce dynamics, redefining skill requirements, and influencing human capital strategies. In this initial stage, the study focuses on key issues, including the assessment of risks, opportunities, and uncertainties associated with the integration of AI into workplace practices. Our objective is to develop a comprehensive mapping of human capital components, establishing a solid foundation for evidence-based decision-making. Ultimately, this framework aims to support the creation of robust human capital standards that align with the priorities of investors and policymakers, while promoting transparency, encouraging innovation, and enabling the sustainable creation of long-term value.
-
-**DOI:** [10.61737/NNSO3210](https://doi.org/10.61737/NNSO3210)
 
 ## Summary
 This 2025 paper examines how organizations and policymakers are shaping human capital standards in response to AI and the future of work, analyzing the intersections between workforce development policy, AI capability development, and skills framework design. The authors argue that existing human capital standards (educational credentials, competency frameworks, job classifications) were not designed for the pace of AI-driven skill disruption and require fundamental revision. The paper proposes principles for future-of-work-aware human capital standards that support worker adaptability rather than locking in current skill profiles.

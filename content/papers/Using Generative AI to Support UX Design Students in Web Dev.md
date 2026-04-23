@@ -4,11 +4,11 @@ type: "paper"
 abstract: "This work explores the integration of Generative AI (GenAI) tools into web development ed"
 
 doi: "10.3390/app15137389"
+authors: "Buendía-García, F., & Piris-Ruano, J."
+apa: "Buendía-García, F., & Piris-Ruano, J. (2025). Using generative ai to support ux design students in web development courses. Applied Sciences, 15(13), 7389. https://doi.org/10.3390/app15137389"
 ---
 
 ## Abstract
-
-**DOI:** [10.3390/app15137389](https://doi.org/10.3390/app15137389)
 
 This work explores the integration of Generative AI (GenAI) tools into web development ed
 

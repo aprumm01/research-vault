@@ -3,11 +3,11 @@ type: "paper"
 abstract: "This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for e"
 
 doi: "10.1145/3715336.3735805"
+authors: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W."
+apa: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W. (2025). Co-designing with transformers: Unpacking the complex role of genai in interactive system design education. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 1228-1243. https://doi.org/10.1145/3715336.3735805"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3715336.3735805](https://doi.org/10.1145/3715336.3735805)
 
 This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
 

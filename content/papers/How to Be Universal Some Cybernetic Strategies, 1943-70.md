@@ -3,11 +3,11 @@ type: "paper"
 doi: "10.1177/030631293023001004"
 
 abstract: "The new discipline of cybernetics expanded exponentially in the period 1943-70. Unlike traditional scientific disciplines, its practitioners claimed (to varying degrees) that they were producing a new universal science. This paper anatomizes the claim to universality, details some rhetorical strategies used to support that claim, and examines some practical consequences for the general economy of the sciences argued by cyberneticians. It concludes by characterizing cybernetic strategies in terms"
+authors: "Bowker, G."
+apa: "Bowker, G. (1993). How to be universal: Some cybernetic strategies, 1943-70. Social Studies of Science, 23(1), 107-127. https://doi.org/10.1177/030631293023001004"
 ---
 
 ## Abstract
-
-**DOI:** [10.1177/030631293023001004](https://doi.org/10.1177/030631293023001004)
 
 The new discipline of cybernetics expanded exponentially in the period 1943-70. Unlike traditional scientific disciplines, its practitioners claimed (to varying degrees) that they were producing a new universal science. This paper anatomizes the claim to universality, details some rhetorical strategies used to support that claim, and examines some practical consequences for the general economy of the sciences argued by cyberneticians. It concludes by characterizing cybernetic strategies in terms of a form complementary to the obligatory passage point - the `distributed passage point'.
 

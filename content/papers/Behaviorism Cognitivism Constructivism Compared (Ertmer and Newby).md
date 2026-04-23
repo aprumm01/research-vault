@@ -5,13 +5,12 @@ type: "paper"
 doi: "10.1002/piq.21143"
 
 abstract: "The aim of this study was to investigate the theoretical basis upon which the instructional design process was built ; to achieve the aim of the study, a qualitative analytical approach was followed, and the available related literature was subjected to a semi- chronological scrutiny; findings of this study indicate that three learning theories have had central effects on orienting the process of instructional design: behaviorism , cognitivism , and constructivism have indirectly established the"
+authors: "Ertmer, P.A., & Newby, T.J."
+apa: "Ertmer, P.A., & Newby, T.J. (2013). Behaviorism, cognitivism, constructivism: Comparing critical features from an instructional design perspective. Performance Improvement Quarterly, 26(2), 43-71. https://doi.org/10.1002/piq.21143"
 ---
 
 ## Abstract
 The aim of this study was to investigate the theoretical basis upon which the instructional design process was built ; to achieve the aim of the study, a qualitative analytical approach was followed, and the available related literature was subjected to a semi- chronological scrutiny; findings of this study indicate that three learning theories have had central effects on orienting the process of instructional design: behaviorism , cognitivism , and constructivism have indirectly established the boundaries of instructional design by directly setting the scope of applicability of the instructional practices ; the three theories of learning behaviorism, cognitivism, and constructivism have enabled a deep understanding of how learning happens which, in turn, has sprouted up as various instructional practices and considerations; as a result, this study has concluded that instructional design will not be successful nor fruitful unless teachers and designers consider these instructional practices and considerations that are grounded to the educational maxims of these learning theories. Findings of this study has also confirmed the feasibility and sustainability of instructional design in the sense that it guarantees achieving educational goals and objectives in less time, less effort, and less cost. Accordingly, this study has recommended a set of recommendations in this regard.
-
-**DOI:** [10.1002/piq.21143](https://doi.org/10.1002/piq.21143)
-
 
 ## Topics
 - [[topics/Constructivism|Constructivism]]

@@ -4,12 +4,12 @@ type: "paper"
 doi: "10.1145/3715070.3748295"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Baumer, E.P.S., Cha, I., Khovanskaya, V., Steup, R., Vertesi, J., & Wong, R.Y."
+apa: "Baumer, E.P.S., Cha, I., Khovanskaya, V., Steup, R., Vertesi, J., & Wong, R.Y. (2025). Exploring resistance and other oppositional responses to ai. Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing, 156-160. https://doi.org/10.1145/3715070.3748295"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3715070.3748295](https://doi.org/10.1145/3715070.3748295)
 
 ## Summary
 Baumer et al.'s paper is a foundational contribution to understanding how and why people resist, reject, or develop oppositional relationships with AI technologies. Moving beyond adoption/non-adoption binary, the paper develops a taxonomy of oppositional AI responses — from principled resistance rooted in values to pragmatic non-use based on perceived utility — and examines the conditions under which each type emerges. The work is important for HCI and AI ethics because it frames resistance as legitimate, potentially valuable, and worthy of design accommodation rather than a failure of adoption.

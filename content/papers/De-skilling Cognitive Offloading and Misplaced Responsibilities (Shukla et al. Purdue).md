@@ -6,11 +6,10 @@ type: "paper"
 abstract: "The rapid adoption of generative AI (GenAI) in design has sparked discussions about its benefits and unintended consequences. While AI is often framed as a tool for enhancing productivity by automat- ing routine tasks, historical research on automation warns of para- doxical effects, such as de-skilling and misplaced responsibilities. To assess UX practitioners’ perceptions o"
 
 doi: "10.1145/3706599.3719931"
+apa: "Shukla, P., Bui, P., Levy, S.S., Kowalski, M., Baigelenov, A., & Parsons, P. (2025). De-skilling, cognitive offloading, and misplaced responsibilities: Potential ironies of ai-assisted design. Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems, 1-7. https://doi.org/10.1145/3706599.3719931"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3706599.3719931](https://doi.org/10.1145/3706599.3719931)
 
 The rapid adoption of generative AI (GenAI) in design has sparked discussions about its benefits and unintended consequences. While AI is often framed as a tool for enhancing productivity by automat- ing routine tasks, historical research on automation warns of para- doxical effects, such as de-skilling and misplaced responsibilities. To assess UX practitioners’ perceptions o
 

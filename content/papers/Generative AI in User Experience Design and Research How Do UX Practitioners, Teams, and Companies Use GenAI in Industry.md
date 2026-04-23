@@ -4,14 +4,14 @@ type: "paper"
 doi: "10.1145/3643834.3660720"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Takaffoli, M., Li, S., & Mäkelä, V."
+apa: "Takaffoli, M., Li, S., & Mäkelä, V. (2024). Generative ai in user experience design and research: How do ux practitioners, teams, and companies use genai in industry?. Designing Interactive Systems Conference, 1579-1593. https://doi.org/10.1145/3643834.3660720"
 ---
 
 # Generative AI in User Experience Design and Research: How Do UX Practitioners, Teams, and Companies Use GenAI in Industry?
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3643834.3660720](https://doi.org/10.1145/3643834.3660720)
 
 ## Summary
 This 2024-2025 conference paper examines how generative AI is being adopted by UX practitioners and teams within companies, documenting GenAI integration at individual, team, and organizational levels. The study finds that organizational context and team culture significantly mediate whether GenAI integration enhances or disrupts UX workflows, and that companies with deliberate GenAI strategies produce better outcomes than those with ad hoc adoption.

@@ -4,11 +4,11 @@ type: "paper"
 abstract: "Artificial Intelligence's (AI) rapid development and growth not only transformed industries but also fired up important debates about its impacts on employment, resource allocation, and the ethics involved in decision -making. It serves to understand how ch anges within an industry will be able to influence society with that change. Advancing AI technologies will create a dual paradox of efficiency, greater resource consumption, and displacement of traditional labor. In this context, we explore "
 
 doi: "10.2139/ssrn.5065500"
+authors: "Vignesh, G., J, S.R., & S, P."
+apa: "Vignesh, G., J, S.R., & S, P. (2024). Ai powered cyberbot for enhancing the workplace efficiency. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.5065500"
 ---
 
 ## Abstract
-
-**DOI:** [10.2139/ssrn.5065500](https://doi.org/10.2139/ssrn.5065500)
 
 Artificial Intelligence's (AI) rapid development and growth not only transformed industries but also fired up important debates about its impacts on employment, resource allocation, and the ethics involved in decision -making. It serves to understand how ch anges within an industry will be able to influence society with that change. Advancing AI technologies will create a dual paradox of efficiency, greater resource consumption, and displacement of traditional labor. In this context, we explore the impact of AI on energy consumption, human labor roles, and hybrid roles widespread human labor replacement. We u
 

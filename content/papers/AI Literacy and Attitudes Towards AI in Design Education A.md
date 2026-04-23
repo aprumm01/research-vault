@@ -3,11 +3,11 @@ type: "paper"
 abstract: "Generative artificial intelligence (AI) has expanded its role in design processes, making it essential for design students to develop the skills needed to navigate AI’s opportunities while also critically reflecting on its risks. We used a two-part quantitative and qualitative survey to understand the attitudes of communication and architectural design students towards AI and assess their AI literacy. Students expressed positive and negative viewpoints on AI and rated their AI literacy skills as"
 
 doi: "10.5220/0013338100003932"
+authors: "Schauer, S., Simbeck, K., & Pinkwart, N."
+apa: "Schauer, S., Simbeck, K., & Pinkwart, N. (2025). Ai literacy and attitudes towards ai in design education: A comparative study of communication and architectural design students. Proceedings of the 17th International Conference on Computer Supported Education, 464-471. https://doi.org/10.5220/0013338100003932"
 ---
 
 ## Abstract
-
-**DOI:** [10.5220/0013338100003932](https://doi.org/10.5220/0013338100003932)
 
 Generative artificial intelligence (AI) has expanded its role in design processes, making it essential for design students to develop the skills needed to navigate AI’s opportunities while also critically reflecting on its risks. We used a two-part quantitative and qualitative survey to understand the attitudes of communication and architectural design students towards AI and assess their AI literacy. Students expressed positive and negative viewpoints on AI and rated their AI literacy skills as moderate. We find that design students are very aware of AI’s potential for enhancing productivity and acknowledge downsides such as decreased creativity, job losses, and copyright concerns. They identified
 

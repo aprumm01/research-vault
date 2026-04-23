@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.7765/9781526111876.00007"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Leggett, D."
+apa: "Leggett, D. (2016). Authority, judgement and the sailor-designer. Shaping the Royal Navy. https://doi.org/10.7765/9781526111876.00007"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.7765/9781526111876.00007](https://doi.org/10.7765/9781526111876.00007)
 
 ## Summary
 Holt examines the nature of judgment in engineering design, drawing on Geoffrey Vickers's concept of the "appreciative system" to argue that design judgment operates across three knowledge domains: formative, commercial, and instrumental. He addresses what judgment is, how its quality can be assessed, and whether it can be taught—concluding with a strategy for engineering education that develops judgment capacity alongside technical knowledge through situated practice and mentorship.

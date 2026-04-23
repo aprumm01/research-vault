@@ -3,13 +3,13 @@ type: "paper"
 abstract: "Widespread integration of Generative AI tools is transform- ing white-collar work, reshaping how workers define their roles, manage their tasks, and collaborate with peers. This has created a need to de- velop an overarching understanding of common worker-driven patterns around these transformations. To fill this gap, we conducted a systematic literaturereviewof23studiesfromtheACMDigitalLibrarythatfocused on workers’ lived-experiences and practices with GenAI. Our findings re- veal that while ma"
 
 doi: "10.1007/978-3-031-92823-9_10"
+authors: "Law, M., & Varanasi, R.A."
+apa: "Law, M., & Varanasi, R.A. (2025). Generative ai and changing work: Systematic review of practitioner-led work transformations through the lens of job crafting. Lecture Notes in Computer Science, 131-152. https://doi.org/10.1007/978-3-031-92823-9_10"
 ---
 
 # Generative AI & Changing Work: Systematic Review of Practitioner-led Transformations through Job Crafting (Law & Varanasi, 2025)
 
 ## Abstract
-
-**DOI:** [10.1007/978-3-031-92823-9_10](https://doi.org/10.1007/978-3-031-92823-9_10)
 
 Widespread integration of Generative AI tools is transform- ing white-collar work, reshaping how workers define their roles, manage their tasks, and collaborate with peers. This has created a need to de- velop an overarching understanding of common worker-driven patterns around these transformations. To fill this gap, we conducted a systematic literaturereviewof23studiesfromtheACMDigitalLibrarythatfocused on workers’ lived-experiences and practices with GenAI. Our findings re- veal that while many professionals have delegated routine tasks to GenAI to focus on core responsibilities, they have also taken on new forms of AI managerial labor to monitor and refine GenAI outputs. Additionally, practitioners have restructured collaborations, sometimes bypassing tra- ditional peer and subordinate interactions in favor of GenAI assistance. These shifts have
 

@@ -3,11 +3,11 @@ type: "paper"
 abstract: "Purpose – The purpose of this study is to explore the process of initial sensemaking that organizational members activate when they reflect on AI adoption in their work settings, and how the perceived features of AI technologies trigger sensemaking processes which in turn have the potential to influence workplace learning modes and trajectories. Design/methodology/approach – We adopted an explorative qualitative and interactive approach to capture free fantasies and imaginative ideas of AI among"
 
 doi: "10.1108/itp-01-2023-0048"
+authors: "Engström, A., Pittino, D., Mohlin, A., Johansson, A., & Edh Mirzaei, N."
+apa: "Engström, A., Pittino, D., Mohlin, A., Johansson, A., & Edh Mirzaei, N. (2024). Artificial intelligence and work transformations: Integrating sensemaking and workplace learning perspectives. Information Technology &amp; People, 37(7), 2441-2461. https://doi.org/10.1108/itp-01-2023-0048"
 ---
 
 ## Abstract
-
-**DOI:** [10.1108/itp-01-2023-0048](https://doi.org/10.1108/itp-01-2023-0048)
 
 Purpose – The purpose of this study is to explore the process of initial sensemaking that organizational members activate when they reflect on AI adoption in their work settings, and how the perceived features of AI technologies trigger sensemaking processes which in turn have the potential to influence workplace learning modes and trajectories. Design/methodology/approach – We adopted an explorative qualitative and interactive approach to capture free fantasies and imaginative ideas of AI among people within the industry. We adopt a conceptual perspective that combines theories on initial sens
 

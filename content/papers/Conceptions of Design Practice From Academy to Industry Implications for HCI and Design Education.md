@@ -4,11 +4,11 @@ type: "paper"
 abstract: "Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates "
 
 doi: "10.1145/3742901.3742905"
+authors: "Lotsos, A.N., Wang, Y., & Horn, M.S."
+apa: "Lotsos, A.N., Wang, Y., & Horn, M.S. (2025). Conceptions of design practice from academy to industry: Implications for hci and design education. Proceedings of the EduCHI 2025: 7th Annual Symposium on HCI Education, 1-12. https://doi.org/10.1145/3742901.3742905"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3742901.3742905](https://doi.org/10.1145/3742901.3742905)
 
 Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates conceptions of design practice in current and future design professionals. We share findings from 21 semi-structured interviews with students, educators, and profes- sionals. Our analysis reveals t
 

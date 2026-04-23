@@ -3,11 +3,11 @@ type: "paper"
 abstract: "Optimization is widely used for decision making across various domains, valued for its ability to improve efficiency. However, poor implementation practices can lead to unintended consequences, particularly in socioeconomic contexts where externalities (costs or benefits to third parties outside the optimization process) are significant. To propose solutions, it is crucial to first characterize in- volved stakeholders, their goals, and the types of subpar practices causing unforeseen outcomes. T"
 
 doi: "10.1609/aies.v8i2.36684"
+authors: "Nokhiz, P., Ruwanpathirana, A.K., & Nissenbaum, H."
+apa: "Nokhiz, P., Ruwanpathirana, A.K., & Nissenbaum, H. (2025). Rethinking optimization: A systems-based approach to social externalities. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 8(2), 1913-1925. https://doi.org/10.1609/aies.v8i2.36684"
 ---
 
 ## Abstract
-
-**DOI:** [10.1609/aies.v8i2.36684](https://doi.org/10.1609/aies.v8i2.36684)
 
 Optimization is widely used for decision making across various domains, valued for its ability to improve efficiency. However, poor implementation practices can lead to unintended consequences, particularly in socioeconomic contexts where externalities (costs or benefits to third parties outside the optimization process) are significant. To propose solutions, it is crucial to first characterize in- volved stakeholders, their goals, and the types of subpar practices causing unforeseen outcomes. This task is complex because affected stakeholders often fall outside the direct focus of optimization processes. Also, incorporating these externalities into optimization requires going beyond tradi- tional economic frameworks, which often focus on describing externalities but fail to
 

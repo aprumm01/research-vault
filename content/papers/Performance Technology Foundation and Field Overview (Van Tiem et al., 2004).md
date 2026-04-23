@@ -4,12 +4,12 @@ type: "paper"
 doi: "10.1601/ex.8970"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Parker, C.T., Taylor, D., & Garrity, G.M."
+apa: "Parker, C.T., Taylor, D., & Garrity, G.M. (2010). Exemplar abstract for paraburkholderia calva (van oevelen et al. 2004) sawana et al. 2014 and burkholderia calva van oevelen et al. 2004.. The NamesforLife Abstracts. https://doi.org/10.1601/ex.8970"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1601/ex.8970](https://doi.org/10.1601/ex.8970)
 
 ## Summary
 Van Tiem et al. provide a foundational definition and conceptual overview of performance technology as a field, articulating its core principles, distinguishing features, and relationship to adjacent disciplines like training, organizational development, and management. The work situates performance technology within a systematic, results-oriented tradition and outlines the competencies, methods, and values that define professional practice in the field.

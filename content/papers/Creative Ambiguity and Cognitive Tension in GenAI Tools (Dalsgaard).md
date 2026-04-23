@@ -6,12 +6,11 @@ type: "paper"
 doi: "10.18175/VyS16.2.2025.9"
 
 abstract: "This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, as"
+apa: "Tellez, F.A. (2025). Reflecting on the integration of generative ai in design education: Lessons from the field. Voces y Silencios. Revista Latinoamericana de Educación, 16(2), 169-191. https://doi.org/10.18175/vys16.2.2025.9"
 ---
 
 ## Abstract
 This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, assessing the impact of AI on creativity, pedagogical practices, and learning outcomes. The theoretical framework draws on Constructivist Learning Theory, Kolb’s
-
-**DOI:** [10.18175/VyS16.2.2025.9](https://doi.org/10.18175/VyS16.2.2025.9)
 
 ## Authors
 - [[authors/Peter Dalsgaard|Peter Dalsgaard]]

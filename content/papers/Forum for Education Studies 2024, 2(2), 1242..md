@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.59400/fes.v2i2.1242"
 
 abstract: "Amidst the current wave studies of artificial intelligence (AI) in education, this longitudinal case study, spanning Spring 2023 to Spring 2024, delves into the integration of AI in the UI/UX web design classroom. By introducing both text-based and image-based AI tools to students with varying levels of skill in introductory web design and user experience (UX) courses, the study observed a significant enhancement in student creative capabilities and project outcomes. The utilization of text-base"
+authors: "Lively, J., & Hutson, J."
+apa: "Lively, J., & Hutson, J. (2024). The role of student motivation in integrating ai into web design education: A longitudinal study. Forum for Education Studies, 2(2), 1242. https://doi.org/10.59400/fes.v2i2.1242"
 ---
 
 ## Abstract
 Amidst the current wave studies of artificial intelligence (AI) in education, this longitudinal case study, spanning Spring 2023 to Spring 2024, delves into the integration of AI in the UI/UX web design classroom. By introducing both text-based and image-based AI tools to students with varying levels of skill in introductory web design and user experience (UX) courses, the study observed a significant enhancement in student creative capabilities and project outcomes. The utilization of text-based generators markedly improved writing efficiency and coding, while image-based tools facilitated better ideation and color selection. These findings underscore the potential to augment traditional educational methods, providing students with nov
-
-**DOI:** [10.59400/fes.v2i2.1242](https://doi.org/10.59400/fes.v2i2.1242)
 
 ## Summary
 This 2024 paper examines the role of student motivation in the integration of AI tools into web design education, investigating how motivational factors (intrinsic interest, extrinsic incentive, and self-efficacy) predict AI adoption patterns and learning outcomes in web design courses. The study finds that self-efficacy and intrinsic motivation are the strongest predictors of productive AI use, while extrinsic motivation alone correlates with superficial AI adoption. The paper argues for motivationally-informed instructional design when integrating AI into web design education.

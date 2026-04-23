@@ -5,13 +5,12 @@ type: "paper"
 doi: "10.1007/978-1-4471-7541-4_1"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Cross, N."
+apa: "Cross, N. (2024). Designerly ways of knowing. Designerly Ways of Knowing and Thinking, 1-14. https://doi.org/10.1007/978-1-4471-7541-4_1"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/978-1-4471-7541-4_1](https://doi.org/10.1007/978-1-4471-7541-4_1)
-
 
 ## Topics
 - [[topics/Designerly Ways of Knowing|Designerly Ways of Knowing]]

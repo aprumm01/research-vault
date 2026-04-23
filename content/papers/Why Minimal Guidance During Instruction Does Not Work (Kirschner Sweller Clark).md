@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1080/00461520701263350"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "SCHMIDT, H.G., LOYENS, S.M.M., VAN GOG, T., & PAAS, F."
+apa: "SCHMIDT, H.G., LOYENS, S.M.M., VAN GOG, T., & PAAS, F. (2007). Problem-based learning<i>is</i>compatible with human cognitive architecture: Commentary on kirschner, sweller, and clark (2006). Educational Psychologist, 42(2), 91-97. https://doi.org/10.1080/00461520701263350"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1080/00461520701263350](https://doi.org/10.1080/00461520701263350)
-
 
 ## Topics
 - [[topics/Cognitive Load Theory|Cognitive Load Theory]]

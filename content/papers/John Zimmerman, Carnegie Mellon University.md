@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1145/3436954"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Zimmerman, J., Oh, C., Yildirim, N., Kass, A., Tung, T., & Forlizzi, J."
+apa: "Zimmerman, J., Oh, C., Yildirim, N., Kass, A., Tung, T., & Forlizzi, J. (2020). Ux designers pushing ai in the enterprise. Interactions, 28(1), 72-77. https://doi.org/10.1145/3436954"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3436954](https://doi.org/10.1145/3436954)
 
 ## Summary
 Zimmerman's CMU paper examines how UX designers are advocating for and driving AI integration within enterprise organizations, arguing that UX designers occupy a unique position to bridge technical AI capabilities and human-centered organizational needs. Drawing on case studies of enterprise AI deployments, the paper documents how UX designers are expanding their roles to include AI strategy, prompt engineering, and AI governance — while also identifying the challenges when UX perspectives are marginalized in technical AI development processes. It calls for UX practitioners to claim greater agency in enterprise AI design.

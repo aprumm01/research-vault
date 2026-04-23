@@ -3,11 +3,11 @@ type: "paper"
 abstract: "While the term “Artiﬁcial Intelligence” (AI) was coined in the 1950s, in recent years AI has become a focus of attention in mainstream media. Yet the forces behind AI’s revival ha"
 
 doi: "10.2139/ssrn.3078224"
+authors: "Katz, Y."
+apa: "Katz, Y. (2017). Manufacturing an artificial intelligence revolution. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3078224"
 ---
 
 ## Abstract
-
-**DOI:** [10.2139/ssrn.3078224](https://doi.org/10.2139/ssrn.3078224)
 
 While the term “Artiﬁcial Intelligence” (AI) was coined in the 1950s, in recent years AI has become a focus of attention in mainstream media. Yet the forces behind AI’s revival ha
 

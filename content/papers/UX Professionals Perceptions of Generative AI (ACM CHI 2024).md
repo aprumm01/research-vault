@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1145/3613904.3642114"
 
 abstract: "Among creative professionals, Generative Artificial Intelligence (GenAI) has sparked excitement over its capabilities and fear over unanticipated consequences. How does GenAI impact User Experience Design (UXD) practice, and are fears warranted? We interviewed 20 UX Designers, with diverse experience and across companies (startups to large enterprises). We probed them to characterize their practices, and sample their attitudes, concerns, and expectations. We found that experienced designers are "
+authors: "Li, J., Cao, H., Lin, L., Hou, Y., Zhu, R., & El Ali, A."
+apa: "Li, J., Cao, H., Lin, L., Hou, Y., Zhu, R., & El Ali, A. (2024). User experience design professionals’ perceptions of generative artificial intelligence. Proceedings of the CHI Conference on Human Factors in Computing Systems, 1-18. https://doi.org/10.1145/3613904.3642114"
 ---
 
 ## Abstract
 Among creative professionals, Generative Artificial Intelligence (GenAI) has sparked excitement over its capabilities and fear over unanticipated consequences. How does GenAI impact User Experience Design (UXD) practice, and are fears warranted? We interviewed 20 UX Designers, with diverse experience and across companies (startups to large enterprises). We probed them to characterize their practices, and sample their attitudes, concerns, and expectations. We found that experienced designers are confident in their originality, creativity, and empathic skills, and find GenAI’s role as assistive. They emphasized the unique human factors of “enjoyment” and “agency”, where humans remain the arbiters of “AI alignment’’. However, skill degradation, job replacement, and creativity exhaustion can adversely impact junior designers. We discuss implications for human-GenAI collaboration, specifically copyright and ownership, human creativity and agency, and AI literacy and access. Through the lens of responsible and participatory AI, we contribute a deeper understanding of GenAI fears and opportunities for UXD.
-
-**DOI:** [10.1145/3613904.3642114](https://doi.org/10.1145/3613904.3642114)
 
 ## Summary
 This study examines UX design professionals' perceptions of generative AI tools, documenting how practitioners across industry and agency contexts understand, evaluate, and integrate (or resist) AI in their UX workflows. Through interviews with practicing UX designers and researchers, the paper maps attitudes along dimensions of trust, skill relevance, and professional identity. Findings reveal significant heterogeneity: some practitioners see AI as a powerful collaborator that amplifies their judgment; others view it as a threat to the tacit knowledge that defines professional expertise. The paper calls for UX education and professional development to address AI integration head-on.

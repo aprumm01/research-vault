@@ -3,11 +3,11 @@ type: "paper"
 abstract: "Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four str"
 
 doi: "10.1145/3706598.3714035"
+authors: "Varanasi, R.A., Wiesenfeld, B.M., & Nov, O."
+apa: "Varanasi, R.A., Wiesenfeld, B.M., & Nov, O. (2025). Ai rivalry as a craft: How resisting and embracing generative ai are reshaping the writing profession. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1-19. https://doi.org/10.1145/3706598.3714035"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3706598.3714035](https://doi.org/10.1145/3706598.3714035)
 
 Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four strategies professionals employ to reshape their roles. Writing professionals employed GAI resist- ing strategies to maximize human potential, reinforce professional identity, carve out a profe
 

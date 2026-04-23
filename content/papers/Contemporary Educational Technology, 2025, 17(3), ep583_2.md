@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.30935/cedtech/16433"
 
 abstract: "This article explores the theoretical and instructional underpinnings of distance learning with a specific focus on foreign language education. It examines constructivist, connectivist, and humanistic foundations, highlighting pedagogical advantages and limitations. Additionally, the article outlines effective instructional design models, including ADDIE and SAM, supported by cognitive theories and Bloom's taxonomy. Empirical data from global and regional contexts reinforce the practical relevan"
+authors: "Yıldızhan Bora, B., & Şahin Kölemen, C."
+apa: "Yıldızhan Bora, B., & Şahin Kölemen, C. (2025). Integrating ai into instructional design: A case study on digital photography education in higher education. Contemporary Educational Technology, 17(3), ep583. https://doi.org/10.30935/cedtech/16433"
 ---
 
 ## Abstract
 This article explores the theoretical and instructional underpinnings of distance learning with a specific focus on foreign language education. It examines constructivist, connectivist, and humanistic foundations, highlighting pedagogical advantages and limitations. Additionally, the article outlines effective instructional design models, including ADDIE and SAM, supported by cognitive theories and Bloom's taxonomy. Empirical data from global and regional contexts reinforce the practical relevance of the theoretical framework. Illustrative tables and figures are included to support the comparative and conceptual analysis.c
-
-**DOI:** [10.30935/cedtech/16433](https://doi.org/10.30935/cedtech/16433)
 
 ## Summary
 This 2025 paper in Contemporary Educational Technology proposes a pedagogical framework for integrating AI into instructional design practice, addressing the gap between available AI tools and principled frameworks for using them in ID work. The framework organizes AI integration around the core activities of instructional design (needs analysis, design, development, implementation, evaluation) and specifies where AI assistance adds value versus where human judgment is indispensable. The paper argues that instructional designers need frameworks grounded in learning theory, not just technical capability, to integrate AI responsibly.

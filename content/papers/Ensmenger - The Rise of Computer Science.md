@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.7551/mitpress/9780262050937.003.0005"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Ensmenger, N."
+apa: "Ensmenger, N. (2010). The rise of computer science. The Computer Boys Take Over, 111-136. https://doi.org/10.7551/mitpress/9780262050937.003.0005"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.7551/mitpress/9780262050937.003.0005](https://doi.org/10.7551/mitpress/9780262050937.003.0005)
 
 ## Summary
 Nathan Ensmenger traces the professionalization of computer science and software development, revealing how the field's identity was constructed through deliberate boundary work that excluded women and devalued earlier forms of computing labor. He shows that the rise of computer science as a discipline was shaped by status anxieties, professional credentialing, and institutional interests rather than purely technical merit. The chapter illuminates how occupational identity in computing was socially and politically constructed.

@@ -3,14 +3,14 @@ type: "paper"
 doi: "10.1007/s00146-025-02504-6"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Süner-Pla-Cerdà, S., Şen, G., Kumbasar, E., Şahin, B., & Ünlü, C.E."
+apa: "Süner-Pla-Cerdà, S., Şen, G., Kumbasar, E., Şahin, B., & Ünlü, C.E. (2025). Designer experiences and perspectives on the role of generative ai in industrial design. AI &amp; SOCIETY, 41(3), 2361-2384. https://doi.org/10.1007/s00146-025-02504-6"
 ---
 
 # Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (Süner-Pla-Cerdà et al., AI & Society 2025)
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/s00146-025-02504-6](https://doi.org/10.1007/s00146-025-02504-6)
 
 ## Summary
 Süner-Pla-Cerdà and colleagues' 2025 open-access study in AI & Society documents industrial designers' experiences with and perspectives on generative AI tools in professional practice, revealing a complex landscape of enthusiasm, anxiety, identity renegotiation, and practical adaptation. The study uses rich qualitative data from practicing industrial designers to examine how AI is reshaping design workflows, client relationships, and professional identity. The paper contributes an empirically grounded account of how a specific design discipline — industrial design — is processing AI's arrival.

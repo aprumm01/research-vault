@@ -3,11 +3,11 @@ type: "paper"
 abstract: "Recently, we have witnessed emerging research agendas on expli- cating new opportunities, risks, and harm of generative AI from a CSCW perspective. Built upon these ongoing conversations and dialog, we believe that beyond merely discussing generative AI’s impacts on specific CSCW research directions, it is equally critical to promote in-depth discussions across academia and industry to reflect upon generative AI’s multidimensional impacts on the over-"
 
 doi: "10.1145/3715070.3748275"
+authors: "Freeman, G., Mynatt, E.D., Lampe, C., Candello, H., Inkpen, K., & Goyal, N."
+apa: "Freeman, G., Mynatt, E.D., Lampe, C., Candello, H., Inkpen, K., & Goyal, N. (2025). The impact of generative ai on the cscw landscape: Insights from hci education, industry dynamics, and funding perspectives. Companion Publication of the 2025 Conference on Computer-Supported Cooperative Work and Social Computing, 62-65. https://doi.org/10.1145/3715070.3748275"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3715070.3748275](https://doi.org/10.1145/3715070.3748275)
 
 Recently, we have witnessed emerging research agendas on expli- cating new opportunities, risks, and harm of generative AI from a CSCW perspective. Built upon these ongoing conversations and dialog, we believe that beyond merely discussing generative AI’s impacts on specific CSCW research directions, it is equally critical to promote in-depth discussions across academia and industry to reflect upon generative AI’s multidimensional impacts on the over-
 

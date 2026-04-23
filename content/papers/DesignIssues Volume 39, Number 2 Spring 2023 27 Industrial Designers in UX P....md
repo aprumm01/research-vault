@@ -3,13 +3,13 @@ type: "paper"
 doi: "10.1162/desi_a_00715"
 
 abstract: "Abstract Our article discusses the insights from original research conducted with design practitioners to better understand the experiences of industrial design graduates as they are adopting new professional roles in user experience (UX) affiliated positions. We utilize narrative identity work as the theoretical frame to interpret the legitimation strategies of industrial designers while grounding their motivations, perceived competence, and fitness to a UX position. Such narratives support our"
+authors: "Süner-Pla-Cerdà, S., Töre-Yargin, G., & Günay, A."
+apa: "Süner-Pla-Cerdà, S., Töre-Yargin, G., & Günay, A. (2023). Industrial designers in ux practice: Motivations, professionalization, and the construction of designer identity. Design Issues, 39(2), 27-40. https://doi.org/10.1162/desi_a_00715"
 ---
 
 # Industrial Designers in UX Practice: Motivations, Professionalization, and Designer Identity (Süner-Pla-Cerdà et al., 2023)
 
 ## Abstract
-
-**DOI:** [10.1162/desi_a_00715](https://doi.org/10.1162/desi_a_00715)
 
 Abstract Our article discusses the insights from original research conducted with design practitioners to better understand the experiences of industrial design graduates as they are adopting new professional roles in user experience (UX) affiliated positions. We utilize narrative identity work as the theoretical frame to interpret the legitimation strategies of industrial designers while grounding their motivations, perceived competence, and fitness to a UX position. Such narratives support our arguments on the conscious efforts of designers toward the construction of a professional designer identity, which is stimulated by this role change.
 

@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1162/desi_a_00107"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Galle, P."
+apa: "Galle, P. (2011). Foundational and instrumental design theory. Design Issues, 27(4), 81-94. https://doi.org/10.1162/desi_a_00107"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1162/desi_a_00107](https://doi.org/10.1162/desi_a_00107)
-
 
 ## Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]

@@ -3,11 +3,11 @@ type: "paper"
 doi: "10.1007/s12599-025-00959-x"
 
 abstract: "Abstract The rise of Generative Artificial Intelligence (GenAI) in the workplace is transforming knowledge work in organizations with important implications for professionals and organizations alike. This study focuses on entry-level professionals in knowledge work (ELPs) and highlights how ELPs reshape their work in response to the adoption and integration of GenAI in the workplace. Drawing on the theoretical lens of job crafting and building on insights from a qualitative study in consultancy,"
+authors: "Mayer, A., Baygi, R.M., & Buwalda, R."
+apa: "Mayer, A., Baygi, R.M., & Buwalda, R. (2025). Generation ai: Job crafting by entry-level professionals in the age of generative ai. Business &amp; Information Systems Engineering, 67(5), 595-613. https://doi.org/10.1007/s12599-025-00959-x"
 ---
 
 ## Abstract
-
-**DOI:** [10.1007/s12599-025-00959-x](https://doi.org/10.1007/s12599-025-00959-x)
 
 Abstract The rise of Generative Artificial Intelligence (GenAI) in the workplace is transforming knowledge work in organizations with important implications for professionals and organizations alike. This study focuses on entry-level professionals in knowledge work (ELPs) and highlights how ELPs reshape their work in response to the adoption and integration of GenAI in the workplace. Drawing on the theoretical lens of job crafting and building on insights from a qualitative study in consultancy, this research shows how ELPs use GenAI to proactively (re)craft their work tasks and relationships. Moreover, the study identifies a third behavioral dimension of job crafting that is becoming particularly salient in light of GenAI’s novel capabilities: signal crafting, which reflects ELPs’ use of GenAI to shape others’ perceptions of the distinctiveness and value of ELPs’ work. Further, the paper sheds light on the consequences arising from ELPs’ job crafting behaviors. This study contributes to the literature on (Gen)AI and knowledge work by providing a nuanced understanding of GenAI and its implications for ELPs, their work and career prospects.
 

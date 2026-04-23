@@ -5,11 +5,11 @@ type: "paper"
 abstract: "The rapid development of generative AI tools is transforming design practice, shifting designers’ roles from technical producers to human experi- ence experts. As AI increasingly handles production tasks, design education must evolve to develop graduates who can understand complex human needs and cre- ate meaningful experiences. This paper presents a process-centric framework for design education built on four theoretical foundations: systems thinking, phe- nomenology, activity theory, and futur"
 
 doi: "10.1007/978-3-031-93233-5_3"
+authors: "Cheatham, D."
+apa: "Cheatham, D. (2025). Developing human experience experts: Design education’s process-centric response to generative ai. Lecture Notes in Computer Science, 37-54. https://doi.org/10.1007/978-3-031-93233-5_3"
 ---
 
 ## Abstract
-
-**DOI:** [10.1007/978-3-031-93233-5_3](https://doi.org/10.1007/978-3-031-93233-5_3)
 
 The rapid development of generative AI tools is transforming design practice, shifting designers’ roles from technical producers to human experi- ence experts. As AI increasingly handles production tasks, design education must evolve to develop graduates who can understand complex human needs and cre- ate meaningful experiences. This paper presents a process-centric framework for design education built on four theoretical foundations: systems thinking, phe- nomenology, activity theory, and futures studies. Drawing from implementations in undergraduate and graduate courses at Miami University from 2023–2025, the paper demonstrates how these foundations can be translated into practical teaching methods emphasizing process over product. Through analysis of spe- ciﬁc interventions, including ripple effect diagrams and speciﬁcations grading, the paper shows how des
 

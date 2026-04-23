@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1007/978-1-4614-3185-5_30"
 
 abstract: "Instructional message design explores how various media and delivery systems might be used more effectively to help optimize instructional communications within context-speci ﬁ c instructional situations and learner needs. But use of the term appears to have fallen out of favor over the years since the mid-1990s. A review of the historical and theoretical founda- tions of instructional message design reveals that, while instructional design generally has shifted from objectivist t"
+authors: "Bishop, M.J."
+apa: "Bishop, M.J. (2013). Instructional message design: Past, present, and future relevance. Handbook of Research on Educational Communications and Technology, 373-383. https://doi.org/10.1007/978-1-4614-3185-5_30"
 ---
 
 ## Abstract
 Instructional message design explores how various media and delivery systems might be used more effectively to help optimize instructional communications within context-speci ﬁ c instructional situations and learner needs. But use of the term appears to have fallen out of favor over the years since the mid-1990s. A review of the historical and theoretical founda- tions of instructional message design reveals that, while instructional design generally has shifted from objectivist t
-
-**DOI:** [10.1007/978-1-4614-3185-5_30](https://doi.org/10.1007/978-1-4614-3185-5_30)
 
 ## Summary
 Bishop's chapter on instructional message design synthesizes principles for how visual and textual information should be organized and presented to support learning. Drawing on cognitive and perceptual psychology, the chapter covers principles of text layout, visual design, and multimedia integration that instructional designers use to reduce extraneous cognitive load and support meaningful processing. It serves as a practical reference bridging learning science and communication design in educational contexts.

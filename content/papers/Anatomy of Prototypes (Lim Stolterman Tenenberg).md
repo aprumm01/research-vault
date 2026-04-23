@@ -5,11 +5,11 @@ type: "paper"
 doi: "10.1145/1375761.1375762"
 
 abstract: "The role of prototypes is well established in the field of HCI and Design. A lack of knowledge, however, about the fundamental nature of prototypes still exists. Researchers have attempted to identify different types of prototypes, such as low- vs. high-fidelity prototypes, but these attempts have centered on evaluation rather than support of design exploration. There have also been efforts to provide new ways of thinking about the activity of using prototypes, such as experience prototyping and"
+authors: "Lim, Y., Stolterman, E., & Tenenberg, J."
+apa: "Lim, Y., Stolterman, E., & Tenenberg, J. (2008). The anatomy of prototypes. ACM Transactions on Computer-Human Interaction, 15(2), 1-27. https://doi.org/10.1145/1375761.1375762"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/1375761.1375762](https://doi.org/10.1145/1375761.1375762)
 
 The role of prototypes is well established in the field of HCI and Design. A lack of knowledge, however, about the fundamental nature of prototypes still exists. Researchers have attempted to identify different types of prototypes, such as low- vs. high-fidelity prototypes, but these attempts have centered on evaluation rather than support of design exploration. There have also been efforts to provide new ways of thinking about the activity of using prototypes, such as experience prototyping and paper prototyping, but these efforts do not provide a discourse for understanding fundamental characteristics of prototypes. In this article, we propose an anatomy of prototypes as a framework for prototype conceptualization. We view prototypes not only in their role in evaluation but also in their generative role in enabling designers to reflect on their design activities in exploring a design space. We base this framework on the findings of two case studies that reveal two key dimensions: prototypes as filters and prototypes as manifestations. We explain why these two dimensions are important and how this conceptual framework can benefit our field by establishing more solid and systematic knowledge about prototypes and prototyping.
 

@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1145/3544548.3581247"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Kuang, E., Jahangirzadeh Soure, E., Fan, M., Zhao, J., & Shinohara, K."
+apa: "Kuang, E., Jahangirzadeh Soure, E., Fan, M., Zhao, J., & Shinohara, K. (2023). Collaboration with conversational ai assistants for ux evaluation: Questions and how to ask them (voice vs. text). Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 1-15. https://doi.org/10.1145/3544548.3581247"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3544548.3581247](https://doi.org/10.1145/3544548.3581247)
 
 ## Summary
 This paper investigates how conversational AI assistants can support UX evaluation activities, examining what kinds of questions UX practitioners ask AI systems during evaluations and which question forms elicit useful responses. Through user studies with UX practitioners conducting AI-assisted evaluations, the authors identify categories of productive questions (heuristic interpretation, guideline application, pattern recognition) and unproductive ones (requiring contextual judgment, stakeholder knowledge, or domain-specific nuance). The paper provides practical guidance for UX practitioners integrating conversational AI into evaluation workflows.

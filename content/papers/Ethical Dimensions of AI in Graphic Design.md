@@ -3,11 +3,10 @@ type: "paper"
 abstract: "Artificial Intelligence (AI) is rapidly reshaping societal dynamics and is ex - pected to continue influencing various sectors. In the field of graphic de - sign, its integration has generated both enthusiasm and concern. Today, AI is transforming how graphic designers work by introducing innovative tools and methods that enhance creativity, efficiency, and production ca - pabilities. AI enables faster and higher quality realization of creative con - cepts by automating repetitive tasks, generat"
 
 doi: "10.4018/979-8-3693-4147-6"
+apa: "Unknown (2024). Ethical dimensions of ai development. Advances in Human and Social Aspects of Technology. https://doi.org/10.4018/979-8-3693-4147-6"
 ---
 
 ## Abstract
-
-**DOI:** [10.4018/979-8-3693-4147-6](https://doi.org/10.4018/979-8-3693-4147-6)
 
 Artificial Intelligence (AI) is rapidly reshaping societal dynamics and is ex - pected to continue influencing various sectors. In the field of graphic de - sign, its integration has generated both enthusiasm and concern. Today, AI is transforming how graphic designers work by introducing innovative tools and methods that enhance creativity, efficiency, and production ca - pabilities. AI enables faster and higher quality realization of creative con - cepts by automating repetitive tasks, generating complex and realistic visuals, and improving design personalization. However, the rapid develop- ment and implementation of AI in design practices also bring forth a series of challenges that must be critically examined. Issues such as authenticity, original
 

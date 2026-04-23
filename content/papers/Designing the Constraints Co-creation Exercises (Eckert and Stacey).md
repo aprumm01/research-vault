@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1201/9781315208169-23"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Eckert, C., & Stacey, M."
+apa: "Eckert, C., & Stacey, M. (2017). Designing the constraints: Creation exercises for framing the design context. Analysing Design Thinking: Studies of Cross-Cultural Co-Creation, 433-446. https://doi.org/10.1201/9781315208169-23"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1201/9781315208169-23](https://doi.org/10.1201/9781315208169-23)
 
 ## Summary
 Eckert and Stacey examine how design teams gather contextual constraints by framing co-creation exercises as analogous to constraint-gathering phases in artistic design. Through analysis of a user experience co-creation study with Chinese consumers conducted by a European car company, they show how narrative co-creation produces rich value data that can inform design constraint spaces. The paper bridges participatory design methods with constraint-based design theory.

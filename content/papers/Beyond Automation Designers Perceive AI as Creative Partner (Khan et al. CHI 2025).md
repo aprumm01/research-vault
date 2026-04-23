@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1145/3706598.3713500"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Khan, A., Shokrizadeh, َ., & Cheng, J."
+apa: "Khan, A., Shokrizadeh, َ., & Cheng, J. (2025). Beyond automation: How designers perceive ai as a creative partner in the divergent thinking stages of ui/ux design. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1-12. https://doi.org/10.1145/3706598.3713500"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3706598.3713500](https://doi.org/10.1145/3706598.3713500)
-
 
 ## Topics
 - [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1007/bf02299676"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Watkins, R., Leigh, D., Foshay, R., & Kaufman, R."
+apa: "Watkins, R., Leigh, D., Foshay, R., & Kaufman, R. (1998). Kirkpatrick plus: Evaluation and continuous improvement with a community focus. Educational Technology Research and Development, 46(4), 90-96. https://doi.org/10.1007/bf02299676"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
-
 
 ## Topics
 - [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]

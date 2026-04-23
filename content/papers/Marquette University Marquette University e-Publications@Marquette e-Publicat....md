@@ -3,11 +3,11 @@ type: "paper"
 doi: "10.1002/asi.23786"
 
 abstract: "Researchers in information science and related areas have developed various methods for analyzing textual data, such as survey responses. This article describes the application of analysis methods from two distinct fields, one method from interpretive social science and one method from statistical machine learning, to the same survey data. The results show that the two analyses produce some similar and some complementary insights about the phenomenon of interest, in this case, nonuse of social m"
+authors: "Baumer, E.P.S., Mimno, D., Guha, S., Quan, E., & Gay, G.K."
+apa: "Baumer, E.P.S., Mimno, D., Guha, S., Quan, E., & Gay, G.K. (2017). Comparing grounded theory and topic modeling: Extreme divergence or unlikely convergence?. Journal of the Association for Information Science and Technology, 68(6), 1397-1410. https://doi.org/10.1002/asi.23786"
 ---
 
 ## Abstract
-
-**DOI:** [10.1002/asi.23786](https://doi.org/10.1002/asi.23786)
 
 Researchers in information science and related areas have developed various methods for analyzing textual data, such as survey responses. This article describes the application of analysis methods from two distinct fields, one method from interpretive social science and one method from statistical machine learning, to the same survey data. The results show that the two analyses produce some similar and some complementary insights about the phenomenon of interest, in this case, nonuse of social media. We compare both the processes of conducting these analyses and the results they produce to derive insights about each method's unique advantages and drawbacks, as well as the broader roles that these methods play in the respective fields where they are often used. These insights allow us to make more informed decisions about the tradeoffs in choosing different methods for analyzing textual data. Furthermore, this comparison suggests ways that such methods might be combined in novel and compelling ways.
 

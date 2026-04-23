@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1016/j.bushor.2024.02.002"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Park, J.J."
+apa: "Park, J.J. (2024). Unlocking training transfer in the age of artificial intelligence. Business Horizons, 67(3), 263-269. https://doi.org/10.1016/j.bushor.2024.02.002"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1016/j.bushor.2024.02.002](https://doi.org/10.1016/j.bushor.2024.02.002)
 
 ## Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]

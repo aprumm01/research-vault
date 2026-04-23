@@ -4,11 +4,11 @@ type: "paper"
 abstract: "This study examines the integration of user experience (UX) princi- ples into user interface (UI) design education through a Problem-Based Learning (PBL) approach augmented by generative artiﬁcial intelligence (AI) technolo- gies. The PBL framework emphasizes addressing real-world challenges, fostering self-directed learning and collaboration among interdisciplinary student teams. Generative AI tools were employed to enhance creativity, streamline design pro- cesses, and provide immediate feedba"
 
 doi: "10.36948/ijfmr.2023.v05i06.9650"
+authors: "-, F.D."
+apa: "-, F.D. (2023). User interface, user experience, layouts. International Journal For Multidisciplinary Research, 5(6). https://doi.org/10.36948/ijfmr.2023.v05i06.9650"
 ---
 
 ## Abstract
-
-**DOI:** [10.36948/ijfmr.2023.v05i06.9650](https://doi.org/10.36948/ijfmr.2023.v05i06.9650)
 
 This study examines the integration of user experience (UX) princi- ples into user interface (UI) design education through a Problem-Based Learning (PBL) approach augmented by generative artiﬁcial intelligence (AI) technolo- gies. The PBL framework emphasizes addressing real-world challenges, fostering self-directed learning and collaboration among interdisciplinary student teams. Generative AI tools were employed to enhance creativity, streamline design pro- cesses, and provide immediate feedback, thereby reducing development time and facilitating iterative problem-solving. The curriculum incorporated UX design theories, UI design practices, and user testing methodologies, with input from industry professionals to bridge the gap between theoretical knowledge and prac- tical appli
 

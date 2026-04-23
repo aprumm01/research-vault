@@ -3,11 +3,11 @@ type: "paper"
 abstract: "This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for e"
 
 doi: "10.1007/978-3-031-93233-5_5"
+authors: "Marble, J."
+apa: "Marble, J. (2025). Prioritizing human creativity: A sequential approach to teaching generative ai in graphic design education. Lecture Notes in Computer Science, 64-78. https://doi.org/10.1007/978-3-031-93233-5_5"
 ---
 
 ## Abstract
-
-**DOI:** [10.1007/978-3-031-93233-5_5](https://doi.org/10.1007/978-3-031-93233-5_5)
 
 This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
 

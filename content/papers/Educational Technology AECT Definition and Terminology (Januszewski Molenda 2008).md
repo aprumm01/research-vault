@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1111/j.1467-8535.2008.00925_4.x"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Mishra, S."
+apa: "Mishra, S. (2008). Educational technology: A definition with commentary – by alan januszewski &amp; michael molenda. British Journal of Educational Technology, 40(1), 187-187. https://doi.org/10.1111/j.1467-8535.2008.00925_4.x"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1111/j.1467-8535.2008.00925_4.x](https://doi.org/10.1111/j.1467-8535.2008.00925_4.x)
-
 
 ## Topics
 - [[topics/Constructivism|Constructivism]]

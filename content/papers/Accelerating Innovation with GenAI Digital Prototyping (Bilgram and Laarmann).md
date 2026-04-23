@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1109/EMR.2023.3272799"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Bilgram, V., & Laarmann, F."
+apa: "Bilgram, V., & Laarmann, F. (2023). Accelerating innovation with generative ai: Ai-augmented digital prototyping and innovation methods. IEEE Engineering Management Review, 51(2), 18-25. https://doi.org/10.1109/emr.2023.3272799"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
-
 
 ## Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]

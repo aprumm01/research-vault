@@ -3,12 +3,13 @@ type: "paper"
 doi: "10.1016/0307-4412(93)90084-d"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+apa: "Unknown (1993). Problem based learning. Biochemical Education, 21(4), 169. https://doi.org/10.1016/0307-4412(93)90084-d"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-**DOI:** [10.1016/0307-4412(93)90084-d](https://doi.org/10.1016/0307-4412(93)90084-d)
+90084-d)
 
 
 ## Topics

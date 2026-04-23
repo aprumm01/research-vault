@@ -3,11 +3,11 @@ type: "paper"
 abstract: "Generative AI (GenAI) has fundamentally changed how knowl- edge workers, such as software developers, solve tasks and collaborate to build software products. Introducing innovative tools like ChatGPT and Copilot has created new opportunities to assist and augment software developers across various problems. We conducted an empirical study involving interviews with 13 data scientists, managers, developers, de- signers, and frontend developers to investigate the usage of GenAI. Our study reveals t"
 
 doi: "10.1515/9783111677798-008"
+authors: "Lakshmi, S., Helen, D., & Sambasivam, G."
+apa: "Lakshmi, S., Helen, D., & Sambasivam, G. (2025). 8 redefining and transforming software development with generative ai. Generative AI for Software Development, 175-198. https://doi.org/10.1515/9783111677798-008"
 ---
 
 ## Abstract
-
-**DOI:** [10.1515/9783111677798-008](https://doi.org/10.1515/9783111677798-008)
 
 Generative AI (GenAI) has fundamentally changed how knowl- edge workers, such as software developers, solve tasks and collaborate to build software products. Introducing innovative tools like ChatGPT and Copilot has created new opportunities to assist and augment software developers across various problems. We conducted an empirical study involving interviews with 13 data scientists, managers, developers, de- signers, and frontend developers to investigate the usage of GenAI. Our study reveals that ChatGPT signifies a paradigm shift in the workflow of software developers. The technolo
 

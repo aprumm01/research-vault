@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1007/978-1-4842-6461-4_10"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Belling, S."
+apa: "Belling, S. (2020). Design thinking with agile. Succeeding with Agile Hybrids, 109-117. https://doi.org/10.1007/978-1-4842-6461-4_10"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/978-1-4842-6461-4_10](https://doi.org/10.1007/978-1-4842-6461-4_10)
-
 
 ## Topics
 - [[topics/Design Thinking|Design Thinking]]

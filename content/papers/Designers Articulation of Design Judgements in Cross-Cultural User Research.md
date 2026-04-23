@@ -4,12 +4,12 @@ type: "paper"
 doi: "10.1080/15710882.2017.1393546"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Gray, C.M., & Boling, E."
+apa: "Gray, C.M., & Boling, E. (2017). Designers’ articulation and activation of instrumental design judgements in cross-cultural user research. CoDesign, 14(2), 79-97. https://doi.org/10.1080/15710882.2017.1393546"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1080/15710882.2017.1393546](https://doi.org/10.1080/15710882.2017.1393546)
 
 ## Summary
 This paper on designers' articulation and activation of instrumental design judgements in cross-cultural user research (published in CoDesign) examines how design researchers make and communicate judgments in complex, cross-cultural research contexts. The research investigates how designers articulate their reasoning during cross-cultural user research activities, documenting the tacit and explicit knowledge that professional designers activate when working across cultural boundaries. The paper contributes to understanding of design judgment in international and cross-cultural design practice.

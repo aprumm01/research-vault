@@ -6,12 +6,12 @@ type: "paper"
 doi: "10.1007/978-1-4614-3185-5_31"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Mayer, R.E."
+apa: "Mayer, R.E. (2013). Multimedia instruction. Handbook of Research on Educational Communications and Technology, 385-399. https://doi.org/10.1007/978-1-4614-3185-5_31"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/978-1-4614-3185-5_31](https://doi.org/10.1007/978-1-4614-3185-5_31)
 
 ## Summary
 Richard Mayer's handbook chapter provides a comprehensive overview of multimedia instruction research, synthesizing the cognitive theory of multimedia learning (CTML) and its implications for instructional design. Mayer reviews evidence for the multimedia principle (learning is enhanced when words and pictures are combined), examines conditions that moderate its effectiveness, and synthesizes research on how different modality combinations, segmentation, and signaling affect learning outcomes.

@@ -4,13 +4,12 @@ type: "paper"
 doi: "10.1145/3706598.3713233"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Naqvi, S.M., He, R., & Kaur, H."
+apa: "Naqvi, S.M., He, R., & Kaur, H. (2025). Catalyst for creativity or a hollow trend?: A cross-level perspective on the role of generative ai in design. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1-16. https://doi.org/10.1145/3706598.3713233"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3706598.3713233](https://doi.org/10.1145/3706598.3713233)
-
 
 ## Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]

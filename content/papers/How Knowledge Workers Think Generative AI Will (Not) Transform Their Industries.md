@@ -5,12 +5,12 @@ type: "paper"
 doi: "10.1145/3613904.3642700"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Woodruff, A., Shelby, R., Kelley, P.G., Rousso-Schindler, S., Smith-Loud, J., & Wilcox, L."
+apa: "Woodruff, A., Shelby, R., Kelley, P.G., Rousso-Schindler, S., Smith-Loud, J., & Wilcox, L. (2024). How knowledge workers think generative ai will (not) transform their industries. Proceedings of the CHI Conference on Human Factors in Computing Systems, 1-26. https://doi.org/10.1145/3613904.3642700"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3613904.3642700](https://doi.org/10.1145/3613904.3642700)
 
 ## Summary
 This CHI 2025 paper examines how knowledge workers across diverse industries (legal, medical, financial, creative, technical) form beliefs about how generative AI will — and will not — transform their work and industries. Through interviews with workers in multiple sectors, the study finds that workers' assessments of AI's transformative potential are deeply shaped by their occupational identity and their understanding of what constitutes the irreducible core of their professional value. The paper contributes a framework of "professional self-understanding" as the primary lens through which AI transformation is interpreted.

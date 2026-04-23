@@ -5,11 +5,11 @@ type: "paper"
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.1007/s10798-022-09789-4"
+authors: "Weng, C., Chen, C., & Ai, X."
+apa: "Weng, C., Chen, C., & Ai, X. (2022). A pedagogical study on promoting students' deep learning through design-based learning. International Journal of Technology and Design Education, 33(4), 1653-1674. https://doi.org/10.1007/s10798-022-09789-4"
 ---
 
 ## Abstract
-
-**DOI:** [10.1007/s10798-022-09789-4](https://doi.org/10.1007/s10798-022-09789-4)
 
 There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
 

@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1109/MTS.2024.3392280"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Sadek, M., Calvo, R.A., & Mougenot, C."
+apa: "Sadek, M., Calvo, R.A., & Mougenot, C. (2024). Closing the socio–technical gap in ai: The need for measuring practitioners’ attitudes and perceptions. IEEE Technology and Society Magazine, 43(2), 88-91. https://doi.org/10.1109/mts.2024.3392280"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1109/MTS.2024.3392280](https://doi.org/10.1109/MTS.2024.3392280)
 
 ## Summary
 This IEEE paper examines the "sociotechnical gap" in AI development — the space between what technology can do and what social practice requires — by measuring practitioners' attitudes and perceptions toward AI in their organizational contexts. The study develops and validates an instrument for assessing the sociotechnical gap in AI deployments, finding that gaps are consistently underestimated by technical teams and overestimated by end users, with middle management showing the widest divergence from both. The paper argues for bridging the gap through participatory AI development practices.

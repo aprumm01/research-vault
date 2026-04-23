@@ -3,12 +3,11 @@ type: "paper"
 doi: "10.32996/jefas"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+apa: "Unknown (n.d.). Journal of economics, finance and accounting studies. https://doi.org/10.32996/jefas"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.32996/jefas](https://doi.org/10.32996/jefas)
 
 ## Summary
 This systematic review examines the emerging literature on human-centric AI in Industry 5.0, analyzing how the Industry 5.0 framework's emphasis on human wellbeing, sustainability, and resilience differs from Industry 4.0's productivity-centered focus. The review synthesizes research on collaborative robots, AI workplace integration, and human-machine collaboration to assess how Industry 5.0 principles are being operationalized. The paper argues that human-centric AI requires not just technical design choices but organizational and policy commitments to worker agency and wellbeing.

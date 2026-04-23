@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1145/3715336.3735805"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W."
+apa: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W. (2025). Co-designing with transformers: Unpacking the complex role of genai in interactive system design education. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 1228-1243. https://doi.org/10.1145/3715336.3735805"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3715336.3735805](https://doi.org/10.1145/3715336.3735805)
-
 
 ## Topics
 - [[topics/Metacognitive Support|Metacognitive Support]]

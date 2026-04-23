@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1007/978-3-031-93746-0_28"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Tseng, T., Lee, T., & Kuo, J."
+apa: "Tseng, T., Lee, T., & Kuo, J. (2025). Enhancing inquiry-based learning in human factors engineering with generative ai: A case study in industrial design education. Lecture Notes in Computer Science, 402-414. https://doi.org/10.1007/978-3-031-93746-0_28"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1007/978-3-031-93746-0_28](https://doi.org/10.1007/978-3-031-93746-0_28)
 
 ## Summary
 Smith and Borge's edited volume brings together research on learning and collaboration at the intersection of educational psychology, CSCL (Computer-Supported Collaborative Learning), and organizational learning. The volume examines how collaborative processes produce learning outcomes that individual learning cannot achieve, with particular attention to how technology mediates collaborative knowledge construction. It synthesizes foundational research on collaborative learning while pointing toward emerging challenges in AI-mediated collaborative environments.

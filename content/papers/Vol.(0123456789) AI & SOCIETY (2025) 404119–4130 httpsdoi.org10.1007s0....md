@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1007/s00146-025-02180-6"
 
 abstract: "Abstract This article explores how the emergence of creative AI technologies transforms creative workers’ self-apprehension in the context of critical theory and labor studies. The distinguishing contribution of this study resides in its focus on how CI laborers’ creativity perception and reception are affected by AI technologies’ intrusion into the creative domain. Creative AI technologies are expected to present new expressive capacities to creative workers and cost-cutting advantages for CIs’"
+authors: "Öztaş, Y.E., & Arda, B."
+apa: "Öztaş, Y.E., & Arda, B. (2025). Re-evaluating creative labor in the age of artificial intelligence: A qualitative case study of creative workers’ perspectives on technological transformation in creative industries. AI &amp; SOCIETY, 40(5), 4119-4130. https://doi.org/10.1007/s00146-025-02180-6"
 ---
 
 ## Abstract
 Abstract This article explores how the emergence of creative AI technologies transforms creative workers’ self-apprehension in the context of critical theory and labor studies. The distinguishing contribution of this study resides in its focus on how CI laborers’ creativity perception and reception are affected by AI technologies’ intrusion into the creative domain. Creative AI technologies are expected to present new expressive capacities to creative workers and cost-cutting advantages for CIs’ production that put a lot of creative jobs at risk. Findings show that creatives perceive the adaptation of AI technologies as both an opportunity for their creative process and a requirement of their active presence in the market survival as a matter of technocratic rule. We critically analyze creative labor’s novel mods engaged with updated technology and present reflections on the favorable co-creation conditions to flourish an understanding of socially intelligible technology and thereby a creative livelihood against technocracy.
-
-**DOI:** [10.1007/s00146-025-02180-6](https://doi.org/10.1007/s00146-025-02180-6)
 
 ## Summary
 This 2025 AI & Society paper re-evaluates the concept of creative labor in the age of artificial intelligence, arguing that traditional economic and sociological frameworks for understanding creative work require fundamental revision. The author examines how generative AI challenges the constitutive features of creative labor — originality, skill, authentic expression — and argues that new frameworks must account for the hybrid nature of AI-augmented creative production. The paper draws on labor theory, aesthetics, and AI studies to propose a reconceptualization of creative value and creative work identity.

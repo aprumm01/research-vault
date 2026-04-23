@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.32403/0554-4866-2024-2-88-133-139"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Ukrainian Academy of Printing, Soroka, N.V., Ohirko, I.V., & Ukrainian Academy of Printing"
+apa: "Ukrainian Academy of Printing, Soroka, N.V., Ohirko, I.V., & Ukrainian Academy of Printing (2024). Advantages of integrating ai into the ui/ux design process. Printing and Publishing, 2(88), 133-139. https://doi.org/10.32403/0554-4866-2024-2-88-133-139"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.32403/0554-4866-2024-2-88-133-139](https://doi.org/10.32403/0554-4866-2024-2-88-133-139)
-
 
 ## Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]

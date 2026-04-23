@@ -3,13 +3,12 @@ type: "paper"
 doi: "10.1145/3643834.3661624"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Uusitalo, S., Salovaara, A., Jokela, T., & Salmimaa, M."
+apa: "Uusitalo, S., Salovaara, A., Jokela, T., & Salmimaa, M. (2024). ”clay to play with”: Generative ai tools in ux and industrial design practice. Designing Interactive Systems Conference, 1566-1578. https://doi.org/10.1145/3643834.3661624"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3643834.3661624](https://doi.org/10.1145/3643834.3661624)
-
 
 ## Topics
 - [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

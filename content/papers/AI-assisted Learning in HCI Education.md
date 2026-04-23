@@ -4,11 +4,11 @@ type: "paper"
 abstract: "The use of generative artificial intelligence (GenAI) tools has in- creased across all sectors in society, including human-computer interaction (HCI) education. While previous research has explored the pedagogical applications of GenAI and the challenges faced by educators and students, there is less focus on GenAI in the context of a design education. We present findings from group interviews and a survey study conducted with interaction design bachelor students, foregrounding the attitudes and"
 
 doi: "10.1145/3742901.3742910"
+authors: "Heyer, C., Nilsson, E.M., & Pedersen, J."
+apa: "Heyer, C., Nilsson, E.M., & Pedersen, J. (2025). Ai-assisted learning in hci education. Proceedings of the EduCHI 2025: 7th Annual Symposium on HCI Education, 1-7. https://doi.org/10.1145/3742901.3742910"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3742901.3742910](https://doi.org/10.1145/3742901.3742910)
 
 The use of generative artificial intelligence (GenAI) tools has in- creased across all sectors in society, including human-computer interaction (HCI) education. While previous research has explored the pedagogical applications of GenAI and the challenges faced by educators and students, there is less focus on GenAI in the context of a design education. We present findings from group interviews and a survey study conducted with interaction design bachelor students, foregrounding the attitudes and perspectives of students who are motivated to learn. We show that although students are generally aware of ethical issues surrounding GenAI, they make considered decisions on how they use
 

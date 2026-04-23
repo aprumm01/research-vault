@@ -4,11 +4,11 @@ type: "paper"
 abstract: "As generative AI (GAI) tools become more advanced and adopted in professional user experience (UX) design fields, high school educa- tors teaching UX and design-related courses have begun tinkering with GAI tools to use in their classrooms. Through interviews with high school UX educators, we examined their experiences incor- porating GAI tools when teaching interdisciplinary UX courses. Key observations we identified include: 1) interactive student-to- student engagement and student-to-GAI coll"
 
 doi: "10.1145/3742901.3742912"
+authors: "Weinberg, J., & Chan, M."
+apa: "Weinberg, J., & Chan, M. (2025). Experimenting with generative ai tools and their implications: Insights from high school ux educators. Proceedings of the EduCHI 2025: 7th Annual Symposium on HCI Education, 1-6. https://doi.org/10.1145/3742901.3742912"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3742901.3742912](https://doi.org/10.1145/3742901.3742912)
 
 As generative AI (GAI) tools become more advanced and adopted in professional user experience (UX) design fields, high school educa- tors teaching UX and design-related courses have begun tinkering with GAI tools to use in their classrooms. Through interviews with high school UX educators, we examined their experiences incor- porating GAI tools when teaching interdisciplinary UX courses. Key observations we identified include: 1) interactive student-to- student engagement and student-to-GAI collaborative learning; 2) modifications in brainstorming and visualization workflows with GAI; 3) concerns and barriers with the ongoing integration of GAI tools into high school curricula. We conclude with a discussion of implications and opportunities for critical and thoughtful use of GAI in high school design pedagogy. Keywords Ge
 

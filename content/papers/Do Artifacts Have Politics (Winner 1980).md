@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.5040/9798216385448.ch-17"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Winner, L."
+apa: "Winner, L. (2009). Do artifacts have politics?. Readings in the Philosophy of Technology, 251-251. https://doi.org/10.5040/9798216385448.ch-17"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.5040/9798216385448.ch-17](https://doi.org/10.5040/9798216385448.ch-17)
 
 ## Summary
 Langdon Winner argues in this landmark STS essay that material artifacts can embody political qualities, distributing power and authority in ways that persist regardless of user intent. He distinguishes between artifacts designed with specific political purposes (like Robert Moses's low bridges) and technologies that by their nature require centralized control. The essay challenges the view that technology is neutral and remains foundational for critical studies of sociotechnical systems.

@@ -7,17 +7,16 @@ const CitationBlock: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   // Only render for research papers
   if (fm.type !== "paper") return null
 
-  const authors = fm.authors as string | undefined
   const year = fm.year as string | number | undefined
   const venue = fm.venue as string | undefined
   const doi = fm.doi as string | undefined
+  const apa = fm.apa as string | undefined
 
   // Nothing to show yet
-  if (!authors && !year && !venue && !doi) return null
+  if (!year && !venue && !doi && !apa) return null
 
   return (
     <div class="citation-block">
-      {authors && <div class="citation-authors">{authors}</div>}
       {(year || venue) && (
         <div class="citation-meta">
           {year && <span class="citation-year">{year}</span>}
@@ -34,6 +33,12 @@ const CitationBlock: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
         >
           ↗ doi:{doi}
         </a>
+      )}
+      {apa && (
+        <div class="citation-apa">
+          <span class="citation-apa-label">APA</span>
+          <span class="citation-apa-text">{apa}</span>
+        </div>
       )}
     </div>
   )
@@ -89,6 +94,32 @@ CitationBlock.css = `
   .citation-doi:hover {
     opacity: 1;
     text-decoration: underline;
+  }
+
+  .citation-apa {
+    display: flex;
+    align-items: baseline;
+    gap: 0.5em;
+    margin-top: 0.25em;
+    padding-top: 0.4em;
+    border-top: 1px solid color-mix(in srgb, var(--secondary) 20%, transparent);
+  }
+
+  .citation-apa-label {
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    color: var(--secondary);
+    opacity: 0.7;
+    text-transform: uppercase;
+    flex-shrink: 0;
+  }
+
+  .citation-apa-text {
+    font-size: 0.8rem;
+    color: var(--darkgray);
+    line-height: 1.5;
+    font-style: italic;
   }
 `
 

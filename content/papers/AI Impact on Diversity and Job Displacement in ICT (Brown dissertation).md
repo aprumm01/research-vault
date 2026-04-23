@@ -5,11 +5,11 @@ type: "paper"
 abstract: "Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall"
 
 doi: "10.47978/tus.2024.74.04.003"
+authors: "Kolev, D., & Petkov, I."
+apa: "Kolev, D., & Petkov, I. (2025). The impact of ai and automation on job displacement. Proceedings of the Technical University of Sofia, 74(4). https://doi.org/10.47978/tus.2024.74.04.003"
 ---
 
 ## Abstract
-
-**DOI:** [10.47978/tus.2024.74.04.003](https://doi.org/10.47978/tus.2024.74.04.003)
 
 Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall
 

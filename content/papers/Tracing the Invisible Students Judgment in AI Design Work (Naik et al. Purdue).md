@@ -3,11 +3,11 @@ type: "paper"
 abstract: "As generative AI tools become integrated into design workflows, students increasingly engage with these tools not just as aids, but as collaborators. This study analyzes reflections from 33 student teams in an HCI design course to examine the kinds of judgments students make when using AI tools. We found both established forms of design judgment (e.g., instrumental, appreciative, quality) and emergent types: agency-distribution judgment and reliability judgment. These n"
 
 doi: "10.1145/3698061.3734399"
+authors: "Naik, S., Shukla, P., Obi, I., Backus, J., Rasche, N., & Parsons, P.C."
+apa: "Naik, S., Shukla, P., Obi, I., Backus, J., Rasche, N., & Parsons, P.C. (2025). Tracing the invisible: Understanding students’ judgment in ai-supported design work. Proceedings of the 2025 Conference on Creativity and Cognition, 438-442. https://doi.org/10.1145/3698061.3734399"
 ---
 
 ## Abstract
-
-**DOI:** [10.1145/3698061.3734399](https://doi.org/10.1145/3698061.3734399)
 
 As generative AI tools become integrated into design workflows, students increasingly engage with these tools not just as aids, but as collaborators. This study analyzes reflections from 33 student teams in an HCI design course to examine the kinds of judgments students make when using AI tools. We found both established forms of design judgment (e.g., instrumental, appreciative, quality) and emergent types: agency-distribution judgment and reliability judgment. These n
 

@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1080/00461520.2013.804395"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Kirschner, P.A., & van Merriënboer, J.J."
+apa: "Kirschner, P.A., & van Merriënboer, J.J. (2013). Do learners really know best? urban legends in education. Educational Psychologist, 48(3), 169-183. https://doi.org/10.1080/00461520.2013.804395"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1080/00461520.2013.804395](https://doi.org/10.1080/00461520.2013.804395)
 
 ## Summary
 "Do Learners Really Know Best?" investigates the "urban legend" in education that learner control and student preference for learning methods are reliable guides to effective instructional design. The paper critically reviews the research evidence on learner preference and self-directed learning effectiveness, arguing that there is a significant gap between what learners prefer and what produces optimal learning outcomes. The work challenges constructivist and learner-centered rhetoric that privileges learner choice by synthesizing research showing that novice learners particularly benefit from guidance rather than unstructured exploration.

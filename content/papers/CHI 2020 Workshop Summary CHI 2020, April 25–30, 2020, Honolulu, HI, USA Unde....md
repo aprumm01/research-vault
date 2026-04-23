@@ -3,12 +3,12 @@ type: "paper"
 doi: "10.1145/3334480.3375168"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
+authors: "Muller, M., Bardzell, J., Cheon, E., Su, N.M., Baumer, E.P.S., Fiesler, C., Light, A., & Blythe, M."
+apa: "Muller, M., Bardzell, J., Cheon, E., Su, N.M., Baumer, E.P.S., Fiesler, C., Light, A., & Blythe, M. (2020). Understanding the past, present, and future of design fictions. Extended Abstracts of the 2020 CHI Conference on Human Factors in Computing Systems, 1-8. https://doi.org/10.1145/3334480.3375168"
 ---
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3334480.3375168](https://doi.org/10.1145/3334480.3375168)
 
 ## Summary
 Muller and Fiesler's CHI 2020 workshop summary documents a collaborative inquiry into the past, present, and future of design fictions — speculative design artifacts that explore possible and preferable futures to stimulate reflection, debate, and ethical inquiry. The workshop surfaces tensions in design fiction practice: whether it is primarily artistic, analytical, or activist; how it relates to speculative design and critical design; and how it can be made more inclusive and diverse. The summary synthesizes emerging consensus and open questions for the design fiction research community.

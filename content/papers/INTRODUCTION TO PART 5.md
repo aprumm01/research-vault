@@ -3,11 +3,11 @@ type: "paper"
 doi: "10.1108/ils-06-2018-0045"
 
 abstract: "Purpose The explosive growth in the number of digital tools utilized in everyday learning activities generates data at an unprecedented scale, providing exciting challenges that cross scholarly communities. This paper aims to provide an overview of learning analytics (LA) with the aim of helping members of the information and learning sciences communities understand how educational Big Data is relevant to their research agendas and how they can contribute to this growing new field. Design/method"
+authors: "Teasley, S.D."
+apa: "Teasley, S.D. (2019). Learning analytics: Where information science and the learning sciences meet. Information and Learning Sciences, 120(1/2), 59-73. https://doi.org/10.1108/ils-06-2018-0045"
 ---
 
 ## Abstract
-
-**DOI:** [10.1108/ils-06-2018-0045](https://doi.org/10.1108/ils-06-2018-0045)
 
 Purpose The explosive growth in the number of digital tools utilized in everyday learning activities generates data at an unprecedented scale, providing exciting challenges that cross scholarly communities. This paper aims to provide an overview of learning analytics (LA) with the aim of helping members of the information and learning sciences communities understand how educational Big Data is relevant to their research agendas and how they can contribute to this growing new field. Design/methodology/approach Highlighting shared values and issues illustrates why LA is the perfect meeting ground for information and the learning sciences, and suggests how by working together effective LA tools can be designed to innovate education. Findings Analytics-driven performance dashboards are offered as a specific example of one research area where information and learning scientists can make a significant contribution to LA research. Recent reviews of existing dashboard studies point to a dearth of evaluation with regard to either theory or outcomes. Here, the relevant expertise from researchers in both the learning sciences and information science is offered as an important opportunity to improve the design and evaluation of student-facing dashboards. Originality/value This paper outlines important ties between three scholarly communities to illustrate how their combined research expertise is crucial to advancing how we understand learning and for developing LA-based interventions that meet the values that we all share.
 
