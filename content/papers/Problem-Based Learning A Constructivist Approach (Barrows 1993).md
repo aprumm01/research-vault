@@ -35,3 +35,13 @@ Theoretical overview and pedagogical framework; likely includes description of P
 - Students in PBL develop self-directed learning habits that transfer to lifelong professional practice
 - The tutor/facilitator role in PBL differs fundamentally from direct instruction, requiring facilitation skills
 - PBL produces comparable or superior content knowledge alongside stronger process skills relative to traditional instruction
+
+## Related Topics
+- [[topics/Problem-Based Learning|Problem-Based Learning]]
+
+## Related Authors
+- SCHMIDT
+- LOYENS
+- VAN GOG
+- PAAS
+- F.D.

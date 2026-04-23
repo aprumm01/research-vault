@@ -36,3 +36,15 @@ Semi-structured interviews with 20 professional designers (product, graphic, UX,
 
 ## Limitations & Critiques
 Sample of 20 designers drawn primarily from tech-forward contexts may not represent the full diversity of design practice; the "creative partner" framing may romanticize AI agency; findings may shift rapidly as tools evolve.
+
+## Related Topics
+- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]
+
+## Related Authors
+- [[authors/Hancheng Cao|Hancheng Cao]]
+- [[authors/Abdallah El Ali|Abdallah El Ali]]
+- Takaffoli
+- Mäkelä
+- Uusitalo
+- Salovaara
+- Jokela

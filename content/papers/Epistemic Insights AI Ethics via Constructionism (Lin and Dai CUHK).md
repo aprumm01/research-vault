@@ -37,3 +37,15 @@ Pedagogical case study at CUHK; qualitative analysis of student epistemic develo
 
 ## Limitations & Critiques
 Note: This is a paper with limited text extraction — summary written from general knowledge of the work and field. Specific empirical details may be approximate. The paper may have limited extractable text due to format issues.
+
+## Related Topics
+- [[topics/AI Literacy|AI Literacy]]
+
+## Related Authors
+- [[authors/Leo S. Lo|Leo S. Lo]]
+- Dai
+- L. S.
+- Schauer
+- Simbeck
+- Pinkwart
+- [[authors/Colin M. Gray|Colin M. Gray]]

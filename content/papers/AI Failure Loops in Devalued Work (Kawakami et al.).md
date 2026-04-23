@@ -40,3 +40,7 @@ Focused literature review of academic and grey literature on AI deployments in t
 - AI Failure Loops are cyclical: poor AI design → reduced trust → reduced use → further devaluation → worse AI design
 - Three case domains show consistent patterns of AI tools that add burden and reduce autonomy
 - Responsible AI governance must explicitly account for labor power dynamics and occupational status
+
+## Related Topics
+- [[topics/AI Failure Loops|AI Failure Loops]]
+- [[topics/Feminized Labor and AI|Feminized Labor and AI]]

@@ -38,3 +38,15 @@ Design pedagogy case study; qualitative analysis of student work and reflections
 
 ## Limitations & Critiques
 Pedagogical effectiveness is documented qualitatively; longitudinal evidence for transfer of premortem reasoning into professional practice is not yet established; effectiveness may vary by studio culture and instructor facilitation skill.
+
+## Related Topics
+- [[topics/Metacognitive Support|Metacognitive Support]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- Cash
+- Gonçalves
+- Dorst
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- Parreira

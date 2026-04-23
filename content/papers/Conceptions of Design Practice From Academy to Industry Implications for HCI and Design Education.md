@@ -39,3 +39,15 @@ Qualitative study; semi-structured interviews with design educators and design p
 
 ## Limitations & Critiques
 Sample limited to a single national context; the academic-industry binary may overstate the homogeneity of each context; findings may be more applicable to product and interaction design than to other design disciplines.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Park
+- Heger
+- Passi
+- Dhanorkar

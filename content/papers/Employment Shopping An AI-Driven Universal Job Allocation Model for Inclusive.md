@@ -35,3 +35,15 @@ Conceptual/theoretical design; feasibility analysis; ethical and impact evaluati
 - Combining AI personalization with in-person support via mobile units can reach underserved populations
 - Bias-mitigating design principles are essential for inclusive AI-powered employment systems
 - Public-private partnerships are necessary for the scalability and sustainability of inclusive employment models
+
+## Related Topics
+- [[topics/Algorithmic Bias and Fairness|Algorithmic Bias and Fairness]]
+
+## Related Authors
+- Mushkani
+- Berard
+- Ammar
+- Chatonnier
+- Koseki
+- Nokhiz
+- Ruwanpathirana

@@ -39,3 +39,15 @@ Action research in a design course; qualitative analysis of student design proce
 
 ## Limitations & Critiques
 Single course context; the tools examined are rapidly evolving, making specific findings time-sensitive; the study does not track long-term skill development outcomes.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Wang
+- Park
+- Heger
+- Passi

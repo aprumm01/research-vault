@@ -35,3 +35,15 @@ Design research; framework development; case-based analysis of AI concept select
 - Responsible AI principles must be embedded in early design decisions, not applied as post-hoc compliance checks
 - HCI methods offer practical tools for surfacing ethical concerns during concept development
 - Bridging the gap between AI ethics discourse and HCI practice is critical for responsible AI deployment
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- Wang
+- Heger
+- Passi
+- Dhanorkar
+- Kahn
+- Vorvoreanu
+- Weinberg

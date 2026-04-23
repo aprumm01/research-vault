@@ -34,3 +34,16 @@ Conceptual framework development; critical review of the Kirkpatrick model and p
 - A fifth level—societal outcomes—is needed to evaluate training's contribution to community wellbeing
 - Continuous improvement processes should be embedded in evaluation rather than treated as post-hoc
 - Evaluation frameworks must evolve alongside changes in organizational context and stakeholder expectations
+
+## Related Topics
+- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Park
+- Wang
+- Weinberg
+- Chan

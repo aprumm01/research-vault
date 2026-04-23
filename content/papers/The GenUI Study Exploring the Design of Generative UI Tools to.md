@@ -36,3 +36,6 @@ Large-scale deployment study with UX practitioners using prototype GenUI tools; 
 
 ## Limitations & Critiques
 Large-scale deployment studies face ecological validity trade-offs; the prototype tools may not represent commercial GenUI tools' full capabilities; practitioner sample selection may bias toward early adopters.
+
+## Related Topics
+- [[topics/Generative UI Tools|Generative UI Tools]]

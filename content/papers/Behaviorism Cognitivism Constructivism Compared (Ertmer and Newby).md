@@ -35,3 +35,16 @@ Conceptual comparative analysis structured around critical features (nature of l
 - Instructional designers should be theoretically pluralistic — matching theory to context and task
 - The three theories are complementary, not mutually exclusive, as frameworks for practice
 - Understanding theoretical foundations prevents atheoretical or purely intuitive instructional design
+
+## Related Topics
+- [[topics/Cognitive Load Theory|Cognitive Load Theory]]
+- [[topics/Constructivism|Constructivism]]
+
+## Related Authors
+- Dai
+- Mishra
+- esmer
+- Grabinger
+- Dunlap
+- SCHMIDT
+- LOYENS

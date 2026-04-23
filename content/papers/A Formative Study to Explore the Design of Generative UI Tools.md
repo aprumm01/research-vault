@@ -38,3 +38,6 @@ Formative needs-finding study; semi-structured interviews and contextual inquiry
 
 ## Limitations & Critiques
 Needs-finding study informs design requirements but does not evaluate specific implementations; practitioner sample may not represent all UX contexts; the formative nature means requirements will evolve as GenUI technology advances.
+
+## Related Topics
+- [[topics/Generative UI Tools|Generative UI Tools]]

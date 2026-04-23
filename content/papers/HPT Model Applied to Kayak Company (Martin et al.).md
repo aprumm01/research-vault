@@ -35,3 +35,12 @@ Applied case study; step-by-step application of the HPT model to real organizati
 - Systematic cause analysis reveals that performance gaps often stem from environmental and managerial factors, not just individual deficits
 - HPT interventions must address multiple causes simultaneously to produce lasting performance improvement
 - Practical case studies demonstrate the utility of HPT theory for practitioners in organizational settings
+
+## Related Topics
+- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
+
+## Related Authors
+- Watkins
+- Leigh
+- Foshay
+- Kaufman

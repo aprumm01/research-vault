@@ -39,3 +39,15 @@ Participatory research workshops with designers; qualitative data from collabora
 
 ## Limitations & Critiques
 Participatory sample may not represent the diversity of design practice; the framework needs validation in real-world professional contexts; the specific AI tools used in workshops may limit generalizability.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Wang
+- Park
+- Heger
+- Passi
+- Dhanorkar

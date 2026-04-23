@@ -36,3 +36,14 @@ Review and synthesis of experimental research; theoretical framework development
 - Matching audio narration with visuals (modality principle) reduces split-attention effects
 - Signaling and segmentation support learner-controlled processing of complex material
 - All nine principles have empirical support and should guide multimedia instructional design
+
+## Related Topics
+- [[topics/Cognitive Load Theory|Cognitive Load Theory]]
+
+## Related Authors
+- SCHMIDT
+- LOYENS
+- VAN GOG
+- PAAS
+- Ertmer
+- Newby

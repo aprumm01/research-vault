@@ -40,3 +40,9 @@ Diary study; 37 UX professionals across four roles; week-long individual mini-pr
 - Different roles have distinct GenUI needs that current tools do not adequately address
 - Team collaboration features are largely absent from current GenUI tool designs
 - Accessibility and design standards compliance remain significant gaps in GenUI capabilities
+
+## Related Topics
+- [[topics/Generative UI Tools|Generative UI Tools]]
+
+## Related Authors
+- Knearem

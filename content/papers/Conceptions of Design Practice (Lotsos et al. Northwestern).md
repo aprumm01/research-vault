@@ -36,3 +36,15 @@ Qualitative empirical study at Northwestern University; likely interviews with d
 - Design education instills certain assumptions about design work that industry contexts challenge
 - The academy-to-industry transition involves substantial identity and practice renegotiation
 - Design education should better prepare students for the specific conceptions of practice they will encounter in industry
+
+## Related Topics
+- [[topics/Design Judgment|Design Judgment]]
+
+## Related Authors
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- Naik
+- Shukla
+- Obi
+- Backus

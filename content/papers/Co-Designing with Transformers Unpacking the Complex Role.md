@@ -36,3 +36,15 @@ Multiple case studies of design projects explicitly framing AI as a collaborator
 
 ## Limitations & Critiques
 Case study design limits generalizability; the concept of AI as "collaborator" remains contested; findings depend on specific transformer capabilities that may rapidly change.
+
+## Related Topics
+- [[topics/Metacognitive Support|Metacognitive Support]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- Cash
+- Gonçalves
+- Dorst
+- [[authors/Paul Parsons|Paul Parsons]]
+- Toombs

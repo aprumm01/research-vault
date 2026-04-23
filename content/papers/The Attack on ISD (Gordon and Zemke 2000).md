@@ -36,3 +36,16 @@ Opinion/perspective piece combining practitioner experience, case examples, and 
 
 ## Limitations & Critiques
 Critics argued Gordon and Zemke overstated the limitations of ISD by attacking a strawman version of the model; defenders noted that ISD, properly applied, is iterative and flexible; the article's provocative framing generated more heat than light in the subsequent debate.
+
+## Related Topics
+- [[topics/ADDIE Model|ADDIE Model]]
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Park
+- Wang
+- Weinberg
+- Chan

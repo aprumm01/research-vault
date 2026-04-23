@@ -32,3 +32,15 @@ Six months of experimentation with LLMs in internal and client innovation projec
 - AI-augmented digital prototyping enables faster, cheaper concept testing
 - GenAI democratizes innovation by making sophisticated methods accessible to non-specialists
 - Integration requires new competencies for framing and validating AI-generated concepts
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Wang
+- Park
+- Heger
+- Passi

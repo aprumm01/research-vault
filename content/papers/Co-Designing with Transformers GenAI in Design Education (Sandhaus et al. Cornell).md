@@ -38,3 +38,15 @@ Case study of AI integration in Cornell design courses; qualitative data from st
 
 ## Limitations & Critiques
 Single institution case study; the rapid evolution of AI tools means specific findings may have short validity; the study does not include long-term follow-up on student design practice.
+
+## Related Topics
+- [[topics/Design Thinking|Design Thinking]]
+
+## Related Authors
+- Yang
+- Chou
+- Cheatham
+- Marble
+- Zeng
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- Belling

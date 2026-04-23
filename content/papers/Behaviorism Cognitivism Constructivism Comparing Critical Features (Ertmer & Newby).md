@@ -36,3 +36,15 @@ Synthetic comparative analysis of primary and secondary literature from learning
 
 ## Limitations & Critiques
 The comparison can oversimplify the theoretical debates; recent developments in connectivism, embodied cognition, and social learning theory extend beyond the three-framework model presented here.
+
+## Related Topics
+- [[topics/Constructivism|Constructivism]]
+
+## Related Authors
+- Dai
+- Mishra
+- esmer
+- Grabinger
+- Dunlap
+- SCHMIDT
+- LOYENS

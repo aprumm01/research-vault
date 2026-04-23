@@ -36,3 +36,15 @@ Conceptual and historical analysis; committee-based definition development typic
 
 ## Limitations & Critiques
 Definitional consensus documents necessarily smooth over genuine theoretical disagreements within the field; the 2008 definition has been critiqued for underemphasizing sociocultural and critical perspectives on technology.
+
+## Related Topics
+- [[topics/Constructivism|Constructivism]]
+
+## Related Authors
+- Ertmer
+- Newby
+- Dai
+- esmer
+- Grabinger
+- Dunlap
+- SCHMIDT

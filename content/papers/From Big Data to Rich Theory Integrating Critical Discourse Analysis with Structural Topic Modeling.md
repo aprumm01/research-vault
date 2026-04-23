@@ -39,3 +39,15 @@ Demonstration study integrating STM and CDA on a large text corpus; methodologic
 
 ## Limitations & Critiques
 The integration requires expertise in both quantitative and qualitative methods that may be rare in single research teams; STM's topic quality depends on corpus quality and preprocessing decisions; the approach works best with large (1000+) text collections.
+
+## Related Topics
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
+
+## Related Authors
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- Cash
+- Gonçalves
+- Dorst
+- Orlikowski

@@ -38,3 +38,6 @@ Qualitative empirical study; semi-structured interviews with 22 product team mem
 - AI-generated prototypes accelerate iteration cycles and reduce technical barriers for non-engineers
 - Concerns about code quality, maintainability, and over-reliance are significant among technical practitioners
 - Vibe coding is blurring the boundaries between design and development roles in product teams
+
+## Related Topics
+- [[topics/Vibe Coding|Vibe Coding]]

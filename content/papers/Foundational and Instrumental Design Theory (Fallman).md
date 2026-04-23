@@ -36,3 +36,15 @@ Conceptual analysis and philosophical argumentation; no empirical component; syn
 
 ## Limitations & Critiques
 Highly abstract and philosophical; critics note the framework may be difficult to operationalize in design education or practice; the distinction between foundational and instrumental may be less stable in practice than the theory suggests.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Wang
+- Park
+- Heger
+- Passi

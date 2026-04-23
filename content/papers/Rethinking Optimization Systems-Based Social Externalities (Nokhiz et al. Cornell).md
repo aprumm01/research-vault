@@ -38,3 +38,14 @@ Conceptual framework development; case analysis of AI systems where optimization
 
 ## Limitations & Critiques
 The economics metaphor may oversimplify complex social dynamics; operationalizing externality identification in practice requires extensive domain expertise; the framework does not specify who is responsible for internalization of externalities.
+
+## Related Topics
+- [[topics/Algorithmic Bias and Fairness|Algorithmic Bias and Fairness]]
+
+## Related Authors
+- Chakrabarti
+- Mushkani
+- Berard
+- Ammar
+- Chatonnier
+- Koseki

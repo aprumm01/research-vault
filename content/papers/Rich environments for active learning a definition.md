@@ -41,3 +41,16 @@ Conceptual framework synthesis; reviews empirical literature on PBL, anchored in
 
 ## Limitations & Critiques
 Implementation of REALs is resource-intensive and requires significant instructional design expertise; the framework provides limited guidance on how to scaffold students who struggle with self-direction; some critics argue the constructivist assumptions undervalue explicit instruction for novice learners.
+
+## Related Topics
+- [[topics/ADDIE Model|ADDIE Model]]
+- [[topics/Constructivism|Constructivism]]
+
+## Related Authors
+- Ertmer
+- Newby
+- Dai
+- Mishra
+- esmer
+- SCHMIDT
+- LOYENS

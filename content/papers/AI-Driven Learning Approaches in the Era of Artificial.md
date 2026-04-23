@@ -38,3 +38,15 @@ Conceptual review and synthesis of AI-driven learning research across contexts; 
 
 ## Limitations & Critiques
 The review spans very heterogeneous AI approaches and educational contexts; evidence quality for many AI-driven learning systems is limited; the field is moving faster than systematic evidence can accumulate.
+
+## Related Topics
+- [[topics/Design Thinking|Design Thinking]]
+
+## Related Authors
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- Cheatham
+- Parreira
+- Marble
+- Zeng
+- [[authors/Colin M. Gray|Colin M. Gray]]

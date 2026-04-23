@@ -38,3 +38,14 @@ Framework development and case study evaluation; documentation of unplugged-plug
 
 ## Limitations & Critiques
 Framework validation is limited to specific educational contexts; scaling unplugged activities in resource-constrained schools requires material and time investment; the holistic framing may resist precise outcome measurement.
+
+## Related Topics
+- [[topics/AI Literacy|AI Literacy]]
+
+## Related Authors
+- [[authors/Leo S. Lo|Leo S. Lo]]
+- L. S.
+- Schauer
+- Simbeck
+- Pinkwart
+- [[authors/Colin M. Gray|Colin M. Gray]]

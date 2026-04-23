@@ -34,3 +34,15 @@ Analytical/review paper examining current AI integration practices in workplace 
 - Responsible AI adoption requires systematic evaluation against learning effectiveness criteria
 - AI tools must be assessed against established principles of how adults learn in work contexts
 - Organizations need responsible AI adoption frameworks that center learning outcomes over efficiency metrics
+
+## Related Topics
+- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
+
+## Related Authors
+- Engström
+- Pittino
+- Mohlin
+- Johansson
+- Edh Mirzaei
+- Martinez Marroquin
+- Senadji

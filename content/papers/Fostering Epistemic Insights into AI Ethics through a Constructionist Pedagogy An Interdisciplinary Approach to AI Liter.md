@@ -41,3 +41,13 @@ Action research in an AI ethics course; qualitative analysis of student construc
 
 ## Limitations & Critiques
 Single course context; epistemic development is difficult to measure rigorously; the constructionist approach requires significant technical infrastructure and may not scale to non-technical educational contexts.
+
+## Related Topics
+- [[topics/AI Literacy|AI Literacy]]
+
+## Related Authors
+- [[authors/Leo S. Lo|Leo S. Lo]]
+- L. S.
+- Schauer
+- Simbeck
+- Pinkwart

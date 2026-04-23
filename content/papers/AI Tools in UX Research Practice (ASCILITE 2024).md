@@ -32,3 +32,15 @@ Empirical study or survey of UX research practitioners; ASCILITE 2024 conference
 - AI integration raises questions about research quality and the development of core UX research competencies
 - The field needs guidelines for appropriate AI use in UX research that preserve research rigor
 - UX researchers' professional identity is being renegotiated in response to AI tool availability
+
+## Related Topics
+- [[topics/AI Literacy|AI Literacy]]
+
+## Related Authors
+- [[authors/Leo S. Lo|Leo S. Lo]]
+- Dai
+- L. S.
+- Schauer
+- Simbeck
+- Pinkwart
+- [[authors/Colin M. Gray|Colin M. Gray]]

@@ -38,3 +38,14 @@ Survey study (follow-up); analysis of barriers and opportunities for AI literacy
 - Key barriers include lack of dedicated training time, resources, and practical implementation frameworks
 - Libraries have a unique opportunity to serve as AI literacy educators for students, faculty, and staff
 - Professional development infrastructure must be strengthened to support librarian AI competency development
+
+## Related Topics
+- [[topics/AI Literacy|AI Literacy]]
+
+## Related Authors
+- Dai
+- [[authors/Leo S. Lo|Leo S. Lo]]
+- Schauer
+- Simbeck
+- Pinkwart
+- [[authors/Colin M. Gray|Colin M. Gray]]

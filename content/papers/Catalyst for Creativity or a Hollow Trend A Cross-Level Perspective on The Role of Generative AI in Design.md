@@ -37,3 +37,15 @@ Multi-level qualitative and quantitative synthesis; case studies from creative o
 
 ## Limitations & Critiques
 Cross-level analysis requires different data and methods at each level, creating integration challenges; the findings may be sector-specific; the creative quality outcome measures used across levels are not fully commensurable.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Wang
+- Park
+- Heger
+- Passi

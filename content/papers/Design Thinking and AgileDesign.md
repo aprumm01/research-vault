@@ -36,3 +36,15 @@ Comparative framework analysis; case study of integrated Design Thinking-Agile t
 
 ## Limitations & Critiques
 Integration success depends heavily on organizational context and team maturity; the synthesis model may work differently in product vs. service design contexts; "Design Thinking" itself is a contested and varied practice across organizations.
+
+## Related Topics
+- [[topics/Design Thinking|Design Thinking]]
+
+## Related Authors
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- Yang
+- Chou
+- Cheatham
+- Parreira
+- Marble

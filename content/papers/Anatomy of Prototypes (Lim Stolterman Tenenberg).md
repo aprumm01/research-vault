@@ -36,3 +36,15 @@ Conceptual framework development through analysis of prototyping practice and th
 - The filter dimension (what is represented) is as important as the resolution dimension (how accurately)
 - The anatomy framework helps designers make deliberate prototyping choices rather than defaulting to conventions
 - Understanding prototype anatomy improves communication in design teams about what a prototype shows and hides
+
+## Related Topics
+- [[topics/Design Thinking|Design Thinking]]
+
+## Related Authors
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- Yang
+- Chou
+- Cheatham
+- Parreira
+- Marble

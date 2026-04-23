@@ -43,3 +43,16 @@ Qualitative content analysis of 120+ articles and discussions from UX-focused su
 
 ## Limitations & Critiques
 Reddit-sourced data skews toward vocal, tech-savvy practitioners and may not represent the full spectrum of UX professional views; self-selected online discourse is not a random or representative sample.
+
+## Related Topics
+- [[topics/Cognitive Offloading and De-skilling|Cognitive Offloading and De-skilling]]
+- [[topics/Design Judgment|Design Judgment]]
+
+## Related Authors
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- Naik
+- Shukla
+- Obi

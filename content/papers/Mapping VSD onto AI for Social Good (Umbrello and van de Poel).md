@@ -35,3 +35,6 @@ Conceptual and theoretical analysis; mapping exercise aligning VSD principles wi
 - Transparency and explicability must be treated as design values, not just technical requirements
 - AI4SG principles provide a normative framework that complements VSD's process-based approach
 - The combination of VSD and AI4SG offers a more robust methodology for designing value-aligned AI systems
+
+## Related Topics
+- [[topics/Value-Sensitive Design|Value-Sensitive Design]]

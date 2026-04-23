@@ -39,3 +39,16 @@ Literature review of intervention evidence; policy analysis; evaluation of progr
 
 ## Limitations & Critiques
 Evidence base for long-term intervention effectiveness is thin; the scale of AI-induced disruption anticipated may exceed the capacity of current intervention models; geographic and industry variation in AI disruption patterns limits generalizability.
+
+## Related Topics
+- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Park
+- Wang
+- Weinberg
+- Chan

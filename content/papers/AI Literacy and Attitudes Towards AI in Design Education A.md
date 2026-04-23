@@ -38,3 +38,15 @@ Survey study with design students; AI literacy assessment instruments; quantitat
 
 ## Limitations & Critiques
 Self-reported literacy measures may not accurately capture actual capabilities; attitudes toward AI are rapidly shifting as tools evolve; the design student sample may not generalize across design disciplines or geographic contexts.
+
+## Related Topics
+- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]
+
+## Related Authors
+- Arokiyadass
+- Gamez-Djokic
+- Waytz
+- Kouchaki
+- Hamadou
+- Gissay
+- Wicaksono

@@ -39,3 +39,16 @@ Evidence review of published research on AI in workplace learning; gap analysis 
 
 ## Limitations & Critiques
 Evidence reviews are limited by the quality and availability of published research; the rapidly evolving AI landscape means the evidence review has a short shelf life; the critique of "hype" may be perceived as AI skepticism rather than balanced evaluation.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
+
+## Related Authors
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- Park

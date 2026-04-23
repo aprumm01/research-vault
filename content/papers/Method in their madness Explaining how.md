@@ -37,3 +37,16 @@ Ethnographic observation of design teams in professional settings; qualitative a
 
 ## Limitations & Critiques
 Ethnographic study of specific design contexts; generalizability across design disciplines and organizational settings requires further investigation; the "madness" framing may be somewhat rhetorical.
+
+## Related Topics
+- [[topics/Metacognitive Support|Metacognitive Support]]
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
+
+## Related Authors
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- Parreira

@@ -38,3 +38,15 @@ Multiple case studies of design courses integrating AI for creative tasks; quali
 
 ## Limitations & Critiques
 Case study design limits generalizability; the homogenization risk may be tool-specific and evolve as AI models improve; measuring "individual creative voice" empirically remains challenging.
+
+## Related Topics
+- [[topics/Design Thinking|Design Thinking]]
+
+## Related Authors
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- Yang
+- Chou
+- Cheatham
+- Parreira
+- Marble

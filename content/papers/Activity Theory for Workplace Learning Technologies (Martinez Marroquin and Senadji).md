@@ -40,3 +40,16 @@ Conceptual framework application; case analysis of workplace learning technology
 
 ## Limitations & Critiques
 Activity Theory is complex and can be difficult to operationalize in design practice; the framework's Marxist roots create translation challenges in some organizational contexts; the application to technology design requires significant conceptual work.
+
+## Related Topics
+- [[topics/Activity Theory|Activity Theory]]
+- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
+
+## Related Authors
+- Cheatham
+- Engström
+- Pittino
+- Mohlin
+- Johansson
+- Edh Mirzaei
+- Sposato

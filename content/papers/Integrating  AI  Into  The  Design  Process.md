@@ -37,3 +37,16 @@ Multiple case studies across design disciplines; practitioner documentation and 
 
 ## Limitations & Critiques
 Case study evidence is primarily from design disciplines with strong visual output; service design and systems design integration is less thoroughly addressed; the pace of AI tool development means specific tool recommendations will date quickly.
+
+## Related Topics
+- [[topics/Design Thinking|Design Thinking]]
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- Yang
+- Park
+- Wang

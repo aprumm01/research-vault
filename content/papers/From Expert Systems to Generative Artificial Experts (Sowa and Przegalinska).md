@@ -37,3 +37,12 @@ Literature-based conceptual analysis; taxonomy development; comparison across AI
 - A synthetic persona enables more effective long-term human-AI collaboration than tool-based AI interactions
 - GAEs represent an evolution from expert systems toward genuine intellectual partners in knowledge work
 - Seven defining traits distinguish GAEs from other generative AI systems including chatbots and copilots
+
+## Related Topics
+- [[topics/Hybrid Intelligence|Hybrid Intelligence]]
+
+## Related Authors
+- Yang
+- Jiang
+- Barlatier
+- Michel

@@ -38,3 +38,6 @@ Theoretical-analytical paper with design examples; examines creative ambiguity a
 - Cognitive tension between designer intent and AI output is a source of creative development, not just frustration
 - Productive engagement with creative ambiguity requires specific design competencies
 - Tools should be designed to support creative tension, not eliminate ambiguity in favor of precision
+
+## Related Topics
+- [[topics/Creative Ambiguity|Creative Ambiguity]]

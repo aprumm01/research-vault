@@ -35,3 +35,13 @@ Conceptual/analytical paper applying the SWOT framework to synthesize existing l
 2. Significant weaknesses exist around factual accuracy, hallucination, and the need for subject-matter expert review — GenAI cannot replace ID expertise
 3. The greatest opportunity lies in personalizing learning experiences at scale, which was previously impractical
 4. The primary threat is uncritical over-reliance that erodes core instructional design competencies and introduces unreviewed errors into learning materials
+
+## Related Topics
+- [[topics/ADDIE Model|ADDIE Model]]
+- [[topics/Prompt Engineering|Prompt Engineering]]
+
+## Related Authors
+- [[authors/Peter Dalsgaard|Peter Dalsgaard]]
+- Grabinger
+- Dunlap
+- Westover

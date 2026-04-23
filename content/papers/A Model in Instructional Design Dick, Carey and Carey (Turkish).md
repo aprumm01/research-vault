@@ -35,3 +35,16 @@ Critical review and historical analysis; examination of the model's four edition
 - Declining interest in systematic ID within academic programs poses a challenge to the model's future
 - Constructivist and objectivist models serve different learning goals; neither is universally superior
 - The model's long track record and adaptability provide a foundation for continued relevance
+
+## Related Topics
+- [[topics/Constructivism|Constructivism]]
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Ertmer
+- Newby
+- Park
+- Wang

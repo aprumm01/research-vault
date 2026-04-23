@@ -35,3 +35,15 @@ Interpretive case study; ethnographic observation and interviews at a consulting
 - Organizational culture and incentive structures must support collaborative norms for groupware to succeed
 - Technology adoption is a social and organizational process, not merely a technical one
 - The gap between designed and enacted technology use is shaped by existing work practices and cultural assumptions
+
+## Related Topics
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
+
+## Related Authors
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- Cash
+- Gonçalves
+- Dorst
+- Aranda

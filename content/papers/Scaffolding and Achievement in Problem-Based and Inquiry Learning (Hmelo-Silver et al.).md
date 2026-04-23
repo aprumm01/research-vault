@@ -34,3 +34,16 @@ Theoretical response and review of empirical literature; synthesis of evidence f
 - Empirical evidence shows PBL and IL produce robust learning outcomes including conceptual understanding and transfer
 - Kirschner et al. conflate minimally guided instruction with all constructivist approaches
 - The scaffolding in PBL reduces cognitive overload while maintaining the motivational and conceptual benefits of authentic problem-solving
+
+## Related Topics
+- [[topics/Metacognitive Support|Metacognitive Support]]
+- [[topics/Problem-Based Learning|Problem-Based Learning]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- Cash
+- Gonçalves
+- Dorst
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- Parreira

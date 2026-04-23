@@ -34,3 +34,12 @@ Framework development paper proposing an augmented participatory lifecycle for A
 - Participatory design methods must be augmented to address the unique challenges of AI development
 - Co-production throughout the lifecycle — not just at use — is necessary for responsible AI
 - The augmented participatory lifecycle provides a practical roadmap for inclusive AI development
+
+## Related Topics
+- [[topics/Algorithmic Bias and Fairness|Algorithmic Bias and Fairness]]
+
+## Related Authors
+- Chakrabarti
+- Nokhiz
+- Ruwanpathirana
+- Nissenbaum

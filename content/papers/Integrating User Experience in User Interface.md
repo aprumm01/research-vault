@@ -39,3 +39,12 @@ Case study analysis of UX-UI integrated design projects; comparative analysis wi
 
 ## Limitations & Critiques
 Case study design limits generalizability; the integration model requires organizational investment in tools and processes; small teams and freelancers may find the model less applicable than enterprise contexts.
+
+## Related Topics
+- [[topics/Problem-Based Learning|Problem-Based Learning]]
+
+## Related Authors
+- SCHMIDT
+- LOYENS
+- VAN GOG
+- PAAS

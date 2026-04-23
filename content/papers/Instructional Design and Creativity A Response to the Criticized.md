@@ -32,3 +32,15 @@ Conceptual response and theoretical argument; engagement with prior critiques of
 - Systematic process models are frameworks for thinking, not replacements for creative thought
 - Critics confuse the outputs of ID (structured learning experiences) with the process of designing them
 - Fostering creativity in ID requires cultivating reflective practice and design thinking among practitioners
+
+## Related Topics
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
+
+## Related Authors
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- Cash
+- Gonçalves
+- Dorst
+- Orlikowski

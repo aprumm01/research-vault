@@ -39,3 +39,9 @@ Qualitative study; in-depth interviews with creative workers across disciplines;
 
 ## Limitations & Critiques
 Interview-based study may not capture actual behavior as described; the creative worker sample may represent especially adaptive workers; findings may not generalize to more structured or regulated professional contexts.
+
+## Related Topics
+- [[topics/Prompt Engineering|Prompt Engineering]]
+
+## Related Authors
+- [[authors/Peter Dalsgaard|Peter Dalsgaard]]

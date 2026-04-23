@@ -36,3 +36,15 @@ Quantitative; dynamic panel analysis using GMM; macroeconomic data from 2000–2
 - High-skill non-routine work gains value under AI adoption, widening income inequality
 - The relationship between AI and employment is heterogeneous across sectors
 - Policy interventions are needed to address structural unemployment caused by AI-driven polarization
+
+## Related Topics
+- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]
+
+## Related Authors
+- Schauer
+- Simbeck
+- Pinkwart
+- Gamez-Djokic
+- Waytz
+- Kouchaki
+- Arokiyadass

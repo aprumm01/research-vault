@@ -38,3 +38,15 @@ Literature review and conceptual synthesis; case analysis of automation deployme
 
 ## Limitations & Critiques
 The optimistic complementarity narrative may understate genuine displacement effects; labor market data lags actual technology deployment; the organizational choice framework may overstate managerial agency in contexts with competitive market pressures.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Wang
+- Park
+- Heger
+- Passi

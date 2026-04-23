@@ -38,3 +38,15 @@ Pedagogical intervention study; comparison of student outcomes in sequentially-o
 
 ## Limitations & Critiques
 Single institutional study; the optimal sequencing timing (how long before AI introduction?) is not fully established; may be less applicable to students entering with prior AI tool experience.
+
+## Related Topics
+- [[topics/Design Thinking|Design Thinking]]
+
+## Related Authors
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- Yang
+- Chou
+- Cheatham
+- Parreira
+- Zeng

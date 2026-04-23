@@ -35,3 +35,15 @@ Conceptual synthesis of empirical cognitive science research and established ins
 
 ## Limitations & Critiques
 The cognitive approach can underemphasize motivational, affective, and social dimensions of learning; the framework assumes relatively stable, well-defined learning objectives which may not apply to creative or ill-structured domains.
+
+## Related Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+
+## Related Authors
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- Wang
+- Park
+- Heger
+- Passi
