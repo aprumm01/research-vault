@@ -12,6 +12,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1207/s15326985ep3801_6](https://doi.org/10.1207/s15326985ep3801_6)
 
+
+## Topics
+- [[topics/Cognitive Load Theory|Cognitive Load Theory]]
 ## Summary
 Mayer and Moreno propose a theory of multimedia learning based on dual-channel processing, limited cognitive capacity, and active processing, then use this theory to identify five overload scenarios and nine corresponding strategies for reducing cognitive load in multimedia instruction. The strategies—including pre-training, modality effects, segmentation, coherence, and signaling—provide evidence-based design guidance for instructional multimedia.
 

@@ -11,6 +11,10 @@ There is a growing consensus that AI literacy requires a holistic lens, includin
 
 **DOI:** [10.1007/s10639-024-13043-w](https://doi.org/10.1007/s10639-024-13043-w)
 
+
+## Topics
+- [[topics/AI Literacy|AI Literacy]]
+- [[topics/Constructivism|Constructivism]]
 ## Summary
 Dai's 2025 paper presents an educational framework that integrates "unplugged" (hands-on, device-free) and "plugged" (digital, computational) AI learning activities for holistic AI education in K-12 contexts. The approach argues that unplugged activities build conceptual understanding of AI principles (algorithms, data, bias) through physical and embodied experience, while plugged activities then provide authentic implementation contexts. The framework emphasizes constructionist and embodied cognition principles to create AI education that develops whole-child understanding rather than only coding skills.
 

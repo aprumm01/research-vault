@@ -11,6 +11,9 @@ doi: "10.1007/978-3-031-93233-5_5"
 
 This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
 
+
+## Topics
+- [[topics/Design Thinking|Design Thinking]]
 ## Summary
 This paper proposes and evaluates a sequential pedagogical approach to teaching generative AI in graphic design education that explicitly prioritizes human creativity before introducing AI tools. The approach sequences instruction so students develop foundational design skills, creative processes, and critical aesthetic judgment before engaging with AI tools, countering the risk that early AI exposure atrophies creative development. The paper documents outcomes from courses using this sequence and argues that AI integration in design education must be pedagogically intentional about skill development sequencing.
 

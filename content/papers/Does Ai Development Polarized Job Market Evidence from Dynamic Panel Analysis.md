@@ -12,6 +12,9 @@ doi: "10.2139/ssrn.5233820"
 
 The research examines how artificial intelligence affects unemployment patterns by employing modern statistical methods with macroeconomic information. The main purpose of this paper involves studying the significant job displacement effects brought about by artificial intelligence technology and the resulting emergence of new employment opportunities from sector-specific technological advancements. The research utilized Generalized Method of Moments (GMM) techniques for data analysis by using data ranging from 2000 to 2022 coverin
 
+
+## Topics
+- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]
 ## Summary
 This preprint study examines whether AI development contributes to labor market polarization—the hollowing out of middle-skill jobs—using panel data from 2000 to 2022 across multiple countries. Employing Generalized Method of Moments (GMM) analysis, the authors find evidence that AI adoption increases displacement in routine cognitive and manual jobs while creating demand at the high-skill end, contributing to wage inequality and job market bifurcation.
 

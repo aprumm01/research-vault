@@ -14,6 +14,9 @@ AI can now generate high-fidelity UI mock-up screens from a high- level textual 
 ## Authors
 - [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
 
+
+## Topics
+- [[topics/Generative UI Tools|Generative UI Tools]]
 ## Summary
 Chen, Knearem, and Li at Google DeepMind conduct a formative study with 37 UX-related professionals to understand how they would integrate Generative UI (GenUI) models into their design workflows. Through a week-long diary study and interviews, they find that GenUI produces good first drafts but struggles with the "last mile" of detailed design refinement. The study identifies workflow integration points, challenges, and design implications for building GenUI tools that genuinely support professional UX practice.
 

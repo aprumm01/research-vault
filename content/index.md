@@ -6,7 +6,7 @@ title: Research Vault
 
 A knowledge graph for PhD dissertation research in **AI and Design Education** — built for literature reviews, tracing theoretical threads, and mapping the field.
 
-**248 research papers · 26 topic concepts · 13 community hubs**
+**235 research papers · 26 topic concepts · 13 community hubs**
 
 ## Community Hubs
 

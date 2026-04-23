@@ -10,6 +10,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1145/3706598.3713500](https://doi.org/10.1145/3706598.3713500)
 
+
+## Topics
+- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]
 ## Summary
 Khan et al.'s CHI 2025 study challenges the dominant "automation vs. augmentation" binary by showing that professional designers increasingly perceive AI as a creative partner rather than a tool for automating routine tasks. Through interviews with 20 professional designers across disciplines, the authors document how designers co-create with AI — using it for inspiration, unexpected juxtapositions, and exploratory ideation — in ways that reframe the designer's role as creative director and curator rather than sole originator. The paper calls for HCI to move beyond efficiency-focused framing of AI toward collaboration-centered models.
 

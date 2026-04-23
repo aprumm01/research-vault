@@ -11,6 +11,9 @@ doi: "10.1016/j.yjoc.2024.100079"
 
 Integration of Artificial Intelligence (AI) in the design process is a growing area of research interest. Three years after its public launch in 2022, AI has already established itself as the most disruptive tool revolutionizing how designers conceptualize, iterate and innovate. As AI technologies continue to evolve, it is pertinent that design students are acquainted with the potential of the technology and how it can be integrated in their professional practice. The objective of this paper is to explore the role of AI as a conceptualization and research tool in interior design. We aim to examine its effectiveness in enhancing the ideation process and facilitating collaboration and knowledge sharing in intercultural design teams. The case study presented is a collaborative online international learning project (COIL) with the participation of
 
+
+## Topics
+- [[topics/Design Thinking|Design Thinking]]
 ## Summary
 This paper investigates generative AI as a tool for supporting both individual and collaborative creativity in design education, examining how students and faculty use AI during ideation, iteration, and concept development. Through case studies of AI-integrated design courses, the authors find that AI tools open new creative possibilities and lower barriers to visual ideation, but also raise concerns about the homogenization of student work and the erosion of individual creative voice. The paper argues for pedagogical frameworks that cultivate students' capacity to use AI creatively while preserving distinctive design perspectives.
 

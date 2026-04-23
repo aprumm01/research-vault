@@ -10,6 +10,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1111/j.1467-8535.2008.00925_4.x](https://doi.org/10.1111/j.1467-8535.2008.00925_4.x)
 
+
+## Topics
+- [[topics/Constructivism|Constructivism]]
 ## Summary
 Januszewski and Molenda's AECT definitional work establishes the 2008 official definition of educational technology as "the study and ethical practice of facilitating learning and improving performance by creating, using, and managing appropriate technological processes and resources." The text unpacks each element of this definition, tracing the historical development of the field from visual instruction to audiovisual communication to the broader conception of instructional technology. The definition grounds the field's professional identity and scope.
 

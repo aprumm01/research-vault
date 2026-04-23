@@ -11,6 +11,9 @@ doi: "10.1145/3715336.3735805"
 
 This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
 
+
+## Topics
+- [[topics/Design Thinking|Design Thinking]]
 ## Summary
 Sandhaus, Hegde, and colleagues at Cornell report on integrating large language model-based tools into design education courses, documenting how students and instructors navigate the introduction of transformer-based AI into design studio workflows. The paper examines student attitudes, adoption patterns, and the pedagogical challenges that emerge when AI becomes a studio collaborator. The authors identify a need for new frameworks for evaluating AI-assisted design work and for helping students develop AI literacy alongside design skills.
 

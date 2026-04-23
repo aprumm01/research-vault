@@ -12,6 +12,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1007/978-1-4471-7541-4_1](https://doi.org/10.1007/978-1-4471-7541-4_1)
 
+
+## Topics
+- [[topics/Designerly Ways of Knowing|Designerly Ways of Knowing]]
 ## Summary
 Nigel Cross argues that design constitutes a "third culture" alongside sciences and humanities, with its own distinct epistemology rooted in constructive problem-solving and abductive reasoning. He contends that design education must move beyond instrumental training toward developing intrinsic designerly values: the ability to model, represent, and synthesize solutions to ill-defined problems. The paper is foundational for framing design as a legitimate cognitive discipline.
 

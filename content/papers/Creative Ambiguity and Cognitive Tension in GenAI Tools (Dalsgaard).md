@@ -16,6 +16,9 @@ This testimonial article reflects on integrating Generative Artificial Intellige
 ## Authors
 - [[authors/Peter Dalsgaard|Peter Dalsgaard]]
 
+
+## Topics
+- [[topics/Creative Ambiguity|Creative Ambiguity]]
 ## Summary
 Dalsgaard examines the creative and cognitive dynamics that emerge when designers work with generative AI tools, arguing that a productive tension arises from the ambiguity inherent in AI-generated outputs. Rather than treating ambiguity as a problem to be solved, Dalsgaard proposes that creative ambiguity is a generative resource — the gap between what the AI produces and what the designer intended creates cognitive tension that stimulates creative exploration and design development. The paper contributes a theoretical account of the creative value of AI indeterminacy.
 

@@ -10,6 +10,9 @@ We examine how perceived automation and AI threats (the belief that advanced tec
 
 **DOI:** [10.1177/01461672251337126](https://doi.org/10.1177/01461672251337126)
 
+
+## Topics
+- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]
 ## Summary
 This Personality and Social Psychology Bulletin study examines how automation and AI threats change people's lay beliefs about which skills are most valuable in the workforce. Across multiple experiments, the authors find that perceived threats from automation and AI increase the value people place on creative skills relative to quantitative skills—a psychological response suggesting that when machines can "out-quant" humans, creativity becomes a marker of distinctive human value.
 

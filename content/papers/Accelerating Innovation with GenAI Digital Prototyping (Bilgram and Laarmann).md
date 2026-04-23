@@ -10,6 +10,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
 
+
+## Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 Bilgram and Laarmann report six months of hands-on experimentation with LLMs (particularly GPT) in real innovation projects at Nuremberg Institute of Technology and HYVE, demonstrating how generative AI can accelerate the early phases of innovation including exploration, ideation, and digital prototyping. The paper offers concrete use cases ranging from user journey mapping to idea generation to rapid prototyping, framing GenAI as a democratizing force in innovation management. It is an early practitioner-focused account of applied GenAI in professional innovation contexts.
 

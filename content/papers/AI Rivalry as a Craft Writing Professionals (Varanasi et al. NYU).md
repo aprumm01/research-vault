@@ -11,6 +11,9 @@ doi: "10.1145/3706598.3714035"
 
 Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four strategies professionals employ to reshape their roles. Writing professionals employed GAI resist- ing strategies to maximize human potential, reinforce professional identity, carve out a profe
 
+
+## Topics
+- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]
 ## Summary
 Varanasi, Wiesenfeld, and Nov study how writing professionals at NYU frame their relationship to GenAI as a matter of craft identity — either embracing AI as a tool that extends their craft or resisting it as a threat to professional distinctiveness. The paper finds that craft identity serves as a key psychological and professional resource through which writers negotiate AI's encroachment on their domain, with both resistance and embracement strategies reflecting craft values. This contributes a craft theory framework to professional identity research under AI disruption.
 

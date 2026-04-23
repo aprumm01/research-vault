@@ -11,6 +11,9 @@ doi: "10.1108/et-01-2025-0034"
 
 Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoretical framework, we model workplace learning as an activity, intertwined with work and mediated by technology, and expose contradictions that arise when technology developed for formal
 
+
+## Topics
+- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
 ## Summary
 Sposato argues for evidence-based rather than hype-driven approaches to responsible AI integration in workplace learning, calling for systematic evaluation of AI tools against established learning science principles before adoption. The paper reviews current AI integration practices in workplace learning and finds them largely driven by novelty and commercial interest rather than learning effectiveness evidence. It proposes principles for responsible AI adoption that center learner outcomes and ethical considerations.
 

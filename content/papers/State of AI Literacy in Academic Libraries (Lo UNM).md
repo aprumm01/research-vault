@@ -16,6 +16,9 @@ The Present Study aims to explore the use of AI Tools in information literacy pr
 ## Authors
 - [[authors/Leo S. Lo|Leo S. Lo]]
 
+
+## Topics
+- [[topics/AI Literacy|AI Literacy]]
 ## Summary
 Leo S. Lo at the University of New Mexico conducts a follow-up study on the state of AI literacy in academic libraries, examining barriers and opportunities for librarians to develop and provide AI literacy programming. The study finds that while awareness of AI literacy needs has grown, significant barriers remain including lack of training resources, administrative support, and practical competency frameworks. Lo identifies opportunities for libraries to position themselves as AI literacy hubs for their campus communities.
 

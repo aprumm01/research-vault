@@ -11,6 +11,9 @@ doi: "10.1145/3698061.3734399"
 
 As generative AI tools become integrated into design workflows, students increasingly engage with these tools not just as aids, but as collaborators. This study analyzes reflections from 33 student teams in an HCI design course to examine the kinds of judgments students make when using AI tools. We found both established forms of design judgment (e.g., instrumental, appreciative, quality) and emergent types: agency-distribution judgment and reliability judgment. These n
 
+
+## Topics
+- [[topics/Design Judgment|Design Judgment]]
 ## Summary
 Naik et al. at Purdue analyze reflections from 33 student teams in an HCI design course to examine how students exercise judgment when using AI tools in design work. They identify both established forms of design judgment (instrumental, appreciative, quality) and two emergent types: agency-distribution judgment (deciding how much to delegate to AI) and reliability judgment (assessing when AI outputs can be trusted). The study maps how AI tool use introduces new cognitive demands on design students.
 

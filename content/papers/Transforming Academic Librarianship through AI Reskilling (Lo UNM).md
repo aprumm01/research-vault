@@ -17,6 +17,9 @@ Artificial Intelligence (AI) is reshaping the employment landscape by transformi
 ## Authors
 - [[authors/Leo S. Lo|Leo S. Lo]]
 
+
+## Topics
+- [[topics/AI Literacy|AI Literacy]]
 ## Summary
 Leo S. Lo presents a case study of the GPT-4 Exploration Program at the University of New Mexico's College of University Libraries and Learning Sciences, which provided librarians with hands-on AI experience to build AI literacy and foster a culture of continuous learning. Drawing on Knowles's Adult Learning Principles (andragogy), Lo analyzes the program's structure, the diverse projects undertaken by participants, and lessons for professional development in academic librarianship.
 

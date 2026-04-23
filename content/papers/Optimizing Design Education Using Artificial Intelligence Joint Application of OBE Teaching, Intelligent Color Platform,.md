@@ -13,6 +13,10 @@ Abstract Recently, generative AI has been at the center of disruptive innovation
 
 **DOI:** [10.1142/S0129156425406175](https://doi.org/10.1142/S0129156425406175)
 
+
+## Topics
+- [[topics/ADDIE Model|ADDIE Model]]
+- [[topics/Prompt Engineering|Prompt Engineering]]
 ## Summary
 This paper presents a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis of generative AI tools in instructional design practice. Published in TechTrends (2024), it examines how instructional designers can leverage GenAI while navigating its limitations and risks.
 

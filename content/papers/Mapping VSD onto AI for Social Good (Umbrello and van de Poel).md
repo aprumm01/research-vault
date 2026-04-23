@@ -12,6 +12,9 @@ Value sensitive design (VSD) is an established method for integrating values int
 
 **DOI:** [10.1007/s43681-021-00038-3](https://doi.org/10.1007/s43681-021-00038-3)
 
+
+## Topics
+- [[topics/Value-Sensitive Design|Value-Sensitive Design]]
 ## Summary
 Umbrello and van de Poel adapt Value Sensitive Design (VSD) methodology to address the specific challenges posed by AI systems, arguing that machine learning creates new problems for value embeddedness that require modifications to standard VSD approaches. They propose integrating AI4SG (AI for Social Good) principles into VSD to address transparency, explicability, and the risk that ML systems may "disembody" their initial value constraints as they adapt over time.
 

@@ -11,6 +11,9 @@ doi: "10.1145/3643834.3660720"
 
 This study investigates the misalignment between User Experi- ence pedagogy and evolving industry practices, with a focus on accessible design. Two research questions guide the inquiry: how well current UX pedagogy prepares students for industry needs and what strategies can bridge existing gaps. Methods included a rhetorical analysis of relevant literature and a Fall 2024 survey of Technical and Professional Communication educators. Findings re- veal persistent definitional ambiguity, pedagogical misalignments, and limited academia-industry collaboration. Based on these re- sults, the paper proposes structural recommendations to formalize industry partnerships, recognize faculty engagement efforts, and build sustainable pipelines to enrich UX education. CCS Concepts • Social and professional topics ; • Professional topics; • Com- puting education;
 
+
+## Topics
+- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]
 ## Summary
 Takafoli, Li, and Mäkelä at the University of Waterloo investigate how UX practitioners, teams, and companies are integrating generative AI into research and design processes through an industry study. Published at DIS 2024, the study documents adoption patterns, organizational dynamics, and challenges as GenAI becomes embedded in professional UX workflows. The findings reveal that GenAI is used most for synthesis and ideation tasks, but concerns about quality control, research integrity, and team dynamics remain.
 

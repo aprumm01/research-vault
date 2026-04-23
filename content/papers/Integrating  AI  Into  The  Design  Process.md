@@ -10,6 +10,10 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.32403/0554-4866-2024-2-88-133-139](https://doi.org/10.32403/0554-4866-2024-2-88-133-139)
 
+
+## Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
+- [[topics/Design Thinking|Design Thinking]]
 ## Summary
 This practitioner-oriented paper examines methods and frameworks for integrating AI into the design process across multiple design disciplines, offering a taxonomy of AI integration points and design process stages where AI adds most value. Drawing on case studies from product design, graphic design, and UX, the paper argues that AI integration is most effective when designed around the designer's process rather than around the AI tool's capabilities. The paper provides practical frameworks for designers seeking to systematically incorporate AI into professional practice.
 

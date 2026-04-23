@@ -10,6 +10,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1007/978-1-4842-6461-4_10](https://doi.org/10.1007/978-1-4842-6461-4_10)
 
+
+## Topics
+- [[topics/Design Thinking|Design Thinking]]
 ## Summary
 This paper examines the relationship between Design Thinking — a human-centered, divergent-convergent problem-solving methodology — and Agile software development — an iterative, sprint-based development approach. The authors argue that while the two frameworks are complementary in principle (both emphasize iteration, user feedback, and embracing change), they can conflict in practice due to different timelines, team structures, and validation standards. The paper offers a synthesis model for integrating Design Thinking's front-end exploration with Agile's development cycles.
 

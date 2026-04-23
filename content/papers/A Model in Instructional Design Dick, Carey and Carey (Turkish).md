@@ -11,6 +11,10 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.24315/trkefd.321226](https://doi.org/10.24315/trkefd.321226)
 
+
+## Topics
+- [[topics/Constructivism|Constructivism]]
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 Walter Dick reviews two decades of change to the Dick and Carey instructional design model and assesses its prospects for continued relevance. He examines how the model has adapted to incorporate constructivist influences in its 1996 edition, addresses potential threats from alternative ID textbooks and declining interest in systematic ID, and argues that the model's empirical grounding and flexibility position it to remain useful—if updated—in an evolving educational landscape.
 

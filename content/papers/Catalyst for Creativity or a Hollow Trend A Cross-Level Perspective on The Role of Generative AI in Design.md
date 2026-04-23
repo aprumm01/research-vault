@@ -11,6 +11,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1145/3706598.3713233](https://doi.org/10.1145/3706598.3713233)
 
+
+## Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 This paper takes a cross-level perspective on generative AI in creative work, examining AI's role at the individual, team, and organizational levels simultaneously to evaluate whether the "AI as creativity catalyst" narrative is substantiated or a hollow trend. The analysis finds that AI genuinely catalyzes creativity at the individual ideation level but introduces coordination challenges and creative friction at the team level, and creates new organizational tensions around authorship, intellectual property, and quality control. The paper argues for level-specific frameworks for evaluating and designing AI creativity support.
 

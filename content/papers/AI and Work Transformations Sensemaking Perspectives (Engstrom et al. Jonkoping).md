@@ -11,6 +11,9 @@ doi: "10.1108/itp-01-2023-0048"
 
 Purpose – The purpose of this study is to explore the process of initial sensemaking that organizational members activate when they reflect on AI adoption in their work settings, and how the perceived features of AI technologies trigger sensemaking processes which in turn have the potential to influence workplace learning modes and trajectories. Design/methodology/approach – We adopted an explorative qualitative and interactive approach to capture free fantasies and imaginative ideas of AI among people within the industry. We adopt a conceptual perspective that combines theories on initial sens
 
+
+## Topics
+- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
 ## Summary
 Engström et al. investigate how organizational members make initial sense of AI adoption in their work settings, using a qualitative, explorative approach with industry participants at Jönköping University. The study finds that AI's perceived features trigger distinct sensemaking processes that in turn shape workplace learning trajectories — how workers interpret AI determines what and how they learn in response to it. The paper contributes a sensemaking lens to AI adoption research, foregrounding the interpretive work that precedes behavioral and organizational change.
 

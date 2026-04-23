@@ -8,6 +8,11 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
+
+## Topics
+- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 Donald Kirkpatrick's seminal work introduces the Four Levels model of training evaluation: Reaction, Learning, Behavior, and Results. The model provides a systematic framework for assessing the effectiveness of training programs at progressively deeper levels—from participant satisfaction to demonstrable organizational outcomes. The framework has become the foundational standard for training evaluation in business, government, and educational organizations worldwide.
 

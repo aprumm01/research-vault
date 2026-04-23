@@ -8,6 +8,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
+
+## Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 Silber and Foshay's chapter provides a systematic account of instructional strategy selection from a cognitive science perspective, arguing that effective instructional design requires matching strategy choices to the cognitive demands of the target learning outcomes. The authors synthesize research on elaboration theory, component display theory, and cognitive load theory to offer a principled framework for making instructional decisions. The work bridges theory and practice by translating cognitive psychology findings into actionable design guidance.
 

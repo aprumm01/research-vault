@@ -12,6 +12,9 @@ abstract: "A growing interest in the study of discourses has spread in managemen
 
 A growing interest in the study of discourses has spread in management research, but so far, it has mostly relied on in-depth qualitative analyses of textual material. With the increasing availability of large textual data, several challenges arise. This paper offers a mixed-methods approach to integrate critical discourse analysis with structural topic modeling to turn these challenges into valuable opportunities. We argue that combining both approaches overcomes their limitations and provides great potential for exploring phenomena that matter in our mediatized society. Based on an explanatory sequential mixed-methods design, we develop a stepwise model that provides practical and theoretical guidance to conduct a critical analysis of large textual data. Our illustrative example focuses on the discursive legitimation struggles around the tobacco industry. We demonstrate how an integrated mixed-methods approach allows capturing the breadth and depth of discourses used by different actors in the tobacco debates.
 
+
+## Topics
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
 ## Summary
 This paper argues for integrating Critical Discourse Analysis (CDA) with structural topic modeling as a mixed-methods approach to analyzing large text corpora, particularly media and policy discourse about emerging technologies. The authors demonstrate that quantitative topic modeling can efficiently identify discourse patterns across large datasets that CDA then enriches with critical, contextual interpretation. The paper contributes to design research methodology by offering a template for combining computational text analysis with critical qualitative methods.
 

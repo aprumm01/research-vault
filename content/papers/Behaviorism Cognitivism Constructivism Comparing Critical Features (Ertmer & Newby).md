@@ -10,6 +10,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1002/piq.21143](https://doi.org/10.1002/piq.21143)
 
+
+## Topics
+- [[topics/Constructivism|Constructivism]]
 ## Summary
 Ertmer and Newby provide a comprehensive comparison of three dominant learning theory traditions — behaviorism, cognitivism, and constructivism — examining how each conceptualizes knowledge, learning, and the role of the learner. The chapter argues that instructional designers need to understand these frameworks not as mutually exclusive but as tools appropriate for different learning goals: behavioral approaches for routine skill acquisition, cognitive approaches for complex information processing, and constructivist approaches for ill-structured problem-solving. It remains a foundational text for linking psychological theory to instructional practice.
 

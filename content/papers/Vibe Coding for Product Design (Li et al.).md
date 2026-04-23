@@ -14,6 +14,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 ## Authors
 - [[authors/Hancheng Cao|Hancheng Cao]]
 
+
+## Topics
+- [[topics/Vibe Coding|Vibe Coding]]
 ## Summary
 Li et al. investigate "vibe coding"—where product team members express intent in natural language and AI generates functional prototypes and code—through interviews with 22 product team members across enterprises, startups, and academia. They find that vibe coding follows a four-stage workflow (ideation, generation, debugging, review) that accelerates iteration and lowers participation barriers, but also raises concerns about code quality, over-reliance, and the blurring of design and development roles.
 

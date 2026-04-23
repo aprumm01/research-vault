@@ -17,6 +17,9 @@ AI can now generate high-fidelity UI mock-up screens from a high-level textual d
 ## Authors
 - [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
 
+
+## Topics
+- [[topics/Generative UI Tools|Generative UI Tools]]
 ## Summary
 Chen, Knearem, and Li present the full GenUI study—an extended version of their formative work—examining how generative UI tools can support UX practitioners and beyond. Through a week-long diary study with 37 UX-related professionals, they develop design implications for GenUI tools that better serve multiple roles (designers, researchers, developers, product managers) and support team-level collaboration. The study concludes that GenUI produces a "good first draft" but struggles with the "last mile" of design refinement.
 

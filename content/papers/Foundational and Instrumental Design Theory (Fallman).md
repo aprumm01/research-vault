@@ -10,6 +10,9 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 **DOI:** [10.1162/desi_a_00107](https://doi.org/10.1162/desi_a_00107)
 
+
+## Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 Stolterman and Nelson's theoretical framework distinguishes between foundational design theory (explaining what design is) and instrumental design theory (prescribing how to design). They argue that design as a field has been dominated by instrumental approaches at the expense of foundational inquiry, producing a field that knows how to do design but struggles to articulate what design fundamentally is. The work calls for a more philosophically grounded design theory that can speak to design's nature, purpose, and relationship to human judgment.
 

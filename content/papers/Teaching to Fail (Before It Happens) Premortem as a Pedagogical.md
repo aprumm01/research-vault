@@ -11,6 +11,9 @@ doi: "10.1145/3742901.3742908"
 
 This “teachable moment” paper introduces the premortem tech- nique as a reflective and forward-looking pedagogical strategy for HCI education. A premortem invites students to imagine that their project has already failed and then work backward to identify the reasons for that failure—flipping the common “will this work?” framing into “what went wrong?” Originally developed by deci- sion researchers as a way to surface hidden risks and counteract groupthink, the premortem has gained traction in business and organizational planning, yet remains underexplored in design peda- gogy and HCI education. Drawing from our own teaching practice, we describe how we have adapted premortem exercises for the design classroom, typically as a structured reflection during an on- going student project. Anecdotal observations suggest the activity he
 
+
+## Topics
+- [[topics/Studio Pedagogy|Studio Pedagogy]]
 ## Summary
 This paper introduces the premortem — originally a project risk management technique — as a pedagogical tool in design education. By asking students to imagine a future design failure and then work backward to identify causes, the premortem develops students' capacity for critical reflection, failure analysis, and ethical foresight before committing to a design direction. The author presents case studies of premortem use in design studio courses, arguing that anticipatory failure analysis produces more robust and ethically grounded design outcomes than traditional critique-only approaches.
 
