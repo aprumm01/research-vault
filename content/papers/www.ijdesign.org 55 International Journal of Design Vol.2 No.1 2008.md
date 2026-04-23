@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.1080/14626268.2020.1722708"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# The Nature of Design Practice and Implications for Interaction Design Research (Nelson & Stolterman, IJOD 2008)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,9 +34,3 @@ Conceptual and philosophical argument; no empirical data; analysis of design pra
 
 ## Limitations & Critiques
 The paper's philosophical focus can make it difficult to operationalize for design researchers; the emphasis on uniqueness may understate the extent to which designers work with patterns, frameworks, and reusable knowledge.
-
-## Connections
-- [[Design Theory and Cognition]] -
-- [[HCI Education and Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

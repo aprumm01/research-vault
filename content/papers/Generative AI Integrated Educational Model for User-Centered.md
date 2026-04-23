@@ -1,14 +1,10 @@
 ---
+venue: "China 201651000015@jmu.edu.cn Xiaoping Zeng Chengyi College,"
 type: "paper"
-community: "AI in Design Education"
-tags:
 abstract: "The advent of artificial intelligence (AI) has profoundly transformed the educational landscape. Many educators are exploring how AI tools can enhance learning instructional programs. However, there is less focus on how its application within design education— particularly when teaching user-centered design. This study devel- oped an educational model utilizing AI for user-centered design curriculum. Based on design thinking theory, this model integrates ChatGPT and Midjourney into the divergent"
 
 doi: "10.1145/3722237.3722260"
 ---
-
-# Generative AI Integrated Educational Model for User-Centered
-
 
 ## Abstract
 
@@ -16,12 +12,8 @@ doi: "10.1145/3722237.3722260"
 
 The advent of artificial intelligence (AI) has profoundly transformed the educational landscape. Many educators are exploring how AI tools can enhance learning instructional programs. However, there is less focus on how its application within design education— particularly when teaching user-centered design. This study devel- oped an educational model utilizing AI for user-centered design curriculum. Based on design thinking theory, this model integrates ChatGPT and Midjourney into the divergent and convergent design phases to facilitate the workflow. The empirical research showed that educational model can foster students’ creativity and problem- solving skills. The findings highlight the efficacy of AI integration in curricula design and instruction
 
-## Connections
-- [[AI in Design Education]] -
-- [[Design Thinking]] -
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+## Topics
+- [[topics/Design Thinking|Design Thinking]]
 
 ## Summary
 Wu et al. develop and empirically test an educational model integrating generative AI—specifically ChatGPT and Midjourney—into user-centered design curricula at Jimei University. Built on design thinking theory, the model uses AI tools in both divergent (ideation) and convergent (refinement) phases of design education, finding that AI integration fosters students creativity and problem-solving skills. The study offers a structured curriculum model for AI-assisted UX/design education.

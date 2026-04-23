@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "10.1145/3436954"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# UX Designers Pushing AI in the Enterprise: A Case for Adaptive UIs (Zimmerman, CMU)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,9 +34,3 @@ Case study research; interviews with UX designers and stakeholders in enterprise
 
 ## Limitations & Critiques
 Enterprise context may not generalize to startups, agencies, or public sector contexts; the case studies reflect a specific moment in enterprise AI adoption; UX practitioners' capacity to influence AI strategy depends heavily on organizational power dynamics.
-
-## Connections
-- [[AI and Future of Work]] -
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

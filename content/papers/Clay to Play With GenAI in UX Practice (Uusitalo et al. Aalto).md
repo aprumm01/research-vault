@@ -1,25 +1,14 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1145/3643834.3661624"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Clay to Play With: GenAI in UX Practice (Uusitalo et al. Aalto)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3643834.3661624](https://doi.org/10.1145/3643834.3661624)
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-- [[Human-AI Creative Collaboration]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Uusitalo et al. study how UX and industrial designers at Aalto University use generative AI tools, finding that practitioners experience GenAI as "clay to play with" — a malleable, exploratory material that affords rapid creative iteration rather than a finished product generator. The metaphor captures how professional designers are integrating GenAI into their creative process as a generative substrate rather than an answer machine. The paper contributes a material-centric account of how GenAI is being appropriated in professional design practice.

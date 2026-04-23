@@ -1,25 +1,20 @@
 ---
+authors: "Dalsgaard, P."
+venue: "HCI"
+year: 2025
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.18175/VyS16.2.2025.9"
 
 abstract: "This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, as"
 ---
-
-# Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)
-
 
 ## Abstract
 This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, assessing the impact of AI on creativity, pedagogical practices, and learning outcomes. The theoretical framework draws on Constructivist Learning Theory, Kolb’s
 
 **DOI:** [10.18175/VyS16.2.2025.9](https://doi.org/10.18175/VyS16.2.2025.9)
 
-## Connections
-- [[Creative Ambiguity]] -
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+## Authors
+- [[authors/Peter Dalsgaard|Peter Dalsgaard]]
 
 ## Summary
 Dalsgaard examines the creative and cognitive dynamics that emerge when designers work with generative AI tools, arguing that a productive tension arises from the ambiguity inherent in AI-generated outputs. Rather than treating ambiguity as a problem to be solved, Dalsgaard proposes that creative ambiguity is a generative resource — the gap between what the AI produces and what the designer intended creates cognitive tension that stimulates creative exploration and design development. The paper contributes a theoretical account of the creative value of AI indeterminacy.

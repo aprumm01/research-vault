@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "HCI Education and Pedagogy"
-tags:
 doi: "10.1007/978-3-031-93418-6_2"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# How Hands-on Experience with Generative AI Shapes Design Students' Perspectives on AI's Future Impact
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Edited proceedings volume; peer-reviewed conference papers presenting empirical,
 
 ## Limitations & Critiques
 Conference proceedings format means individual contributions vary in scope and rigor; as an edited volume, it lacks the synthesizing framework of a monograph; the 2025 snapshot will date as AI-HCI research advances.
-
-## Connections
-- [[AI in Design Education]] -
-- [[GenAI in UX and Design Practice]] -
-- [[HCI Education and Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

@@ -1,26 +1,17 @@
 ---
 type: "paper"
-community: "AI Literacy"
-tags:
 doi: "10.14742/ascilite2021.0100"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# AI Tools in UX Research Practice (ASCILITE 2024)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.14742/ascilite2021.0100](https://doi.org/10.14742/ascilite2021.0100)
 
-## Connections
-- [[AI Literacy]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+## Topics
+- [[topics/AI Literacy|AI Literacy]]
 
 ## Summary
 This ASCILITE 2024 conference paper explores the role of AI tools in UX research practice, examining how UX researchers are integrating AI into their workflows and what implications this has for research quality, efficiency, and professional competency. The paper documents emerging patterns of AI use in UX research contexts and raises questions about the impact of AI assistance on research rigor and practitioner skill development.

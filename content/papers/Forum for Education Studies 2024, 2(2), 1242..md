@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.59400/fes.v2i2.1242"
 
 abstract: "Amidst the current wave studies of artificial intelligence (AI) in education, this longitudinal case study, spanning Spring 2023 to Spring 2024, delves into the integration of AI in the UI/UX web design classroom. By introducing both text-based and image-based AI tools to students with varying levels of skill in introductory web design and user experience (UX) courses, the study observed a significant enhancement in student creative capabilities and project outcomes. The utilization of text-base"
 ---
-
-# The Role of Student Motivation in Integrating AI into Web Design Education (2024)
-
 
 ## Abstract
 Amidst the current wave studies of artificial intelligence (AI) in education, this longitudinal case study, spanning Spring 2023 to Spring 2024, delves into the integration of AI in the UI/UX web design classroom. By introducing both text-based and image-based AI tools to students with varying levels of skill in introductory web design and user experience (UX) courses, the study observed a significant enhancement in student creative capabilities and project outcomes. The utilization of text-based generators markedly improved writing efficiency and coding, while image-based tools facilitated better ideation and color selection. These findings underscore the potential to augment traditional educational methods, providing students with nov
@@ -39,10 +34,3 @@ Survey study with web design students in AI-integrated courses; motivational ass
 
 ## Limitations & Critiques
 Cross-sectional survey design; motivation-behavior relationships are correlational not causal; the specific web design context may not generalize to other design disciplines; self-reported motivation measures have reliability limitations.
-
-## Connections
-- [[AI in Design Education]] -
-- [[Design Thinking]] -
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

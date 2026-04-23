@@ -1,24 +1,15 @@
 ---
+venue: "distributed under the terms and conditions of the Creative"
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.30935/cedtech/16433"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Contemporary Educational Technology, 2025, 17(3), ep583
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.30935/cedtech/16433](https://doi.org/10.30935/cedtech/16433)
-
-## Connections
-- [[Instructional Design Theory]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Published in Contemporary Educational Technology (2025), this paper examines the integration of artificial intelligence into instructional design practice, investigating how instructional designers are incorporating AI tools into their workflows and what implications this has for the instructional design process, professional roles, and learning outcomes. The paper synthesizes current practices and provides recommendations for AI-conscious instructional design.

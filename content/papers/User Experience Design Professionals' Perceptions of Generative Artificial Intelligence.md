@@ -1,15 +1,11 @@
 ---
+venue: "acm.org/doi/10.1145/3613904.3642114 . . RESEARCH-ARTICLE Use"
 title: "User Experience Design Professionals' Perceptions of Generative Artificial Intelligence"
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1145/3613904.3642114"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# User Experience Design Professionals' Perceptions of Generative Artificial Intelligence
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -40,8 +36,3 @@ Semi-structured interviews with UX professionals across roles; thematic analysis
 
 ## Limitations & Critiques
 CHI venue sample may skew toward sophisticated practitioners; perceptions may shift with AI tool evolution; does not track actual behavior.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

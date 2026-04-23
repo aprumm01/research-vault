@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.32403/0554-4866-2024-2-88-133-139"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Integrating AI into the Design Process
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Multiple case studies across design disciplines; practitioner documentation and 
 
 ## Limitations & Critiques
 Case study evidence is primarily from design disciplines with strong visual output; service design and systems design integration is less thoroughly addressed; the pace of AI tool development means specific tool recommendations will date quickly.
-
-## Connections
-- [[Design Theory and Cognition]] -
-- [[Design Thinking]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

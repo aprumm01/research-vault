@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.1111/j.1467-8535.2004.00409_15.x"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Handbook of Research on Educational Communications and Technology (Jonassen et al., 1996)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Edited handbook synthesizing research across ECT's foundational areas; chapter-l
 
 ## Limitations & Critiques
 As a 1996 volume, it predates the internet era, digital learning environments, and contemporary AI — primarily of historical and foundational value; the field has evolved significantly since publication.
-
-## Connections
-- [[Constructivism]] -
-- [[Instructional Design Theory]] -
-- [[Studio Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

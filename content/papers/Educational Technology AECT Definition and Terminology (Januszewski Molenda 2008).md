@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.1111/j.1467-8535.2008.00925_4.x"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Educational Technology AECT Definition and Terminology (Januszewski Molenda 2008)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +34,3 @@ Conceptual and historical analysis; committee-based definition development typic
 
 ## Limitations & Critiques
 Definitional consensus documents necessarily smooth over genuine theoretical disagreements within the field; the 2008 definition has been critiqued for underemphasizing sociocultural and critical perspectives on technology.
-
-## Connections
-- [[Constructivism]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

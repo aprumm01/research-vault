@@ -1,25 +1,17 @@
 ---
+venue: "Springer Science+Business Media New York 2014 Introductio"
+year: 2014
 title: "Multimedia Instruction (Mayer, 2014)"
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1007/978-1-4614-3185-5_31"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Multimedia Instruction (Mayer, 2014)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/978-1-4614-3185-5_31](https://doi.org/10.1007/978-1-4614-3185-5_31)
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Richard Mayer's handbook chapter provides a comprehensive overview of multimedia instruction research, synthesizing the cognitive theory of multimedia learning (CTML) and its implications for instructional design. Mayer reviews evidence for the multimedia principle (learning is enhanced when words and pictures are combined), examines conditions that moderate its effectiveness, and synthesizes research on how different modality combinations, segmentation, and signaling affect learning outcomes.

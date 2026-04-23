@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "10.1007/s12599-025-00959-x"
 
 abstract: "Abstract The rise of Generative Artificial Intelligence (GenAI) in the workplace is transforming knowledge work in organizations with important implications for professionals and organizations alike. This study focuses on entry-level professionals in knowledge work (ELPs) and highlights how ELPs reshape their work in response to the adoption and integration of GenAI in the workplace. Drawing on the theoretical lens of job crafting and building on insights from a qualitative study in consultancy,"
 ---
-
-# GenAI and Job Crafting by Entry-Level Professionals
-
 
 ## Abstract
 
@@ -40,9 +35,3 @@ Semi-structured interviews with entry-level professionals (1-3 years experience)
 
 ## Limitations & Critiques
 Entry-level sample may reflect a moment of particular anxiety about AI that will change as norms develop; the study cannot distinguish genuine crafting from post-hoc rationalization; sector-specific findings may not generalize across creative and knowledge work.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-- [[Workplace Learning and AI]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

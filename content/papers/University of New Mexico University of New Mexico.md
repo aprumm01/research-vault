@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.25844/p9rv-vj67"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Prompting Progress: An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,9 +34,3 @@ Program evaluation study; pre/post assessment of AI literacy knowledge and confi
 
 ## Limitations & Critiques
 Single institution program evaluation; self-reported confidence measures may not reflect actual competence development; the cohort model requires significant organizational investment; generalizability to other academic professional populations needs validation.
-
-## Connections
-- [[AI Literacy]] -
-- [[Prompt Engineering]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,24 +1,18 @@
 ---
+year: 2008
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.1111/j.1467-8535.2008.00925_4.x"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Januszewski and Molenda - Educational Technology Definition (2008)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1111/j.1467-8535.2008.00925_4.x](https://doi.org/10.1111/j.1467-8535.2008.00925_4.x)
 
-## Connections
-- [[Constructivism]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+## Topics
+- [[topics/Constructivism|Constructivism]]
 
 ## Summary
 This chapter from the AECT handbook presents the 2008 redefinition of educational technology as "the study and ethical practice of facilitating learning and improving performance by creating, using, and managing appropriate technological processes and resources." Januszewski and Molenda trace the conceptual evolution of the field, unpacking each element of the definition to establish educational technology as a practice-oriented discipline with ethical dimensions, distinguished from both media studies and training.

@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Problem-Based Learning"
-tags:
 doi: "10.1145/3715336.3735805"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Co-Designing with Transformers: Unpacking the Complex Role
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Multiple case studies of design projects explicitly framing AI as a collaborator
 
 ## Limitations & Critiques
 Case study design limits generalizability; the concept of AI as "collaborator" remains contested; findings depend on specific transformer capabilities that may rapidly change.
-
-## Connections
-- [[AI in Design Education]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Metacognitive Support]] -
-
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

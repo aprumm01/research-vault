@@ -1,24 +1,12 @@
 ---
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Evaluating Training Programs: The Four Levels (Kirkpatrick)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-## Connections
-- [[Kirkpatrick Evaluation Model]] -
-- [[Responsible AI Governance]] -
-- [[Studio Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
 
 ## Summary
 Donald Kirkpatrick's seminal work introduces the Four Levels model of training evaluation: Reaction, Learning, Behavior, and Results. The model provides a systematic framework for assessing the effectiveness of training programs at progressively deeper levels—from participant satisfaction to demonstrable organizational outcomes. The framework has become the foundational standard for training evaluation in business, government, and educational organizations worldwide.

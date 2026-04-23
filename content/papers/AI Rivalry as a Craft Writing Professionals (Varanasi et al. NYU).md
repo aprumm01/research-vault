@@ -1,27 +1,15 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 abstract: "Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four str"
 
 doi: "10.1145/3706598.3714035"
 ---
-
-# AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)
-
 
 ## Abstract
 
 **DOI:** [10.1145/3706598.3714035](https://doi.org/10.1145/3706598.3714035)
 
 Generative AI (GAI) technologies are disrupting professional writ- ing, challenging traditional practices. Recent studies explore GAI adoption experiences of creative practitioners, but we know little about how these experiences evolve into established practices and how GAI resistance alters these practices. To address this gap, we conducted 25 semi-structured interviews with writing profession- als who adopted and/or resisted GAI. Using the theoretical lens of Job Crafting, we identify four strategies professionals employ to reshape their roles. Writing professionals employed GAI resist- ing strategies to maximize human potential, reinforce professional identity, carve out a profe
-
-## Connections
-- [[AI and Future of Work]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Human-AI Creative Collaboration]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Varanasi, Wiesenfeld, and Nov study how writing professionals at NYU frame their relationship to GenAI as a matter of craft identity — either embracing AI as a tool that extends their craft or resisting it as a threat to professional distinctiveness. The paper finds that craft identity serves as a key psychological and professional resource through which writers negotiate AI's encroachment on their domain, with both resistance and embracement strategies reflecting craft values. This contributes a craft theory framework to professional identity research under AI disruption.

@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI and Future of Work"
-tags:
 abstract: "Purpose – This paper examines the integration of artificial intelligence (AI) in organizational training and development through an evidence-based lens, addressing the gap between technological enthusiasm and pedagogical effectiveness in workplace learning contexts. Design/methodology/approach – An integrative literature review methodology was employed following Torraco’s (2016) framework for synthesizing diverse knowledge streams. The analysis examined 180 papers from multiple databases, combin"
 
 doi: "10.64591/hfdxns51"
 ---
-
-# Beyond the hype: evidence-based
-
 
 ## Abstract
 
@@ -40,10 +35,3 @@ Evidence review of published research on AI in workplace learning; gap analysis 
 
 ## Limitations & Critiques
 Evidence reviews are limited by the quality and availability of published research; the rapidly evolving AI landscape means the evidence review has a short shelf life; the critique of "hype" may be perceived as AI skepticism rather than balanced evaluation.
-
-## Connections
-- [[Responsible AI Governance]] -
-- [[Studio Pedagogy]] -
-- [[Workplace Learning and AI]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

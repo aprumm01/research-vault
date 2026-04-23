@@ -1,26 +1,16 @@
 ---
+venue: "Performance Improvement Quarterly 2013"
+year: 2013
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.1002/piq.21143"
 
 abstract: "The aim of this study was to investigate the theoretical basis upon which the instructional design process was built ; to achieve the aim of the study, a qualitative analytical approach was followed, and the available related literature was subjected to a semi- chronological scrutiny; findings of this study indicate that three learning theories have had central effects on orienting the process of instructional design: behaviorism , cognitivism , and constructivism have indirectly established the"
 ---
 
-# Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)
-
-
 ## Abstract
 The aim of this study was to investigate the theoretical basis upon which the instructional design process was built ; to achieve the aim of the study, a qualitative analytical approach was followed, and the available related literature was subjected to a semi- chronological scrutiny; findings of this study indicate that three learning theories have had central effects on orienting the process of instructional design: behaviorism , cognitivism , and constructivism have indirectly established the boundaries of instructional design by directly setting the scope of applicability of the instructional practices ; the three theories of learning behaviorism, cognitivism, and constructivism have enabled a deep understanding of how learning happens which, in turn, has sprouted up as various instructional practices and considerations; as a result, this study has concluded that instructional design will not be successful nor fruitful unless teachers and designers consider these instructional practices and considerations that are grounded to the educational maxims of these learning theories. Findings of this study has also confirmed the feasibility and sustainability of instructional design in the sense that it guarantees achieving educational goals and objectives in less time, less effort, and less cost. Accordingly, this study has recommended a set of recommendations in this regard.
 
 **DOI:** [10.1002/piq.21143](https://doi.org/10.1002/piq.21143)
-
-## Connections
-- [[Cognitive Load Theory]] -
-- [[Constructivism]] -
-- [[Instructional Design Theory]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Ertmer and Newby compare three foundational learning theories — behaviorism, cognitivism, and constructivism — along critical features relevant to instructional design, including assumptions about the nature of learning, the role of the learner, and the implications for instructional practice. The paper argues that ID professionals need to understand all three paradigms as tools, selecting the appropriate framework based on the learning task, context, and learner characteristics. Published in Performance Improvement Quarterly (2013), it is a widely used reference in instructional design education.

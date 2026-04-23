@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.1142/S0129156425406175"
 
 abstract: "A revolutionary transformation and overhaul of our approach to how we instruct and interact with educational content is being heralded by the simultaneous development of artificial intelligence and education. Businesses dealing with educational technology are greatly engaging and spending exponentially over technologies delivering education by artificial intelligence. Such technologies generate highly interactive and deeply engaging educational experiences for the learners creating an everlastin"
 ---
-
-# Optimizing Design Education Using Artificial Intelligence (IJHSES, 2025)
-
 
 ## Abstract
 A revolutionary transformation and overhaul of our approach to how we instruct and interact with educational content is being heralded by the simultaneous development of artificial intelligence and education. Businesses dealing with educational technology are greatly engaging and spending exponentially over technologies delivering education by artificial intelligence. Such technologies generate highly interactive and deeply engaging educational experiences for the learners creating an everlasting impact. Some of the cutting-edge technologies that improve student engagement and encourage deeper connections with the educational content or the conversational assistants that interact verbally and virtually. Virtual reality (VR), Augmented reality (AR), holographic simulations, etc. are some more examples of AI generated applications which are now being used to create immersive learning experiences. This paper explores the role of AI in higher education, it’s benefits for both learners &amp; educators, it’s application in H.E. classrooms, utilisation of AI-detection technology, challenges and strategies to implement AI seamlessly in educational settings. It is an effort made in order to discuss this emerging topic and to offer an insight into the constantly evolving relationship between AI an education.
@@ -39,9 +34,3 @@ Mixed-methods study; analysis of learning outcomes in AI-integrated design cours
 
 ## Limitations & Critiques
 Study conducted in a single institution with limited sample size; AI feedback quality varies significantly by tool and prompt; the "optimization" framing may privilege measurable outcomes over tacit design development.
-
-## Connections
-- [[AI in Design Education]] -
-- [[Instructional Design Theory]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

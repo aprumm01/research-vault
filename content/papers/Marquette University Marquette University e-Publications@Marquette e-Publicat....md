@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1002/asi.23786"
 
 abstract: "Researchers in information science and related areas have developed various methods for analyzing textual data, such as survey responses. This article describes the application of analysis methods from two distinct fields, one method from interpretive social science and one method from statistical machine learning, to the same survey data. The results show that the two analyses produce some similar and some complementary insights about the phenomenon of interest, in this case, nonuse of social m"
 ---
-
-# Comparing Grounded Theory and Topic Modeling: Extreme Divergence or Complementary Tools? (Marquette, 2017)
-
 
 ## Abstract
 
@@ -40,8 +35,3 @@ Methodological review and comparison; analysis of the epistemological assumption
 
 ## Limitations & Critiques
 The comparison does not cover all variants of either approach; the demonstration case may not generalize; the epistemological comparison may be perceived as privileging qualitative over computational approaches by some readers.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

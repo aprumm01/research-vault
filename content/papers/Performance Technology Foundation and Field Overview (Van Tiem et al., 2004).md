@@ -1,25 +1,15 @@
 ---
 title: "Performance Technology: Foundation and Field Overview (Van Tiem et al., 2004)"
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1601/ex.8970"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Performance Technology: Foundation and Field Overview (Van Tiem et al., 2004)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1601/ex.8970](https://doi.org/10.1601/ex.8970)
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Van Tiem et al. provide a foundational definition and conceptual overview of performance technology as a field, articulating its core principles, distinguishing features, and relationship to adjacent disciplines like training, organizational development, and management. The work situates performance technology within a systematic, results-oriented tradition and outlines the competencies, methods, and values that define professional practice in the field.

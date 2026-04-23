@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI Literacy"
-tags:
 doi: "10.1007/s10639-024-13043-w"
 
 abstract: "There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI education for upper-primary students remains challenging due to the abstract and complex nature of AI and a lack of pedagogical experiences in schools. Against this backdrop, this study employs a design-based research (DBR) methodology to develop pedagogical solutions and theoretical knowledge. Drawing upo"
 ---
-
-# Integrating Unplugged and Plugged Activities for Holistic AI Education: An Embodied Constructionist Approach (Dai, 2025)
-
 
 ## Abstract
 There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI education for upper-primary students remains challenging due to the abstract and complex nature of AI and a lack of pedagogical experiences in schools. Against this backdrop, this study employs a design-based research (DBR) methodology to develop pedagogical solutions and theoretical knowledge. Drawing upon theories about AI literacy and learning sciences, this study proposes a novel pedagogical approach, namely, the embodied constructionist approach. This approach, by integrating embodied analogies and constructionist making, forges a cyclical understand–make–reflect process.
@@ -39,8 +34,3 @@ Framework development and case study evaluation; documentation of unplugged-plug
 
 ## Limitations & Critiques
 Framework validation is limited to specific educational contexts; scaling unplugged activities in resource-constrained schools requires material and time investment; the holistic framing may resist precise outcome measurement.
-
-## Connections
-- [[AI Literacy]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy

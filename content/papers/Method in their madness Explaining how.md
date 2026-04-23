@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Problem-Based Learning"
-tags:
 doi: "10.1016/j.destud.2023.101219"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Method in their madness: Explaining how
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Ethnographic observation of design teams in professional settings; qualitative a
 
 ## Limitations & Critiques
 Ethnographic study of specific design contexts; generalizability across design disciplines and organizational settings requires further investigation; the "madness" framing may be somewhat rhetorical.
-
-## Connections
-- [[Design Theory and Cognition]] -
-- [[Metacognitive Support]] -
-- [[Studio Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

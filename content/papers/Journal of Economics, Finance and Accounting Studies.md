@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "10.32996/jefas"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# A Review of Human-Centric AI in Industry 5.0
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +34,3 @@ Systematic literature review of Industry 5.0 and human-centric AI research; them
 
 ## Limitations & Critiques
 Industry 5.0 as a framework is relatively new and some cited implementations may be primarily rhetorical; the review spans heterogeneous manufacturing contexts; the human-centric claims of many Industry 5.0 implementations have not been independently validated.
-
-## Connections
-- [[AI and Future of Work]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

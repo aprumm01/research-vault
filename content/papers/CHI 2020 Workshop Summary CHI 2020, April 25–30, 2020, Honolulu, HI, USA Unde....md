@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1145/3334480.3375168"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Understanding the Past, Present, and Future of Design Fictions (Muller & Fiesler, CHI 2020)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +34,3 @@ Workshop summary; collaborative sense-making across ~30 design fiction researche
 
 ## Limitations & Critiques
 As a workshop summary, the document reflects the perspectives of a relatively homogeneous research community; the lack of methodological standards noted in the workshop has not yet been fully resolved in subsequent literature.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

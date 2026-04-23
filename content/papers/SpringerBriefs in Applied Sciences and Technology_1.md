@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# User Experience and AI: Assessing the Qualities of AI-Infused Systems (Springer)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -37,8 +32,3 @@ Quality model development; case studies of AI-infused product evaluation; litera
 
 ## Limitations & Critiques
 Quality models are context-dependent; the proposed extensions may not cover all AI product types equally well; the ISO 9241 framework as a base is itself contested in contemporary UX practice; validation studies across diverse AI product categories are needed.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

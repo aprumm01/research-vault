@@ -1,15 +1,10 @@
 ---
 title: "Creative Work and Artificial Intelligence: Imaginaries, Assemblages and Portfolios"
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "10.33011/tf.v22i1.4689"
 
 abstract: "This article analyses how the impacts of AI technologies on creative work have been identified and constructed. The concept of imaginaries is used as a methodological and analytical approach to analyse a variety of grey literature sources published in the UK. The analysis highlights three interconnecting risk imaginaries in which creative occupations are differentiated from other occupations – they are safe and/or are being complemented, but are not being replaced by automation. The construction"
 ---
-
-# Creative Work and Artificial Intelligence: Imaginaries, Assemblages and Portfolios
-
 
 ## Abstract
 
@@ -41,8 +36,3 @@ Qualitative interviews with creative workers (designers, artists, writers) acros
 
 ## Limitations & Critiques
 Qualitative sampling may not represent the full diversity of creative workers; the imaginaries framework may overemphasize discourse at the expense of material practice conditions; rapidly evolving tools may shift imaginary narratives faster than research can document.
-
-## Connections
-- [[AI and Future of Work]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

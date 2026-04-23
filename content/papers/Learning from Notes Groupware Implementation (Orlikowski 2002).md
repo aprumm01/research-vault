@@ -1,25 +1,15 @@
 ---
 type: "paper"
-community: "AI and Future of Work"
-tags:
 abstract: "This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people’s mental models and organizations’ structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupwae was interpreted in terms of familiar personal, stand-alone technologies such as spre"
 
 doi: "10.1016/b978-0-7506-9849-8.50014-9"
 ---
-
-# Learning from Notes: Groupware Implementation (Orlikowski 2002)
-
 
 ## Abstract
 
 **DOI:** [10.1016/b978-0-7506-9849-8.50014-9](https://doi.org/10.1016/b978-0-7506-9849-8.50014-9)
 
 This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people’s mental models and organizations’ structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupwae was interpreted in terms of familiar personal, stand-alone technologies such as spreadsheets. Further, the culture and structure provided few incentives or norms for cooperating or sharing expertise, hence the groupware on its own was unlikely to engender collaboration. Recognizing the central influence of these cognitive and organizational elements is critical to developers, researchers, and practitioners of groupware, KE
-
-## Connections
-- [[Workplace Learning and AI]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Wanda Orlikowski's classic study examines the introduction of Lotus Notes groupware into a consulting organization, finding that the technology's collaborative potential was not realized because workers lacked the mental models and organizational culture necessary to use it for sharing and collaboration. Workers interpreted the tool through familiar individual productivity frameworks, and organizational incentives did not support cooperative use. The study establishes mental models and organizational culture as critical determinants of technology implementation success.

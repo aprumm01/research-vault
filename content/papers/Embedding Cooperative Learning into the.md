@@ -1,14 +1,10 @@
 ---
+year: 1998
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1109/jiot.2023.3319542"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Embedding Cooperative Learning into the
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +35,3 @@ Conceptual synthesis and design framework development; literature review of coop
 
 ## Limitations & Critiques
 Written in 1998 before current AI and adaptive learning technology; cooperative learning principle translation to software may require significant update for modern platforms; the framework is descriptive rather than empirically validated in ILS contexts.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

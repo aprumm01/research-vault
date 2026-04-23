@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1109/tse.2026.3655626"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# From Disruptions to Discussions: How GenAI Impacts Human Interactions in Software Development
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +34,3 @@ Study of software development teams using AI coding assistants; qualitative inte
 
 ## Limitations & Critiques
 Study conducted at a specific moment in AI coding tool adoption; rapidly improving capabilities may shift findings; team size and organizational context significantly affect findings; the software development context may not generalize to other collaborative work contexts.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

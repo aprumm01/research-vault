@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.1108/ils-06-2018-0045"
 
 abstract: "Purpose The explosive growth in the number of digital tools utilized in everyday learning activities generates data at an unprecedented scale, providing exciting challenges that cross scholarly communities. This paper aims to provide an overview of learning analytics (LA) with the aim of helping members of the information and learning sciences communities understand how educational Big Data is relevant to their research agendas and how they can contribute to this growing new field. Design/method"
 ---
-
-# Points of Contact: Where Learning Sciences and Educational Technology Meet
-
 
 ## Abstract
 
@@ -40,9 +35,3 @@ Conceptual review and comparative disciplinary analysis; identifies convergent a
 
 ## Limitations & Critiques
 The chapter reflects a particular institutional moment in the early 2000s; the relationship between the fields has evolved since and the characterization may be outdated in some respects.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-- [[Instructional Design Theory]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

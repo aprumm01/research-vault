@@ -1,25 +1,16 @@
 ---
+venue: "ching Methods for Computer Operating Systems Integrating AI"
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 abstract: "As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin"
 
 doi: "10.1145/3744367.3744368"
 ---
-
-# Research on Teaching Methods for Computer Operating Systems
-
 
 ## Abstract
 
 **DOI:** [10.1145/3744367.3744368](https://doi.org/10.1145/3744367.3744368)
 
 As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Wei et al. propose a hybrid teaching approach for computer operating systems courses that integrates AI-assisted instruction with structured seminars, addressing limitations of traditional lecture-based methods for a complex technical subject. Their approach uses AI tools to provide personalized explanations and feedback alongside structured discussion seminars that develop students' analytical reasoning. The study demonstrates improved learning outcomes compared to conventional instruction.

@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "10.1109/MTS.2024.3392280"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Closing the Sociotechnical Gap in AI: Measuring Practitioners' Attitudes and Perceptions
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +34,3 @@ Instrument development and validation study; survey of practitioners across tech
 
 ## Limitations & Critiques
 Instrument validation in specific organizational contexts; cross-sector generalizability requires further study; the measurement approach may not capture rapidly shifting sociotechnical gaps as AI capabilities and expectations evolve.
-
-## Connections
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

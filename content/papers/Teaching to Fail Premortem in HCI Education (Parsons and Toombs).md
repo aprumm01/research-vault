@@ -1,26 +1,15 @@
 ---
 type: "paper"
-community: "HCI Education and Pedagogy"
-tags:
 abstract: "This “teachable moment” paper introduces the premortem tech- nique as a reflective and forward-looking pedagogical strategy for HCI education. A premortem invites students to imagine that their project has already failed and then work backward to identify the reasons for that failure—flipping the common “will this work?” framing into “what went wrong?” Originally developed by deci- sion researchers as a way to surface hidden risks and counteract groupthink, the premortem has gained traction in b"
 
 doi: "10.1145/3742901.3742908"
 ---
-
-# Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)
-
 
 ## Abstract
 
 **DOI:** [10.1145/3742901.3742908](https://doi.org/10.1145/3742901.3742908)
 
 This “teachable moment” paper introduces the premortem tech- nique as a reflective and forward-looking pedagogical strategy for HCI education. A premortem invites students to imagine that their project has already failed and then work backward to identify the reasons for that failure—flipping the common “will this work?” framing into “what went wrong?” Originally developed by deci- sion researchers as a way to surface hidden risks and counteract groupthink, the premortem has gained traction in business and organizational planning, yet remains underexplored in design peda- gogy and HCI education. Drawing from our own teaching practice, we describe how we have adapted premortem exercises for the design classroom, typically as a structured reflection during an on- going student project. Anecdotal observations suggest the activity he
-
-## Connections
-- [[HCI Education and Pedagogy]] -
-- [[Studio Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Parsons and Toombs introduce the premortem technique—imagining a project has already failed and working backward to identify likely causes—as a pedagogical strategy in HCI education. Adapted from decision research and organizational planning, the premortem invites students to engage in prospective failure analysis during ongoing projects, surfacing hidden risks, challenging assumptions, and counteracting groupthink. The paper argues the technique develops critical design judgment and realistic project assessment.

@@ -1,25 +1,16 @@
 ---
+venue: "Organization Science 2022"
+year: 2022
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "10.1287/orsc.2021.1549"
 
 abstract: "Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa"
 ---
 
-# To Engage or Not with AI for Critical Judgments (Lebovitz et al.)
-
-
 ## Abstract
 Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa
 
 **DOI:** [10.1287/orsc.2021.1549](https://doi.org/10.1287/orsc.2021.1549)
-
-## Connections
-- [[AI and Future of Work]] -
-- [[Workplace Learning and AI]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Lebovitz, Lifshitz-Assaf, and Levina examine how radiologists and other medical professionals decide whether to engage with AI recommendations for critical diagnostic judgments, focusing on how they navigate AI's "opacity"—its inability to explain its reasoning. Through qualitative research, they find professionals develop distinct strategies for using AI: some routinely engage with it, others systematically ignore it, and many develop contextual rules for when AI input helps versus hinders judgment.

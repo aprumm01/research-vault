@@ -1,14 +1,11 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1007/s00146-025-02504-6"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (Süner-Pla-Cerdà et al., AI & Society 2025)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,9 +36,3 @@ Qualitative study; in-depth interviews with practicing industrial designers acro
 
 ## Limitations & Critiques
 Qualitative sample may not represent the full diversity of industrial design practice globally; findings reflect a moment of rapid change and may evolve quickly; the interview context may elicit more reflective responses than designers' actual daily experience.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-- [[Human-AI Creative Collaboration]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

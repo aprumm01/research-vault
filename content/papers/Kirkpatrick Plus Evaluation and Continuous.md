@@ -1,26 +1,14 @@
 ---
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "10.1007/bf02299676"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Kirkpatrick Plus: Evaluation and Continuous
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
-
-## Connections
-- [[Human Performance Technology]] -
-- [[Kirkpatrick Evaluation Model]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
 
 ## Summary
 Watkins, Leigh, Foshay, and Kaufman propose "Kirkpatrick Plus," a framework that extends Kirkpatrick's four-level evaluation model by adding a fifth level—societal outcomes—and incorporating continuous improvement and community impact perspectives. They argue that as organizations are increasingly accountable to stakeholders beyond their boundaries, training evaluation must assess contributions to community and societal good, not just organizational performance.

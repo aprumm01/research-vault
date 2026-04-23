@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "HCI Education and Pedagogy"
-tags:
 abstract: "When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo"
 
 doi: "[Missing]"
 ---
-
-# AI Hasn’t Fixed Teamwork, But It Shifted Collaborative
-
 
 ## Abstract
 When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo
@@ -37,8 +32,3 @@ Case studies of professional teams using AI tools; qualitative interviews with t
 
 ## Limitations & Critiques
 Case study design limits generalizability; team AI tool use is rapidly evolving; the specific tools studied may not represent the landscape broadly; long-term effects on team collaboration culture are not tracked.
-
-## Connections
-- [[HCI Education and Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

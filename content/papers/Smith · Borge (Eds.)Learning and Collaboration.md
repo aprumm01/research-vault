@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Problem-Based Learning"
-tags:
 doi: "10.1007/978-3-031-93746-0_28"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Smith · Borge (Eds.)Learning and Collaboration
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Edited volume; synthetic chapters reviewing empirical research programs in colla
 
 ## Limitations & Critiques
 As an edited volume, coherence across chapters depends on editorial framing; collaborative learning research is most robust in controlled settings and may not fully transfer to authentic organizational or educational contexts.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-- [[HCI Education and Pedagogy]] -
-- [[Problem-Based Learning]] -
-
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

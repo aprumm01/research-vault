@@ -1,24 +1,17 @@
 ---
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "10.1016/j.bushor.2024.02.002"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Unlocking training transfer in the age of
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1016/j.bushor.2024.02.002](https://doi.org/10.1016/j.bushor.2024.02.002)
 
-## Connections
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+## Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 
 ## Summary
 Park examines how the emergence of AI is transforming training transfer research and practice, identifying key challenges and future directions for ensuring that workplace training produces lasting behavioral change. She argues that AI-enabled personalization, adaptive learning, and just-in-time support create new opportunities for enhancing transfer while also introducing new risks around dependency and shallow learning. The paper provides a forward-looking research agenda for training transfer in AI-integrated workplaces.

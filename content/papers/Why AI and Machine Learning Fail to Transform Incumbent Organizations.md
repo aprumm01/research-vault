@@ -1,15 +1,10 @@
 ---
 title: "Why AI and Machine Learning Fail to Transform Incumbent Organizations"
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "[Missing — PDF may need OCR]"
 
 abstract: "Abstract not available — PDF may need OCR or manual entry"
 ---
-
-# Why AI and Machine Learning Fail to Transform Incumbent Organizations
-
 
 ## Abstract
 *Abstract not available — PDF may need OCR or manual entry*
@@ -38,8 +33,3 @@ Theoretical analysis and case study examination; analysis of AI transformation p
 
 ## Limitations & Critiques
 Case evidence is selective; incumbent/new entrant binary oversimplifies organizational diversity; framework may understate cases where incumbents successfully leveraged AI.
-
-## Connections
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

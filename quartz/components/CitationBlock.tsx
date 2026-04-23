@@ -4,9 +4,8 @@ const CitationBlock: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const fm = fileData.frontmatter
   if (!fm) return null
 
-  // Only render for research papers (has a source PDF)
-  const sourceFile = (fm.source_file as string) ?? ""
-  if (sourceFile === "") return null
+  // Only render for research papers
+  if (fm.type !== "paper") return null
 
   const authors = fm.authors as string | undefined
   const year = fm.year as string | number | undefined

@@ -1,24 +1,14 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.4337/9781788111195.00023"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# A Comparative Analysis
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.4337/9781788111195.00023](https://doi.org/10.4337/9781788111195.00023)
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This chapter from Fitzpatrick's evaluation textbook synthesizes and compares the major schools of thought in program evaluation, organizing approaches into four categories: expertise-oriented, consumer-oriented, decision-oriented, and participant-oriented. The chapter argues that no single approach is universally superior and that evaluators should select frameworks based on the purpose, context, and stakeholders of the evaluation. It remains a foundational reference for understanding the epistemological diversity within evaluation practice.

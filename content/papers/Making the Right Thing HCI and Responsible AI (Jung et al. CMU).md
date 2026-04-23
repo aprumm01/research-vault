@@ -1,27 +1,15 @@
 ---
 type: "paper"
-community: "Responsible AI and Ethics"
-tags:
 abstract: "AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure"
 
 doi: "10.1145/3715336.3735745"
 ---
-
-# Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
-
 
 ## Abstract
 
 **DOI:** [10.1145/3715336.3735745](https://doi.org/10.1145/3715336.3735745)
 
 AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure
-
-## Connections
-- [[HCI Education and Pedagogy]] -
-- [[Responsible AI Governance]] -
-- [[Responsible AI and Ethics]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Jung et al. at Carnegie Mellon University address the challenge of integrating responsible AI (RAI) practices into early-stage AI concept selection, where HCI designers make critical decisions that shape later ethical and technical constraints. They propose a framework bridging HCI design methods with RAI principles to help practitioners identify ethical risks before development begins. The paper argues that responsible AI must be built into design thinking processes, not retrofitted after systems are built.

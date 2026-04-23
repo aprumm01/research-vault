@@ -1,25 +1,19 @@
 ---
+venue: "Design Studies 2025"
+year: 2025
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.1007/s00163-002-0016-y"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Cognitive Co-Evolution Model for Design (Cash et al.)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1007/s00163-002-0016-y](https://doi.org/10.1007/s00163-002-0016-y)
 
-## Connections
-- [[Design Judgment]] -
-- [[Design Theory and Cognition]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+## Topics
+- [[topics/Design Judgment|Design Judgment]]
 
 ## Summary
 Cash et al. develop and elaborate the cognitive co-evolution model of design thinking, which explains how designers simultaneously develop both the problem and solution spaces throughout the design process. The model accounts for the dynamic, iterative nature of design cognition — designers do not first fully specify a problem and then solve it, but rather problem and solution co-evolve through cycles of reflection, exploration, and refinement. The paper provides empirical and theoretical elaboration of this foundational design cognition model.

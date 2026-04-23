@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Generative UI Tools"
-tags:
 doi: "10.1145/3715336.3735780"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# The GenUI Study: Exploring the Design of Generative UI Tools to
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,9 +34,3 @@ Large-scale deployment study with UX practitioners using prototype GenUI tools; 
 
 ## Limitations & Critiques
 Large-scale deployment studies face ecological validity trade-offs; the prototype tools may not represent commercial GenUI tools' full capabilities; practitioner sample selection may bias toward early adopters.
-
-## Connections
-- [[Generative UI Tools]] -
-- [[HCI Education and Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools

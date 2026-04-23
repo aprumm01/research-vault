@@ -17,9 +17,8 @@ const PageTypeBadge: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
     )
   }
 
-  // Research paper pages — have a non-empty source_file (PDF path) in frontmatter
-  const sourceFile = fileData.frontmatter?.source_file ?? ""
-  if (sourceFile !== "") {
+  // Research paper pages
+  if (fileData.frontmatter?.type === "paper") {
     return (
       <div class="page-type-badge badge-article">
         <span class="badge-dot" />

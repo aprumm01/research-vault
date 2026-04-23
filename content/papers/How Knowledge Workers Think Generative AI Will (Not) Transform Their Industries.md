@@ -1,15 +1,11 @@
 ---
+venue: "acm.org/doi/10.1145/3613904.3642700 . . RESEARCH-ARTICLE How"
 title: "How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries"
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "10.1145/3613904.3642700"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -40,10 +36,3 @@ Semi-structured interviews with knowledge workers across multiple professional s
 
 ## Limitations & Critiques
 Interview sample may not represent the full distribution of worker attitudes; beliefs about future transformation may not predict actual adaptive behavior; rapidly evolving capabilities may date specific findings.
-
-## Connections
-- [[AI and Future of Work]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Workplace Learning and AI]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

@@ -1,24 +1,16 @@
 ---
+venue: "CHI 2023"
+year: 2023
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1145/3544548.3581247"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Collaboration with Conversational AI for UX Evaluation (Kuang et al.)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1145/3544548.3581247](https://doi.org/10.1145/3544548.3581247)
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Kuang et al. investigate how UX practitioners can collaborate with conversational AI assistants for UX evaluation tasks, comparing voice and text interaction modes and examining how AI can help practitioners formulate better evaluation questions. The study finds that AI assistants can meaningfully support UX evaluation question formulation, with text interaction generally more precise for professional tasks, and identifies collaboration patterns that enhance evaluation quality. The paper contributes practical knowledge about human-AI collaboration in professional UX evaluation workflows.

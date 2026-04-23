@@ -1,24 +1,18 @@
 ---
+authors: "Cao, H."
+venue: "ACM"
+year: 2025
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Vibe Coding for Product Design (Li et al.)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Connections
-- [[AI and Future of Work]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Vibe Coding]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+## Authors
+- [[authors/Hancheng Cao|Hancheng Cao]]
 
 ## Summary
 Li et al. investigate "vibe coding"—where product team members express intent in natural language and AI generates functional prototypes and code—through interviews with 22 product team members across enterprises, startups, and academia. They find that vibe coding follows a four-stage workflow (ideation, generation, debugging, review) that accelerates iteration and lowers participation barriers, but also raises concerns about code quality, over-reliance, and the blurring of design and development roles.

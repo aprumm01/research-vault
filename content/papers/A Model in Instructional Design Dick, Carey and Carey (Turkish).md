@@ -1,27 +1,15 @@
 ---
 title: "A Model in Instructional Design: Dick, Carey and Carey (Turkish)"
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.24315/trkefd.321226"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# A Model in Instructional Design: Dick, Carey and Carey (Turkish)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.24315/trkefd.321226](https://doi.org/10.24315/trkefd.321226)
-
-## Connections
-- [[Constructivism]] -
-- [[Instructional Design Theory]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Walter Dick reviews two decades of change to the Dick and Carey instructional design model and assesses its prospects for continued relevance. He examines how the model has adapted to incorporate constructivist influences in its 1996 edition, addresses potential threats from alternative ID textbooks and declining interest in systematic ID, and argues that the model's empirical grounding and flexibility position it to remain useful—if updated—in an evolving educational landscape.

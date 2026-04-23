@@ -1,23 +1,18 @@
 ---
+authors: "Cao, H."
+venue: "CSCW 2025"
+year: 2025
 type: "paper"
-community: "AI and Future of Work"
-tags:
 doi: "[Missing — PDF may need OCR]"
 
 abstract: "Abstract not available — PDF may need OCR or manual entry"
 ---
 
-# AI Has Not Fixed Teamwork (Xiao et al. CMU)
-
-
 ## Abstract
 *Abstract not available — PDF may need OCR or manual entry*
 
-## Connections
-- [[AI and Future of Work]] -
-- [[Human-AI Creative Collaboration]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+## Authors
+- [[authors/Hancheng Cao|Hancheng Cao]]
 
 ## Summary
 Xiao et al. conduct a longitudinal study (2023–2025) of a software development organization, finding that AI tools substantially boosted individual productivity but failed to improve — and in some ways complicated — collaborative teamwork. Rather than fixing coordination and communication challenges, AI shifted the collaborative culture: increasing individual autonomy, reducing interdependence, and changing how teams communicate about work. The study is important for challenging the assumption that productivity gains at the individual level automatically improve collective performance.

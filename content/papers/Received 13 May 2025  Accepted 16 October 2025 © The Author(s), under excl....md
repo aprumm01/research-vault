@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.1007/s10798-025-10045-8"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Comparing Student Designers' Metacognition and Design Processes With and Without Generative AI (Chen et al., 2025)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Controlled comparison study; concurrent think-aloud protocol analysis with stude
 
 ## Limitations & Critiques
 Laboratory-like protocol study may not capture real design studio practice; student participants are novice designers, limiting generalizability to professional practice; the quality assessment of design artifacts involves subjective judgment.
-
-## Connections
-- [[AI in Design Education]] -
-- [[Design Theory and Cognition]] -
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

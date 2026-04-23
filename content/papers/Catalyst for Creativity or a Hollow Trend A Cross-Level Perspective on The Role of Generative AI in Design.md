@@ -1,15 +1,10 @@
 ---
 title: "Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design"
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "10.1145/3706598.3713233"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -40,10 +35,3 @@ Multi-level qualitative and quantitative synthesis; case studies from creative o
 
 ## Limitations & Critiques
 Cross-level analysis requires different data and methods at each level, creating integration challenges; the findings may be sector-specific; the creative quality outcome measures used across levels are not fully commensurable.
-
-## Connections
-- [[AI in Design Education]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

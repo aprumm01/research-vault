@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.1007/978-1-4842-6461-4_10"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Design Thinking and Agile Design
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Comparative framework analysis; case study of integrated Design Thinking-Agile t
 
 ## Limitations & Critiques
 Integration success depends heavily on organizational context and team maturity; the synthesis model may work differently in product vs. service design contexts; "Design Thinking" itself is a contested and varied practice across organizations.
-
-## Connections
-- [[AI in Design Education]] -
-- [[Design Theory and Cognition]] -
-- [[Design Thinking]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

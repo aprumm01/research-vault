@@ -1,14 +1,11 @@
 ---
+venue: "CHI 2025"
+year: 2025
 type: "paper"
-community: "HCI Education and Pedagogy"
-tags:
 abstract: "Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates "
 
 doi: "10.1504/jdr.2015.071456"
 ---
-
-# Conceptions of Design Practice (Lotsos et al. Northwestern)
-
 
 ## Abstract
 
@@ -16,11 +13,8 @@ doi: "10.1504/jdr.2015.071456"
 
 Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates conceptions of design practice in current and future design professionals. We share findings from 21 semi-structured interviews with students, educators, and profes- sionals. Our analysis reveals t
 
-## Connections
-- [[Design Judgment]] -
-- [[HCI Education and Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+## Topics
+- [[topics/Design Judgment|Design Judgment]]
 
 ## Summary
 Lotsos et al. examine how conceptions of design practice differ between academic and industry contexts, finding significant gaps between how design is theorized in educational settings and how it is practiced in professional environments. Drawing on interviews and analysis from Northwestern University, the paper documents the assumptions about design work that practitioners bring from academia to industry and where those assumptions fail or need revision. The paper contributes to understanding the transition from design education to professional practice.

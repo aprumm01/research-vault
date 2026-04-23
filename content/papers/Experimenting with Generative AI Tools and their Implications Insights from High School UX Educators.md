@@ -1,15 +1,10 @@
 ---
 title: "Experimenting with Generative AI Tools and their Implications: Insights from High School UX Educators"
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 abstract: "As generative AI (GAI) tools become more advanced and adopted in professional user experience (UX) design fields, high school educa- tors teaching UX and design-related courses have begun tinkering with GAI tools to use in their classrooms. Through interviews with high school UX educators, we examined their experiences incor- porating GAI tools when teaching interdisciplinary UX courses. Key observations we identified include: 1) interactive student-to- student engagement and student-to-GAI coll"
 
 doi: "10.1145/3742901.3742912"
 ---
-
-# Experimenting with Generative AI Tools and their Implications: Insights from High School UX Educators
-
 
 ## Abstract
 
@@ -41,10 +36,3 @@ Action research in a design course; qualitative analysis of student design proce
 
 ## Limitations & Critiques
 Single course context; the tools examined are rapidly evolving, making specific findings time-sensitive; the study does not track long-term skill development outcomes.
-
-## Connections
-- [[AI in Design Education]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

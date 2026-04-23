@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 abstract: "Using the model of analysis, design, development, implementation and evaluation (ADDIE) with regards to instructional design has become a prevalent practi se among e-learning designers and developers. This model assumes assigning specific r"
 
 doi: "10.18844/prosoc.v5i3.3906"
 ---
-
-# Reconciling ADDIE and Agile Instructional Design Models: A Case Study
-
 
 ## Abstract
 
@@ -40,9 +35,3 @@ Case study of an instructional design team's adoption of a hybrid ADDIE-Agile ap
 
 ## Limitations & Critiques
 Single case study limits generalizability; the hybrid model may work differently in corporate vs. academic contexts; the case predates more recent developments in Agile instructional design literature.
-
-## Connections
-- [[ADDIE Model]] -
-- [[Instructional Design Theory]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

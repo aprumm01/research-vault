@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "HCI Education and Pedagogy"
-tags:
 doi: "10.1111/joms.13246"
 
 abstract: "Abstract Artificial intelligence (AI) has long held the promise of imitating, replacing, or even surpassing human intelligence. Now that the abilities of AI systems have started to approach this initial aspiration, organization and management scholars face a challenge in how to theorize this technology, which potentially changes the way we view technology: not as a tool, but as something that enters previously human‐only domains. To navigate this theorizing challenge, we adopt the problematizing"
 ---
-
-# Rethinking How We Theorize AI in Organization and Management (Ramaul et al., Journal of Management Studies, 2025)
-
 
 ## Abstract
 
@@ -40,8 +35,3 @@ Theoretical analysis and framework development; critical review of existing AI t
 
 ## Limitations & Critiques
 High level of theoretical abstraction may limit practical applicability; the relational constitutive framework's implications for empirical research design need elaboration; the paper's philosophical commitments may be contested by more positivist management researchers.
-
-## Connections
-- [[Studio Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

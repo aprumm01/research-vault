@@ -1,19 +1,18 @@
 ---
+venue: "IEEE DOI 10.1109/EMR.2023.3272799 Abstract—Easy-to-use gener"
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "10.1109/EMR.2023.3272799"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Accelerating Innovation With
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
+
+## Topics
+- [[topics/Responsible AI Governance|Responsible AI Governance]]
 
 ## Summary
 This paper examines how generative AI tools are accelerating innovation workflows through AI-augmented digital prototyping and innovation methods, arguing that GenAI represents a qualitative shift in innovation capacity by compressing the ideation-to-prototype cycle. The authors present case studies of organizations using GenAI in early-stage innovation, documenting how AI-augmented digital prototyping enables rapid exploration of a wider solution space than traditional methods allow. The paper argues for a new "AI-augmented innovation" methodology that systematically integrates GenAI into established innovation frameworks.
@@ -39,10 +38,3 @@ Case studies of organizations using GenAI tools in digital prototyping and innov
 
 ## Limitations & Critiques
 Case study evidence; GenAI innovation acceleration effects may be context-specific and depend on organizational readiness; the quality of AI-generated concepts is difficult to assess without long-term outcome tracking.
-
-## Connections
-- [[Design Theory and Cognition]] -
-- [[GenAI in UX and Design Practice]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

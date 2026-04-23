@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.1007/s10798-022-09789-4"
 
 abstract: "This paper illustrates the design-based learning (DBL) approach to promoting the deep learning of students and improving the quality of teaching in engineering design education. We performed three aspects of research with students in a typical educational activity. The first study investigated students’ deep learning before and after the DBL approach, both in terms of deep learning status and deep learning ability. The second study examined the effectiveness of the DBL approach by comparative re"
 ---
-
-# Promoting Students' Deep Learning Through Design-Based Learning: A Pedagogical Study
-
 
 ## Abstract
 This paper illustrates the design-based learning (DBL) approach to promoting the deep learning of students and improving the quality of teaching in engineering design education. We performed three aspects of research with students in a typical educational activity. The first study investigated students’ deep learning before and after the DBL approach, both in terms of deep learning status and deep learning ability. The second study examined the effectiveness of the DBL approach by comparative research of a control class (traditional teaching method) and an experimental class (DBL method). The third study examined stu- dents’ evaluations of the DBL approach. It is approved that the DBL approach has distinc
@@ -39,8 +34,3 @@ Pedagogical case study in higher education; qualitative analysis of student lear
 
 ## Limitations & Critiques
 Case-based evidence; limited controlled comparison with other pedagogical approaches; deep learning outcomes are challenging to measure rigorously; implementation quality varies significantly across instructors.
-
-## Connections
-- [[AI in Design Education]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

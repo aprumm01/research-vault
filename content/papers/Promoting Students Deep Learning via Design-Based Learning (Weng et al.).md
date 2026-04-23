@@ -1,25 +1,17 @@
 ---
+venue: "IJTDE 2023"
+year: 2023
 type: "paper"
-community: "AI in Design Education"
-tags:
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.1007/s10798-022-09789-4"
 ---
-
-# Promoting Students Deep Learning via Design-Based Learning (Weng et al.)
-
 
 ## Abstract
 
 **DOI:** [10.1007/s10798-022-09789-4](https://doi.org/10.1007/s10798-022-09789-4)
 
 There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
-
-## Connections
-- [[AI in Design Education]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 Weng, Chen, and Ai investigate how design-based learning (DBL) promotes deep learning in engineering design education through a three-study research design at a Chinese university. They find that DBL significantly improves deep learning status and ability compared to traditional teaching methods, with students showing higher-order engagement with course content. The study provides empirical evidence for DBL as an effective alternative to lecture-based engineering education.

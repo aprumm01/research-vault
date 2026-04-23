@@ -1,25 +1,14 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1145/3706599.3719277"
 
 abstract: "Recent advancements in AI, particularly those focused on replicat- ing creativity, have"
 ---
 
-# Steering Blind Algorithms: Exploring the Impact of Generative AI on the Role of Designers
-
-
 ## Abstract
 Recent advancements in AI, particularly those focused on replicat- ing creativity, have
 
 **DOI:** [10.1145/3706599.3719277](https://doi.org/10.1145/3706599.3719277)
-
-## Connections
-- [[Aalto University]] -
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Jasmin el Kordy at Aalto University examines how generative AI is reshaping the role of designers, framing AI systems as blind algorithms that require human guidance and contextual steering. The extended abstract argues that designers are becoming algorithmic directors — navigating, curating, and directing AI outputs rather than directly creating artifacts. This shift raises questions about what design expertise means when production is delegated to AI systems.

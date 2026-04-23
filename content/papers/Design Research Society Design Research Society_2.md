@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.21606/drs.2020.120"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Educating for Design Character in Higher Education: Challenges in Teaching Design Judgment (MurdochKitt et al.)
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,10 +34,3 @@ Conceptual framework development; qualitative case analysis from design educatio
 
 ## Limitations & Critiques
 "Design character" resists precise operationalization; the virtue ethics framework may carry cultural assumptions that don't transfer across design education contexts globally; empirical evidence for the pedagogical claims is limited.
-
-## Connections
-- [[Design Theory and Cognition]] -
-- [[HCI Education and Pedagogy]] -
-- [[Studio Pedagogy]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

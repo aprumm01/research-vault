@@ -1,25 +1,15 @@
 ---
+venue: "Distributed Creativity: Understanding Generative AI in the T"
 type: "paper"
-community: "AI in Design Education"
-tags:
 doi: "10.5040/9781472596178-bed-d070"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Design Research Society Research Perspectives (Durrant et al.)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.5040/9781472596178-bed-d070](https://doi.org/10.5040/9781472596178-bed-d070)
-
-## Connections
-- [[Design Theory and Cognition]] -
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
 
 ## Summary
 This paper, presented at the Design Research Society, examines how generative AI is shaping the concept of distributed creativity in design contexts. Building on theories of distributed cognition and collective creativity, the paper investigates how GenAI tools extend the creative system beyond individual designers to include AI as a participant in distributed creative processes. The work contributes a distributed creativity framework for understanding GenAI's role in collective and collaborative design work.

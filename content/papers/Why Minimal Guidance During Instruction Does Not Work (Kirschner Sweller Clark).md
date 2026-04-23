@@ -1,26 +1,14 @@
 ---
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "10.1080/00461520701263350"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Why Minimal Guidance During Instruction Does Not Work (Kirschner Sweller Clark)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
 **DOI:** [10.1080/00461520701263350](https://doi.org/10.1080/00461520701263350)
-
-## Connections
-- [[Cognitive Load Theory]] -
-- [[Constructivism]] -
-- [[Problem-Based Learning]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Kirschner, Sweller, and Clark mount a cognitive-scientific critique of minimally guided instruction, arguing that constructivist, discovery, problem-based, and inquiry-based approaches are less effective than explicit instruction because they ignore how human cognitive architecture works. Drawing on cognitive load theory and research on expert-novice differences, they contend that novices lack the schemas necessary to benefit from minimal guidance, making direct instruction more efficient and effective for initial learning.

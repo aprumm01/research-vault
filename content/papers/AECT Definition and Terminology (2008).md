@@ -1,22 +1,15 @@
 ---
 type: "paper"
-community: "Instructional Design Theory"
-tags:
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# AECT Definition and Terminology (2008)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Connections
-- [[Constructivism]] -
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+## Topics
+- [[topics/Constructivism|Constructivism]]
 
 ## Summary
 This foundational chapter from Januszewski and Molenda's 2008 AECT publication defines educational technology as "the study and ethical practice of facilitating learning and improving performance by creating, using, and managing appropriate technological processes and resources." The definition is significant for centering ethics and performance improvement alongside learning, and for framing educational technology as both a field of study and a field of practice. It remains the official AECT definition that grounds the instructional design and educational technology profession.

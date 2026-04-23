@@ -1,14 +1,10 @@
 ---
+venue: "Journal of CoCreation in Design and the Arts ISSN: 1571-0882"
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1080/15710882.2017.1393546"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Designers Articulation of Design Judgements in Cross-Cultural User Research
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +35,3 @@ Case study of cross-cultural user research; qualitative analysis of designer jud
 
 ## Limitations & Critiques
 Taylor & Francis publication starting with standard journal header — specific details of this paper's methodology and sample are derived from general knowledge of the CoDesign journal's focus areas.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

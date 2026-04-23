@@ -1,15 +1,12 @@
 ---
 title: "Generative AI in User Experience Design and Research: How Do UX Practitioners, Teams, and Companies Use GenAI in Industry?"
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1145/3643834.3660720"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Generative AI in User Experience Design and Research: How Do UX Practitioners, Teams, and Companies Use GenAI in Industry?
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +36,3 @@ Practitioner interviews and survey study across multiple companies; multi-level 
 
 ## Limitations & Critiques
 Multi-level study requires large samples; organizational context is highly variable; captures a snapshot of a rapidly evolving adoption process.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

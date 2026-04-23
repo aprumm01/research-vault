@@ -1,23 +1,17 @@
 ---
+venue: "chievement in Problem-Based and Inquiry Learning: A Response"
 type: "paper"
-community: "Problem-Based Learning"
-tags:
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)
-
-
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Connections
-- [[Metacognitive Support]] -
-- [[Problem-Based Learning]] -
-
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
+## Topics
+- [[topics/Metacognitive Support|Metacognitive Support]]
+- [[topics/Problem-Based Learning|Problem-Based Learning]]
 
 ## Summary
 Hmelo-Silver, Duncan, and Chinn respond to Kirschner, Sweller, and Clark's critique of minimally guided instruction, arguing that problem-based learning (PBL) and inquiry learning (IL) are not unguided discovery learning but are, in fact, highly scaffolded approaches. They present evidence that PBL and IL effectively reduce cognitive load through structured support while promoting deep understanding—contradicting the claim that these methods are inherently less effective than direct instruction.

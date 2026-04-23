@@ -1,26 +1,19 @@
 ---
+venue: "Education and Information Technologies 2024"
+year: 2024
 type: "paper"
-community: "AI Literacy"
-tags:
 doi: "10.1007/s10639-024-13043-w"
 
 abstract: "There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI education for upper-primary students remains challenging due to the abstract and complex nature of AI and a lack of pedagogical experiences in schools. Against this backdrop, this study employs a design-based research (DBR) methodology to develop pedagogical solutions and theoretical knowledge. Drawing upo"
 ---
-
-# Integrating Unplugged and Plugged for Holistic AI Education (Dai)
-
 
 ## Abstract
 There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI education for upper-primary students remains challenging due to the abstract and complex nature of AI and a lack of pedagogical experiences in schools. Against this backdrop, this study employs a design-based research (DBR) methodology to develop pedagogical solutions and theoretical knowledge. Drawing upon theories about AI literacy and learning sciences, this study proposes a novel pedagogical approach, namely, the embodied constructionist approach. This approach, by integrating embodied analogies and constructionist making, forges a cyclical understand–make–reflect process.
 
 **DOI:** [10.1007/s10639-024-13043-w](https://doi.org/10.1007/s10639-024-13043-w)
 
-## Connections
-- [[AI Literacy]] -
-- [[AI in Design Education]] -
-- [[Constructivism]] -
-
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+## Topics
+- [[topics/AI Literacy|AI Literacy]]
 
 ## Summary
 This longitudinal study by Lively and Hutson at Lindenwood University examines how student motivation shapes outcomes when AI tools are integrated into web design and UX education across five semesters (Spring 2023 to Spring 2024). The study finds that text-based AI tools significantly improved writing efficiency and coding, while image-based tools enhanced ideation and color selection. Importantly, student motivation levels moderated the degree to which AI tools augmented creative capabilities.

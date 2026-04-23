@@ -1,14 +1,9 @@
 ---
 type: "paper"
-community: "GenAI in UX and Design Practice"
-tags:
 doi: "10.1080/00461520.2013.804395"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
-
-# Do Learners Really Know Best Urban Legends in Education
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -39,8 +34,3 @@ Literature review and critical analysis of research on learner control, preferen
 
 ## Limitations & Critiques
 Taylor & Francis journal header standard — specific details derived from general knowledge; the critique of learner-centered approaches has itself been critiqued as overstating the case for direct instruction; the novice-expert distinction requires careful application in practice.
-
-## Connections
-- [[GenAI in UX and Design Practice]] -
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

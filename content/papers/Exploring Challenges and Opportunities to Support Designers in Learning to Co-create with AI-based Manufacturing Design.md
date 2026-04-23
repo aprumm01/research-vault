@@ -1,15 +1,12 @@
 ---
 title: "Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools"
 type: "paper"
-community: "Responsible AI Governance"
-tags:
 doi: "10.1145/3544548.3580999"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools
-
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -40,9 +37,3 @@ Participatory research workshops with designers; qualitative data from collabora
 
 ## Limitations & Critiques
 Participatory sample may not represent the diversity of design practice; the framework needs validation in real-world professional contexts; the specific AI tools used in workshops may limit generalizability.
-
-## Connections
-- [[HCI Education and Pedagogy]] -
-- [[Responsible AI Governance]] -
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
