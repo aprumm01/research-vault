@@ -32,3 +32,13 @@ members: 15
 - [[Co-Designing with Transformers: Unpacking the Complex Role]] - degree 3, connects to 2 communities
 - [[Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI]] - degree 3, connects to 2 communities
 - [[Integrating User Experience in User Interface]] - degree 3, connects to 2 communities
+
+## Authors
+
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Wendy Ju|Wendy Ju]]

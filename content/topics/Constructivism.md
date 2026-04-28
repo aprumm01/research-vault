@@ -22,3 +22,10 @@ tags:
 - [[papers/Educational Technology AECT Definition and Terminology (Januszewski Molenda 2008)|Educational Technology: AECT Definition and Terminology (Januszewski & Molenda, 2008)]]
 - [[papers/First  Edition  -  ~1996  Front  Matter  Preface  Acknowledgments  About  the...|Handbook of Research on Educational Communications and Technology (Jonassen et al., 1996)]]
 
+## Authors
+
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Leo S. Lo|Leo S. Lo]]

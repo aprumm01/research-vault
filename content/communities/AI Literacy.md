@@ -32,3 +32,8 @@ members: 13
 - [[AI Tools in UX Research Practice (ASCILITE 2024)]] - degree 3, connects to 2 communities
 - [[Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)]] - degree 3, connects to 2 communities
 - [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]] - degree 3, connects to 2 communities
+
+## Authors
+
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Leo S. Lo|Leo S. Lo]]

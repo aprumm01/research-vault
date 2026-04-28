@@ -63,3 +63,9 @@ members: 43
 - [[Designing Instructional Strategies: A Cognitive Perspective (Silber & Foshay)]] - degree 3, connects to 2 communities
 - [[Instructional Design Theory]] - degree 35, connects to 1 community
 - [[Constructivism]] - degree 15, connects to 1 community
+
+## Authors
+
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]

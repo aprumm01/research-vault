@@ -21,3 +21,10 @@ tags:
 - [[papers/Highlights|The Role of Large Language Models in UI/UX Design: A Systematic Review]]
 - [[papers/Vol.(0123456789) AI & SOCIETY httpsdoi.org10.1007s00146-025-02504-6 OPE...|Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (Süner-Pla-Cerdà et al., AI & Society 2025)]]
 
+## Authors
+
+- [[authors/Abdallah El Ali|Abdallah El Ali]]
+- [[authors/Hancheng Cao|Hancheng Cao]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Paul Parsons|Paul Parsons]]

@@ -23,3 +23,7 @@ members: 10
 - [[The GenUI Study (Chen Knearem Li)]] - degree 4, connects to 1 community
 - [[A Formative Study to Explore the Design of Generative UI Tools]] - degree 2, connects to 1 community
 - [[The GenUI Study: Exploring the Design of Generative UI Tools to]] - degree 2, connects to 1 community
+
+## Authors
+
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]

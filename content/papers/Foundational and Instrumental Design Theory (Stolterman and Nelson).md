@@ -1,17 +1,25 @@
 ---
+source_file: "research_docs/P270.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 doi: "10.1162/desi_a_00107"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Galle, P."
-apa: "Galle, P. (2011). Foundational and instrumental design theory. Design Issues, 27(4), 81-94. https://doi.org/10.1162/desi_a_00107"
 ---
+
+# Foundational and Instrumental Design Theory (Stolterman & Nelson)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+**DOI:** [10.1162/desi_a_00107](https://doi.org/10.1162/desi_a_00107)
+
 ## Summary
 Stolterman and Nelson's theoretical framework distinguishes between foundational design theory (explaining what design is) and instrumental design theory (prescribing how to design). They argue that design as a field has been dominated by instrumental approaches at the expense of foundational inquiry, producing a field that knows how to do design but struggles to articulate what design fundamentally is. The work calls for a more philosophically grounded design theory that can speak to design's nature, purpose, and relationship to human judgment.
 
@@ -37,14 +45,8 @@ Conceptual analysis and philosophical argumentation; no empirical component; syn
 ## Limitations & Critiques
 Highly abstract and philosophical; critics note the framework may be difficult to operationalize in design education or practice; the distinction between foundational and instrumental may be less stable in practice than the theory suggests.
 
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
 
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Wang
-- Park
-- Heger
-- Passi
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

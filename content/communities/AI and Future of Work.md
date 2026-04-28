@@ -72,3 +72,16 @@ members: 53
 - [[Beyond the hype: evidence-based]] - degree 3, connects to 2 communities
 - [[Vibe Coding for Product Design (Li et al.)]] - degree 4, connects to 1 community
 - [[UX Design Professionals Perceptions of GenAI (Li et al. CHI 2024)]] - degree 4, connects to 1 community
+
+## Authors
+
+- [[authors/Hancheng Cao|Hancheng Cao]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Abdallah El Ali|Abdallah El Ali]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]

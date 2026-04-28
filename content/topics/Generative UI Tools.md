@@ -15,3 +15,6 @@ tags:
 - [[papers/A Formative Study to Explore the Design of Generative UI Tools|A Formative Study to Explore the Design of Generative UI Tools]]
 - [[papers/The GenUI Study Exploring the Design of Generative UI Tools to|The GenUI Study: Exploring the Design of Generative UI Tools to]]
 
+## Authors
+
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]

@@ -13,3 +13,6 @@ tags:
 - [[papers/Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)|Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)]]
 - [[papers/Thinking through Prompting Cognitive Mediation (Dalsgaard)|Thinking through Prompting: Cognitive Mediation (Dalsgaard)]]
 
+## Authors
+
+- [[authors/Peter Dalsgaard|Peter Dalsgaard]]

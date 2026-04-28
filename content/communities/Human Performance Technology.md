@@ -28,3 +28,12 @@ members: 12
 - [[Evaluating Training Programs: The Four Levels (Kirkpatrick)]] - degree 3, connects to 2 communities
 - [[Kirkpatrick Plus: Evaluation and Continuous]] - degree 3, connects to 1 community
 - [[Human Performance Technology Models Overview (Wilmoth, Prigmore & Bray)]] - degree 2, connects to 1 community
+
+## Authors
+
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Paul Parsons|Paul Parsons]]

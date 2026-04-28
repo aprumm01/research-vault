@@ -15,3 +15,8 @@ tags:
 - [[papers/Strategic Interventions for Mitigating AI-Induced Job Loss at the|"Strategic Interventions for Mitigating AI-Induced Job Loss at the]]
 - [[papers/AI Literacy and Attitudes Towards AI in Design Education A|AI Literacy and Attitudes Towards AI in Design Education: A]]
 
+## Authors
+
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]

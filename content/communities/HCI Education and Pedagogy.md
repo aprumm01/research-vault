@@ -59,3 +59,11 @@ members: 38
 - [[Design Judgment]] - degree 10, connects to 1 community
 - [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] - degree 5, connects to 1 community
 - [[Cognitive Offloading and De-skilling]] - degree 4, connects to 1 community
+
+## Authors
+
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]

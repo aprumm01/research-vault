@@ -18,3 +18,10 @@ tags:
 - [[papers/© ephemera 2009|Stop Whining, Start Doing! Identity Conflict in Project-Managed Software Environments (Case & Piñeiro, 2009)]]
 - [[papers/DECIPHER 2018  Design Educators Research Conference  Final Version Here|Developing Students' Instrumental Design Judgment (MurdochKitt et al., DECIPHER 2018)]]
 
+## Authors
+
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]

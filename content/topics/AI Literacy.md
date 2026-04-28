@@ -21,3 +21,7 @@ tags:
 - [[papers/Integrating Unplugged and Plugged Activities for Holistic AI Education An Embodied Constructionist Approach (Dai, 2025)|Integrating Unplugged and Plugged Activities for Holistic AI Education: An Embodied Constructionist Approach (Dai, 2025)]]
 - [[papers/ASCILITE 2024_1|AI Tools in UX Research Practice (ASCILITE 2024)]]
 
+## Authors
+
+- [[authors/Leo S. Lo|Leo S. Lo]]
+- [[authors/Colin M. Gray|Colin M. Gray]]

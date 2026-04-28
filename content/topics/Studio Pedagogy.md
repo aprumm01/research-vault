@@ -23,7 +23,7 @@ tags:
 - [[papers/© ephemera 2009|Stop Whining, Start Doing! Identity Conflict in Project-Managed Software Environments (Case & Piñeiro, 2009)]]
 - [[papers/From Big Data to Rich Theory Integrating Critical Discourse Analysis with Structural Topic Modeling|From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling]]
 - [[papers/Instructional Design and Creativity A Response to the Criticized_1|Instructional Design and Creativity: A Response to the Criticized]]
-- [[papers/EVALUATING_1|Evaluating Training Programs: The Four Levels (Kirkpatrick)]]
+- [[papers/Evaluating Training Programs The Four Levels (Kirkpatrick)|Evaluating Training Programs: The Four Levels (Kirkpatrick)]]
 - [[papers/Method in their madness Explaining how|Method in their madness: Explaining how]]
 - [[papers/Cogent Social Sciences_1|Optimizing Employee Roles in the Era of Generative AI]]
 - [[papers/LEARNING FROM NOTES|Learning from Notes: Organizational Issues in Groupware Implementation (Orlikowski, 2002)]]
@@ -34,3 +34,15 @@ tags:
 - [[papers/Design Research Society Design Research Society_2|Educating for Design Character in Higher Education: Challenges in Teaching Design Judgment (MurdochKitt et al.)]]
 - [[papers/First  Edition  -  ~1996  Front  Matter  Preface  Acknowledgments  About  the...|Handbook of Research on Educational Communications and Technology (Jonassen et al., 1996)]]
 
+## Authors
+
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Abdallah El Ali|Abdallah El Ali]]
+- [[authors/Hancheng Cao|Hancheng Cao]]

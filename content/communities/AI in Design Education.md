@@ -60,3 +60,16 @@ members: 40
 - [[AI in Design Education]] - degree 45, connects to 1 community
 - [[Design Thinking]] - degree 16, connects to 1 community
 - [[Co-Designing with Transformers: GenAI in Design Education (Sandhaus et al. Cornell)]] - degree 5, connects to 1 community
+
+## Authors
+
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Hancheng Cao|Hancheng Cao]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]

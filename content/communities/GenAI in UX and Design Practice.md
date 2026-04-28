@@ -85,3 +85,16 @@ members: 64
 - [[Optimizing Employee Roles in the Era of Generative AI]] - degree 3, connects to 1 community
 - [[AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)]] - degree 3, connects to 1 community
 - [[The Role of Large Language Models in UI/UX Design: A Systematic Review]] - degree 3, connects to 1 community
+
+## Authors
+
+- [[authors/Hancheng Cao|Hancheng Cao]]
+- [[authors/Abdallah El Ali|Abdallah El Ali]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Peter Dalsgaard|Peter Dalsgaard]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]

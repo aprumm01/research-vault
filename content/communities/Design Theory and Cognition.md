@@ -30,3 +30,12 @@ members: 15
 - [[Anatomy of Prototypes (Lim Stolterman Tenenberg)]] - degree 3, connects to 1 community
 - [[Cognitive Co-Evolution Model for Design (Cash et al.)]] - degree 3, connects to 1 community
 - [[The designer's judgement]] - degree 2, connects to 1 community
+
+## Authors
+
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- [[authors/Hancheng Cao|Hancheng Cao]]

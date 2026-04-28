@@ -44,3 +44,13 @@ members: 24
 - [[Responsible AI and Ethics]] - degree 24, connects to 1 community
 - [[Algorithmic Bias and Fairness]] - degree 5, connects to 1 community
 - [[Value-Sensitive Design]] - degree 5, connects to 1 community
+
+## Authors
+
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Anna Kawakami|Anna Kawakami]]

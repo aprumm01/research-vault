@@ -39,3 +39,12 @@ members: 20
 - [[Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design]] - degree 3, connects to 2 communities
 - [[Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education]] - degree 3, connects to 2 communities
 - [[Experimenting with Generative AI Tools and their Implications: Insights from High School UX Educators]] - degree 3, connects to 2 communities
+
+## Authors
+
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Paul Parsons|Paul Parsons]]

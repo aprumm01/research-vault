@@ -18,7 +18,7 @@ tags:
 - [[papers/Unlocking training transfer in the age of|Unlocking training transfer in the age of]]
 - [[papers/A Model in Instructional Design Dick, Carey and Carey (Turkish)|A Model in Instructional Design: Dick, Carey and Carey (Turkish)]]
 - [[papers/Accelerating Innovation With|Accelerating Innovation With]]
-- [[papers/EVALUATING_1|Evaluating Training Programs: The Four Levels (Kirkpatrick)]]
+- [[papers/Evaluating Training Programs The Four Levels (Kirkpatrick)|Evaluating Training Programs: The Four Levels (Kirkpatrick)]]
 - [[papers/Strategic Interventions for Mitigating AI-Induced Job Loss at the|"Strategic Interventions for Mitigating AI-Induced Job Loss at the]]
 - [[papers/------------- __________________ ..,,_|The Attack on ISD (Gordon & Zemke, 2000)]]
 - [[papers/The Proper Way to Become an Instructional|The Proper Way to Become an Instructional]]
@@ -33,3 +33,13 @@ tags:
 - [[papers/81|Foundational and Instrumental Design Theory (Stolterman & Nelson)]]
 - [[papers/Integrating  AI  Into  The  Design  Process|Integrating AI into the Design Process]]
 
+## Authors
+
+- [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]

@@ -34,3 +34,12 @@ members: 18
 - [[Workplace Learning and AI]] - degree 14, connects to 1 community
 - [[Transforming Academic Librarianship through AI Reskilling (Lo UNM)]] - degree 3, connects to 1 community
 - [[State of AI Literacy in Academic Libraries (Lo UNM)]] - degree 3, connects to 1 community
+
+## Authors
+
+- [[authors/Colin M. Gray|Colin M. Gray]]
+- [[authors/Leo S. Lo|Leo S. Lo]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
