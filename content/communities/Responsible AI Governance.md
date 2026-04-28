@@ -24,9 +24,5 @@ members: 20
 
 ## Authors
 
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
 - [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]

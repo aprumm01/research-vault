@@ -23,7 +23,5 @@ members: 15
 
 - [[authors/Colin M. Gray|Colin M. Gray]]
 - [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
 - [[authors/Hancheng Cao|Hancheng Cao]]
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]

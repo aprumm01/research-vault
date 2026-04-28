@@ -28,13 +28,7 @@ members: 53
 
 ## Authors
 
+- [[authors/Anna Kawakami|Anna Kawakami]]
 - [[authors/Hancheng Cao|Hancheng Cao]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Abdallah El Ali|Abdallah El Ali]]
 - [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/John Zimmerman|John Zimmerman]]

@@ -27,6 +27,4 @@ members: 43
 
 ## Authors
 
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
+*(No papers by tracked authors in this community.)*

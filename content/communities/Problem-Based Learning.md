@@ -23,9 +23,5 @@ members: 15
 ## Authors
 
 - [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
 - [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
 - [[authors/Wendy Ju|Wendy Ju]]

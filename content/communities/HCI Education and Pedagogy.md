@@ -26,8 +26,13 @@ members: 38
 
 ## Authors
 
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Paul Parsons|Paul Parsons]]
 - [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Elizabeth Boling|Elizabeth Boling]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
+- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
+- [[authors/John Zimmerman|John Zimmerman]]
 - [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]

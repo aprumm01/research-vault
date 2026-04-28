@@ -31,13 +31,16 @@ members: 64
 
 ## Authors
 
-- [[authors/Hancheng Cao|Hancheng Cao]]
 - [[authors/Abdallah El Ali|Abdallah El Ali]]
 - [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Peter Dalsgaard|Peter Dalsgaard]]
 - [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Hancheng Cao|Hancheng Cao]]
+- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
 - [[authors/Jodi Forlizzi|Jodi Forlizzi]]
 - [[authors/John Zimmerman|John Zimmerman]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Peter Dalsgaard|Peter Dalsgaard]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]

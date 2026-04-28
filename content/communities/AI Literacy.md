@@ -23,5 +23,4 @@ members: 13
 
 ## Authors
 
-- [[authors/Colin M. Gray|Colin M. Gray]]
 - [[authors/Leo S. Lo|Leo S. Lo]]

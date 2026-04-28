@@ -27,12 +27,6 @@ members: 40
 ## Authors
 
 - [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
 - [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Hancheng Cao|Hancheng Cao]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Wendy Ju|Wendy Ju]]
+- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]

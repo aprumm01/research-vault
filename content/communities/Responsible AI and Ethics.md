@@ -28,10 +28,8 @@ members: 24
 
 ## Authors
 
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
+- [[authors/Anna Kawakami|Anna Kawakami]]
 - [[authors/Jodi Forlizzi|Jodi Forlizzi]]
 - [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Paul Parsons|Paul Parsons]]
+- [[authors/Kenneth Holstein|Kenneth Holstein]]
 - [[authors/Nikolas Martelaro|Nikolas Martelaro]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Anna Kawakami|Anna Kawakami]]

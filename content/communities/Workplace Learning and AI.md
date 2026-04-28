@@ -21,9 +21,4 @@ members: 18
 
 ## Authors
 
-- [[authors/Colin M. Gray|Colin M. Gray]]
 - [[authors/Leo S. Lo|Leo S. Lo]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]

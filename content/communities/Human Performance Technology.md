@@ -22,9 +22,4 @@ members: 12
 
 ## Authors
 
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Paul Parsons|Paul Parsons]]
+*(No papers by tracked authors in this community.)*
