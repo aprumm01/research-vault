@@ -5,33 +5,20 @@ members: 15
 
 # Problem-Based Learning
 
-**Members:** 15 nodes
+*This community clusters papers around problem-based and inquiry learning — pedagogical approaches where authentic, ill-structured problems serve as the organizing vehicle for learning rather than direct instruction. The shared inquiry concerns how these student-centered methods transfer to design and HCI education contexts, and increasingly, how generative AI interacts with the productive struggle that makes problem-based learning effective. Metacognitive support emerges as a key design concern in AI-augmented PBL environments.*
 
-## Members
-- [[Competences for the Modern Designer: Systematic Literature Review (2026)]]
-- [[Co-Designing with Transformers: Unpacking the Complex Role]]
-- [[Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)]]
-- [[Integrating User Experience in User Interface]]
-- [[Metacognitive Support]]
-- [[Method in their madness: Explaining how]]
-- [[Problem-Based Learning]]
-- [[Problem-Based Learning: A Constructivist Approach (Barrows, 1993)]]
-- [[Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI]]
-- [[Teaching to Fail (Before It Happens): Premortem as a Pedagogical]]
+## Topics
+
+- [[topics/Problem-Based Learning|Problem-Based Learning]] *(central)*
+- [[topics/Metacognitive Support|Metacognitive Support]] *(central)*
 
 ## Connections to other communities
+
 - 6 edges to [[communities/AI in Design Education|AI in Design Education]]
 - 4 edges to [[communities/Instructional Design Theory|Instructional Design Theory]]
 - 4 edges to [[communities/HCI Education and Pedagogy|HCI Education and Pedagogy]]
 - 3 edges to [[communities/GenAI in UX and Design Practice|GenAI in UX and Design Practice]]
 - 1 edge to [[communities/Responsible AI and Ethics|Responsible AI and Ethics]]
-
-## Top bridge nodes
-- [[Method in their madness: Explaining how]] - degree 3, connects to 2 communities
-- [[Teaching to Fail (Before It Happens): Premortem as a Pedagogical]] - degree 3, connects to 2 communities
-- [[Co-Designing with Transformers: Unpacking the Complex Role]] - degree 3, connects to 2 communities
-- [[Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI]] - degree 3, connects to 2 communities
-- [[Integrating User Experience in User Interface]] - degree 3, connects to 2 communities
 
 ## Authors
 

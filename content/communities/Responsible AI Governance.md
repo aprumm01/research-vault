@@ -5,26 +5,15 @@ members: 20
 
 # Responsible AI Governance
 
-**Members:** 20 nodes
+*This community examines how professionals, educators, and organizations adapt their practices and establish governance structures in response to AI adoption. Unlike the Responsible AI and Ethics community — which focuses on structural harms — this cluster centers on the practical dimensions of responsible adoption: how training programs are designed and evaluated, how designer and instructional roles evolve, and how organizations build the maturity to deploy AI responsibly. Its position at the intersection of workforce development and organizational change is reflected in its strong connections to both Instructional Design Theory and AI in Design Education.*
 
-## Members
-- [[AI And Machine Learning W hy New Technologies Don’tTransform Incumbents by Sa...]]
-- [[Accelerating Innovation With]]
-- [[Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design]]
-- [[Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education]]
-- [[Evaluating Training Programs: The Four Levels (Kirkpatrick)]]
-- [[Experimenting with Generative AI Tools and their Implications: Insights from High School UX Educators]]
-- [[Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools]]
-- [[HPT Model Applied to Kayak Company (Martin et al.)]]
-- [[Closing the Sociotechnical Gap in AI: Measuring Practitioners' Attitudes and Perceptions]]
-- [[Kirkpatrick Evaluation Model]]
-- [[Kirkpatrick Plus: Evaluation and Continuous]]
-- [[Responsible AI Governance]]
-- [[The Future of Work: Balancing Automation and Human]]
-- [[The Proper Way to Become an Instructional]]
-- [[Unlocking training transfer in the age of]]
+## Topics
+
+- [[topics/Responsible AI Governance|Responsible AI Governance]] *(central)*
+- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]] *(central)*
 
 ## Connections to other communities
+
 - 8 edges to [[communities/Instructional Design Theory|Instructional Design Theory]]
 - 7 edges to [[communities/AI in Design Education|AI in Design Education]]
 - 4 edges to [[communities/Responsible AI and Ethics|Responsible AI and Ethics]]
@@ -32,13 +21,6 @@ members: 20
 - 3 edges to [[communities/GenAI in UX and Design Practice|GenAI in UX and Design Practice]]
 - 3 edges to [[communities/AI and Future of Work|AI and Future of Work]]
 - 1 edge to [[communities/AI Literacy|AI Literacy]]
-
-## Top bridge nodes
-- [[Accelerating Innovation With]] - degree 3, connects to 2 communities
-- [[The Proper Way to Become an Instructional]] - degree 3, connects to 2 communities
-- [[Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design]] - degree 3, connects to 2 communities
-- [[Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education]] - degree 3, connects to 2 communities
-- [[Experimenting with Generative AI Tools and their Implications: Insights from High School UX Educators]] - degree 3, connects to 2 communities
 
 ## Authors
 

@@ -5,30 +5,18 @@ members: 24
 
 # Responsible AI and Ethics
 
-**Members:** 24 nodes
+*This community clusters papers concerned with the structural and normative dimensions of AI harm and accountability. The shared inquiry asks who bears the costs of AI systems — through algorithmic bias, labor exploitation, and colonial data practices — and what design frameworks, organizational practices, and policy interventions can embed accountability into AI development and deployment. Value-Sensitive Design and AI failure loop analysis are the primary methodological anchors; feminist labor critique and data colonialism scholarship provide the critical frame.*
 
-## Members
-- [[AI Failure Loops]]
-- [[AI Failure Loops in Devalued Work (Kawakami et al.)]]
-- [[Algorithmic Bias and Fairness]]
-- [[Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)]]
-- [[Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)]]
-- [[Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)]]
-- [[Do Artifacts Have Politics? (Winner 1980)]]
-- [[Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive]]
-- [[Feminized Labor and AI]]
-- [[Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)]]
-- [[Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)]]
-- [[Manufacturing an AI Revolution (Katz 2017)]]
-- [[Mapping VSD onto AI for Social Good (Umbrello and van de Poel)]]
-- [[Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]]
-- [[Responsible AI and Ethics]]
-- [[Rethinking Optimization: Systems-Based Social Externalities (Nokhiz et al. Cornell)]]
-- [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]]
-- [[Value-Sensitive Design]]
-- [[Mapping Value Sensitive Design onto AI for Social Good Principles]]
+## Topics
+
+- [[topics/Value-Sensitive Design|Value-Sensitive Design]] *(central)*
+- [[topics/AI Failure Loops|AI Failure Loops]] *(central)*
+- [[topics/Responsible AI Governance|Responsible AI Governance]] *(central)*
+- [[topics/Feminized Labor and AI|Feminized Labor and AI]] *(central)*
+- [[topics/Algorithmic Bias and Fairness|Algorithmic Bias and Fairness]] *(central)*
 
 ## Connections to other communities
+
 - 6 edges to [[communities/AI and Future of Work|AI and Future of Work]]
 - 4 edges to [[communities/Responsible AI Governance|Responsible AI Governance]]
 - 3 edges to [[communities/GenAI in UX and Design Practice|GenAI in UX and Design Practice]]
@@ -37,13 +25,6 @@ members: 24
 - 1 edge to [[communities/Problem-Based Learning|Problem-Based Learning]]
 - 1 edge to [[communities/AI in Design Education|AI in Design Education]]
 - 1 edge to [[communities/Instructional Design Theory|Instructional Design Theory]]
-
-## Top bridge nodes
-- [[Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] - degree 6, connects to 3 communities
-- [[Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)]] - degree 6, connects to 2 communities
-- [[Responsible AI and Ethics]] - degree 24, connects to 1 community
-- [[Algorithmic Bias and Fairness]] - degree 5, connects to 1 community
-- [[Value-Sensitive Design]] - degree 5, connects to 1 community
 
 ## Authors
 

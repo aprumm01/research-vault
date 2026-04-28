@@ -5,29 +5,20 @@ members: 12
 
 # Human Performance Technology
 
-**Members:** 12 nodes
+*This community clusters around the Human Performance Technology (HPT) tradition — a systematic, evidence-based approach to diagnosing and closing performance gaps in organizational settings. Rather than defaulting to training as a solution, HPT practitioners perform root cause analysis to identify whether gaps stem from knowledge deficits, motivation, environmental conditions, or process failures. The Kirkpatrick evaluation framework provides the community's measurement methodology, linking intervention design to measurable learning and business outcomes.*
 
-## Members
-- [[Human Performance Technology Models Overview (Wilmoth, Prigmore & Bray)]]
-- [[Evaluating Training Programs: The Four Levels (Kirkpatrick)]]
-- [[From Code to Collaboration: AI Adoption and Workforce Transformation]]
-- [[HPT Model Applied to Kayak Company (Martin et al.)]]
-- [[Human Performance Technology]]
-- [[Kirkpatrick Evaluation Model]]
-- [[Kirkpatrick Plus: Evaluation and Continuous]]
-- [[The Evolution of Human Performance Technology (Stolovitch and Beresford, 2012)]]
-- [[The Current State of Human]]
+## Topics
+
+- [[topics/Human Performance Technology|Human Performance Technology]] *(central)*
+- [[topics/ADDIE Model|ADDIE Model]] *(central)*
+- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]] *(central)*
 
 ## Connections to other communities
+
 - 3 edges to [[communities/Responsible AI and Ethics|Responsible AI and Ethics]]
 - 2 edges to [[communities/Instructional Design Theory|Instructional Design Theory]]
 - 1 edge to [[communities/AI in Design Education|AI in Design Education]]
 - 1 edge to [[communities/HCI Education and Pedagogy|HCI Education and Pedagogy]]
-
-## Top bridge nodes
-- [[Evaluating Training Programs: The Four Levels (Kirkpatrick)]] - degree 3, connects to 2 communities
-- [[Kirkpatrick Plus: Evaluation and Continuous]] - degree 3, connects to 1 community
-- [[Human Performance Technology Models Overview (Wilmoth, Prigmore & Bray)]] - degree 2, connects to 1 community
 
 ## Authors
 
