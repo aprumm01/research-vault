@@ -131,16 +131,20 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   const neighbourhood = new Set<SimpleSlug>()
+  const nodeHopDepth = new Map<SimpleSlug, number>()
   const wl: (SimpleSlug | "__SENTINEL")[] = [slug, "__SENTINEL"]
   if (depth >= 0) {
+    let currentHop = 0
     while (depth >= 0 && wl.length > 0) {
       // compute neighbours
       const cur = wl.shift()!
       if (cur === "__SENTINEL") {
         depth--
+        currentHop++
         wl.push("__SENTINEL")
       } else {
         neighbourhood.add(cur)
+        if (!nodeHopDepth.has(cur)) nodeHopDepth.set(cur, currentHop)
         const outgoing = links.filter((l) => l.source === cur)
         const incoming = links.filter((l) => l.target === cur)
         wl.push(...outgoing.map((l) => l.target), ...incoming.map((l) => l.source))
@@ -303,12 +307,15 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
     const tweenGroup = new TweenGroup()
 
     for (const l of linkRenderData) {
-      let alpha = 1
+      const srcHop = nodeHopDepth.get(l.simulationData.source.id) ?? 0
+      const tgtHop = nodeHopDepth.get(l.simulationData.target.id) ?? 0
+      const baseAlpha = srcHop <= 1 && tgtHop <= 1 ? 1 : 0.1
+      let alpha = baseAlpha
 
       // if we are hovering over a node, we want to highlight the immediate neighbours
       // with full alpha and the rest with default alpha
       if (hoveredNodeId) {
-        alpha = l.active ? 1 : 0.2
+        alpha = l.active ? 1 : Math.min(baseAlpha, 0.2)
       }
 
       l.color = l.active ? computedStyleMap["--gray"] : computedStyleMap["--lightgray"]
@@ -370,11 +377,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     const tweenGroup = new TweenGroup()
     for (const n of nodeRenderData) {
-      let alpha = 1
+      let alpha = n.alpha
 
       // if we are hovering over a node, we want to highlight the immediate neighbours
       if (hoveredNodeId !== null && focusOnHover) {
-        alpha = n.active ? 1 : 0.2
+        alpha = n.active ? 1 : Math.min(n.alpha, 0.2)
       }
 
       tweenGroup.add(new Tweened<Graphics>(n.gfx, tweenGroup).to({ alpha }, 200))
@@ -478,7 +485,7 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
       gfx,
       label,
       color: color(n),
-      alpha: 1,
+      alpha: (nodeHopDepth.get(n.id) ?? 0) <= 1 ? 1 : 0.1,
       active: false,
     }
 
