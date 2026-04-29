@@ -64,8 +64,8 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   right: [
     Component.Graph({
-      showTags: false,
       localGraph: {
+        showTags: false,
         scale: 1.4,
         repelForce: 0.6,
         linkDistance: 40,
@@ -73,12 +73,13 @@ export const defaultContentPageLayout: PageLayout = {
         focusOnHover: true,
       },
       globalGraph: {
+        showTags: false,
         depth: 2,
         scale: 1.1,
         repelForce: 0.9,
         linkDistance: 65,
         fontSize: 0.6,
-        opacityScale: 1.5,
+        opacityScale: 0,
         focusOnHover: true,
         enableRadial: false,
       },
