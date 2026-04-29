@@ -28,3 +28,4 @@ A knowledge graph for PhD dissertation research in **AI and Design Education** �
 
 - [[papers/|All Research Papers →]]
 - [[topics/|All Topic Concepts →]]
+- [[synthesis/|Synthesis Notes →]]
