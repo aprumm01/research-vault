@@ -27,4 +27,9 @@ members: 43
 
 ## Authors
 
-*(No papers by tracked authors in this community.)*
+- Ertmer, P.A., & Newby, T.J.
+- Kirschner, P.A., Sweller, J., & Clark, R.E.
+- Mayer, R.E., & Moreno, R.
+- Clark, R.E.
+- Kozma, R.B.
+- Januszewski, A., & Molenda, M.

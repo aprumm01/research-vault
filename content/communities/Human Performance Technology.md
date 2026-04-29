@@ -22,4 +22,8 @@ members: 12
 
 ## Authors
 
-*(No papers by tracked authors in this community.)*
+- Kirkpatrick, D.L.
+- Wilmoth, S., Prigmore, C., & Bray, M.
+- Stolovitch, H.D., & Beresford, J.
+- Watkins, R., Leigh, D., Foshay, R., & Kaufman, R.
+- Martin, F., Hall, H.A., Blakely, A., Gayford, M.C., & Gunter, E.
