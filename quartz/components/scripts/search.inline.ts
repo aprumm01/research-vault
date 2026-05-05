@@ -9,6 +9,8 @@ interface Item {
   title: string
   content: string
   tags: string[]
+  authors: string
+  pageType: string
   [key: string]: any
 }
 
@@ -77,6 +79,14 @@ let index = new FlexSearch.Document<Item>({
       },
       {
         field: "tags",
+        tokenize: "forward",
+      },
+      {
+        field: "authors",
+        tokenize: "forward",
+      },
+      {
+        field: "pageType",
         tokenize: "forward",
       },
     ],
@@ -315,6 +325,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       title: searchType === "tags" ? data[slug].title : highlight(term, data[slug].title ?? ""),
       content: highlight(term, data[slug].content ?? "", true),
       tags: highlightTags(term.substring(1), data[slug].tags),
+      authors: data[slug].authors ?? "",
+      pageType: data[slug].pageType ?? "",
     }
   }
 
@@ -338,14 +350,27 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
     return new URL(resolveRelative(currentSlug, slug), location.toString())
   }
 
-  const resultToHTML = ({ slug, title, content, tags }: Item) => {
+  const typeLabels: Record<string, string> = {
+    paper: "Paper",
+    concept: "Topic",
+    community: "Community",
+    author: "Author",
+    synthesis: "Synthesis",
+  }
+
+  const resultToHTML = ({ slug, title, content, tags, authors, pageType }: Item) => {
     const htmlTags = tags.length > 0 ? `<ul class="tags">${tags.join("")}</ul>` : ``
+    const htmlAuthors = authors ? `<p class="card-authors">${authors}</p>` : ``
+    const typeLabel = pageType ? typeLabels[pageType] ?? pageType : ""
+    const htmlType = typeLabel ? `<span class="card-type card-type--${pageType}">${typeLabel}</span>` : ``
     const itemTile = document.createElement("a")
     itemTile.classList.add("result-card")
     itemTile.id = slug
     itemTile.href = resolveUrl(slug).toString()
     itemTile.innerHTML = `
       <h3 class="card-title">${title}</h3>
+      ${htmlType}
+      ${htmlAuthors}
       ${htmlTags}
       <p class="card-description">${content}</p>
     `
@@ -488,6 +513,8 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
       ...getByField("title"),
       ...getByField("content"),
       ...getByField("tags"),
+      ...getByField("authors"),
+      ...getByField("pageType"),
     ])
     const finalResults = [...allIds].map((id) => formatForDisplay(currentSearchTerm, id))
     await displayResults(finalResults)
@@ -522,6 +549,8 @@ async function fillDocument(data: ContentIndex) {
         title: fileData.title,
         content: fileData.content,
         tags: fileData.tags,
+        authors: fileData.authors ?? "",
+        pageType: fileData.pageType ?? "",
       }),
     )
   }

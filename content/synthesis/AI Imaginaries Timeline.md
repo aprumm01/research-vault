@@ -1,5 +1,6 @@
 ---
 title: "AI Imaginaries: A Historical Timeline"
+type: "synthesis"
 tags:
   - synthesis
   - imaginaries
