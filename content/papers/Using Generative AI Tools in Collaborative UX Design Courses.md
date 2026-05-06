@@ -1,23 +1,18 @@
 ---
-title: "Using Generative AI Tools in Collaborative UX Design Courses"
+source_file: "research_docs/P209.pdf"
 type: paper
-community: ""
-year: ""
-venue: "Journal of Artificial Intelligence in Education https://doi."
-institution: ""
-source_file: "Using Generative AI Tools in Collaborative UX design courses.pdf"
+community: "Prompt Engineering"
 tags:
-  - type/paper
-
-doi: "10.1007/s40593-025-00518-1"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Prompt_Engineering
 ---
+
 # Using Generative AI Tools in Collaborative UX Design Courses
 
-**DOI:** [10.1007/s40593-025-00518-1](https://doi.org/10.1007/s40593-025-00518-1)
-
-**Venue:** Journal of Artificial Intelligence in Education https://doi.
-
-## Key Finding
-Artificial Intelligence and their derived Generative technologies are playing a cru - cial role in many applications that involve an active collaboration among machine assistants and human users. Tha
-
 ## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Prompt Engineering]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Prompt_Engineering

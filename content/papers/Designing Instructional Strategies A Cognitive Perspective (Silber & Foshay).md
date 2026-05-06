@@ -1,19 +1,18 @@
 ---
-title: "Designing Instructional Strategies: A Cognitive Perspective (Silber & Foshay)"
+source_file: "research_docs/P259.pdf"
 type: paper
-community: ""
-year: ""
-venue: "ching and learning to formulate instructional strategies for"
-institution: ""
-source_file: "Designing_Instructional_Strategies_A_Cog.pdf"
+community: "AI in Design Education"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
+
 # Designing Instructional Strategies: A Cognitive Perspective (Silber & Foshay)
 
-**Venue:** ching and learning to formulate instructional strategies for
-
-## Key Finding
-CHAPTER SIXTEEN Designing Instructional Strategies A Cognitive Perspective
-
 ## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

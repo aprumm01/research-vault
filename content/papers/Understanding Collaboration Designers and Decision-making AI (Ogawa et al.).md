@@ -1,49 +1,45 @@
 ---
 source_file: "research_docs/P55.pdf"
-type: "paper"
+type: paper
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.1145/3757686"
-
-abstract: "The rapid development of artificial intelligence (AI) has fundamentally transformed creative work practices in the design industry. Existing studies have identified both opportunities and challenges for creative practitioners in their collaboration with generative AI and explored ways to facilitate effective human-AI co-creation. However, there is still a limited understanding of designers' collaboration with AI that supports creative processes distinct from generative AI. To address these gaps,"
 ---
 
 # Understanding Collaboration: Designers and Decision-making AI (Ogawa et al.)
 
+## Summary
+Ogawa et al. investigate how designers conceptualize, navigate, and collaborate with AI systems that make or significantly influence design decisions — distinguishing between AI as a tool that implements designer intent and AI as an agent that makes design choices with which designers must negotiate. Through interviews and design session observations, the study maps designers' mental models of decision-making AI, revealing tensions between designers' desire for control and their discovery that effective collaboration sometimes requires ceding decision space to AI.
 
-## Abstract
+## Key Concepts
+- Designer-AI collaboration in decision-making
+- Mental models of AI agency
+- Control and delegation in human-AI design
+- Negotiation with AI outputs
+- Transparency and trust in AI design tools
 
-**DOI:** [10.1145/3757686](https://doi.org/10.1145/3757686)
+## Theoretical Framework
+Draws on distributed cognition, human-AI interaction research, and design agency theory; frames collaboration with decision-making AI as a negotiation between human and machine design intent, not mere tool use.
 
-The rapid development of artificial intelligence (AI) has fundamentally transformed creative work practices in the design industry. Existing studies have identified both opportunities and challenges for creative practitioners in their collaboration with generative AI and explored ways to facilitate effective human-AI co-creation. However, there is still a limited understanding of designers' collaboration with AI that supports creative processes distinct from generative AI. To address these gaps, this study focuses on understanding designers' collaboration with decision-making AI, which supports the convergence process in the creative workflow, as opposed to the divergent process supported by generative AI. Specifically, we conducted a case study at an online advertising design company to explore how professional graphic designers at the company perceive the impact of decision-making AI on their creative work practices. The case company incorporated an AI system that predicts the effectiveness of advertising design into the design workflow as a decision-making support tool. Findings from interviews with 12 designers identified how designers trust and rely on AI, its perceived benefits and challenges, and their strategies for navigating the challenges. Based on the findings, we discuss design recommendations for integrating decision-making AI into the creative design workflow.
+## Methods
+Qualitative study combining semi-structured interviews and observation of design sessions with AI tools; thematic analysis of how designers talk about and behave with AI decision-making systems.
+
+## Main Arguments
+- Designers distinguish sharply between AI as execution agent (implements my decisions) and AI as design agent (makes decisions I evaluate) — and struggle when tools shift unexpectedly between these modes
+- Mental models of AI decision-making vary widely among designers; those with more accurate models collaborate more effectively and experience less frustration
+- Effective collaboration with decision-making AI requires a different cognitive posture than tool use: critique and negotiation rather than specification and execution
+- Transparency about AI decision logic enables more productive collaboration; opacity creates defensiveness or uncritical acceptance
+
+## Limitations
+- Specific to design contexts; findings may not generalize to other professional domains where AI makes consequential decisions
+- Rapidly evolving AI capabilities mean that study findings about specific tool behaviors may date quickly
+
+## Connections
+Relates to [[Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] on AI-supported design; links to [[To Engage or Not with AI for Critical Judgments (Lebovitz et al.)]] on professional engagement with AI decision-making; connects to [[Vibe Coding for Product Design (Li et al.)]] on design team AI collaboration.
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
-
-## Summary
-Ogawa et al. at CyberAgent and the University of Tokyo present a case study of how professional designers collaborate with decision-making AI systems in a real workplace setting. Through longitudinal field research, they examine how designers negotiate agency with AI recommendation systems, develop new interpretive practices, and integrate AI decisions into their creative and strategic workflows. The study reveals tensions between design judgment and algorithmic recommendations in professional practice.
-
-## Key Concepts
-- Designer-AI collaboration
-- Decision-making AI
-- Professional design practice
-- Human-AI agency negotiation
-- Workplace AI integration
-
-## Theoretical Framework
-Practice theory and human-computer interaction frame the longitudinal case study, analyzing how designers' professional practices evolve in response to AI systems that actively make recommendations.
-
-## Methods
-Qualitative case study; longitudinal field research at CyberAgent; observation and interviews with professional designers working with AI recommendation systems.
-
-## Main Arguments
-- Designers develop nuanced strategies for integrating AI recommendations—sometimes deferring, sometimes overriding
-- Collaboration with decision-making AI requires new interpretive skills for evaluating algorithmic outputs
-- Tension between design judgment and AI recommendations creates productive friction that shapes design outcomes
-- Organizational context (team structure, company culture) significantly influences how designers appropriate AI systems

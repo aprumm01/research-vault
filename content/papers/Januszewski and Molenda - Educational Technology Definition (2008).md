@@ -1,48 +1,46 @@
 ---
 source_file: "research_docs/P106.pdf"
-type: "paper"
+type: paper
 community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-
-doi: "10.1111/j.1467-8535.2008.00925_4.x"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Januszewski and Molenda - Educational Technology Definition (2008)
 
+## Summary
+Januszewski and Molenda (2008) present the AECT Definition and Terminology Committee's revised definition of educational technology: "the study and ethical practice of facilitating learning and improving performance by creating, using, and managing appropriate technological processes and resources." This foundational chapter elaborates each element of the definition, positioning the field as both a theoretical study and an ethical practice. The revision explicitly adds "ethical practice" to prior definitions and emphasizes performance alongside learning as legitimate field outcomes.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- **Educational technology**: Study and ethical practice of facilitating learning and improving performance
+- **Study**: Includes research and reflective practice; knowledge construction through inquiry
+- **Ethical practice**: Professional responsibility to learners, institutions, and society embedded in the definition
+- **Creating, using, managing**: Three functional domains encompassing the field's activities
+- **Technological processes and resources**: Both systematic procedures and tools/materials
 
-**DOI:** [10.1111/j.1467-8535.2008.00925_4.x](https://doi.org/10.1111/j.1467-8535.2008.00925_4.x)
+## Theoretical Framework
+Definitional and conceptual work synthesizing prior AECT definitions and responding to field evolution. Reflects the committee's consensus position on how to bound and characterize educational technology as a distinct field.
+
+## Methods
+Committee deliberation and literature synthesis, presented as authoritative definition from AECT's official definitional body.
+
+## Main Arguments
+1. Educational technology is defined by its purposes (facilitating learning, improving performance) rather than its tools
+2. Ethical practice is not optional or external—it is constitutive of what educational technologists do
+3. The field's scope encompasses creating new technologies, facilitating their use, and managing their deployment
+4. Performance as an explicit goal distinguishes the 2008 definition from prior versions focused solely on learning
+
+## Limitations
+Definitional work is inherently contested and reflects the commitments of its authors and the AECT community. Critiqued by Lowenthal & Wilson (2010) for insufficient rationale and practitioner consultation.
+
+## Connections
+- Companion note to [[AECT Definition and Terminology (2008)]] (same source, different file)
+- Critiqued by [[Labels DO Matter (Lowenthal and Wilson)]]
+- Situates the field relative to [[Reiser (2018)--Chapter 1 What field]] on field identity
 
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
-
-## Summary
-This chapter from the AECT handbook presents the 2008 redefinition of educational technology as "the study and ethical practice of facilitating learning and improving performance by creating, using, and managing appropriate technological processes and resources." Januszewski and Molenda trace the conceptual evolution of the field, unpacking each element of the definition to establish educational technology as a practice-oriented discipline with ethical dimensions, distinguished from both media studies and training.
-
-## Key Concepts
-- Educational technology definition
-- AECT definition 2008
-- Facilitating learning
-- Ethical practice
-- Technological processes and resources
-
-## Theoretical Framework
-The definition draws on systems thinking, instructional design theory, and the historical development of the field from audiovisual communications through computer-based instruction to contemporary e-learning.
-
-## Methods
-Conceptual analysis and definitional explication; committee-based process of definitional revision; historical and theoretical synthesis.
-
-## Main Arguments
-- Educational technology is defined by its ethical commitment to facilitating learning and improving performance
-- The 2008 definition expands beyond hardware/software to include processes, practices, and management
-- Study and ethical practice are inseparable components of the field's identity
-- The definition signals a shift toward performance improvement alongside learning facilitation

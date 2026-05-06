@@ -1,48 +1,45 @@
 ---
 source_file: "research_docs/P60.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-abstract: "This paper traces elements of the theoretical origins of artificial intelligence to capitalism, not neurophysiology. It considers efforts in the twentieth and twenty-first centuries to formalize a sci- ence of mental behaviour using the dynamics of social rather than neural phenomena. I first revisit early American theorists ’ controversial ambivalence toward neurophysiology, showing how this group benefited from post-war corporate and military investments in commercial and imperial expansion, w"
-
-doi: "10.1017/bjt.2023.14"
+  - community/Responsible_AI_Governance
 ---
 
 # Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)
 
+## Summary
+Penn traces elements of AI's theoretical origins to the social dynamics of capitalism rather than to neurophysiology, arguing that early American AI researchers borrowed from the observation of social phenomena (markets, administration, game theory) to formalize mental behavior mathematically. Penn introduces "animo nullius" — "no person's mind" — as a heuristic naming the rhetorical maneuver by which corporations veil the enclosure of the data commons by appealing to AI's scientific legitimacy. Drawing parallels between historical colonialism's "terra nullius" doctrine and contemporary data practices, Penn argues AI's foundational metaphors naturalize acts of data seizure.
 
-## Abstract
+## Key Concepts
+- Animo nullius (rhetorical device naturalizing data seizure)
+- Data colonialism
+- AI's social metaphorical origins (markets, administration, game theory)
+- Post-war corporate and military investment in AI
+- Assetization of data commons
 
-**DOI:** [10.1017/bjt.2023.14](https://doi.org/10.1017/bjt.2023.14)
+## Theoretical Framework
+Draws on history of science, political economy, and postcolonial theory; relates AI's intellectual genealogy to the dynamics of assetization in modern technoscience; frames data colonialism as a structural parallel (not mere metaphor) to historical colonial dispossession.
 
-This paper traces elements of the theoretical origins of artificial intelligence to capitalism, not neurophysiology. It considers efforts in the twentieth and twenty-first centuries to formalize a sci- ence of mental behaviour using the dynamics of social rather than neural phenomena. I first revisit early American theorists ’ controversial ambivalence toward neurophysiology, showing how this group benefited from post-war corporate and military investments in commercial and imperial expansion, which sustained and expanded their influence over the emerging field. I then trace the lasting effect of the founders ’ early rhetoric through AI ’s institutionalization after 1960, arguing that from the 2010s technology corporations set out to veil their enclosure of the data commons via appeal to a curious precedent: the scientific pedigree of AI. By relating the fiel
+## Methods
+Historical and conceptual analysis; close reading of founding AI researchers' texts (Minsky, Simon, Rosenblatt, Wiener); archival and secondary source research on post-war corporate/military funding structures; theoretical synthesis.
+
+## Main Arguments
+- AI's foundational metaphors (mind-as-computer, society-as-system) were borrowed from social observation, not neural science — importing assumptions about rationality, order, and predictability from capitalist social dynamics
+- Post-war corporate and military investment shaped which AI research programs flourished, encoding commercial and imperial logics into the field's assumptions
+- Contemporary tech corporations' claim that AI's scientific authority legitimizes their data practices is an "animo nullius" move: declaring the data commons as having no owner to claim it
+- Historical colonialism and data colonialism share structural features: dispossession, naturalization through authority claims, and erasure of prior relationships to the commons
+
+## Limitations
+- Genealogical argument is selective; AI research traditions are heterogeneous and cannot be fully reduced to capitalist social logic origins
+- "Animo nullius" as a concept is evocative but its analytical precision and policy implications need further development
+
+## Connections
+Relates to [[Do Artifacts Have Politics (Winner 1980)]] on technology and power; links to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on AI governance and dispossession; connects to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on theorizing AI origins and assumptions.
 
 ## Connections
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
-
-## Summary
-Penn argues that AI's origin story — as told by technology companies and popular discourse — reproduces a colonial logic analogous to "terra nullius" (unclaimed land) by treating training data as "animo nullius" (data without spirit or ownership). This framing renders invisible the labor, cultural production, and intellectual work embedded in training data, enabling tech companies to extract value without recognition or compensation. Penn's critical analysis connects AI development to data colonialism, challenging the neutrality of AI's foundational narratives.
-
-## Key Concepts
-- Animo nullius (data without spirit — a colonial doctrine applied to AI training data)
-- Data colonialism (extraction of data as colonial resource)
-- AI origin story as ideological construction
-- Labor and cultural production invisibilized in AI training
-
-## Theoretical Framework
-Postcolonial theory applied to AI studies; draws on data colonialism scholarship (Couldry & Meijas) and critical AI studies to analyze how colonial logics structure the relationship between AI systems and their training data sources.
-
-## Methods
-Critical theoretical analysis of AI development discourse and practices; close reading of AI origin narratives and their ideological functions; published as research article in 2023.
-
-## Main Arguments
-- AI training data is not a neutral resource but embedded labor and cultural production
-- The "animo nullius" doctrine enables extraction without recognition — a colonial pattern
-- AI origin stories actively obscure the human labor and creative work that makes AI possible
-- Data colonialism analysis reveals power asymmetries that technical AI ethics frameworks miss
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

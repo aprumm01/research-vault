@@ -1,25 +1,14 @@
 ---
 source_file: "research_docs/P167.pdf"
-type: "paper"
+type: paper
 community: "Generative UI Tools"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Generative_UI_Tools
-
-abstract: "AI can now generate high-fidelity UI mock-up screens from a high- level textual description, promising to support UX practitioners’ work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, developers, and product managers. Using a state-of-the-art Gen"
-
-doi: "10.1145/3715336.3735780"
 ---
 
 # A Formative Study to Explore the Design of Generative UI Tools
-
-
-## Abstract
-
-**DOI:** [10.1145/3715336.3735780](https://doi.org/10.1145/3715336.3735780)
-
-AI can now generate high-fidelity UI mock-up screens from a high- level textual description, promising to support UX practitioners’ work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, developers, and product managers. Using a state-of-the-art GenUI tool, each participant went through a week-long, individual mini-project exercise with role-specific tasks, keeping a daily journal of their usage and expe- riences with GenUI, followed by a semi-structured interview. We report findings on participants’ workflow usi
 
 ## Summary
 This formative study examines how generative UI (GenUI) tools — AI systems that produce UI code or mockups from natural language or design intent descriptions — can better support UX practitioners' workflows. Through a needs-finding study with UX practitioners across roles, the authors identify key gaps between current GenUI capabilities and professional UX practice requirements. The findings inform a set of design requirements for next-generation GenUI tools that account for the full complexity of professional UX work, not just rapid prototype generation.

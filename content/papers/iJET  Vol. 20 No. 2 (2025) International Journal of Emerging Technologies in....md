@@ -1,24 +1,14 @@
 ---
-source_file: "research_docs/P243.pdf"
-type: "paper"
+source_file: "research_docs/P327.pdf"
+type: paper
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.3991/ijet.v20i02.52089"
-
-abstract: "This study focused on the phenomenon of technological anxiety in the contemporary art world within the context of artificial intelligence (AI) technology. By analyzing cases of anti-AI move- ments initiated by artists on platforms such as ArtStation and GitHub, this study identified the key issues that arise in the art world under the influence of technologi"
 ---
 
-# Art Education in the Era of Artificial Intelligence (iJET, 2025)
-
-
-## Abstract
-This study focused on the phenomenon of technological anxiety in the contemporary art world within the context of artificial intelligence (AI) technology. By analyzing cases of anti-AI move- ments initiated by artists on platforms such as ArtStation and GitHub, this study identified the key issues that arise in the art world under the influence of technologi
-
-**DOI:** [10.3991/ijet.v20i02.52089](https://doi.org/10.3991/ijet.v20i02.52089)
+# iJET | Vol. 20 No. 2 (2025) International Journal of Emerging Technologies in...
 
 ## Summary
 This 2025 paper in the International Journal of Emerging Technologies in Learning examines art education in the era of artificial intelligence, investigating how generative AI tools are reshaping art education practice, student creativity development, and the role of the art teacher. The study examines art educators' and students' experiences with AI image generation and other AI creative tools, documenting both opportunities (democratizing visual creation, expanding creative exploration) and challenges (questions of originality, artistic identity, and skill development). The paper proposes pedagogical frameworks for integrating AI into art education that preserve the developmental value of creative practice.

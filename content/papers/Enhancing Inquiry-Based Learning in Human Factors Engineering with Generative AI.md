@@ -1,20 +1,18 @@
 ---
-title: "Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI"
+source_file: "research_docs/P264.pdf"
 type: paper
-community: ""
-year: ""
-venue: "HCI International Conference, HCII 2025 Gothenburg, Sweden,"
-institution: "Smith Â· Borge (Eds.)Learning and Collaborati"
-source_file: "Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI.pdf"
+community: "Metacognitive Support"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Metacognitive_Support
 ---
+
 # Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI
 
-**Venue:** HCI International Conference, HCII 2025 Gothenburg, Sweden,
-**Institution:** Smith Â· Borge (Eds.)Learning and Collaborati
-
-## Key Finding
-Technologies LNCS 15808
-
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Problem-Based Learning]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

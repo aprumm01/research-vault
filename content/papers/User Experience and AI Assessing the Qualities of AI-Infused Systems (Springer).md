@@ -1,19 +1,16 @@
 ---
-title: "User Experience and AI: Assessing the Qualities of AI-Infused Systems (Springer)"
+source_file: "research_docs/P207.pdf"
 type: paper
-community: ""
-year: ""
-venue: "SpringerBriefs in Applied Sciences and Technology PoliMI Spr"
-institution: ""
-source_file: "User Experience_artificial intelligence_Assessing the qualities of AI-infused systems.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # User Experience and AI: Assessing the Qualities of AI-Infused Systems (Springer)
 
-**Venue:** SpringerBriefs in Applied Sciences and Technology PoliMI Spr
-
-## Key Finding
-PoliMI SpringerBriefs Davide Spallazzo Â· Martina SciannamÃ¨ Â· Mauro CeconelloUser Experience +
-
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

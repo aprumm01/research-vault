@@ -1,19 +1,16 @@
 ---
-title: "AI Hasnâ€™t Fixed Teamwork, But It Shifted Collaborative"
+source_file: "research_docs/P223.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: "omputer Interaction Institute, Carnegie Mellon University Pi"
-source_file: "AI Hasn't Fixed Teamwork, But It Shifted Collaborative Culture - A Longitudinal Study in a Project-Based Software Development Organization.pdf"
+community: "HCI Education and Pedagogy"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
 ---
+
 # AI Hasnâ€™t Fixed Teamwork, But It Shifted Collaborative
 
-**Institution:** omputer Interaction Institute, Carnegie Mellon University Pi
-
-## Key Finding
-When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo
-
 ## Connections
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

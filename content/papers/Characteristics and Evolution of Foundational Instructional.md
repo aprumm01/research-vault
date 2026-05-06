@@ -1,47 +1,45 @@
 ---
 source_file: "research_docs/P80.pdf"
-type: "paper"
+type: paper
 community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-
-doi: "10.4324/9781003354697-5"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Characteristics and Evolution of Foundational Instructional 
+# Characteristics and Evolution of Foundational Instructional
 
+## Summary
+This work examines the defining characteristics and historical evolution of foundational instructional design (ID) models — systematically tracing how seminal frameworks (ADDIE, Dick and Carey, Morrison-Ross-Kemp, Gagne's nine events) developed in response to shifting educational theories, technological contexts, and professional demands. The analysis identifies commonalities across models (systematic process, learner analysis, formative evaluation) and traces divergences as cognitivism supplanted behaviorism and constructivism challenged both. The work positions the evolution of ID models as a reflection of deeper epistemological shifts in how learning is theorized.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- Foundational ID models (ADDIE, Dick and Carey, Morrison-Ross-Kemp)
+- Evolution of instructional design theory
+- Behaviorist, cognitivist, and constructivist foundations of ID
+- Systematic ID process components
+- Formative and summative evaluation in ID
 
-**DOI:** [10.4324/9781003354697-5](https://doi.org/10.4324/9781003354697-5)
+## Theoretical Framework
+Historical and comparative analysis of ID model development; maps each model to its theoretical roots (behavioral objectives, information processing, situated learning); traces how tensions between theory and practice drove model evolution.
+
+## Methods
+Historical/comparative analysis; review of primary model documents and textbooks; tracking of how models were modified, extended, or challenged across decades; synthesis of commonalities and divergences.
+
+## Main Arguments
+- All foundational ID models share a core commitment to systematic analysis-design-development-implementation-evaluation (ADDIE-like) cycles, even when rejecting the label
+- Evolution from behavioral to cognitive foundations produced models that internalized mental structures and schema as design targets rather than just observable behaviors
+- Constructivist challenges forced acknowledgment that learning is context-dependent and that universal optimal instruction sequences are theoretically unjustifiable
+- Understanding ID model evolution is essential for practitioners who must choose among models for specific contexts — each carries embedded assumptions about learners, learning, and what counts as success
+
+## Limitations
+- Historical analysis may oversimplify complex debates and attribute model changes to theory shifts when practical and economic pressures were also influential
+- Focus on Western/North American ID traditions; ID model development in other contexts is underrepresented
+
+## Connections
+Links to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on learning theory foundations; relates to [[Instructional Design and Creativity A Response to the Criticized.md]] on ID theory debates; connects to [[HPT Model Applied to Kayak Company (Martin et al.)]] on performance technology applications.
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
-
-## Summary
-This paper traces the development and characteristic features of foundational instructional design models, examining how models like ADDIE, Dick and Carey, and others evolved from their origins in military and behavioral psychology to their current forms. The analysis identifies common structural elements (analysis, design, development, implementation, evaluation) while noting how different models emphasize different values — systematic process, learner-centeredness, performance improvement, or rapid development. The paper is a useful historical and comparative reference for instructional design scholarship.
-
-## Key Concepts
-- Foundational instructional design models (ADDIE, Dick and Carey, etc.)
-- Systematic instructional design process
-- Evolution of ID theory and models
-- Behavioral and cognitive foundations of instructional design
-
-## Theoretical Framework
-Historical and comparative analysis of instructional design model development; traces theoretical influences from behavioral psychology, systems theory, and cognitive science on the evolution of ID models.
-
-## Methods
-Historical review and comparative analysis of foundational ID models; traces development from military training contexts through academic institutionalization to contemporary practice.
-
-## Main Arguments
-- Foundational ID models share common structural features but differ in theoretical emphasis and procedural detail
-- The field evolved from behaviorist foundations toward more cognitive and systemic approaches
-- No single model is universally superior — each reflects the values and constraints of its origin context
-- Understanding historical evolution helps practitioners make principled choices among ID models

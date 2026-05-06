@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P49.pdf"
-type: "paper"
-community: "AI and Future of Work"
+type: paper
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
-doi: "10.1287/orsc.2021.1549"
-
-abstract: "Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa"
+  - community/Workplace_Learning_and_AI
 ---
 
 # To Engage or Not with AI for Critical Judgments (Lebovitz et al.)
 
+## Summary
+Lebovitz, Lifshitz-Assaf, and Levina conduct an in-depth field study of diagnostic radiologists using AI tools in three hospital departments (breast cancer, lung cancer, bone age determination), finding that opacity — the AI's inability to explain its reasoning — caused professionals to experience increased uncertainty when AI outputs diverged from their own judgment. Only in one department did professionals consistently achieve "engaged augmentation" by developing AI interrogation practices: structured ways of relating their expert knowledge to AI knowledge claims. The other departments defaulted to "unengaged augmentation," largely ignoring AI inputs despite nominal adoption.
 
-## Abstract
-Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa
+## Key Concepts
+- AI opacity and explainability
+- Engaged vs. unengaged augmentation
+- AI interrogation practices
+- Professional judgment under uncertainty
+- Human-AI augmentation in knowledge work
 
-**DOI:** [10.1287/orsc.2021.1549](https://doi.org/10.1287/orsc.2021.1549)
+## Theoretical Framework
+Draws on organizational knowledge literature (Carlile, Levina), professional judgment research, and technology adoption/use scholarship; frames augmentation as a collaborative knowledge transformation process requiring active human-AI sense-making, not passive reception of AI outputs.
+
+## Methods
+In-depth field study over 18 months at a major US hospital; ethnographic observation and interviews in three radiology departments using AI diagnostic tools; comparison across departments to identify conditions enabling or hindering engaged augmentation.
+
+## Main Arguments
+- AI opacity is the central challenge for professional augmentation — professionals cannot integrate what they cannot interrogate, and unexplained divergence from expert judgment produces anxiety rather than learning
+- Engaged augmentation requires active AI interrogation practices: professionals must develop routines for contextualizing, questioning, and situating AI outputs relative to their own clinical reasoning
+- Department-level culture and leadership shape whether professionals invest in interrogation practices or retreat to unengaged use
+- The promise of human-AI collaboration will not be realized by deployment alone; organizations must design for engaged use through training, practice norms, and tool transparency
+
+## Limitations
+- Single hospital site; radiology-specific findings may not generalize to domains with different professional cultures, AI tool transparency levels, or decision stakes
+- Opacity is partly a technical choice — findings may shift as explainable AI develops
+
+## Connections
+Links to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on theorizing AI in professional work; relates to [[AI Failure Loops in Devalued Work (Kawakami et al.)]] on AI deployment failures; connects to [[The Future of Work is Blended Not Hybrid (Constantinides et al.)]] on human-AI work integration.
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Summary
-Lebovitz, Lifshitz-Assaf, and Levina examine how radiologists and other medical professionals decide whether to engage with AI recommendations for critical diagnostic judgments, focusing on how they navigate AI's "opacity"—its inability to explain its reasoning. Through qualitative research, they find professionals develop distinct strategies for using AI: some routinely engage with it, others systematically ignore it, and many develop contextual rules for when AI input helps versus hinders judgment.
-
-## Key Concepts
-- Human-AI judgment
-- AI opacity
-- Professional decision-making
-- Medical AI
-- Human-AI augmentation
-
-## Theoretical Framework
-Organizational theory of human-AI augmentation and professional judgment theory frame the analysis of how professionals navigate opacity and uncertainty when integrating AI recommendations into critical decisions.
-
-## Methods
-Qualitative field study; interviews and observations with radiologists using AI diagnostic systems; published in Organization Science.
-
-## Main Arguments
-- AI opacity—its inability to explain its reasoning—is a fundamental challenge for professional adoption
-- Professionals develop three strategies: routinely engaging AI, systematically ignoring it, or applying contextual rules
-- The decision to engage AI depends on task characteristics, professional confidence, and perceived AI reliability
-- Human-AI augmentation is not automatic; it requires active professional work to determine when AI input adds value
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

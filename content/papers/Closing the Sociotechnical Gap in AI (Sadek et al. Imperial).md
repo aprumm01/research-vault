@@ -1,48 +1,46 @@
 ---
 source_file: "research_docs/P20.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-doi: "10.1109/MTS.2024.3392280"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
+  - community/Responsible_AI_Governance
 ---
 
 # Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)
 
+## Summary
+Sadek, Calvo, and Mougenot argue that the field lacks standardized methods for measuring AI practitioners' sociotechnical attitudes and perceptions — a gap that prevents designing and evaluating effective interventions. Technical practitioners are often "environment blind," trained to optimize for performance metrics while overlooking the human and social implications of their systems. The article calls for HCI to develop clearer metrics targeting practitioners' mindsets, not just system outputs or user experiences.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- Sociotechnical gap (mismatch between technical focus and social reality)
+- Practitioner attitudes and perceptions
+- Environment blindness in technical experts
+- Intervention design for mindset change
+- Responsible AI operationalization
 
-**DOI:** [10.1109/MTS.2024.3392280](https://doi.org/10.1109/MTS.2024.3392280)
+## Theoretical Framework
+Draws on STS, HCI, and responsible AI literature; distinguishes between high-level principles/guidelines vs. concrete practices/toolkits as intervention types, and technical vs. nontechnical focus as orthogonal dimensions.
+
+## Methods
+Perspective/position paper; analyzes existing literature and calls for a research agenda rather than reporting primary empirical findings.
+
+## Main Arguments
+- Technical AI practitioners systematically underestimate sociotechnical implications because their training optimizes for technical performance
+- Existing responsible AI interventions (principles, checklists, toolkits) focus on system outputs, not on changing practitioner attitudes
+- No validated scale exists for measuring whether design interventions shift practitioners toward sociotechnical awareness
+- HCI must develop practitioner-facing psychometric tools and longitudinal studies to fill this gap
+
+## Limitations
+- Short position article (4 pages); prescriptive rather than empirically grounded
+- Does not propose a specific measurement instrument, only argues for its necessity
+
+## Connections
+Relates to [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]] on organizational RAI practices; connects to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on stakeholder inclusion; informs [[Making the Right Thing HCI and Responsible AI (Jung et al. CMU)]] on early-stage responsible AI.
 
 ## Connections
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Value-Sensitive Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
-
-## Summary
-Sadek et al. argue in this IEEE Technology and Society Magazine piece that a "sociotechnical gap" exists in AI between what AI systems are technically capable of and what practitioners actually understand and perceive about those capabilities. This gap creates risks when practitioners deploy AI without accurate mental models, leading to misuse, over-trust, or under-utilization. The paper calls for systematic measurement of practitioners' AI attitudes and perceptions as a necessary step toward closing the sociotechnical gap.
-
-## Key Concepts
-- Sociotechnical gap in AI (disconnect between capability and practitioner perception)
-- Practitioner AI literacy and mental models
-- Attitudes and perceptions measurement in AI deployment
-- Responsible AI deployment frameworks
-
-## Theoretical Framework
-Sociotechnical systems theory applied to AI deployment; argues that closing the gap between technical capability and social understanding is a prerequisite for responsible AI integration in professional practice.
-
-## Methods
-Conceptual/analytical paper arguing for the importance of measuring practitioners' AI attitudes and perceptions; published in IEEE Technology and Society Magazine; four-page position paper.
-
-## Main Arguments
-- A significant sociotechnical gap exists between AI technical capabilities and practitioner understanding
-- This gap creates deployment risks — overconfidence, misuse, and underutilization
-- Measuring practitioner attitudes and perceptions is necessary to close the gap
-- Sociotechnical gap analysis should be a standard component of responsible AI deployment practice
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

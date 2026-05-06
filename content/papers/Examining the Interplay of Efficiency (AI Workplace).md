@@ -1,49 +1,45 @@
 ---
 source_file: "research_docs/P94.pdf"
-type: "paper"
+type: paper
 community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-
-abstract: "Artificial Intelligence's (AI) rapid development and growth not only transformed industries but also fired up important debates about its impacts on employment, resource allocation, and the ethics involved in decision -making. It serves to understand how ch anges within an industry will be able to influence society with that change. Advancing AI technologies will create a dual paradox of efficiency, greater resource consumption, and displacement of traditional labor. In this context, we explore "
-
-doi: "10.2139/ssrn.5065500"
 ---
 
 # Examining the Interplay of Efficiency (AI Workplace)
 
+## Summary
+Akpan and Adebayo examine what they term the "dual paradoxes" of AI: AI simultaneously increases efficiency while consuming more resources, and augments human capabilities while displacing traditional labor roles. Drawing on published research and industry analysis, they develop a framework for understanding how these paradoxes interact in contemporary workplaces. The paper argues that organizations must grapple with AI's hidden costs—energy consumption, labor dislocation, decision-making ethics—even as they pursue productivity gains.
 
-## Abstract
+## Key Concepts
+- **Efficiency paradox**: AI improves output per unit of human labor while massively increasing energy and computational resource demands
+- **Labor displacement paradox**: AI augments some human roles while substituting for others, creating hybrid roles and eliminating traditional ones
+- **Decision ethics**: Ethical dimensions of delegating consequential decisions to AI systems
+- **Hybrid human-AI roles**: New categories of work where humans provide oversight, contextual judgment, and error correction for AI systems
 
-**DOI:** [10.2139/ssrn.5065500](https://doi.org/10.2139/ssrn.5065500)
+## Theoretical Framework
+Conceptual analysis grounded in organizational theory and HCI literature. The "dual paradox" framing draws on Jevons Paradox (efficiency improvements increase total consumption) applied to AI in organizational contexts.
 
-Artificial Intelligence's (AI) rapid development and growth not only transformed industries but also fired up important debates about its impacts on employment, resource allocation, and the ethics involved in decision -making. It serves to understand how ch anges within an industry will be able to influence society with that change. Advancing AI technologies will create a dual paradox of efficiency, greater resource consumption, and displacement of traditional labor. In this context, we explore the impact of AI on energy consumption, human labor roles, and hybrid roles widespread human labor replacement. We u
+## Methods
+Conceptual analysis synthesizing published empirical research and industry data on AI deployment, energy use, and labor market outcomes.
+
+## Main Arguments
+1. Efficiency gains from AI come with substantial hidden costs in energy and carbon footprint rarely accounted for in ROI calculations
+2. AI does not simply substitute for labor—it reconfigures work, creating new hybrid roles while eliminating others
+3. Organizations risk ethical failures by delegating decisions to AI systems without adequate accountability structures
+4. Sustainable AI adoption requires balancing efficiency goals against resource costs, labor equity, and ethical accountability
+
+## Limitations
+Conceptual paper without primary empirical data. The "paradox" framing may oversimplify complex organizational dynamics that vary substantially by sector.
+
+## Connections
+- Connects to [[Does AI Development Polarized Job Market]] on macro-level labor displacement evidence
+- Relates to [[Embracing the AIautomation age]] on strategic workforce preparation
+- Pairs with [[Cogent Social Sciences]] on employee role optimization in the GenAI era
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Summary
-Akpan and Adebayo examine what they call the "dual paradoxes" of AI adoption in the workplace: while AI dramatically increases operational efficiency, it simultaneously increases energy consumption and displaces traditional labor, creating contradictory pressures on organizations and society. Through literature analysis, they explore how AI is reshaping human labor roles, creating hybrid positions, and raising fundamental questions about the ethics of automation and workforce displacement.
-
-## Key Concepts
-- AI efficiency paradox
-- Labor displacement
-- Energy consumption
-- Hybrid human-AI roles
-- Organizational ethics
-
-## Theoretical Framework
-Political economy and organizational theory frame the analysis of how AI-driven efficiency gains are distributed across stakeholders while costs—including energy and unemployment—are externalized.
-
-## Methods
-Conceptual analysis and literature review; multi-disciplinary synthesis drawing on economics, management, and technology studies.
-
-## Main Arguments
-- AI produces a dual paradox: greater efficiency combined with greater resource consumption and labor displacement
-- The efficiency gains from AI disproportionately benefit organizations while workers bear the costs of displacement
-- New hybrid roles are emerging, but they require significant reskilling investment
-- Organizations and policymakers must address the ethical dimensions of AI-driven automation

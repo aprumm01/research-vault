@@ -1,23 +1,14 @@
 ---
-title: "The Technocratic Momentum after 1945: The Development of Teaching Machines"
+source_file: "research_docs/P323.pdf"
 type: paper
-community: ""
-year: 1945
-venue: "ching Machines, and Sobering Results Daniel Tröhler Professo"
-institution: "of Education at the University of Luxembourg Abstract • This"
-source_file: "The Technocratic Momentum after 1945-jemms.pdf"
+community: "Instructional Design Theory"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
+
 # The Technocratic Momentum after 1945: The Development of Teaching Machines
-
-**Year:** 1945
-**Venue:** ching Machines, and Sobering Results Daniel Tröhler Professo
-**Institution:** of Education at the University of Luxembourg Abstract • This
-
-## Key Finding
-• This article investigates the development of new teaching ideologies in the context of the technocratic ideology of the Cold War. These ideologies did not simply vanish after 1989. The catchwords we
 
 ## Summary
 Examines how Cold War technocratic ideology drove the development of programmed instruction and teaching machines in the 1950s–1970s, finding that Eastern and Western states converged on a shared behaviorist-then-cognitivist teaching ideology despite their political differences. Argues that the failure of teaching machines as devices did not kill the underlying ideology—it merely shifted to new devices serving the same assumptions, a pattern that continues with digital and AI education tools.
@@ -45,3 +36,6 @@ Historical analysis of OECD, UNESCO, and national education policy documents; co
 Primarily focused on Western (US, OECD) and Soviet contexts; does not examine non-OECD countries or Global South education systems; analysis ends before the internet era; may oversimplify the diversity of positions within behaviorism and cognitivism.
 
 ## Connections
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

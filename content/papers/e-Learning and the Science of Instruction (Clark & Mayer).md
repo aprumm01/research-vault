@@ -1,14 +1,16 @@
 ---
-title: "e-Learning and the Science of Instruction (Clark & Mayer)"
+source_file: "research_docs/P83.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Clark_Mayer.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # e-Learning and the Science of Instruction (Clark & Mayer)
 
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,19 +1,14 @@
 ---
-title: "Why Are There Still So Many Jobs? (Oravec Review of Autor, 2018)"
+source_file: "research_docs/P326.pdf"
 type: paper
-community: ""
-year: 2018
-venue: "Journal of Economic Perspectives—Volume 29, Number 3—Summer"
-institution: ""
-source_file: "Why Are There Still So Many Jobs - Jo Ann Oravec (2018).pdf"
+community: "AI and Future of Work"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
 ---
-# Why Are There Still So Many Jobs? (Oravec Review of Autor, 2018)
 
-**Year:** 2018
-**Venue:** Journal of Economic Perspectives—Volume 29, Number 3—Summer
+# Why Are There Still So Many Jobs? (Oravec Review of Autor, 2018)
 
 ## Summary
 Autor's landmark 2015 Journal of Economic Perspectives article (reviewed by Oravec in 2018) argues that automation has not eliminated employment over two centuries because automation and labor are strong complements, not pure substitutes. A task-based framework distinguishes routine from non-routine tasks, explaining why automation substitutes for repetitive work while increasing demand for higher-order cognitive and interpersonal labor.
@@ -41,3 +36,6 @@ Review of two centuries of historical and contemporary economic literature; anal
 Historical patterns may not apply to the scale and generality of AI-era automation; the framework underplays distributional and political-economic effects; focuses on aggregate employment rather than quality, security, or fairness of the jobs that remain.
 
 ## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

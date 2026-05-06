@@ -1,21 +1,16 @@
 ---
-title: "A Review of Human-Centric AI in Industry 5.0"
+source_file: "research_docs/P171.pdf"
 type: paper
-community: ""
-year: ""
-venue: "Journal of Economics, Finance and Accounting Studies ISSN"
-institution: ""
-source_file: "A Review of Human-Centric AI in Industry 5_0.pdf"
+community: "AI and Future of Work"
 tags:
-  - type/paper
-
-doi: "10.32996/jefas"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
 ---
+
 # A Review of Human-Centric AI in Industry 5.0
 
-**Venue:** Journal of Economics, Finance and Accounting Studies ISSN
-
-## Key Finding
-ISSN: 2709-0809 DOI: 10.32996/jefas Journal Homepage: www.al-kindipublisher.com/index.php/jefas
-
 ## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

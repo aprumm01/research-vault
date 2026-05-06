@@ -1,25 +1,44 @@
 ---
 source_file: "research_docs/P128.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "Recently, we have witnessed emerging research agendas on expli- cating new opportunities, risks, and harm of generative AI from a CSCW perspective. Built upon these ongoing conversations and dialog, we believe that beyond merely discussing generative AI’s impacts on specific CSCW research directions, it is equally critical to promote in-depth discussions across academia and industry to reflect upon generative AI’s multidimensional impacts on the over-"
-
-doi: "10.1145/3715070.3748275"
 ---
 
 # The Impact of Generative AI on the CSCW Landscape: Insights
 
+## Summary
+Freeman, Mynatt, Lampe, Candello, Inkpen, and Goyal (Clemson, Northeastern, Michigan, IBM Research, Microsoft Research, DeepMind) examine generative AI's multidimensional impacts on the CSCW (Computer-Supported Cooperative Work) landscape from perspectives spanning academia, industry, and funding. The panel paper identifies three critical dimensions: the transformation of HCI education to prepare students for GenAI-augmented research and design, shifts in industry dynamics as GenAI becomes embedded in collaborative tools, and funding priorities that shape which GenAI-CSCW research gets supported. The authors call for deliberate, inclusive governance of GenAI's integration into collaborative work and CSCW scholarship.
 
-## Abstract
+## Key Concepts
+- **CSCW (Computer-Supported Cooperative Work)**: Field studying how technology mediates group work, collaboration, and social interaction
+- **GenAI in collaborative tools**: Integration of large language models into workplace collaboration platforms (Slack, Teams, etc.)
+- **HCI education transformation**: The need to update HCI curricula to prepare students to critically engage with GenAI's capabilities and limitations
+- **Funding dynamics**: How funding agencies' priorities shape the research agenda at the GenAI-CSCW intersection
+- **Inclusive governance**: Ensuring diverse stakeholders shape GenAI's integration into collaborative work
 
-**DOI:** [10.1145/3715070.3748275](https://doi.org/10.1145/3715070.3748275)
+## Theoretical Framework
+CSCW and HCI scholarship combining empirical research on technology-mediated collaboration with critical perspectives on GenAI's societal implications. Panel format reflects multiple expert perspectives rather than a single theoretical commitment.
 
-Recently, we have witnessed emerging research agendas on expli- cating new opportunities, risks, and harm of generative AI from a CSCW perspective. Built upon these ongoing conversations and dialog, we believe that beyond merely discussing generative AI’s impacts on specific CSCW research directions, it is equally critical to promote in-depth discussions across academia and industry to reflect upon generative AI’s multidimensional impacts on the over-
+## Methods
+Position paper / panel report synthesizing perspectives from six experts across academic, industrial, and funding contexts. No primary empirical data; synthesis and argument-making from expert vantage points.
+
+## Main Arguments
+1. GenAI is not merely a new tool in CSCW's toolkit—it fundamentally challenges the field's assumptions about human agency in collaborative work
+2. HCI education must explicitly address GenAI's capabilities, limitations, and ethical implications rather than treating it as just another technology
+3. Industry integration of GenAI into collaborative tools is outpacing academic understanding of its effects on cooperation, trust, and organizational dynamics
+4. Funding priorities significantly shape which GenAI-CSCW questions get investigated; the community must actively advocate for research on equity, inclusion, and harm
+
+## Limitations
+Panel/position paper format; reflects the views of a particular group of senior scholars rather than systematic empirical evidence. Short paper (4 pages) necessarily limits depth.
+
+## Connections
+- Connects to [[AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)]] on GenAI's actual effects on collaborative work
+- Relates to [[The Potential and Implications of Generative AI on HCI Education]] on GenAI in HCI education
+- Pairs with [[ASCILITE 2024]] on AI literacy needs in HCI and UX education
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
@@ -27,25 +46,3 @@ Recently, we have witnessed emerging research agendas on expli- cating new oppor
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Freeman et al.—senior researchers from Clemson, Northeastern, Michigan, IBM Research, and Microsoft—reflect on generative AI's multidimensional impact on the CSCW (Computer-Supported Cooperative Work) research landscape, HCI education, industry dynamics, and research funding. They call for deeper reflection across academia and industry about how GenAI is reshaping collaborative work, what research questions it opens, and what organizational and educational structures must evolve in response.
-
-## Key Concepts
-- CSCW and generative AI
-- Collaborative work
-- HCI research agenda
-- Industry-academia dynamics
-- AI research funding
-
-## Theoretical Framework
-CSCW theory and human-computer interaction research agendas frame the reflection on how GenAI creates new research opportunities and challenges for studying computer-supported cooperative work.
-
-## Methods
-Reflective position paper; synthesis of perspectives from senior researchers across academic and industry CSCW/HCI communities.
-
-## Main Arguments
-- GenAI creates fundamentally new CSCW research questions about human-AI collaboration, trust, and accountability
-- HCI education must evolve to prepare students for designing with and studying GenAI systems
-- Industry adoption of GenAI is outpacing research understanding, creating urgent knowledge gaps
-- Cross-sector dialogue between academia, industry, and policy is needed to govern GenAI's impact on cooperative work

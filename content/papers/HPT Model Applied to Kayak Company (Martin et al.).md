@@ -1,49 +1,47 @@
 ---
 source_file: "research_docs/P45.pdf"
-type: "paper"
-community: "Responsible AI Governance"
+type: paper
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
-doi: "10.1002/pfi.20061"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
+  - community/Human_Performance_Technology
 ---
 
 # HPT Model Applied to Kayak Company (Martin et al.)
 
+## Summary
+Martin et al. demonstrate the application of the Human Performance Technology (HPT) model to a performance improvement intervention at a kayak manufacturing company. Using Gilbert's Behavior Engineering Model and systematic front-end analysis, they identify the root causes of a performance gap in manufacturing processes — finding the primary causes lie in environmental conditions (information, resources, incentives) rather than worker skill deficits. The case illustrates how HPT's systematic needs analysis prevents premature training solutions and leads to more cost-effective, lasting performance improvement.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- Human Performance Technology (HPT) model
+- Gilbert's Behavior Engineering Model (BEM)
+- Performance analysis vs. training needs analysis
+- Environmental causes of performance gaps
+- Front-end analysis
 
-**DOI:** [10.1002/pfi.20061](https://doi.org/10.1002/pfi.20061)
+## Theoretical Framework
+Gilbert's BEM distinguishes between environmental (information, resources, incentives) and individual (knowledge, capacity, motivation) causes of performance deficits; the HPT model systematically rules out environmental causes before recommending training interventions.
+
+## Methods
+Applied case study; performance analysis at a kayak manufacturing company; interviews, observations, and performance data analysis; application of BEM to categorize root causes; intervention design based on findings.
+
+## Main Arguments
+- Most performance gaps are caused by environmental factors (unclear expectations, inadequate feedback, insufficient resources) rather than worker skill deficits — training is the wrong solution for environmental causes
+- Systematic front-end analysis using HPT prevents the "training reflex" — the tendency to prescribe training without diagnosing root causes
+- Environmental interventions (redesigning information flow, clarifying standards, restructuring incentives) produce faster and more durable improvement than training alone
+- HPT requires a business-performance orientation, not just an instructional-design orientation
+
+## Limitations
+- Single company case study limits generalizability
+- HPT analysis depends on access to authentic performance data, which organizations may be reluctant to share or unable to provide accurately
+
+## Connections
+Relates to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on learning theory foundations of instructional design; connects to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on technology in work performance contexts; links to broader ID literature on performance consulting.
 
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
-
-## Summary
-Martin et al. provide a detailed case study of applying the Human Performance Technology (HPT) model to a premier kayak company on the North Carolina coast, addressing performance problems including misinformed customers, dissatisfied customers, and guide no-shows. The case study walks through each step of the HPT process—organizational analysis, environmental analysis, gap analysis, cause analysis, and intervention design—demonstrating how HPT translates theory into actionable organizational solutions.
-
-## Key Concepts
-- HPT model application
-- Performance gap analysis
-- Organizational analysis
-- Cause analysis
-- Intervention design
-
-## Theoretical Framework
-The ISPI HPT model provides the systematic framework for performance diagnosis and intervention, bridging desired and actual performance through structured analysis.
-
-## Methods
-Applied case study; step-by-step application of the HPT model to real organizational performance problems at a kayak tour company.
-
-## Main Arguments
-- The HPT model effectively diagnoses root causes of performance problems beyond surface-level symptoms
-- Systematic cause analysis reveals that performance gaps often stem from environmental and managerial factors, not just individual deficits
-- HPT interventions must address multiple causes simultaneously to produce lasting performance improvement
-- Practical case studies demonstrate the utility of HPT theory for practitioners in organizational settings
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

@@ -1,21 +1,14 @@
 ---
-title: "The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)"
+source_file: "research_docs/P322.pdf"
 type: paper
-community: ""
-year: ""
-venue: "Journal of Artificial Intelligence in Education (2023) 33:88"
-institution: ""
-source_file: "The Intertwined Histories of Artificial Intelligence.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)
-
-**Venue:** Journal of Artificial Intelligence in Education (2023) 33:88
-
-## Key Finding
-In this paper, I argue that the fields of artificial intelligence (AI) and education have been deeply intertwined since the early days of AI. Specifically, I show that many of the early pioneers of AI
 
 ## Summary
 Argues that AI and education have been deeply intertwined since the field's founding, with many early AI pioneers being cognitive scientists who simultaneously made foundational contributions to education research. Traces two distinct strands—information-processing psychology and constructivism—that unified researchers across AI and learning sciences in a shared quest to understand both human and machine cognition.
@@ -43,3 +36,6 @@ Intellectual history; review of early AI literature (1950s–1970s), primarily f
 Focus on White male US/UK researchers is acknowledged as an artifact of historical exclusion but limits the history; explicitly not comprehensive; does not address non-Western AI or education traditions; analysis stops before the modern deep learning era.
 
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

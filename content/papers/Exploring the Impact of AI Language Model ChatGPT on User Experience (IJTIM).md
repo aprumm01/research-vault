@@ -1,17 +1,17 @@
 ---
-title: "Exploring the Impact of AI Language Model ChatGPT on User Experience (IJTIM)"
+source_file: "research_docs/P266.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Exploring the Impact of Artificial Intelligence language model ChatGPT on the User Experience.pdf"
+community: "AI in Design Education"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
+
 # Exploring the Impact of AI Language Model ChatGPT on User Experience (IJTIM)
 
-## Key Finding
-Exploring the Impact of Artificial Intelligence language model ChatGPT on the User Experience Ahmed AL-Sa'diÂ¹, Dave MillerÂ²
-
 ## Connections
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -1,24 +1,14 @@
 ---
-source_file: "research_docs/P227.pdf"
-type: "paper"
+source_file: "research_docs/P301.pdf"
+type: paper
 community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-
-doi: "10.1145/3532106.3533483"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# "It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation (Showkat & Baumer)
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3532106.3533483](https://doi.org/10.1145/3532106.3533483)
+# “It’s Like the Value System in the Loop”: Domain Experts’ Values Expectations...
 
 ## Summary
 Showkat and Baumer's paper investigates how domain experts in high-stakes fields (law, medicine, social work) express and negotiate their values expectations for NLP automation tools being designed for their professional contexts. Through interviews and participatory design sessions, the study documents how experts articulate values like accuracy, fairness, explainability, and human oversight — and how these values conflict with each other and with NLP system constraints. The paper contributes frameworks for values negotiation in NLP design and argues for more robust mechanisms for expert values participation in AI system development.

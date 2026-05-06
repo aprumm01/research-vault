@@ -1,17 +1,16 @@
 ---
-title: "Learning Theories and Instructional Design (Driscoll)"
+source_file: "research_docs/P262.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Driscoll and Burner.pdf"
+community: "Instructional Design Theory"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
+
 # Learning Theories and Instructional Design (Driscoll)
 
-## Key Finding
-6 Psychological Foundations of Instructional Design
-
 ## Connections
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

@@ -1,25 +1,14 @@
 ---
-source_file: "research_docs/P168.pdf"
-type: "paper"
+source_file: "research_docs/P293.pdf"
+type: paper
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.1007/978-3-031-77521-5_5"
-
-abstract: "Abstract The chapter frames the AIXE (AI user eXperience Evaluation) scale, a statistically validated questionnaire to assess the UX of AI-infused products, describing its development process as well as its validation. AIXE is composed by 33 questions with 4 ordinal Likert-scale answers, organized around 12 descriptors related to the UX of the target systems. The questionnaire is meant to be proposed to the intended users of AI-infused products to quantitatively analyse the user experience they "
 ---
 
-# A Method to Evaluate the UX of Systems Integrating AI (Springer, 2024)
-
-
-## Abstract
-
-**DOI:** [10.1007/978-3-031-77521-5_5](https://doi.org/10.1007/978-3-031-77521-5_5)
-
-Abstract The chapter frames the AIXE (AI user eXperience Evaluation) scale, a statistically validated questionnaire to assess the UX of AI-infused products, describing its development process as well as its validation. AIXE is composed by 33 questions with 4 ordinal Likert-scale answers, organized around 12 descriptors related to the UX of the target systems. The questionnaire is meant to be proposed to the intended users of AI-infused products to quantitatively analyse the user experience they convey. The chapter further illustrates how the scale can be applied, its limitations and future opportunities.
+# SpringerBriefs in Applied Sciences and Technology
 
 ## Summary
 This Springer Brief presents a systematic methodology for evaluating the user experience of AI-integrated systems, addressing the gap between traditional UX evaluation methods designed for deterministic software and the evaluation challenges posed by AI systems that are probabilistic, adaptive, and opaque. The authors propose a multi-dimensional evaluation framework that includes not only traditional usability dimensions but also trust, transparency, controllability, and predictability as core UX qualities specific to AI systems. The methodology provides UX practitioners with concrete tools for evaluating AI-infused products.

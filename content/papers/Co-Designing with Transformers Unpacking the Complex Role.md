@@ -1,24 +1,14 @@
 ---
 source_file: "research_docs/P252.pdf"
-type: "paper"
-community: "Problem-Based Learning"
+type: paper
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
-doi: "10.1145/3715336.3735805"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
+  - community/Metacognitive_Support
 ---
 
 # Co-Designing with Transformers: Unpacking the Complex Role
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3715336.3735805](https://doi.org/10.1145/3715336.3735805)
 
 ## Summary
 This paper unpacks the complex and often contradictory role that transformer-based AI systems play when introduced as collaborative participants in design processes, examining case studies where teams explicitly co-designed with AI rather than using it as a tool. The authors find that AI as collaborator introduces new dynamics around authorship, creative responsibility, and team communication that existing design collaboration frameworks do not adequately address. The paper calls for new theoretical frameworks that account for AI as a genuine participant in design processes with distinct capabilities, biases, and limitations.
@@ -50,4 +40,4 @@ Case study design limits generalizability; the concept of AI as "collaborator" r
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Metacognitive Support]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

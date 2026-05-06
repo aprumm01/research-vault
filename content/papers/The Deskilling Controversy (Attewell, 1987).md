@@ -1,18 +1,14 @@
 ---
-title: "The Deskilling Controversy (Attewell, 1987)"
+source_file: "research_docs/P324.pdf"
 type: paper
-community: ""
-year: 1987
-venue: ""
-institution: ""
-source_file: "the-deskilling-controversy - attewell-1987.pdf"
+community: "HCI Education and Pedagogy"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
 ---
-# The Deskilling Controversy (Attewell, 1987)
 
-**Year:** 1987
+# The Deskilling Controversy (Attewell, 1987)
 
 ## Summary
 Reviews and critiques Harry Braverman's influential deskilling thesis—that capitalism systematically degrades and deskills work—through theoretical, empirical, and methodological analysis. Uses the computerization of clerical work as a central case to demonstrate that qualitative studies of specific occupations and quantitative industry-wide analyses can yield opposite conclusions, exposing fundamental methodological weaknesses in the deskilling approach.
@@ -40,3 +36,8 @@ Critical literature review; analysis of existing deskilling studies; detailed ca
 Review paper without original primary data; dated 1987 and predates internet-era automation; focus on US clerical work limits coverage of professional, managerial, or service sector dynamics; does not address the political economy of skill measurement itself.
 
 ## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

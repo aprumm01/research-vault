@@ -1,24 +1,18 @@
 ---
-title: "Competences for the Modern Designer: Systematic Literature Review (2026)"
+source_file: "research_docs/P232.pdf"
 type: paper
-community: ""
-year: ""
-venue: "ching content in relation to a changing society and digitali"
-institution: "culty of Education, University of Lapland, Finland Abstract "
-source_file: "competences-for-the-modern-designer-systematic-literature-review.pdf"
+community: "Metacognitive Support"
 tags:
-  - type/paper
-
-doi: "10.1177/14740222251342646"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Metacognitive_Support
 ---
+
 # Competences for the Modern Designer: Systematic Literature Review (2026)
 
-**DOI:** [10.1177/14740222251342646](https://doi.org/10.1177/14740222251342646)
-
-**Venue:** ching content in relation to a changing society and digitali
-**Institution:** culty of Education, University of Lapland, Finland Abstract 
-
-## Key Finding
-Higher education institutions offering education in design need to review their teaching content in relation to a changing society and digitalization. In emerging post-digital era higher education is
-
 ## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Metacognitive Support]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

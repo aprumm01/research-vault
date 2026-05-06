@@ -1,18 +1,16 @@
 ---
-title: "I202 Social Informatics: Week 2 Problem Identification (Course Material)"
+source_file: "research_docs/P314.pdf"
 type: paper
-community: ""
-year: 2026
-venue: "discussion of generative AI ▪ Brave space vs safe space Remi"
-institution: ""
-source_file: "I202 SI_W2 Day2_Problem id_01212026.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # I202 Social Informatics: Week 2 Problem Identification (Course Material)
 
-**Year:** 2026
-**Venue:** discussion of generative AI ▪ Brave space vs safe space Remi
-
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

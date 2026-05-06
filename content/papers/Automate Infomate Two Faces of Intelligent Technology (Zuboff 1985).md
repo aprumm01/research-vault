@@ -1,24 +1,43 @@
 ---
 source_file: "research_docs/P30.pdf"
-type: "paper"
+type: paper
 community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-
-doi: "10.1016/0090-2616(85)90033-6"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)
 
+## Summary
+Zuboff's 1985 paper introduces the foundational distinction between automating and informating as two fundamentally different ways intelligent technology transforms work. Automating replaces human labor with machine execution of tasks. Informating — Zuboff's original coinage — occurs when the same systems simultaneously generate information about the processes they automate, creating new possibilities for organizational learning, control, and transformation. Zuboff argues that most organizations choose automating while missing the transformative potential of informating, often because informating threatens existing managerial power structures.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- Automating vs. informating
+- Intelligent technology (Zuboff's term for computer-mediated work)
+- Textualization of work (information rendering)
+- Panopticon dynamics and electronic surveillance
+- Organizational learning and knowledge transparency
 
-**DOI:** [10.1016/0090-2616(85)90033-6](https://doi.org/10.1016/0090-2616(85)90033-6)
+## Theoretical Framework
+Draws on phenomenology of work, labor process theory, and organizational sociology; influenced by Foucault (panopticon), Habermas (communicative action), and Marx (labor transformation); grounded in ethnographic field research.
+
+## Methods
+Multi-site qualitative study of manufacturing plants, offices, and financial services organizations undergoing computerization in the early 1980s; ethnographic observation and in-depth interviews.
+
+## Main Arguments
+- Every intelligent technology simultaneously automates and informates — but organizations must choose whether to exploit the informating potential or suppress it
+- Informating creates a "data-presence" of work that renders previously tacit processes transparent and subject to new kinds of analysis
+- This transparency is politically charged: it can enable worker learning and empowerment OR managerial surveillance and deskilling, depending on organizational choices
+- The choice to informate requires fundamentally rethinking managerial authority, since information access threatens hierarchical control
+
+## Limitations
+- Empirical context is early computer-mediated manufacturing/office work; contemporary AI systems have informating dynamics of much greater scope and speed
+- Normative vision (informating as democratizing potential) reflects 1980s techno-optimism; surveillance dynamics have proven more dominant in practice
+
+## Connections
+Foundational for [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] and [[AI Failure Loops in Devalued Work (Kawakami et al.)]]; relates to [[Do Artifacts Have Politics (Winner 1980)]] on technology and power; connects to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on AI theorization.
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
@@ -26,24 +45,3 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Summary
-Zuboff's foundational 1985 article distinguishes two logics of intelligent technology in the workplace: "automate" (replacing human action with machine action) and "infomate" (generating new information as a byproduct of automated processes, which can augment human intelligence). Zuboff argues that most organizations focus on automation while neglecting informating — the capacity of intelligent technology to render work processes visible and inform human decision-making in new ways. This distinction remains central to debates about technology's role in work and organization.
-
-## Key Concepts
-- Automate logic (replacing workers with machines)
-- Infomate logic (technology generating informational value for workers)
-- Intelligent technology in the workplace
-- Organizational choice in technology design and deployment
-
-## Theoretical Framework
-Sociological theory of technology in organizations; argues against technological determinism by showing that organizations make choices about whether to deploy technology to automate or infomate, with different consequences for skill and power.
-
-## Methods
-Conceptual/theoretical analysis grounded in ethnographic and case study evidence from industrial and service work settings; published in 1985 as a foundational article in the sociology of work and technology.
-
-## Main Arguments
-- Intelligent technology has two distinct logics — automation and informating — that organizations can choose between
-- Most organizations historically favor automation over informating, losing the knowledge-generating potential of technology
-- Informating can enhance worker skill and judgment, not just efficiency
-- The choice between automate and infomate is a political choice about power and control in organizations

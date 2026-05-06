@@ -1,50 +1,49 @@
 ---
 source_file: "research_docs/P108.pdf"
-type: "paper"
-community: "Responsible AI Governance"
+type: paper
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
-doi: "10.1007/bf02299676"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
+  - community/Human_Performance_Technology
 ---
 
 # Kirkpatrick Plus: Evaluation and Continuous
 
+## Summary
+Watkins, Leigh, Foshay, and Kaufman (2003) propose "Kirkpatrick Plus," an extension of Kirkpatrick's four-level framework adding a fifth level focused on community and societal outcomes. The article argues that contemporary organizations must account for impacts beyond organizational results (Level 4) to include client/customer outcomes and broader social value. Drawing on Kaufman's Organizational Elements Model, the authors integrate Kirkpatrick's internal focus with a systemic, external-facing conception of training's value and responsibility.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- **Level 5 (Community outcomes)**: Societal and client/customer impact beyond the organization's own results
+- **Kaufman's Organizational Elements Model**: Framework distinguishing inputs, processes, products, outputs, and outcomes at organizational and societal levels
+- **Value-added training**: Training that demonstrates contribution to stakeholder value at multiple levels
+- **Continuous improvement**: Using evaluation data cyclically to refine training interventions
+- **External validity**: Training's responsiveness to needs that extend beyond the employing organization
 
-**DOI:** [10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
+## Theoretical Framework
+Systems theory applied to training evaluation; Kaufman's Mega, Macro, and Micro planning model frames organizational activity in relation to societal outcomes. Extends Kirkpatrick's instrumental framework with a normative dimension.
+
+## Methods
+Conceptual integration of Kirkpatrick's framework with Kaufman's organizational elements model. Illustrative case examples and practitioner tools provided.
+
+## Main Arguments
+1. Kirkpatrick's four levels are necessary but insufficient; organizations that only evaluate internally miss impacts on clients and society
+2. A fifth level (community/societal outcomes) makes training evaluation more responsive to stakeholder accountability demands
+3. Continuous improvement requires closing the feedback loop between evaluation findings and training design
+4. Training professionals who only demonstrate Level 1–2 results are vulnerable to being dismissed as a cost center
+
+## Limitations
+Level 5 evaluation is even more difficult to attribute to training than Level 4; the causal chain becomes highly attenuated. The framework remains primarily prescriptive without strong empirical evidence that adopters produce better training outcomes.
+
+## Connections
+- Directly extends [[EVALUATING]] (Kirkpatrick Four Levels)
+- Relates to [[Program Evaluation]] and [[A Comparative Analysis]] on evaluation frameworks
+- Connects to [[Stolovitch Beresford 2012--evoluation of HPT (1)]] on performance improvement systemic thinking
 
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
-
-## Summary
-Watkins, Leigh, Foshay, and Kaufman propose "Kirkpatrick Plus," a framework that extends Kirkpatrick's four-level evaluation model by adding a fifth level—societal outcomes—and incorporating continuous improvement and community impact perspectives. They argue that as organizations are increasingly accountable to stakeholders beyond their boundaries, training evaluation must assess contributions to community and societal good, not just organizational performance.
-
-## Key Concepts
-- Kirkpatrick Plus evaluation
-- Five-level evaluation
-- Societal outcomes
-- Continuous improvement
-- Training accountability
-
-## Theoretical Framework
-Kaufman's Organizational Elements Model (OEM) provides the theoretical extension to Kirkpatrick, adding macro-level societal impact as the highest order of program accountability.
-
-## Methods
-Conceptual framework development; critical review of the Kirkpatrick model and proposed enhancement with fifth-level societal accountability.
-
-## Main Arguments
-- The Kirkpatrick model's four levels are insufficient for organizations with broader stakeholder accountability
-- A fifth level—societal outcomes—is needed to evaluate training's contribution to community wellbeing
-- Continuous improvement processes should be embedded in evaluation rather than treated as post-hoc
-- Evaluation frameworks must evolve alongside changes in organizational context and stakeholder expectations
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

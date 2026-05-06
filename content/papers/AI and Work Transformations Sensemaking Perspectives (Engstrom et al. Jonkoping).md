@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P65.pdf"
-type: "paper"
-community: "AI and Future of Work"
+type: paper
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
-abstract: "Purpose – The purpose of this study is to explore the process of initial sensemaking that organizational members activate when they reflect on AI adoption in their work settings, and how the perceived features of AI technologies trigger sensemaking processes which in turn have the potential to influence workplace learning modes and trajectories. Design/methodology/approach – We adopted an explorative qualitative and interactive approach to capture free fantasies and imaginative ideas of AI among"
-
-doi: "10.1108/itp-01-2023-0048"
+  - community/Workplace_Learning_and_AI
 ---
 
 # AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)
 
+## Summary
+Engström et al. explore how organizational members make initial sense of AI adoption in their workplaces and how this sensemaking shapes workplace learning trajectories. Through 23 focus groups at four large Swedish manufacturing companies, they find that sensemaking triggered by abstract AI features (AI as intelligent, autonomous) tends toward exploitative learning (refining existing practices), while sensemaking triggered by concrete AI features (AI as a specific tool) tends toward explorative learning paths (discovering new approaches). Socio-technical processes are crucial for the explorative path.
 
-## Abstract
+## Key Concepts
+- Sensemaking theory (Weick)
+- Initial sensemaking of AI adoption
+- Exploitative vs. explorative workplace learning
+- Abstract vs. concrete features of AI technologies
+- Socio-technical learning processes
 
-**DOI:** [10.1108/itp-01-2023-0048](https://doi.org/10.1108/itp-01-2023-0048)
+## Theoretical Framework
+Combines Weick's sensemaking theory with organizational learning theory (exploitation/exploration dichotomy, March); frames AI adoption as a sensemaking process that precedes and shapes learning trajectories; draws on sociotechnical systems theory for analysis of enabling conditions.
 
-Purpose – The purpose of this study is to explore the process of initial sensemaking that organizational members activate when they reflect on AI adoption in their work settings, and how the perceived features of AI technologies trigger sensemaking processes which in turn have the potential to influence workplace learning modes and trajectories. Design/methodology/approach – We adopted an explorative qualitative and interactive approach to capture free fantasies and imaginative ideas of AI among people within the industry. We adopt a conceptual perspective that combines theories on initial sens
+## Methods
+Qualitative, explorative, and interactive; 23 focus groups across four large Swedish manufacturing organizations; Gioia method for data analysis; two aggregated sensemaking dimensions derived inductively.
+
+## Main Arguments
+- Workers' initial mental models of AI (abstract vs. concrete) systematically predict learning trajectories — abstract anthropomorphic conceptions push toward incremental exploitation; concrete tool conceptions enable genuine exploration
+- Organizations must attend to sensemaking processes during AI adoption, not just implementation logistics — wrong sensemaking channels learning in sub-optimal directions
+- Socio-technical configurations (how work is organized around AI, who collaborates with whom) are more influential than the AI technology itself in determining learning outcomes
+- This is one of the first studies to empirically connect sensemaking to workplace learning modes in AI adoption contexts
+
+## Limitations
+- Swedish manufacturing context; sensemaking dynamics may differ significantly in service industries, knowledge work, or non-Nordic organizational cultures
+- Focus group data captures expressed sensemaking but may not fully reflect tacit assumptions guiding behavior
+
+## Connections
+Relates to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on technology and workplace learning; links to [[Learning from Notes Groupware Implementation (Orlikowski 2002)]] on organizational sensemaking and technology; connects to [[Designing Job Characteristics for Hybrid Intelligence (Yang and Jiang)]] on AI-integrated work design.
 
 ## Connections
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Summary
-Engström et al. investigate how organizational members make initial sense of AI adoption in their work settings, using a qualitative, explorative approach with industry participants at Jönköping University. The study finds that AI's perceived features trigger distinct sensemaking processes that in turn shape workplace learning trajectories — how workers interpret AI determines what and how they learn in response to it. The paper contributes a sensemaking lens to AI adoption research, foregrounding the interpretive work that precedes behavioral and organizational change.
-
-## Key Concepts
-- Initial sensemaking about AI (Weick's sensemaking framework)
-- Workplace learning trajectories under AI adoption
-- AI feature perception and organizational meaning-making
-- Explorative qualitative methodology
-
-## Theoretical Framework
-Weickian sensemaking theory combined with workplace learning perspectives (Illeris, Ellström); examines how cognitive framing of AI technologies shapes learning modes and organizational adaptation.
-
-## Methods
-Qualitative explorative study using interactive methods to capture free fantasies and imaginative ideas about AI among industry participants; Jönköping University; theoretical-empirical hybrid approach.
-
-## Main Arguments
-- Workers' initial sensemaking frames shape downstream learning and adoption behaviors
-- AI features trigger specific sensemaking processes (e.g., uncertainty, opportunity, threat)
-- Sensemaking perspectives complement technology adoption models by foregrounding interpretation
-- Organizations need to actively shape sensemaking processes, not just provide AI training
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

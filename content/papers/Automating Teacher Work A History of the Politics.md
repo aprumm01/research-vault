@@ -1,19 +1,14 @@
 ---
-title: "Automating Teacher Work: A History of the Politics"
+source_file: "research_docs/P308.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Automating Teacher Work A History of the Politics.pdf"
+community: "HCI Education and Pedagogy"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
 ---
-# Automating Teacher Work: A History of the Politics
 
-## Key Finding
-The debate on automation in education is also a debate on teachers’ work. Through- out history, promises of labor-saving and efficient automation technologies have been repeatedly promoted, while rese
+# Automating Teacher Work: A History of the Politics
 
 ## Summary
 Historicizes debates on automation in education by analyzing Swedish policy and archival materials from 1957 to the present, showing how automation promises for teachers' work follow a recurring "techno-solutionist" pattern. Argues that automation does not reduce teacher labor but rearranges and intensifies it, and that global platform infrastructures have shifted the scale and political stakes of this dynamic.
@@ -41,3 +36,7 @@ Historical-comparative analysis of Swedish digital and archival policy materials
 Primarily Sweden-focused with a specific social democratic labor history; draws on policy documents rather than teachers' own accounts; the Swedish labour movement context may not generalize to other national settings or systems without strong union traditions.
 
 ## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

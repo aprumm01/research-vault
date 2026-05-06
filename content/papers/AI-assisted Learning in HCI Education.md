@@ -1,25 +1,14 @@
 ---
 source_file: "research_docs/P221.pdf"
-type: "paper"
-community: "AI in Design Education"
+type: paper
+community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
-
-abstract: "The use of generative artificial intelligence (GenAI) tools has in- creased across all sectors in society, including human-computer interaction (HCI) education. While previous research has explored the pedagogical applications of GenAI and the challenges faced by educators and students, there is less focus on GenAI in the context of a design education. We present findings from group interviews and a survey study conducted with interaction design bachelor students, foregrounding the attitudes and"
-
-doi: "10.1145/3742901.3742910"
+  - community/HCI_Education_and_Pedagogy
 ---
 
 # AI-assisted Learning in HCI Education
-
-
-## Abstract
-
-**DOI:** [10.1145/3742901.3742910](https://doi.org/10.1145/3742901.3742910)
-
-The use of generative artificial intelligence (GenAI) tools has in- creased across all sectors in society, including human-computer interaction (HCI) education. While previous research has explored the pedagogical applications of GenAI and the challenges faced by educators and students, there is less focus on GenAI in the context of a design education. We present findings from group interviews and a survey study conducted with interaction design bachelor students, foregrounding the attitudes and perspectives of students who are motivated to learn. We show that although students are generally aware of ethical issues surrounding GenAI, they make considered decisions on how they use
 
 ## Summary
 This paper examines how AI-assisted learning tools are being integrated into HCI education specifically, investigating how AI tutors, code assistants, and feedback systems affect HCI learning outcomes, student engagement, and the development of human-centered design skills. The study finds that AI assistance in HCI courses can support technical skill development effectively but shows mixed results for developing the empathy, contextual reasoning, and critical reflection that are central to HCI practice. The paper calls for HCI-specific AI learning tool design that preserves the discipline's distinctive pedagogical values.
@@ -51,4 +40,4 @@ Single-discipline study may not generalize; learning outcome measures may not ca
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

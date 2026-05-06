@@ -1,25 +1,14 @@
 ---
 source_file: "research_docs/P195.pdf"
-type: "paper"
+type: paper
 community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-
-abstract: "Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunit"
-
-doi: "10.2139/ssrn.5131120"
 ---
 
 # "Strategic Interventions for Mitigating AI-Induced Job Loss at the
-
-
-## Abstract
-
-**DOI:** [10.2139/ssrn.5131120](https://doi.org/10.2139/ssrn.5131120)
-
-Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunities in high -tech fields such as AI development, cybersecurity, and robotics engineering. Approximately 30% of global jobs could be automated by the 2030s, disproportionately af fecting low -skilled workers and exacerbating income inequalities. Reskilling and upskilling initiatives emerge as critical for addressing these disruptions, with personalized AI -enabled training platforms showing promising results in preparing the workforce for AI-driven roles. The research identifies ethical and operati
 
 ## Summary
 This paper examines organizational and policy strategies for mitigating job displacement caused by AI, reviewing evidence on retraining programs, wage subsidies, job redesign, and social protection mechanisms. The authors argue that no single intervention is sufficient and that effective AI displacement mitigation requires coordinated strategies operating at multiple levels: individual, organizational, industry, and policy. The paper evaluates existing intervention evidence and proposes a multi-level framework for organizations and policymakers addressing AI-induced workforce transition.

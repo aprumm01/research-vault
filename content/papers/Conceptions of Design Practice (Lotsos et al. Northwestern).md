@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P25.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates "
-
-doi: "10.1504/jdr.2015.071456"
 ---
 
 # Conceptions of Design Practice (Lotsos et al. Northwestern)
 
+## Summary
+Lotsos, Wang, and Horn investigate how design practice is understood by students, educators, and professionals through 21 semi-structured interviews. Their analysis reveals three qualitatively distinct conceptions: Artifact-Centered (design as production of things), Human-Centered (design as problem-solving for people), and Cross-Functional (design as collaborative organizational value creation). These conceptions represent increasingly refined understandings of designers' roles and competencies, offering HCI and design educators a developmental lens for curriculum design and assessment.
 
-## Abstract
+## Key Concepts
+- Conceptions of design practice
+- Artifact-Centered, Human-Centered, Cross-Functional frameworks
+- Designer identity development
+- Academy-to-industry transition
+- HCI and design education
 
-**DOI:** [10.1504/jdr.2015.071456](https://doi.org/10.1504/jdr.2015.071456)
+## Theoretical Framework
+Uses phenomenographic methodology, which focuses on qualitatively distinct ways of experiencing a phenomenon rather than individual differences; draws on practice theory and design education literature.
 
-Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates conceptions of design practice in current and future design professionals. We share findings from 21 semi-structured interviews with students, educators, and profes- sionals. Our analysis reveals t
+## Methods
+21 semi-structured interviews with current students, educators, and industry professionals across HCI and design programs; phenomenographic analysis to identify and characterize the three conceptions.
+
+## Main Arguments
+- Conceptions of design practice are not simply a matter of experience level — they reflect qualitatively different orientations toward what design is and who it serves
+- The Artifact-Centered conception is common among students and can persist into practice, leading to undervaluing of research and human context
+- Cross-Functional conception is rare but most aligned with professional demands; developing it requires explicit curricular attention to collaboration and organizational context
+- Design educators should use conceptions as diagnostic tools to understand where students are and design targeted learning experiences
+
+## Limitations
+- Phenomenographic categories are idealizations; real practitioners hold mixed or transitional conceptions
+- Sample drawn from specific US institutions; may not capture conceptions shaped by different design traditions
+
+## Connections
+Relates to [[Educating for Design Character (Boling Gray Smith)]] on design character and studio pedagogy; links to [[Developing Human Experience Experts (Cheatham Miami U)]] on HX expertise development; connects to [[Designerly Ways of Knowing (Cross 1982)]] on design as a distinct discipline.
 
 ## Connections
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Lotsos et al. examine how conceptions of design practice differ between academic and industry contexts, finding significant gaps between how design is theorized in educational settings and how it is practiced in professional environments. Drawing on interviews and analysis from Northwestern University, the paper documents the assumptions about design work that practitioners bring from academia to industry and where those assumptions fail or need revision. The paper contributes to understanding the transition from design education to professional practice.
-
-## Key Concepts
-- Conceptions of design practice (academic vs. industry)
-- Theory-practice gap in design
-- Academy-to-industry transition in design careers
-- Professional socialization in design
-
-## Theoretical Framework
-Sociology of professions and design education research; examines how professional identity and practice norms are formed in academic contexts and then tested against industry reality.
-
-## Methods
-Qualitative empirical study at Northwestern University; likely interviews with designers transitioning from education to industry; thematic analysis of differences between academic and industrial conceptions of design practice.
-
-## Main Arguments
-- Academic and industry conceptions of design practice differ in significant and consequential ways
-- Design education instills certain assumptions about design work that industry contexts challenge
-- The academy-to-industry transition involves substantial identity and practice renegotiation
-- Design education should better prepare students for the specific conceptions of practice they will encounter in industry

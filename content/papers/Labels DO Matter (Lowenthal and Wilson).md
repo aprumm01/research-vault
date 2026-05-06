@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P109.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "AECT has recently (yet again!) redefined our field, reverting back to the use of the term educational technology. We believe this recent change is problematic for a number of reasons, but primarily because of the weak rationale of - fered for the change. This change affects how external audiences view our profession and is likely to confuse practitioners in corporate and higher edu - cation settings in particu - lar. We offer a review of job postings, program titles, and listserv discussions to "
-
-doi: "10.5465/amproc.2024.13075abstract"
 ---
 
 # Labels DO Matter (Lowenthal and Wilson)
 
+## Summary
+Lowenthal and Wilson (2010, *TechTrends*) critique AECT's 2008 decision to revert from "instructional technology" to "educational technology" as the field's official label, arguing the change was poorly reasoned and practically damaging. Drawing on job posting analysis, program title surveys, and listserv discussions, they demonstrate that "educational technology" is less recognizable and less marketable to corporate and higher education employers than alternatives like "instructional design," "instructional technology," or "learning and development." The authors argue that definitional and labeling choices have real professional consequences that the AECT committee inadequately considered.
 
-## Abstract
+## Key Concepts
+- **Field labeling**: The choice of what to call a field shapes how it is recognized, hired for, and positioned relative to adjacent fields
+- **Professional branding**: Labels function as brand identifiers in job markets
+- **AECT 2008 definition**: The committee's reversion to "educational technology" from prior terminology
+- **Practitioner vs. academic perspectives**: The 2008 definition may reflect academic commitments that diverge from practitioner needs
+- **Market recognition**: Employer familiarity with a field's label affects hiring and program enrollment
 
-**DOI:** [10.5465/amproc.2024.13075abstract](https://doi.org/10.5465/amproc.2024.13075abstract)
+## Theoretical Framework
+Sociology of professions and professional identity; labels are understood as performative—they shape the field they purport to describe. Empirical evidence from job market analysis grounds the argument in observable professional consequences.
 
-AECT has recently (yet again!) redefined our field, reverting back to the use of the term educational technology. We believe this recent change is problematic for a number of reasons, but primarily because of the weak rationale of - fered for the change. This change affects how external audiences view our profession and is likely to confuse practitioners in corporate and higher edu - cation settings in particu - lar. We offer a review of job postings, program titles, and listserv discussions to support our case. The labels we use to define ourselves are critically important - and we hope to see a stron- ger case made for changes for our foundational defi - nitions in the future. Keywords: Definitions, Redefinition of Field, Labels, Language and Identity, Branding, Practi- tioner Perspectives Students, academics, and working profes - sionals struggle with some of the naming and labeling conventions used in our field. Most pro- f
+## Methods
+Analysis of job postings and program titles; review of AECT listserv discussions; comparative survey of how different terms are used in practitioner and academic contexts.
+
+## Main Arguments
+1. The rationale offered by AECT for reverting to "educational technology" was weak and insufficiently attentive to practitioner consequences
+2. "Educational technology" is more recognizable in K-12 and higher education settings but less so in corporate training and business contexts
+3. The field's multiple competing labels reflect real tensions between academic and practitioner communities
+4. Future definitional changes should be made with stronger empirical evidence and broader stakeholder consultation
+
+## Limitations
+The job market analysis may not reflect current naming practices; professional labels shift over time and 2010 findings may be outdated. The authors' preference for "instructional technology/design" language reflects their own professional positioning.
+
+## Connections
+- Directly critiques [[AECT Definition and Terminology (2008)]] and [[Januszewski and Molenda - Educational Technology Definition (2008)]]
+- Relates to [[Reiser (2018)--Chapter 1 What field]] on field identity debates
+- Connects to [[Spector 2008 - Theoretical Foundations Ed Communication and Tech]] on the field's theoretical foundations
 
 ## Connections
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Lowenthal and Wilson critique the AECT's 2008 decision to revert to the term "educational technology" after years of using "instructional technology" or "instructional design and technology," arguing the change was poorly justified and creates confusion among practitioners, especially in corporate and higher education settings. Using evidence from job postings, program titles, and professional listservs, they demonstrate that labels shape professional identity, public perception, and career recognition in significant ways.
-
-## Key Concepts
-- Field naming and identity
-- Educational technology vs. instructional technology
-- Professional branding
-- AECT definition
-- Practitioner perspectives
-
-## Theoretical Framework
-Professional identity theory and discourse analysis frame the argument that terminology choices are not neutral but actively construct the boundaries and status of a professional field.
-
-## Methods
-Analytical review; examination of job postings, academic program titles, and professional listserv discussions; evidence-based critique of definitional decisions.
-
-## Main Arguments
-- The label a field uses for itself shapes how external audiences perceive and value that field
-- Reverting to "educational technology" creates confusion for practitioners working in corporate and higher education contexts
-- Strong rationale is needed before making changes to foundational definitions that affect professional identity
-- Labels function as professional signals that influence hiring, program design, and public legitimacy

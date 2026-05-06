@@ -1,25 +1,43 @@
 ---
 source_file: "research_docs/P28.pdf"
-type: "paper"
+type: paper
 community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
-
-doi: "10.1145/1375761.1375762"
-
-abstract: "The role of prototypes is well established in the field of HCI and Design. A lack of knowledge, however, about the fundamental nature of prototypes still exists. Researchers have attempted to identify different types of prototypes, such as low- vs. high-fidelity prototypes, but these attempts have centered on evaluation rather than support of design exploration. There have also been efforts to provide new ways of thinking about the activity of using prototypes, such as experience prototyping and"
 ---
 
 # Anatomy of Prototypes (Lim Stolterman Tenenberg)
 
+## Summary
+Lim, Stolterman, and Tenenberg propose a conceptual framework — an "anatomy of prototypes" — for understanding what prototypes fundamentally are and how they function in design practice. Based on two case studies, they identify two key dimensions: prototypes as filters (they selectively foreground certain design qualities by filtering out others) and prototypes as manifestations (they make design ideas concrete and communicable). This framework reframes prototypes from mere evaluation tools to active generators of design thinking throughout the design process.
 
-## Abstract
+## Key Concepts
+- Prototypes as filters
+- Prototypes as manifestations of design ideas
+- Design space exploration
+- Fidelity vs. filtering distinction
+- Prototype anatomy (what a prototype is, not just what it does)
 
-**DOI:** [10.1145/1375761.1375762](https://doi.org/10.1145/1375761.1375762)
+## Theoretical Framework
+Draws on design theory and HCI practice; explicitly moves beyond fidelity-based (low/high) categorizations to a functional/ontological account of what prototyping does in design; informed by Buxton's sketching perspective and design cognition research.
 
-The role of prototypes is well established in the field of HCI and Design. A lack of knowledge, however, about the fundamental nature of prototypes still exists. Researchers have attempted to identify different types of prototypes, such as low- vs. high-fidelity prototypes, but these attempts have centered on evaluation rather than support of design exploration. There have also been efforts to provide new ways of thinking about the activity of using prototypes, such as experience prototyping and paper prototyping, but these efforts do not provide a discourse for understanding fundamental characteristics of prototypes. In this article, we propose an anatomy of prototypes as a framework for prototype conceptualization. We view prototypes not only in their role in evaluation but also in their generative role in enabling designers to reflect on their design activities in exploring a design space. We base this framework on the findings of two case studies that reveal two key dimensions: prototypes as filters and prototypes as manifestations. We explain why these two dimensions are important and how this conceptual framework can benefit our field by establishing more solid and systematic knowledge about prototypes and prototyping.
+## Methods
+Two case studies of design practice in which prototyping was central; grounded analysis to derive the filter/manifestation dimensions; conceptual framework synthesis.
+
+## Main Arguments
+- The dominant HCI view of prototypes as evaluation tools captures only a fraction of their actual use — most prototyping is generative and exploratory, not evaluative
+- The filtering dimension explains why prototypes work: by strategically ignoring most design qualities, a prototype focuses attention on specific aspects, enabling targeted exploration
+- The manifestation dimension explains why prototypes matter: they externalize internal design ideas, making them available for reflection, critique, and communication
+- Fidelity alone is a misleading descriptor — two prototypes can have the same fidelity but very different filtering profiles
+
+## Limitations
+- Two-case empirical basis; anatomy may not cover all prototype functions across different design domains and modalities
+- Framework is descriptive/analytical rather than directly prescriptive about when to use which prototype type
+
+## Connections
+Links to [[Designerly Ways of Knowing (Cross 1982)]] on modelling as core design method; relates to [[Educating for Design Character (Boling Gray Smith)]] on design practice; informs [[Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] on AI-mediated design exploration.
 
 ## Connections
 - [[Cognitive Co-Evolution Model for Design (Cash et al.)]] - `` [EXTRACTED]
@@ -27,24 +45,3 @@ The role of prototypes is well established in the field of HCI and Design. A lac
 - [[Design Thinking]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Summary
-Lim, Stolterman, and Tenenberg develop a conceptual framework — the "anatomy of prototypes" — that systematizes the properties of prototypes along dimensions of filtering (what aspects of a design artifact the prototype represents) and resolution (how accurately those aspects are represented). The framework helps designers and researchers understand why prototypes have different epistemic and communicative functions, and when different prototyping strategies are appropriate. Published in 2008, it remains a foundational reference in design and HCI prototyping research.
-
-## Key Concepts
-- Anatomy of prototypes (filter and resolution dimensions)
-- Filtering (what aspects a prototype represents)
-- Resolution (fidelity of representation)
-- Prototyping as epistemic and communicative activity
-
-## Theoretical Framework
-Design theory and HCI research; analytical-conceptual framework development through examination of prototyping practice; draws on design studies, interaction design, and software engineering literatures.
-
-## Methods
-Conceptual framework development through analysis of prototyping practice and theory; illustrated with examples from design and HCI; published in ACM Transactions on Computer-Human Interaction, 2008, Vol. 15, No. 2.
-
-## Main Arguments
-- Prototypes are not simply low- or high-fidelity — their properties must be understood along multiple dimensions
-- The filter dimension (what is represented) is as important as the resolution dimension (how accurately)
-- The anatomy framework helps designers make deliberate prototyping choices rather than defaulting to conventions
-- Understanding prototype anatomy improves communication in design teams about what a prototype shows and hides

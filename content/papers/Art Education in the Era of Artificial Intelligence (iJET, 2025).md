@@ -1,25 +1,14 @@
 ---
-title: "Art Education in the Era of Artificial Intelligence (iJET, 2025)"
+source_file: "research_docs/P243.pdf"
 type: paper
-community: ""
-year: ""
-venue: "Journal of Emerging Technologies in Learning (iJET) 75 iJET"
-institution: "02.52089 Article submitted 2024-09-05. Revision uploaded 202"
-source_file: "Art Education in the Era of Artificial Intelligence.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
-
-doi: "10.3991/ijet.v20i02.52089"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # Art Education in the Era of Artificial Intelligence (iJET, 2025)
-
-**DOI:** [10.3991/ijet.v20i02.52089](https://doi.org/10.3991/ijet.v20i02.52089)
-
-**Venue:** Journal of Emerging Technologies in Learning (iJET) 75 iJET
-**Institution:** 02.52089 Article submitted 2024-09-05. Revision uploaded 202
-
-## Key Finding
-This study focused on the phenomenon of technological anxiety in the contemporary art world within the context of artificial intelligence (AI) technology. By analyzing cases of anti-AI move- ments in
 
 ## Summary
 This study examines technological anxiety among art practitioners and students triggered by AI-generated content, analyzing anti-AI movements on platforms such as ArtStation and GitHub. It argues that anxiety centers on intellectual property disputes and fears of occupational substitution, and proposes strategies—including emphasizing core artistic values and improving educator AI proficiency—to alleviate that anxiety.
@@ -47,3 +36,6 @@ Qualitative; content analysis and case studies tracking social media movements (
 The study draws on Chinese institutional contexts and publicly visible social media cases rather than direct artist interviews, which limits generalizability; proposed solutions are prescriptive rather than empirically tested.
 
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

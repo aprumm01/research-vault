@@ -1,24 +1,14 @@
 ---
 source_file: "research_docs/P248.pdf"
-type: "paper"
+type: paper
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.1109/jiot.2023.3319542"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Embedding Cooperative Learning into the
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1109/jiot.2023.3319542](https://doi.org/10.1109/jiot.2023.3319542)
 
 ## Summary
 Brush's 1998 paper proposes a framework for embedding cooperative learning principles into the design of integrated learning systems (ILS), arguing that while ILS software effectively addresses individual learner needs, it has systematically underutilized the substantial evidence base for cooperative learning's benefits. The paper synthesizes cooperative learning research (positive interdependence, individual accountability, face-to-face interaction, social skills, group processing) and translates each principle into specific ILS design recommendations. It remains relevant to contemporary learning technology design debates about balancing individual adaptive learning with social-cooperative dimensions.

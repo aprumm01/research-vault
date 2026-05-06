@@ -1,50 +1,47 @@
 ---
 source_file: "research_docs/P133.pdf"
-type: "paper"
+type: paper
 community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-
-abstract: "Generative AI (GenAI) has fundamentally changed how knowl- edge workers, such as software developers, solve tasks and collaborate to build software products. Introducing innovative tools like ChatGPT and Copilot has created new opportunities to assist and augment software developers across various problems. We conducted an empirical study involving interviews with 13 data scientists, managers, developers, de- signers, and frontend developers to investigate the usage of GenAI. Our study reveals t"
-
-doi: "10.1515/9783111677798-008"
 ---
 
 # Transforming Software Development with Generative AI
 
+## Summary
+Ulfsnes, Moe, Stray, and Skarpen (SINTEF and University of Oslo) present empirical findings from interviews with 13 data scientists, managers, developers, designers, and frontend developers on how generative AI tools (primarily ChatGPT and GitHub Copilot) are transforming software development workflows and collaboration. The study finds that ChatGPT represents a paradigm shift for individual developer productivity but that its effects on team-level collaboration are more complex and uneven. AI tools are primarily used for code generation, debugging, and documentation—but rarely for coordination or planning tasks.
 
-## Abstract
+## Key Concepts
+- **GenAI as individual productivity amplifier**: AI tools dramatically accelerate coding, documentation, and problem-solving for individual developers
+- **Team-level effects**: GenAI's impact on collaboration, coordination, and knowledge sharing within development teams is more limited and nuanced
+- **Tool integration patterns**: How ChatGPT and Copilot are embedded in developer workflows and IDE environments
+- **Skill and role reconfiguration**: GenAI changes what skills matter (prompting, output evaluation, integration) relative to traditional coding
+- **Paradigm shift metaphor**: Study participants described ChatGPT as a fundamental change in how software development feels and works
 
-**DOI:** [10.1515/9783111677798-008](https://doi.org/10.1515/9783111677798-008)
+## Theoretical Framework
+Empirical software engineering and CSCW traditions, drawing on sociotechnical systems theory. The interview method captures practitioners' experiential accounts of AI adoption in real organizational contexts.
 
-Generative AI (GenAI) has fundamentally changed how knowl- edge workers, such as software developers, solve tasks and collaborate to build software products. Introducing innovative tools like ChatGPT and Copilot has created new opportunities to assist and augment software developers across various problems. We conducted an empirical study involving interviews with 13 data scientists, managers, developers, de- signers, and frontend developers to investigate the usage of GenAI. Our study reveals that ChatGPT signifies a paradigm shift in the workflow of software developers. The technolo
+## Methods
+Qualitative interview study with 13 participants across roles (data scientists, managers, developers, designers, frontend developers) at Norwegian technology organizations. Thematic analysis of interview transcripts.
+
+## Main Arguments
+1. GenAI tools fundamentally change the workflow of individual software developers, reducing time on routine coding and documentation tasks
+2. Team-level collaboration effects are more complex: AI may create new knowledge-sharing asymmetries and communication challenges
+3. The value of AI tools depends heavily on the quality of the prompt and the practitioner's ability to critically evaluate AI outputs
+4. Organizations adopting GenAI in software development need to address governance, quality assurance, and skill development, not just tool access
+
+## Limitations
+Small qualitative sample (N=13); Norwegian software organization context may not generalize broadly. Rapid evolution of GenAI tools means findings may become outdated. Self-report interview data cannot verify actual productivity improvements.
+
+## Connections
+- Connects to [[AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)]] on longitudinal effects of AI on software team collaboration
+- Relates to [[Fr om code to collaboration]] on IT professionals' perceptions of AI workforce impacts
+- Pairs with [[UX Designers Pushing AI in the Enterprise - Adaptive UIs (2)]] on AI in professional design and development practice
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Summary
-Ulfsnes et al. conduct an empirical study with 13 data scientists, managers, developers, and designers at a Norwegian software company to investigate how generative AI tools (particularly ChatGPT and GitHub Copilot) are changing software development workflows and team collaboration. They find that GenAI represents a paradigm shift in how developers solve problems, enabling faster iteration and knowledge access, but also introducing new challenges around code quality, dependency, and team knowledge-sharing norms.
-
-## Key Concepts
-- Generative AI in software development
-- Developer workflows
-- Human-AI collaboration
-- Knowledge work transformation
-- ChatGPT and Copilot
-
-## Theoretical Framework
-Organizational knowledge management and technology adoption theory frame the analysis of how GenAI tools are transforming individual and team-level software development practices.
-
-## Methods
-Qualitative empirical study; semi-structured interviews with 13 participants across roles at a Norwegian software company; thematic analysis.
-
-## Main Arguments
-- ChatGPT and Copilot represent a paradigm shift in software development, fundamentally changing problem-solving approaches
-- GenAI accelerates development cycles and reduces time spent on information retrieval
-- New challenges arise around code quality verification, AI dependency, and knowledge retention
-- Team norms for AI use are evolving organically and need explicit organizational attention

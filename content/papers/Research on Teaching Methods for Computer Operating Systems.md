@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P118.pdf"
-type: "paper"
+type: paper
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-
-abstract: "As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin"
-
-doi: "10.1145/3744367.3744368"
 ---
 
 # Research on Teaching Methods for Computer Operating Systems
 
+## Summary
+Wei et al. (Space Engineering University, Beijing) investigate teaching methods for a computer operating systems course in an information security program, combining AI tools with structured seminars to improve student learning outcomes. The study integrates AI-assisted tools for personalized practice, automated feedback, and concept visualization with seminar-based collaborative discussion to overcome limitations of traditional lecture-based instruction. Results indicate improved student engagement, conceptual understanding, and performance on practical assessments compared to conventional methods.
 
-## Abstract
+## Key Concepts
+- **Blended AI-seminar instruction**: Combining AI-assisted practice tools with structured collaborative seminars
+- **Computer operating systems education**: Teaching foundational concepts (processes, memory management, scheduling, file systems) to information security students
+- **Personalized practice**: AI tools that adapt problem difficulty and feedback to individual student performance patterns
+- **Structured seminars**: Small-group discussion sessions around prepared questions; moves beyond passive lecture reception
+- **Automated feedback**: Immediate AI-generated feedback on coding exercises and conceptual questions
 
-**DOI:** [10.1145/3744367.3744368](https://doi.org/10.1145/3744367.3744368)
+## Theoretical Framework
+Active learning and constructivist pedagogy applied to computer science education. The integration of AI tools is framed through instructional design principles emphasizing feedback, practice, and interactivity.
 
-As a basic course for information security majors, computer oper- ating system helps students master the basic principles and opera- tion skills of computer operating system. the traditional teaching mode of this course is implemented by the teacher speakin
+## Methods
+Experimental or quasi-experimental design comparing AI+seminar instruction to traditional lecture instruction in a Chinese military university context. Assessment of conceptual understanding and practical skills.
+
+## Main Arguments
+1. Traditional lecture-based instruction for operating systems concepts produces passive learning and poor transfer to practical problems
+2. AI-assisted tools provide scalable, personalized practice that traditional instruction cannot match given class sizes
+3. Structured seminars develop the analytical and collaborative skills necessary for information security professional practice
+4. The combination of AI tools and seminar discussion is more effective than either approach alone
+
+## Limitations
+Military university context with specific disciplinary constraints limits generalizability. Chinese higher education pedagogical context may differ from other settings. Specific AI tools described may become outdated.
+
+## Connections
+- Relates to [[Generative AI Integrated Educational Model for User-Centered]] on AI integration in technical courses
+- Connects to [[Contemporary Educational Technology, 2025, 17(3), ep583]] on AI in higher education instruction
+- Pairs with [[Scaffolding and Achievement in Problem-Based and Inquiry Learning]] on active learning in technical subjects
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
-
-## Summary
-Wei et al. propose a hybrid teaching approach for computer operating systems courses that integrates AI-assisted instruction with structured seminars, addressing limitations of traditional lecture-based methods for a complex technical subject. Their approach uses AI tools to provide personalized explanations and feedback alongside structured discussion seminars that develop students' analytical reasoning. The study demonstrates improved learning outcomes compared to conventional instruction.
-
-## Key Concepts
-- AI-integrated teaching
-- Computer science education
-- Structured seminars
-- Hybrid instruction
-- Operating systems education
-
-## Theoretical Framework
-Active learning theory and technology-enhanced instruction frame the design of the hybrid approach, combining AI scaffolding with collaborative sense-making through structured seminar formats.
-
-## Methods
-Educational intervention study; comparison of traditional and hybrid AI+seminar teaching methods in computer operating systems courses at Space Engineering University, Beijing.
-
-## Main Arguments
-- Traditional lecture-only instruction is insufficient for complex, abstract technical content in operating systems
-- AI tools can provide personalized, on-demand explanations that adapt to individual student needs
-- Structured seminars develop analytical reasoning and peer learning that AI alone cannot provide
-- The hybrid approach demonstrates improved learning outcomes and student engagement

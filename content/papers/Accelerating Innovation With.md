@@ -1,24 +1,14 @@
 ---
 source_file: "research_docs/P172.pdf"
-type: "paper"
-community: "Responsible AI Governance"
+type: paper
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
-
-doi: "10.1109/EMR.2023.3272799"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
+  - community/AI_in_Design_Education
 ---
 
 # Accelerating Innovation With
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
 
 ## Summary
 This paper examines how generative AI tools are accelerating innovation workflows through AI-augmented digital prototyping and innovation methods, arguing that GenAI represents a qualitative shift in innovation capacity by compressing the ideation-to-prototype cycle. The authors present case studies of organizations using GenAI in early-stage innovation, documenting how AI-augmented digital prototyping enables rapid exploration of a wider solution space than traditional methods allow. The paper argues for a new "AI-augmented innovation" methodology that systematically integrates GenAI into established innovation frameworks.
@@ -50,4 +40,4 @@ Case study evidence; GenAI innovation acceleration effects may be context-specif
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

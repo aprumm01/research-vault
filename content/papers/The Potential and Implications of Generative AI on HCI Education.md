@@ -1,50 +1,47 @@
 ---
 source_file: "research_docs/P131.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "Generative AI (GAI) is impacting teaching and learning directly or indirectly across a range of subjects and disciplines. As educators, we need to understand the potential and limitations of AI in HCI education and ensure our graduating HCI students are aware of the potential and limitations of AI in HCI. In this paper, we report on the main pedagogical insights gained from the inclusion of generative AI into a 10-week undergraduate module. We designed the module to encourage student experimenta"
-
-doi: "10.1145/3658619.3658627"
 ---
 
 # The Potential and Implications of Generative AI on HCI Education
 
+## Summary
+Kharrufa and Johnson (Open Lab, Newcastle University) report on pedagogical insights from integrating generative AI into a 10-week undergraduate HCI module. The module deliberately incorporated GenAI into design briefs and practical sessions, encouraging students to experiment with AI models as creative partners. Survey findings reveal that students found AI valuable for generating initial ideas and creating project resources, but struggled with AI's limitations for nuanced user understanding and ethical reasoning. The paper provides practical recommendations for HCI educators navigating GenAI integration.
 
-## Abstract
+## Key Concepts
+- **GenAI as design persona**: Using AI models to simulate user perspectives and generate design ideas during early ideation phases
+- **AI-assisted resource creation**: Using GenAI to rapidly produce design artifacts, prototypes, and research stimuli
+- **GenAI's HCI-specific limitations**: AI struggles with nuanced contextual user understanding, cultural sensitivity, and ethical design judgment
+- **Experimental pedagogy**: Designing coursework to actively explore GenAI's affordances rather than treating AI as a given tool
+- **Student perceptions of GenAI**: Generally positive for productivity, but skeptical about AI's adequacy for deep human understanding
 
-**DOI:** [10.1145/3658619.3658627](https://doi.org/10.1145/3658619.3658627)
+## Theoretical Framework
+HCI education research drawing on design pedagogy and technology-enhanced learning. The study uses a reflective practitioner approach—the instructors designed, implemented, and analyzed their own pedagogical intervention.
 
-Generative AI (GAI) is impacting teaching and learning directly or indirectly across a range of subjects and disciplines. As educators, we need to understand the potential and limitations of AI in HCI education and ensure our graduating HCI students are aware of the potential and limitations of AI in HCI. In this paper, we report on the main pedagogical insights gained from the inclusion of generative AI into a 10-week undergraduate module. We designed the module to encourage student experimentation with GAI models as part of the design brief requirement and planned practical sessions and discussions. Our insights are based on replies to a survey sent out to the students after completing the module. Our key findings, for HCI educators, report on the use of AI as a persona for developing project ideas and creating resources for
+## Methods
+Single-module case study at Newcastle University; survey administered to students after completing the module. Qualitative and quantitative analysis of student responses about AI use and learning outcomes.
+
+## Main Arguments
+1. GenAI can be productively integrated into HCI education as a design partner for early-stage ideation and resource generation
+2. HCI students need explicit instruction in AI's limitations for understanding human context, not just its capabilities
+3. Treating GenAI as a site of critical inquiry—not just a productivity tool—better prepares HCI students for ethical AI practice
+4. Module design should build in structured reflection on when and why AI assistance is (and is not) appropriate
+
+## Limitations
+Single institution, single module, single instructor perspective. Survey-based self-report may not capture actual learning outcomes. Rapid GenAI development means insights about specific tools may have short shelf-life.
+
+## Connections
+- Connects to [[ASCILITE 2024]] on AI literacy needs in HCI and UX education
+- Relates to [[Using Generative AI to Support UX Design Students in Web Dev]] on AI in design education
+- Pairs with [[The Impact of Generative AI on the CSCW Landscape Insights]] on GenAI's impact on HCI scholarship and education
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Kharrufa and Johnson at Newcastle University report on insights from integrating generative AI into a 10-week undergraduate HCI module, where students were encouraged to experiment with GenAI models as part of their design briefs. They find that GenAI can serve as a "persona" for developing project ideas and creating user research resources, but also raises important questions about critical thinking, evaluation skills, and what HCI education should teach in an AI-augmented world.
-
-## Key Concepts
-- Generative AI in HCI education
-- AI as design persona
-- Undergraduate design education
-- Critical evaluation skills
-- Pedagogical implications
-
-## Theoretical Framework
-HCI pedagogy and design education theory frame the investigation of how GenAI changes what students should learn and how educators should structure learning experiences in HCI courses.
-
-## Methods
-Pedagogical study; 10-week undergraduate module; student survey after completion; analysis of insights about GenAI use in HCI education.
-
-## Main Arguments
-- GenAI can productively serve as a user persona resource in HCI student projects
-- Students need explicit guidance on critically evaluating AI outputs for accuracy and bias
-- GenAI integration in HCI education raises fundamental questions about what skills must remain human
-- Educators must balance leveraging GenAI's capabilities with preserving authentic learning challenges

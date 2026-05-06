@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P57.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "The use of generative artificial intelligence (GenAI) tools has in- creased across all sectors in society, including human-computer interaction (HCI) education. While previous research has explored the pedagogical applications of GenAI and the challenges faced by educators and students, there is less focus on GenAI in the context of a design education. We present findings from group interviews and a survey study conducted with interaction design bachelor students, foregrounding the attitudes and"
-
-doi: "10.1145/3742901.3742910"
 ---
 
 # AI-assisted Learning in HCI Education (Heyer et al. Malmo)
 
+## Summary
+Heyer, Nilsson, and Pedersen present findings from group interviews and a survey study with interaction design bachelor students at Malmö University examining how motivated learners use and think about GenAI tools in their education. Contrary to dominant institutional narratives emphasizing prohibition and ethical risk, students demonstrate nuanced, self-regulated GenAI use guided by their pride in learning and personal accomplishment. Students are aware of ethical concerns but make considered choices about when and how to use AI — with educators playing a surprisingly limited role in shaping these practices.
 
-## Abstract
+## Key Concepts
+- Student GenAI use in HCI/interaction design education
+- Self-regulated learning and GenAI
+- Student identity and pride in accomplishment
+- Ethics of AI use in higher education
+- Educator role in shaping AI practices
 
-**DOI:** [10.1145/3742901.3742910](https://doi.org/10.1145/3742901.3742910)
+## Theoretical Framework
+Grounded in student-centered learning research and identity formation in higher education; challenges institutional framing of GenAI primarily as academic integrity risk; draws on self-determination theory to explain motivation-based AI use.
 
-The use of generative artificial intelligence (GenAI) tools has in- creased across all sectors in society, including human-computer interaction (HCI) education. While previous research has explored the pedagogical applications of GenAI and the challenges faced by educators and students, there is less focus on GenAI in the context of a design education. We present findings from group interviews and a survey study conducted with interaction design bachelor students, foregrounding the attitudes and perspectives of students who are motivated to learn. We show that although students are generally aware of ethical issues surrounding GenAI, they make considered decisions on how they use
+## Methods
+Group interviews (3 groups, 6 students total) and online survey (25 respondents) with interaction design bachelor students spanning first to final year; qualitative thematic analysis of interview data; survey for triangulation.
+
+## Main Arguments
+- Students use GenAI in nuanced, context-sensitive ways — their primary regulator is their sense of accomplishment and learning integrity, not institutional policy
+- Moralistic and disciplinary institutional rhetoric is largely ineffective because it misunderstands students' actual motivations and practices
+- Students navigate a complex terrain of identity questions: what does it mean to learn, to create, to achieve, when AI can assist?
+- Educators are largely absent from students' GenAI practice development — a gap that presents both a risk (unguided development) and an opportunity (authentic student agency)
+
+## Limitations
+- Small qualitative sample from one Scandinavian institution; findings reflect a specific educational culture
+- Focuses on motivated learners — students who struggle or use GenAI problematically may have different patterns
+
+## Connections
+Relates to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on student designer identity; links to [[Educating for Design Character (Boling Gray Smith)]] on student character in design education; connects to [[AI Literacy in Design Education Comparative Study (Schauer et al. HTW Berlin)]] on AI literacy pedagogy.
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Heyer et al. report student perspectives on AI-assisted learning in HCI education at Malmö University, documenting both the opportunities and dilemmas that emerge when students use AI tools for HCI coursework. Students find AI assistance helpful for routine tasks and early exploration but encounter dilemmas around learning depth, academic integrity, and the development of genuine HCI competencies. The paper contributes a student-centered account to the literature on AI in higher education, foregrounding learner experience over instructor or curriculum perspectives.
-
-## Key Concepts
-- AI-assisted learning in HCI education
-- Student perspectives on AI tool use in coursework
-- Opportunities and dilemmas framework
-- Academic integrity in AI-assisted learning
-
-## Theoretical Framework
-Student-centered educational research; phenomenological or interpretive approach to understanding learner experience with AI tools in a specific professional education context (HCI).
-
-## Methods
-Qualitative study at Malmö University; student perspectives gathered through interviews, surveys, or reflection journals; analysis of dilemmas encountered during AI-assisted HCI coursework; published in CHI or HCI education venue.
-
-## Main Arguments
-- AI assistance in HCI education creates genuine learning opportunities for exploration and iteration
-- Students face real dilemmas about when AI use enhances vs. undermines learning
-- Academic integrity concerns are present but contextually variable
-- HCI educators need explicit frameworks for guiding responsible AI tool use in learning

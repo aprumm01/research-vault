@@ -1,20 +1,16 @@
 ---
-title: "Program Evaluation: Concepts and Practices (Fitzpatrick, Sanders & Worthen)"
+source_file: "research_docs/P98.pdf"
 type: paper
-community: ""
-year: ""
-venue: "chigan University Blaine R. Worthen Utah State University"
-institution: "ody L. Fitzpatrick University of Colorado, Denver James R. S"
-source_file: "fitzpatrick_program_evaluation_ch1.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # Program Evaluation: Concepts and Practices (Fitzpatrick, Sanders & Worthen)
 
-**Venue:** chigan University Blaine R. Worthen Utah State University
-**Institution:** ody L. Fitzpatrick University of Colorado, Denver James R. S
-
-## Key Finding
-Alternative Approaches and Practical Guidelines THIRD EDITION
-
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

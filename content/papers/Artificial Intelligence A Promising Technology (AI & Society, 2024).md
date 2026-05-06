@@ -1,19 +1,14 @@
 ---
-title: "Artificial Intelligence: A Promising Technology (AI & Society, 2024)"
+source_file: "research_docs/P305.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Artificial intelligence a promising technology.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
-# Artificial Intelligence: A Promising Technology (AI & Society, 2024)
 
-## Key Finding
-This paper addresses the question of how the ups and downs in the development of artificial intelligence (AI) since its incep- tion can be explained. It focuses on the development of artificial intell
+# Artificial Intelligence: A Promising Technology (AI & Society, 2024)
 
 ## Summary
 Examines the current state and future potential of artificial intelligence as a technology with profound societal implications, tracing AI's development from early expert systems through modern machine learning and discussing both the transformative opportunities and the ethical, social, and economic challenges it presents. Situates AI within broader discussions of technological promise and societal responsibility.
@@ -41,3 +36,6 @@ Conceptual/review paper; analysis of current AI capabilities and trajectories; d
 General overview perspective may lack specificity; "promising technology" framing may overweight optimistic scenarios; the rapidly evolving AI landscape makes any current assessment provisional.
 
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

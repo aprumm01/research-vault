@@ -1,49 +1,45 @@
 ---
 source_file: "research_docs/P52.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for e"
-
-doi: "10.4324/9781315697420"
 ---
 
 # Studio Teaching in Higher Education (Boling et al. book)
 
+## Summary
+Boling, Smith, and Gray's edited volume provides a comprehensive scholarly examination of studio pedagogy across disciplines in higher education — design, architecture, art, music, and beyond. The book synthesizes empirical research on studio learning with philosophical reflection on the studio as a distinctive educational environment. Chapters address critique, mentorship, project work, assessment, disciplinary identity formation, and the pedagogical challenges specific to studio settings. The volume positions studio teaching as a theoretically sophisticated practice that deserves the same scholarly scrutiny as lecture-based instruction.
 
-## Abstract
+## Key Concepts
+- Studio pedagogy as discipline-specific practice
+- Critique and review as learning structures
+- Mentorship and tacit knowledge transmission
+- Project-based learning and authentic contexts
+- Disciplinary identity formation in studio settings
 
-**DOI:** [10.4324/9781315697420](https://doi.org/10.4324/9781315697420)
+## Theoretical Framework
+Draws across multiple traditions: design cognition, reflective practice (Schön), sociocultural learning theory (Vygotsky), and phenomenological accounts of making; rejects the view that studio teaching is merely applied craft, arguing for its theoretical and epistemological distinctiveness.
 
-This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
+## Methods
+Edited scholarly volume; empirical studies, theoretical essays, and case analyses contributed by researchers and practitioners across studio disciplines; synthesis chapters frame the collection's contributions.
+
+## Main Arguments
+- Studio pedagogy is a coherent and theoretically grounded form of teaching with identifiable structures (projects, critiques, iteration) and distinctive epistemological assumptions
+- Critique (the design review or "crit") is the central studio learning event — but its dynamics are poorly understood and frequently counterproductive when unreflective
+- Studio teaching transmits tacit knowledge through modeling, observation, and iteration in ways that lecture cannot replicate
+- Cross-disciplinary comparison reveals both shared studio logics and discipline-specific variations that enrich understanding of what studio teaching accomplishes
+
+## Limitations
+- Edited volumes risk inconsistent depth and theoretical coherence across chapters
+- Studio pedagogy is under pressure from online/hybrid delivery; the volume's assumptions about physical co-presence may require updating
+
+## Connections
+Links to [[Educating for Design Character (Boling Gray Smith)]] (same authors, related arguments); relates to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on designer identity; connects to [[Designerly Ways of Knowing (Cross 1982)]] on design epistemology.
 
 ## Connections
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Boling et al.'s edited volume examines the studio approach to design education across multiple disciplines, including instructional design, architecture, and other fields. The book provides narrative case studies written by studio instructors, covering the studio concept's definition, variety of implementations, commonalities across disciplines, and emerging concerns about pedagogy. It serves as a resource for educators considering or adapting studio models in non-traditional contexts like instructional design.
-
-## Key Concepts
-- Studio teaching
-- Design education
-- Instructional design pedagogy
-- Cross-disciplinary studio
-- Design cases
-
-## Theoretical Framework
-Design cognition theory and pedagogy research inform the studio concept analysis, examining how studio environments develop professional judgment, reflective practice, and creative capacity across design disciplines.
-
-## Methods
-Edited volume of narrative design cases; practitioner-written accounts of studio implementation; cross-disciplinary comparative analysis.
-
-## Main Arguments
-- Studio teaching develops design thinking through immersive, critique-based learning environments
-- The studio model is increasingly relevant across disciplines beyond traditional design fields
-- Studio pedagogy involves high demands on both instructors and students but produces distinctive learning outcomes
-- Variations in studio implementation reflect disciplinary norms while sharing core commitments to making, critique, and iteration

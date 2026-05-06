@@ -1,19 +1,16 @@
 ---
-title: "A Method to Evaluate the UX of Systems Integrating AI (Springer, 2024)"
+source_file: "research_docs/P168.pdf"
 type: paper
-community: ""
-year: ""
-venue: "SpringerBriefs in Applied Sciences and Technology PoliMI Spr"
-institution: ""
-source_file: "A Method to Evaluate the UX of Systems Integrating AI.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # A Method to Evaluate the UX of Systems Integrating AI (Springer, 2024)
 
-**Venue:** SpringerBriefs in Applied Sciences and Technology PoliMI Spr
-
-## Key Finding
-PoliMI SpringerBriefs Davide Spallazzo Â· Martina SciannamÃ¨ Â· Mauro CeconelloUser Experience +
-
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

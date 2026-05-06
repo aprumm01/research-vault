@@ -1,49 +1,47 @@
 ---
 source_file: "research_docs/P93.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "Artificial Intelligence (AI) is rapidly reshaping societal dynamics and is ex - pected to continue influencing various sectors. In the field of graphic de - sign, its integration has generated both enthusiasm and concern. Today, AI is transforming how graphic designers work by introducing innovative tools and methods that enhance creativity, efficiency, and production ca - pabilities. AI enables faster and higher quality realization of creative con - cepts by automating repetitive tasks, generat"
-
-doi: "10.4018/979-8-3693-4147-6"
 ---
 
 # Ethical Dimensions of AI in Graphic Design
 
+## Summary
+Dedijer et al. (University of Novi Sad, Serbia) conduct a systematic literature review examining ethical challenges and opportunities of AI integration in graphic design practice. The paper analyzes authorship and originality, algorithmic bias in visual generation, transparency of training data sources, intellectual property, and displacement of human designers. While acknowledging AI's creative capabilities, the authors argue that ethical graphic design practice requires robust frameworks for accountability, transparency, and human oversight.
 
-## Abstract
+## Key Concepts
+- **Authorship ambiguity**: Questions about creative agency when AI generates or heavily assists design work
+- **Algorithmic bias in visual AI**: Training data biases manifest as aesthetic and representational stereotypes in generated outputs
+- **Intellectual property**: Unresolved legal and ethical questions about AI's use of copyrighted training data and ownership of AI-generated work
+- **Transparency**: Obligation to disclose when AI tools are used in creative production
+- **Human designer's evolving role**: Shift from executor to curator, director, and ethical steward of AI outputs
 
-**DOI:** [10.4018/979-8-3693-4147-6](https://doi.org/10.4018/979-8-3693-4147-6)
+## Theoretical Framework
+Systematic literature review with an ethics-of-technology framing. Draws on established AI ethics frameworks (fairness, accountability, transparency) applied to the specific context of creative professional practice.
 
-Artificial Intelligence (AI) is rapidly reshaping societal dynamics and is ex - pected to continue influencing various sectors. In the field of graphic de - sign, its integration has generated both enthusiasm and concern. Today, AI is transforming how graphic designers work by introducing innovative tools and methods that enhance creativity, efficiency, and production ca - pabilities. AI enables faster and higher quality realization of creative con - cepts by automating repetitive tasks, generating complex and realistic visuals, and improving design personalization. However, the rapid develop- ment and implementation of AI in design practices also bring forth a series of challenges that must be critically examined. Issues such as authenticity, original
+## Methods
+Systematic literature review across multiple databases. Synthesizes empirical studies, theoretical papers, and practitioner accounts on AI in graphic design.
+
+## Main Arguments
+1. AI does not eliminate the need for human design judgment—it relocates it to curation, direction, and ethical oversight
+2. Intellectual property frameworks are inadequate for AI-generated design work; significant legal ambiguity remains
+3. Algorithmic bias produces visual outputs that perpetuate and amplify cultural stereotypes in training data
+4. The graphic design community needs professional standards specific to AI-assisted work
+5. AI's efficiency gains must be weighed against displacement risks and devaluation of human creative labor
+
+## Limitations
+Literature review rather than empirical study. The field moves faster than academic review cycles. Focus on graphic design may not generalize to all creative disciplines.
+
+## Connections
+- Connects to [[Poets Over Quants Automation Increases Value of Creativity]] on automation's effects on creative value
+- Pairs with [[Design Research Society Design Research Society]] on AI in design philosophy
+- Relates to [[Examining the Interplay of Efficiency (AI Workplace)]] on AI's labor displacement paradoxes
 
 ## Connections
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Dedijer et al. examine the ethical dimensions of AI integration in graphic design practice, addressing challenges around authenticity, originality, intellectual property, and the future of creative labor. While AI tools accelerate design production and expand creative possibilities, the paper argues that designers must navigate new ethical responsibilities around authorship, client transparency, and cultural impact. The paper situates these challenges within broader debates about AI's societal influence on creative industries.
-
-## Key Concepts
-- AI ethics in design
-- Authenticity and originality
-- Intellectual property
-- Creative labor
-- Graphic design practice
-
-## Theoretical Framework
-AI ethics frameworks and design ethics literature frame the analysis of how automated creative tools challenge established norms of professional design practice.
-
-## Methods
-Conceptual analysis and literature review; examines case studies and ethical frameworks applicable to AI use in graphic design.
-
-## Main Arguments
-- AI threatens traditional notions of creative authorship and originality in graphic design
-- Intellectual property rights over AI-generated work remain legally and ethically unresolved
-- Designers must develop new ethical competencies to use AI tools responsibly
-- The accelerating pace of AI adoption in design requires proactive ethical governance at individual, organizational, and policy levels

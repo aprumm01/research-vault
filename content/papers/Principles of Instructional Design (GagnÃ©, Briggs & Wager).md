@@ -1,20 +1,16 @@
 ---
-title: "Principles of Instructional Design (GagnÃ©, Briggs & Wager)"
+source_file: "research_docs/P101.pdf"
 type: paper
-community: ""
-year: ""
-venue: "Chicago RINEHART San Francisco Philadelphia Montreal Toron"
-institution: "riggs Florida State University Wolter W. Wager HOLT, Fort Wo"
-source_file: "Gagne etal_Principles of ID_Ch10.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # Principles of Instructional Design (GagnÃ©, Briggs & Wager)
 
-**Venue:** Chicago RINEHART San Francisco Philadelphia Montreal Toron
-**Institution:** riggs Florida State University Wolter W. Wager HOLT, Fort Wo
-
-## Key Finding
-OF INSTRUCTIONAL DESIGN
-
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

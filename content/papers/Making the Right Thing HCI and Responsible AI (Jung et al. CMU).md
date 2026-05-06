@@ -1,51 +1,43 @@
 ---
 source_file: "research_docs/P17.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-abstract: "AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure"
-
-doi: "10.1145/3715336.3735745"
+  - community/Responsible_AI_Governance
 ---
 
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
 
+## Summary
+Jung et al. investigate how early-stage AI concept selection — the moment when practitioners choose which AI ideas to pursue — can embed Responsible AI (RAI) principles before substantial investment is made, using a Research through Design approach with three design experiments including a probe study with industry practitioners. They find that multidisciplinary collaboration and structured risk-benefit evaluation tools help practitioners effectively identify low-risk, high-benefit AI concepts. The paper argues for design-led approaches to RAI that engage ethical thinking at the front end of innovation.
 
-## Abstract
+## Key Concepts
+- Early-stage AI concept selection
+- Responsible AI (RAI) principles
+- Research through Design
+- Multidisciplinary risk-benefit evaluation
+- Front-end innovation ethics
 
-**DOI:** [10.1145/3715336.3735745](https://doi.org/10.1145/3715336.3735745)
+## Theoretical Framework
+Research through Design (RtD) as the methodological/epistemological framework; synthesizes HCI design methods with RAI scholarship to propose that design practice can operationalize ethical AI principles before systems are built.
 
-AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure
+## Methods
+Three design experiments: (1) conceptual design experiment, (2) a probe study exploring AI concept sorting methods, (3) a probe study with industry practitioners evaluating risks and benefits of AI concepts through multidisciplinary collaboration.
+
+## Main Arguments
+- Most AI ethics work focuses on deployment-stage interventions; early-stage concept selection is an underexplored and high-leverage intervention point
+- Practitioners can effectively assess RAI concerns when given appropriate tools and multidisciplinary framing
+- Design-led approaches can surface ethical considerations that technical and business framings miss
+- Low-risk, high-benefit AI concepts are identifiable early and should be prioritized in innovation pipelines
+
+## Limitations & Critiques
+Design experiments are exploratory rather than evaluative; the practitioner sample may not reflect the diversity of AI development contexts globally; the proposed approach requires organizational willingness to invest in early-stage ethics work that may not always exist.
 
 ## Connections
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
-
-## Summary
-Jung et al. at Carnegie Mellon University address the challenge of integrating responsible AI (RAI) practices into early-stage AI concept selection, where HCI designers make critical decisions that shape later ethical and technical constraints. They propose a framework bridging HCI design methods with RAI principles to help practitioners identify ethical risks before development begins. The paper argues that responsible AI must be built into design thinking processes, not retrofitted after systems are built.
-
-## Key Concepts
-- Responsible AI (RAI)
-- Early-stage AI design
-- HCI and ethics integration
-- AI concept selection
-- Proactive ethics
-
-## Theoretical Framework
-Value-Sensitive Design and responsible AI governance frameworks are integrated with HCI design methods to create a practical approach to ethical AI concept development.
-
-## Methods
-Design research; framework development; case-based analysis of AI concept selection challenges; likely includes practitioner studies or design workshops.
-
-## Main Arguments
-- AI projects frequently fail due to financial, technical, ethical, or user acceptance challenges that could be anticipated earlier
-- Responsible AI principles must be embedded in early design decisions, not applied as post-hoc compliance checks
-- HCI methods offer practical tools for surfacing ethical concerns during concept development
-- Bridging the gap between AI ethics discourse and HCI practice is critical for responsible AI deployment
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

@@ -1,25 +1,14 @@
 ---
-title: "Optimizing Design Education Using Artificial Intelligence (IJHSES, 2025)"
+source_file: "research_docs/P177.pdf"
 type: paper
-community: ""
-year: ""
-venue: "Journal of High Speed Electronics and Systems (2025) 2540617"
-institution: "l Network Jiaozi Pu College of Culture and Arts, Chengdu Uni"
-source_file: "Optimizing Design Education Using Artiï¬cialIntelligence.pdf"
+community: "Instructional Design Theory"
 tags:
-  - type/paper
-
-doi: "10.1108/IJILT-07-2024-0141"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
+
 # Optimizing Design Education Using Artificial Intelligence (IJHSES, 2025)
-
-**DOI:** [10.1108/IJILT-07-2024-0141](https://doi.org/10.1108/IJILT-07-2024-0141)
-
-**Venue:** Journal of High Speed Electronics and Systems (2025) 2540617
-**Institution:** l Network Jiaozi Pu College of Culture and Arts, Chengdu Uni
-
-## Key Finding
-OPEN ACCESS International Journal of High Speed Electronics and Systems (2025) 2540617 (20 pages)
 
 ## Summary
 Proposes and tests an AI-based design education framework combining Outcome-Based Education (OBE), an intelligent color platform (Coolors), and a Backpropagation (BP) neural network to optimize color composition teaching for visual communication design students. A quasi-experimental study with 120 students shows statistically significant improvements over traditional methods.
@@ -47,3 +36,7 @@ Quasi-experimental design; 120 visual communication design students divided into
 Single institution in China; narrow focus on color composition limits generalizability to other design competencies; quasi-experimental design cannot fully control confounds; high specialization of the Coolors platform may not transfer to other design domains.
 
 ## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

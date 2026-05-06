@@ -1,19 +1,14 @@
 ---
-title: "Generative AI and the Automating of Academia (Postdigital Science, 2024)"
+source_file: "research_docs/P313.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Generative AI and the Automating of Academia.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
-# Generative AI and the Automating of Academia (Postdigital Science, 2024)
 
-## Key Finding
-The neoliberal transformation of higher education in the UK and an intertwined focus on the productive efficiency and prestige value of universities has led to an epidemic of overwork and precarity am
+# Generative AI and the Automating of Academia (Postdigital Science, 2024)
 
 ## Summary
 Surveys 284 UK academics about their use of generative AI tools, finding that the neoliberal audit culture and overwork epidemic in British universities predates and shapes how GAI is adopted—and that GAI tools extend rather than alleviate the dysfunctions of this system. Argues that academics' use of GAI could nonetheless be harnessed as "positive disruption" toward slow scholarship and scholarly craftsmanship.
@@ -41,3 +36,6 @@ Survey of n=284 UK academics about their use of GAI tools; quantitative and qual
 UK-specific context with strong neoliberal HE restructuring; survey-based with self-selection bias; findings may not transfer to other national higher education systems; the "positive disruption" argument is aspirational rather than empirically supported.
 
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

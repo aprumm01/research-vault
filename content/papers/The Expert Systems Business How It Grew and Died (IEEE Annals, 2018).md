@@ -1,15 +1,13 @@
 ---
-title: "The Expert Systems Business: How It Grew and Died (IEEE Annals, 2018)"
+source_file: "research_docs/P325.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "The_Expert_Systems_Business_How_It_Grew_and_Died.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
+
 # The Expert Systems Business: How It Grew and Died (IEEE Annals, 2018)
 
 ## Summary
@@ -38,3 +36,6 @@ Industry history drawing on professional experience (Harmon edited a leading exp
 Primarily descriptive/historical with limited causal analysis; speculation on collapse causes is not empirically validated; single industry insider's perspective may overemphasize certain market dynamics; parallels to contemporary deep learning AI are suggestive but not systematically analyzed.
 
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

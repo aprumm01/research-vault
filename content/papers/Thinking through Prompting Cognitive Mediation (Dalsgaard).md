@@ -1,51 +1,43 @@
 ---
 source_file: "research_docs/P9.pdf"
-type: "paper"
-community: "GenAI in UX and Design Practice"
+type: paper
+community: "Prompt Engineering"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
-abstract: "Prompts are central to creative work with generative AI systems, yet they are often treated as simple and static interface components. This paper proposes a different view: prompts function as cogni- tive interfaces that mediate between user intent and algorithmic generation. Integrating theories of external cognition, interface semiotics, and pragmatist theories of situated inquiry, the paper provides a theoretical framing of prompting along three interre- lated dimensions: semantic projection,"
-
-doi: "10.1145/3746175.3747192"
+  - community/Prompt_Engineering
 ---
 
 # Thinking through Prompting: Cognitive Mediation (Dalsgaard)
 
+## Summary
+Dalsgaard examines how prompting generative AI tools functions as a form of cognitive mediation — a process where the act of formulating a prompt structures and externalizes the prompter's thinking, not just communicating intent to the machine. The paper argues that prompting is not merely input specification but a reflective cognitive practice that reshapes how users conceptualize problems and possibilities. This reframes GenAI interaction from tool-use to a thinking-through-materials practice with deep parallels to design sketching.
 
-## Abstract
+## Key Concepts
+- Prompting as cognitive mediation
+- Thinking-through-materials (analogous to sketching in design practice)
+- Externalization of thought through language
+- Reflective practice (Schön)
+- Human-AI dialogue as epistemic process
 
-**DOI:** [10.1145/3746175.3747192](https://doi.org/10.1145/3746175.3747192)
+## Theoretical Framework
+Pragmatist design theory and Schön's reflective practice; draws on cognitive science accounts of distributed cognition and mediated action to frame prompting as an activity that shapes thought rather than merely conveying it.
 
-Prompts are central to creative work with generative AI systems, yet they are often treated as simple and static interface components. This paper proposes a different view: prompts function as cogni- tive interfaces that mediate between user intent and algorithmic generation. Integrating theories of external cognition, interface semiotics, and pragmatist theories of situated inquiry, the paper provides a theoretical framing of prompting along three interre- lated dimensions: semantic projection, compositional structuring, and interpretive negotiation. Through an empirical vignette from branding communication, I show how prompting can be seen as a dynamic representational activity, deeply embedded in cognitive processes of exploration, articulation, and iterative refinement. By reframing the prompt as a site of cognitive labor rather than as a static interface, this expands our understanding of interaction with generative AI as epistemic, semiotic, and sit
+## Methods
+Conceptual/theoretical paper using design case analysis and cross-disciplinary synthesis; does not report primary empirical data.
+
+## Main Arguments
+- Prompting is a form of thinking, not just instruction-giving: the process of articulating a prompt clarifies and restructures the user's own understanding
+- GenAI tools function as a "thinking partner" in ways analogous to how sketching mediates design thinking
+- The reflective, iterative nature of prompting has been underappreciated in both tool design and research
+- Designing for better prompting means designing for better thinking, not just better output
+
+## Limitations & Critiques
+Primarily theoretical with limited empirical grounding; the analogy between prompting and design sketching may break down in contexts where prompting is rote or task-driven rather than exploratory.
 
 ## Connections
 - [[Creative Ambiguity]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
-
-## Summary
-Peter Dalsgaard proposes a theoretical reframing of prompting in generative AI as a form of cognitive mediation rather than simple interface input. Drawing on external cognition theory, interface semiotics, and pragmatist philosophy, he articulates three dimensions of prompting: semantic projection, compositional structuring, and interpretive negotiation. Through an empirical vignette from branding communication, Dalsgaard shows prompting as a dynamic, cognitively rich activity of exploration and iterative meaning-making.
-
-## Key Concepts
-- Prompting as cognitive mediation
-- External cognition
-- Interface semiotics
-- Human-AI interaction
-- Creative AI workflows
-
-## Theoretical Framework
-External cognition theory (Hutchins), interface semiotics, and Peircean pragmatism frame the reconceptualization of prompting as a cognitively and semiotically rich practice embedded in creative inquiry.
-
-## Methods
-Theoretical framework development with empirical vignette illustration; analysis of prompting practices in a branding communication case study.
-
-## Main Arguments
-- Prompts are not simple commands but cognitive interfaces that mediate between human intent and algorithmic generation
-- Prompting involves semantic projection (mapping intent onto language), compositional structuring (organizing prompt elements), and interpretive negotiation (refining outputs)
-- Treating prompting as cognitive labor reveals its epistemic and creative dimensions
-- Reframing prompting theory enriches understanding of human-AI collaboration in creative work
+#graphify/document #graphify/EXTRACTED #community/Prompt_Engineering

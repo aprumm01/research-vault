@@ -1,18 +1,14 @@
 ---
-title: "Expert Systems: Commercializing Artificial Intelligence (IEEE Annals, 1993)"
+source_file: "research_docs/P312.pdf"
 type: paper
-community: ""
-year: ""
-venue: "discus- sion surrounding the commercial use of arti ﬁ- cial"
-institution: ""
-source_file: "Expert Systems Commercializing Artificial.pdf"
+community: "GenAI in UX and Design Practice"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
 ---
-# Expert Systems: Commercializing Artificial Intelligence (IEEE Annals, 1993)
 
-**Venue:** discus- sion surrounding the commercial use of arti ﬁ- cial
+# Expert Systems: Commercializing Artificial Intelligence (IEEE Annals, 1993)
 
 ## Summary
 Guest editors' introduction to IEEE Annals' special issue on the history of expert systems commercialization, framing the 1970s–1990s expert systems wave as a historical antecedent to today's AI commercialization. Documents a May 2018 pioneer meeting at the Computer History Museum with 20 expert systems company founders and researchers, and introduces the issue's articles covering technical history, business strategies, and founder accounts.
@@ -40,3 +36,6 @@ Editorial/historical framing; draws on a 2018 Computer History Museum pioneer me
 Editorial introduction rather than full research article; relies heavily on self-reported pioneer accounts which may involve retrospective bias; limited critical analysis of why the expert systems market collapsed; does not systematically compare to contemporary AI.
 
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

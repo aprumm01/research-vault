@@ -1,18 +1,14 @@
 ---
-title: "The Role of Large Language Models in UI/UX Design: A Systematic Review"
+source_file: "research_docs/P204.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "The role of large language models in UI_UX design_A systematic.pdf"
+community: "Human-AI Creative Collaboration"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Human-AI_Creative_Collaboration
 ---
-# The Role of Large Language Models in UI/UX Design: A Systematic Review
 
-## Key Finding
-The role of large language models in UI/UX design: A systematic literature review Ammar Ahmed,Ali Shariq Imran â€¢ This study is the first systematic literature review focused specifically on the integr
+# The Role of Large Language Models in UI/UX Design: A Systematic Review
 
 ## Summary
 First systematic literature review focused specifically on the integration of LLMs (GPT-4, Gemini, PaLM) in UI/UX design workflows, synthesizing 38 peer-reviewed studies from 2022–2025. Maps LLM applications across the design lifecycle from ideation through evaluation, and identifies persistent challenges including hallucination, prompt instability, and limited explainability.
@@ -40,3 +36,8 @@ SLR: keyword search across databases; 38 peer-reviewed studies selected (2022–
 The rapidly evolving field means findings may be outdated quickly; publication bias likely favors positive applications; primarily English-language sources; the narrow 2022–2025 window may miss longer-term adoption patterns.
 
 ## Connections
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Human-AI_Creative_Collaboration

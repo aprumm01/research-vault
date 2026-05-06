@@ -1,22 +1,14 @@
 ---
-title: "Mapping Value Sensitive Design onto AI for Social Good Principles"
+source_file: "research_docs/P174.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Mapping value sensitive design onto AI for social good principles.pdf"
+community: "Responsible AI Governance"
 tags:
-  - type/paper
-
-doi: "10.1007/s43681-021-00038-3"
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
 ---
+
 # Mapping Value Sensitive Design onto AI for Social Good Principles
-
-**DOI:** [10.1007/s43681-021-00038-3](https://doi.org/10.1007/s43681-021-00038-3)
-
-## Key Finding
-Value sensitive design (VSD) is an established method for integrating values into technical design. It has been applied to different technologies and, more recently, to artificial intelligence (AI).
 
 ## Summary
 Extends Value Sensitive Design (VSD) to address two challenges unique to machine learning AI: the opacity of learning processes (making it difficult to understand how values are embedded) and value disembodiment (AI systems adapting in ways that drift from intended values over time). Proposes a threefold modified VSD approach integrating AI4SG principles, distinguishing promoted from respected values, and extending assessment across the full technology lifecycle.
@@ -44,3 +36,7 @@ Conceptual/theoretical; no original empirical data; framework development illust
 Theoretical framework not yet empirically validated; AI4SG principles remain somewhat fuzzy and contested across different stakeholder groups; the contact tracing example is illustrative rather than evaluative; operationalizing the framework in practice requires significant additional work.
 
 ## Connections
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Value-Sensitive Design]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

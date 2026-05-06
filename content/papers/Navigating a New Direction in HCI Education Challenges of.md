@@ -1,25 +1,14 @@
 ---
 source_file: "research_docs/P176.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-abstract: "This paper follows up on the challenges we encountered when we initially began teaching more-than-human perspectives in human- computer interaction (HCI) and technology design. Since then, we have developed a collection of teaching activities and conducted pi- lots with nearly 800 students, exploring how these perspectives can be taught in various settings. Although we think that our teaching activities address some of the initial challenges, several c"
-
-doi: "10.1145/3742901.3742907"
 ---
 
 # Navigating a New Direction in HCI Education: Challenges of
-
-
-## Abstract
-
-**DOI:** [10.1145/3742901.3742907](https://doi.org/10.1145/3742901.3742907)
-
-This paper follows up on the challenges we encountered when we initially began teaching more-than-human perspectives in human- computer interaction (HCI) and technology design. Since then, we have developed a collection of teaching activities and conducted pi- lots with nearly 800 students, exploring how these perspectives can be taught in various settings. Although we think that our teaching activities address some of the initial challenges, several c
 
 ## Summary
 This paper examines the challenges HCI educators face as the field evolves in response to AI, examining how HCI education must adapt its curricula, methods, and pedagogical frameworks to prepare students for practice in AI-mediated technology contexts. Through surveys and interviews with HCI faculty, the authors document the challenges of teaching HCI when the fundamental nature of human-computer interaction is being transformed by AI capabilities. The paper identifies specific pedagogical adaptations and curriculum changes HCI programs are making and recommends a forward-looking HCI education framework.

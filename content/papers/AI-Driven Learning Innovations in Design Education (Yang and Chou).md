@@ -1,48 +1,45 @@
 ---
 source_file: "research_docs/P22.pdf"
-type: "paper"
+type: paper
 community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
-
-abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
-
-doi: "10.1145/3729706.3729781"
 ---
 
 # AI-Driven Learning Innovations in Design Education (Yang and Chou)
 
+## Summary
+Yang and Chou examine how AI-driven learning tools can be integrated into design education to support student creativity, personalized feedback, and design iteration. The paper explores pedagogical approaches that leverage generative AI as a learning scaffold while attending to the risks of cognitive offloading and reduced engagement with foundational design skills. The authors propose frameworks for AI-assisted design studio education that preserve student agency and reflective practice.
 
-## Abstract
+## Key Concepts
+- AI-assisted design pedagogy
+- Generative AI as learning scaffold
+- Personalized feedback systems
+- Cognitive offloading risks in AI-mediated learning
+- Studio-based AI integration
 
-**DOI:** [10.1145/3729706.3729781](https://doi.org/10.1145/3729706.3729781)
+## Theoretical Framework
+Draws on constructivist learning theory and design studio pedagogy; frames AI as a dynamic instructional partner rather than a replacement for educator feedback or peer critique.
 
-There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
+## Methods
+Empirical study of AI tool integration in design education contexts; examines student responses to AI-generated feedback and its effects on design process and outcomes.
+
+## Main Arguments
+- AI can provide rapid, personalized feedback that studio instructors cannot deliver at scale
+- Risk of surface-level engagement: students may accept AI suggestions without the critical reflection that develops design judgment
+- Effective AI-assisted pedagogy requires explicit scaffolding that keeps students actively interrogating AI outputs
+- Faculty must adapt studio facilitation to help students situate AI as one voice among many rather than an authoritative evaluator
+
+## Limitations
+- Context-specific findings may not generalize across design disciplines with different assessment cultures
+- Long-term effects on students' independent design capability remain understudied
+
+## Connections
+Relates to [[Educating for Design Character (Boling Gray Smith)]] on design character vs. skills; connects to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on student development; links to [[Developing Human Experience Experts (Cheatham Miami U)]] on HX professional formation.
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Summary
-Yang and Chou review AI-driven learning approaches and innovations in design education, examining how artificial intelligence is reshaping teaching methods, curriculum design, and student learning experiences in design programs. The paper synthesizes current practices and proposes a framework for AI-integrated design education that balances technological capability with pedagogical intentionality. It contributes a practitioner-oriented overview of the state of AI innovation in design education contexts.
-
-## Key Concepts
-- AI-driven learning approaches in design education
-- Curriculum innovation under AI integration
-- Pedagogical frameworks for AI in design programs
-- Learning experience transformation
-
-## Theoretical Framework
-Educational technology and design education frameworks; surveys and synthesizes current AI applications in design teaching and learning, drawing on instructional design and design pedagogy literature.
-
-## Methods
-Literature review and synthesis of AI applications in design education; analytical framework construction; published in journal on AI-driven learning innovations in design education.
-
-## Main Arguments
-- AI tools are reshaping design education across multiple dimensions: content, process, and assessment
-- Effective integration requires pedagogical intentionality, not just tool adoption
-- AI-driven learning in design education creates new opportunities for personalized and adaptive learning
-- Design educators need frameworks for evaluating which AI innovations serve authentic learning goals

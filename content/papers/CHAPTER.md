@@ -1,24 +1,14 @@
 ---
-source_file: "research_docs/P262.pdf"
-type: "paper"
+source_file: "research_docs/P337.pdf"
+type: paper
 community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-
-doi: "10.4324/9781315764269-18"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
-# Learning Theories and Instructional Design (Driscoll)
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.4324/9781315764269-18](https://doi.org/10.4324/9781315764269-18)
+# CHAPTER
 
 ## Summary
 Driscoll's textbook chapter connects foundational learning theories to practical instructional design, arguing that understanding psychological learning theory is essential for making principled design decisions. The chapter covers behavioral, cognitive, and constructivist theories before introducing more recent approaches including situated cognition, distributed cognition, and connectivism. Driscoll positions learning theory as the intellectual infrastructure that separates principled instructional design from intuitive trial-and-error, making the case for theory-driven practice.

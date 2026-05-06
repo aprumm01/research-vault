@@ -1,19 +1,14 @@
 ---
-title: "Some Moral and Technical Consequences of Automation (Norbert Wiener, 1960)"
+source_file: "research_docs/P319.pdf"
 type: paper
-community: ""
-year: 1999
-venue: "chine's computation and action. Wiener makes the point that"
-institution: ""
-source_file: "Some moral and technical consequences of automation Norbert Wiener 1999.pdf"
+community: "Metacognitive Support"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Metacognitive_Support
 ---
-# Some Moral and Technical Consequences of Automation (Norbert Wiener, 1960)
 
-**Year:** 1999
-**Venue:** chine's computation and action. Wiener makes the point that
+# Some Moral and Technical Consequences of Automation (Norbert Wiener, 1960)
 
 ## Summary
 Wiener's prescient 1960 article argues against the naive assumption that machines cannot possess originality or escape meaningful human control, warning that the speed differential between machine computation and human response creates dangerous gaps in oversight. Using game-playing machines as an illustration, Wiener demonstrates that machines can learn from past performance in ways that transcend their designers' specific intentions.
@@ -41,3 +36,7 @@ Theoretical argument based on analogical reasoning; game-playing machines (check
 Historical text from 1960; written before modern computing; some specific predictions have proven accurate (machine learning, AI in games) while others reflect Cold War-era concerns; lacks specificity about governance mechanisms; Penrose's later counter-argument about machine consciousness is not addressed.
 
 ## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Metacognitive Support]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

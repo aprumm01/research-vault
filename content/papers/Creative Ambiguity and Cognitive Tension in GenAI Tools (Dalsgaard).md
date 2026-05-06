@@ -1,48 +1,42 @@
 ---
 source_file: "research_docs/P8.pdf"
-type: "paper"
-community: "GenAI in UX and Design Practice"
+type: paper
+community: "Prompt Engineering"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.18175/VyS16.2.2025.9"
-
-abstract: "This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, as"
+  - community/Prompt_Engineering
 ---
 
 # Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)
 
+## Summary
+Dalsgaard reframes GenAI output misalignments — moments when AI produces unexpected, contradictory, or off-mark results — not as failures but as sources of "creative ambiguity" and "cognitive tension" that can catalyze reflection and reframing in creative work. Drawing on cognitive dissonance theory, frame conflict, and predictive processing, he demonstrates through five cross-modal cases how these tensions serve as generative forces rather than obstacles to be optimized away. The paper proposes designing AI tools that work with friction rather than eliminating it.
 
-## Abstract
-This testimonial article reflects on integrating Generative Artificial Intelligence (GenAI) into design education through three distinct experiences: personal explorations as a designer and educator, collaborative faculty learning in design technology, and integration within an undergraduate digital design course. This paper aims to contribute to discussions on how GenAI tools can support creative and educational practices. It employs a phenomenological approach to document these experiences, assessing the impact of AI on creativity, pedagogical practices, and learning outcomes. The theoretical framework draws on Constructivist Learning Theory, Kolb’s
+## Key Concepts
+- Creative ambiguity (AI outputs that resist easy interpretation)
+- Cognitive tension (conflict between user's internal model and AI output)
+- Cognitive dissonance and frame analysis
+- Predictive processing theory
+- Creativity-support tools
 
-**DOI:** [10.18175/VyS16.2.2025.9](https://doi.org/10.18175/VyS16.2.2025.9)
+## Theoretical Framework
+Integrates cognitive dissonance theory (Festinger), frame analysis (Goffman), predictive processing (Clark), and pragmatist design theory to explain how misalignment between human intention and machine response can be productive rather than problematic.
+
+## Methods
+Theoretical/conceptual paper supported by five cross-modal illustrative cases spanning writing, design, music, code, and prototyping; no primary empirical data collection.
+
+## Main Arguments
+- GenAI misalignments are not bugs but potential catalysts for deeper creative engagement
+- Cognitive tension prompts interpretive labor that can lead to conceptual expansion
+- Current GenAI tool design over-optimizes for clarity and efficiency, suppressing productive friction
+- Designers should create AI tools that invite users to stay with uncertainty rather than resolve it immediately
+
+## Limitations & Critiques
+The cases are illustrative rather than empirical, and the framework has not been validated with user studies; the argument assumes creative practitioners have the capacity and willingness to engage with tension, which may not hold across all contexts or skill levels.
 
 ## Connections
 - [[Creative Ambiguity]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
-
-## Summary
-Dalsgaard examines the creative and cognitive dynamics that emerge when designers work with generative AI tools, arguing that a productive tension arises from the ambiguity inherent in AI-generated outputs. Rather than treating ambiguity as a problem to be solved, Dalsgaard proposes that creative ambiguity is a generative resource — the gap between what the AI produces and what the designer intended creates cognitive tension that stimulates creative exploration and design development. The paper contributes a theoretical account of the creative value of AI indeterminacy.
-
-## Key Concepts
-- Creative ambiguity in GenAI outputs
-- Cognitive tension as design resource
-- Designer-AI creative dialogue
-- Productive indeterminacy in AI-assisted design
-
-## Theoretical Framework
-Design cognition and creativity theory; draws on reflective practice (Schön) and design thinking research to explain how designers productively engage with the ambiguity and indeterminacy of AI-generated outputs.
-
-## Methods
-Theoretical-analytical paper with design examples; examines creative ambiguity and cognitive tension through analysis of designer-AI interaction; Peter Dalsgaard, published in CHI or design research venue.
-
-## Main Arguments
-- AI-generated outputs are productively ambiguous — they do not simply fulfill intentions but stimulate exploration
-- Cognitive tension between designer intent and AI output is a source of creative development, not just frustration
-- Productive engagement with creative ambiguity requires specific design competencies
-- Tools should be designed to support creative tension, not eliminate ambiguity in favor of precision
+#graphify/document #graphify/EXTRACTED #community/Prompt_Engineering

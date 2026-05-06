@@ -1,19 +1,17 @@
 ---
-title: "Foundational and Instrumental Design Theory (Stolterman & Nelson)"
+source_file: "research_docs/P270.pdf"
 type: paper
-community: ""
-year: ""
-venue: "disadvantaged people. Each of these designers would probably"
-institution: ""
-source_file: "Foundational and Instrumental Design Theory.pdf"
+community: "AI in Design Education"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
+
 # Foundational and Instrumental Design Theory (Stolterman & Nelson)
 
-**Venue:** disadvantaged people. Each of these designers would probably
-
-## Key Finding
-Foundational and Instrumental Design Theory Per Galle
-
 ## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

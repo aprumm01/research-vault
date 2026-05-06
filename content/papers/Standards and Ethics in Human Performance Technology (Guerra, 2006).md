@@ -1,16 +1,18 @@
 ---
-title: "Standards and Ethics in Human Performance Technology (Guerra, 2006)"
+source_file: "research_docs/P219.pdf"
 type: paper
-community: ""
-year: 2006
-venue: ""
-institution: ""
-source_file: "Guerra_2006--standards and ethics in HPT.pdf"
+community: "Human Performance Technology"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Human_Performance_Technology
 ---
+
 # Standards and Ethics in Human Performance Technology (Guerra, 2006)
 
-**Year:** 2006
-
 ## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology_1]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

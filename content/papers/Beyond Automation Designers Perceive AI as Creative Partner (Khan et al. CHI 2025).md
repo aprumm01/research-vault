@@ -1,24 +1,14 @@
 ---
 source_file: "research_docs/P1.pdf"
-type: "paper"
-community: "GenAI in UX and Design Practice"
+type: paper
+community: "Human-AI Creative Collaboration"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.1145/3706598.3713500"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
+  - community/Human-AI_Creative_Collaboration
 ---
 
 # Beyond Automation: Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3706598.3713500](https://doi.org/10.1145/3706598.3713500)
 
 ## Summary
 Khan et al.'s CHI 2025 study challenges the dominant "automation vs. augmentation" binary by showing that professional designers increasingly perceive AI as a creative partner rather than a tool for automating routine tasks. Through interviews with 20 professional designers across disciplines, the authors document how designers co-create with AI — using it for inspiration, unexpected juxtapositions, and exploratory ideation — in ways that reframe the designer's role as creative director and curator rather than sole originator. The paper calls for HCI to move beyond efficiency-focused framing of AI toward collaboration-centered models.
@@ -49,4 +39,4 @@ Sample of 20 designers drawn primarily from tech-forward contexts may not repres
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Human-AI_Creative_Collaboration

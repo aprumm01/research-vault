@@ -1,17 +1,17 @@
 ---
-title: "Points of Contact: Where Learning Sciences and Educational Technology Meet"
+source_file: "research_docs/P183.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Points of Contact LS and ET.pdf"
+community: "Instructional Design Theory"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
 ---
+
 # Points of Contact: Where Learning Sciences and Educational Technology Meet
 
-## Key Finding
-Perhaps among the most volatile and exciting dialogues in our field currently is the nature of the relationship between the traditional instructional design field and the learn- ing sciences field, wh
-
 ## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

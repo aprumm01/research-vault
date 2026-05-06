@@ -1,24 +1,14 @@
 ---
 source_file: "research_docs/P137.pdf"
-type: "paper"
+type: paper
 community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-
-doi: "10.1145/3436954"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # UX Designers Pushing AI in the Enterprise - Adaptive UIs
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1145/3436954](https://doi.org/10.1145/3436954)
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

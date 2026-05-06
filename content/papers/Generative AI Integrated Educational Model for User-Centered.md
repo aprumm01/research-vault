@@ -1,25 +1,44 @@
 ---
 source_file: "research_docs/P102.pdf"
-type: "paper"
+type: paper
 community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
-
-abstract: "The advent of artificial intelligence (AI) has profoundly transformed the educational landscape. Many educators are exploring how AI tools can enhance learning instructional programs. However, there is less focus on how its application within design education— particularly when teaching user-centered design. This study devel- oped an educational model utilizing AI for user-centered design curriculum. Based on design thinking theory, this model integrates ChatGPT and Midjourney into the divergent"
-
-doi: "10.1145/3722237.3722260"
 ---
 
 # Generative AI Integrated Educational Model for User-Centered
 
+## Summary
+Wu, Zeng, and Lin (Chengyi College, Jimei University, China) develop and empirically test an educational model integrating ChatGPT and Midjourney into a user-centered design (UCD) curriculum. Grounded in design thinking theory, the model deploys generative AI during both divergent (ideation, visual exploration) and convergent (selection, refinement) design phases. Empirical findings indicate that the AI-integrated curriculum enhanced students' creativity and problem-solving skills compared to traditional instruction.
 
-## Abstract
+## Key Concepts
+- **User-Centered Design (UCD)**: Design methodology centering user needs, behaviors, and goals throughout the design process
+- **Design thinking phases**: Divergent (empathize, define, ideate) and convergent (prototype, test) stages with distinct AI tool applications
+- **ChatGPT for text-based ideation**: Used for persona development, scenario writing, problem reframing
+- **Midjourney for visual ideation**: Used for rapid concept visualization and design alternative generation
+- **AI as cognitive scaffolding**: Lowers barriers to creative ideation while maintaining student ownership of design decisions
 
-**DOI:** [10.1145/3722237.3722260](https://doi.org/10.1145/3722237.3722260)
+## Theoretical Framework
+Design thinking theory (Brown/IDEO) combined with educational technology instructional design principles. AI is positioned as scaffolding that extends students' capacity to explore a wider design space.
 
-The advent of artificial intelligence (AI) has profoundly transformed the educational landscape. Many educators are exploring how AI tools can enhance learning instructional programs. However, there is less focus on how its application within design education— particularly when teaching user-centered design. This study devel- oped an educational model utilizing AI for user-centered design curriculum. Based on design thinking theory, this model integrates ChatGPT and Midjourney into the divergent and convergent design phases to facilitate the workflow. The empirical research showed that educational model can foster students’ creativity and problem- solving skills. The findings highlight the efficacy of AI integration in curricula design and instruction
+## Methods
+Empirical study comparing AI-integrated and traditional UCD instruction. Pre/post assessment of creativity and problem-solving skills; analysis of student design outputs.
+
+## Main Arguments
+1. AI tools can productively scaffold divergent phases of design education by enabling rapid, low-risk ideation
+2. Convergent phases require human judgment for selection and critique—AI is a generator, not an arbiter of design quality
+3. Integrating AI does not replace design thinking skills but amplifies capacity to explore wider design spaces
+4. Structured AI integration (specifying where and how tools are used) outperforms unguided AI experimentation
+
+## Limitations
+Single-institution study; Chinese university context may limit generalizability. Creativity measurement in design education is methodologically contested. Specific tools tested (ChatGPT, Midjourney) may become outdated.
+
+## Connections
+- Connects to [[Using Generative AI to Support UX Design Students in Web Dev]] on AI in design education
+- Relates to [[The Potential and Implications of Generative AI on HCI Education]] on GenAI in HCI pedagogy
+- Pairs with [[Contemporary Educational Technology, 2025, 17(3), ep583]] on AI integration in creative courses
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
@@ -27,25 +46,3 @@ The advent of artificial intelligence (AI) has profoundly transformed the educat
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Summary
-Wu et al. develop and empirically test an educational model integrating generative AI—specifically ChatGPT and Midjourney—into user-centered design curricula at Jimei University. Built on design thinking theory, the model uses AI tools in both divergent (ideation) and convergent (refinement) phases of design education, finding that AI integration fosters students creativity and problem-solving skills. The study offers a structured curriculum model for AI-assisted UX/design education.
-
-## Key Concepts
-- Generative AI in design education
-- User-centered design
-- Design thinking pedagogy
-- ChatGPT and Midjourney in education
-- Creativity and problem-solving
-
-## Theoretical Framework
-Design thinking theory (divergent and convergent phases) provides the pedagogical structure, with AI tools positioned as cognitive amplifiers in both generative and evaluative phases.
-
-## Methods
-Empirical study; curriculum design and implementation at Chengyi College, Jimei University; assessment of student creativity and problem-solving skills before and after AI integration.
-
-## Main Arguments
-- AI tools can be productively integrated into design education when aligned with design thinking phases
-- Divergent use of AI (ideation, brainstorming) and convergent use (refinement, feedback) require different pedagogical supports
-- AI integration enhances student creativity and reduces time barriers for design exploration
-- The educational model provides a transferable framework for incorporating GenAI into UCD curricula

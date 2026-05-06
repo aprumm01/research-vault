@@ -1,49 +1,45 @@
 ---
 source_file: "research_docs/P48.pdf"
-type: "paper"
-community: "AI and Future of Work"
+type: paper
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
-abstract: "This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people’s mental models and organizations’ structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupwae was interpreted in terms of familiar personal, stand-alone technologies such as spre"
-
-doi: "10.1016/b978-0-7506-9849-8.50014-9"
+  - community/Workplace_Learning_and_AI
 ---
 
 # Learning from Notes: Groupware Implementation (Orlikowski 2002)
 
+## Summary
+Orlikowski's foundational 1992/2002 paper reports a field study of Lotus Notes groupware implementation at a large professional services firm (Alpha Corporation), finding that the technology failed to achieve its collaborative promise not due to technical limitations but due to mental models and organizational structure. Workers interpreted Notes through the frame of familiar personal productivity software rather than as a collaborative platform; simultaneously, the organization's competitive, individualistic culture provided no incentives for the shared effort and expertise disclosure that Notes required.
 
-## Abstract
+## Key Concepts
+- Groupware implementation failure
+- Technological frames (mental models of technology)
+- Organizational culture and structure
+- Collaboration-enabling conditions
+- Unintended consequences of technology implementation
 
-**DOI:** [10.1016/b978-0-7506-9849-8.50014-9](https://doi.org/10.1016/b978-0-7506-9849-8.50014-9)
+## Theoretical Framework
+Draws on social constructivism and early sociotechnical systems theory; introduces "technological frames" as the interpretive schemas through which organizational members make sense of new technologies; anticipates later structuration-based technology research.
 
-This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people’s mental models and organizations’ structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupwae was interpreted in terms of familiar personal, stand-alone technologies such as spreadsheets. Further, the culture and structure provided few incentives or norms for cooperating or sharing expertise, hence the groupware on its own was unlikely to engender collaboration. Recognizing the central influence of these cognitive and organizational elements is critical to developers, researchers, and practitioners of groupware, KE
+## Methods
+Exploratory field study; participant observation and interviews at Alpha Corporation over several months of Notes implementation; qualitative analysis of adoption patterns and social dynamics.
+
+## Main Arguments
+- Technology cannot engender collaborative behaviors in organizations where culture and structure work against collaboration — the technology is insufficient by itself
+- Mental models (technological frames) shape how technology is interpreted and used: workers framed Notes as a personal tool, not a shared one
+- Organizational structure (competitive culture, individual performance incentives) actively discouraged the information sharing Notes was designed to support
+- Technology implementation must attend to cognitive and organizational preconditions for the technology's intended use model
+
+## Limitations
+- Single organization case study from the early 1990s; enterprise software and organizational norms have changed significantly
+- Study focused on initial implementation period; longer-term adoption dynamics may differ
+
+## Connections
+Relates to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on technology-organization fit; links to [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] on technology in organizational contexts; connects to [[Automate Infomate Two Faces of Intelligent Technology (Zuboff 1985)]] on technology and organizational transformation.
 
 ## Connections
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Summary
-Wanda Orlikowski's classic study examines the introduction of Lotus Notes groupware into a consulting organization, finding that the technology's collaborative potential was not realized because workers lacked the mental models and organizational culture necessary to use it for sharing and collaboration. Workers interpreted the tool through familiar individual productivity frameworks, and organizational incentives did not support cooperative use. The study establishes mental models and organizational culture as critical determinants of technology implementation success.
-
-## Key Concepts
-- Groupware implementation
-- Mental models and technology use
-- Organizational culture
-- Technology-in-practice
-- Collaborative technology
-
-## Theoretical Framework
-Structuration theory and social construction of technology (SCOT) inform the analysis of how organizational context shapes technology appropriation, not just the technology's design.
-
-## Methods
-Interpretive case study; ethnographic observation and interviews at a consulting firm implementing Lotus Notes; qualitative analysis of technology adoption patterns.
-
-## Main Arguments
-- Mental models of technology significantly determine how it is used, often in ways designers did not intend
-- Organizational culture and incentive structures must support collaborative norms for groupware to succeed
-- Technology adoption is a social and organizational process, not merely a technical one
-- The gap between designed and enacted technology use is shaped by existing work practices and cultural assumptions
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

@@ -1,19 +1,17 @@
 ---
-title: "Fundamentals of Human Performance Technology (Pershing, 2006)"
+source_file: "research_docs/P182.pdf"
 type: paper
-community: ""
-year: 2006
-venue: ""
-institution: ""
-source_file: "Pershing_2006--HPT fundamentals.pdf"
+community: "Human Performance Technology"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Human_Performance_Technology
 ---
+
 # Fundamentals of Human Performance Technology (Pershing, 2006)
 
-**Year:** 2006
-
-## Key Finding
-FOUNDATIONS OF HUMAN PERFORMANCE TECHNOLOGY MONIQUE MUELLER
-
 ## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology_1]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

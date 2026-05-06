@@ -1,30 +1,20 @@
 ---
 source_file: "research_docs/P6.pdf"
-type: "paper"
-community: "AI and Future of Work"
+type: paper
+community: "Human-AI Creative Collaboration"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
-
-doi: "10.1007/s00146-025-02667-2"
-
-abstract: "Generative Artificial Intelligence (GenAI) is fundamentally transforming notions of creativity and creative production across disciplines, yet a comprehensive understanding of professional attitudes and integration patterns remains challenging. This scoping review examines how creative professionals perceive and integrate GenAI technologies across four domains: visual art and design, writing and literature, performing arts, and environmental and spatial design. Following PRISMA-ScR guidelines, w"
+  - community/Human-AI_Creative_Collaboration
 ---
 
 # UX Design Professionals Perceptions of GenAI (Li et al. CHI 2024)
-
-
-## Abstract
-Generative Artificial Intelligence (GenAI) is fundamentally transforming notions of creativity and creative production across disciplines, yet a comprehensive understanding of professional attitudes and integration patterns remains challenging. This scoping review examines how creative professionals perceive and integrate GenAI technologies across four domains: visual art and design, writing and literature, performing arts, and environmental and spatial design. Following PRISMA-ScR guidelines, we analysed 57 papers (2022–2025) from multiple databases, focusing mainly on empirically based studies of professional creative practice. We identify universal trends, including the shift from
-
-**DOI:** [10.1007/s00146-025-02667-2](https://doi.org/10.1007/s00146-025-02667-2)
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Human-AI_Creative_Collaboration
 
 ## Summary
 Li et al. present findings from CHI 2024 on how UX design professionals perceive generative AI tools, drawing on interviews and studies with practitioners across industry. They find that UX designers view GenAI ambivalently: valuing its speed and ideation support while concerned about quality, creativity, and professional identity. The study maps how perceptions vary by role, experience, and organizational context, contributing to understanding of how GenAI is being absorbed into professional UX practice.

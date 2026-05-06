@@ -1,50 +1,46 @@
 ---
 source_file: "research_docs/P18.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-doi: "10.1145/3757514"
-
-abstract: "Artificial intelligence (AI) holds tremendous potential but also poses consequential risks. Regulation frameworks like the EU AI Act aim to mitigate these risks, yet organizations struggle to understand and operationalize Responsible AI (RAI). We introduce the RAI Organizational Maturity (RAI-OM) framework as an initial step towards a RAI maturity model to highlight the many factors that influence an organization's RAI maturity. Developed through in-depth qualitative interviews and co-design ses"
+  - community/Responsible_AI_Governance
 ---
 
 # Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)
 
+## Summary
+Heger et al. introduce the RAI Organizational Maturity (RAI-OM) framework — a 24-dimension model grouping organizational factors for Responsible AI into three categories: Organizational Foundations, Team Approach, and RAI Practices. Based on in-depth qualitative interviews and co-design sessions with 90 RAI experts at Microsoft and beyond, the framework addresses how organizations can move beyond abstract principles toward operational RAI practice. Key findings emphasize the interdependence of organizational factors, the critical role of cross-functional collaboration, and the need to integrate RAI concerns early in the AI development lifecycle.
 
-## Abstract
+## Key Concepts
+- Responsible AI (RAI) organizational maturity
+- RAI-OM framework (24 dimensions in 3 categories)
+- Articulation work in RAI (invisible coordination labor)
+- Principle-to-practice gap
+- EU AI Act compliance readiness
 
-**DOI:** [10.1145/3757514](https://doi.org/10.1145/3757514)
+## Theoretical Framework
+Draws on organizational theory, CSCW literature on articulation work, and prior RAI scholarship to synthesize a maturity model grounded in practitioner experience rather than normative prescription.
 
-Artificial intelligence (AI) holds tremendous potential but also poses consequential risks. Regulation frameworks like the EU AI Act aim to mitigate these risks, yet organizations struggle to understand and operationalize Responsible AI (RAI). We introduce the RAI Organizational Maturity (RAI-OM) framework as an initial step towards a RAI maturity model to highlight the many factors that influence an organization's RAI maturity. Developed through in-depth qualitative interviews and co-design sessions with 90 RAI experts, the RAI-OM framework consists of 24 dimensions grouped into three main categories: Organizational Foundations, Team Approach, and RAI Practices. Our findings also provide further evidence for the interdependent nature of RAI's organizational factors, the import of collaboration for mature RAI, and the need to start RAI early in the AI lifecyle. Researchers and practitioners can use the RAI-OM framework and our research findings to not only understand the different moving parts in RAI's complex organizational machinery, but also address organizational barriers to RAI, unpack the different types of collaborations needed for mature RAI, and support RAI's articulation work and process.
+## Methods
+Qualitative interviews and co-design sessions with 90 RAI experts across industry and academia; thematic analysis to derive the 24-dimension framework.
+
+## Main Arguments
+- Abstract RAI principles (fairness, accountability, transparency) are necessary but insufficient; organizations need structural support and mature processes
+- RAI is deeply collaborative work — siloed approaches fail; cross-functional teams and leadership buy-in are essential
+- RAI maturity exists on a continuum; the framework maps dimensions organizations can target for growth
+- Early integration of RAI in AI lifecycle reduces costly corrections later
+
+## Limitations
+- Framework developed primarily from Microsoft and collaborating organizations' expert perspectives; generalizability to smaller organizations or non-tech sectors uncertain
+- Maturity models risk becoming compliance checklists rather than catalysts for reflective practice
+
+## Connections
+Relates to [[Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)]] on measuring practitioner attitudes; connects to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on participatory governance; informs [[Making the Right Thing HCI and Responsible AI (Jung et al. CMU)]] on early-stage RAI practice.
 
 ## Connections
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
-
-## Summary
-Heger et al. at Microsoft introduce the Responsible AI Organizational Maturity (RAI-OM) framework, developed through 90 qualitative interviews and co-design sessions with RAI experts. The framework identifies 24 dimensions of organizational RAI maturity grouped into three categories: Organizational Foundations, Team Approach, and RAI Practices. The paper provides both a diagnostic tool and a development roadmap for organizations seeking to operationalize responsible AI principles.
-
-## Key Concepts
-- Responsible AI (RAI)
-- Organizational maturity model
-- AI governance
-- RAI practices
-- EU AI Act compliance
-
-## Theoretical Framework
-Organizational maturity modeling and responsible AI governance theory inform the framework, drawing on extensive qualitative research with practitioners to ground the model in real-world organizational RAI challenges.
-
-## Methods
-Qualitative research; in-depth interviews and co-design sessions with 90 RAI experts across organizations; grounded theory analysis; framework development.
-
-## Main Arguments
-- Organizations struggle to operationalize responsible AI because they lack structured frameworks for RAI maturity
-- RAI maturity depends on interdependent organizational, team, and practice-level factors
-- Early integration of RAI into design and development processes is critical for mature organizational RAI
-- Collaboration across roles—legal, engineering, design, policy—is necessary for effective RAI governance
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

@@ -1,17 +1,18 @@
 ---
-title: "Design Thinking and Agile Design"
+source_file: "research_docs/P256.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Design Thinking and Agile Design.pdf"
+community: "AI in Design Education"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
 ---
+
 # Design Thinking and Agile Design
 
-## Key Finding
-New Trends or Just Good Design Practice? Svihla, V. Design Design Thinking
-
 ## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

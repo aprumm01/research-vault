@@ -1,49 +1,47 @@
 ---
 source_file: "research_docs/P42.pdf"
-type: "paper"
+type: paper
 community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
-
-doi: "10.1007/BF02299088"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # Media Will Never Influence Learning (Clark 1994)
 
+## Summary
+Clark's provocative 1994 paper argues that media (delivery vehicles for instruction) have no direct influence on learning — only the instructional methods embedded in media matter. His famous analogy: a truck delivers groceries but doesn't cause nutrition; what matters is the food, not the vehicle. Clark targets the tendency in educational technology research to conflate medium and method, arguing that any medium can be replaced by another if the same instructional method is implemented, yielding equivalent learning outcomes. This challenges the premise that specific technologies (film, computers, AI) are inherently superior instructional vehicles.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- Media vs. method distinction
+- No-significant-difference phenomenon
+- Instructional equivalence
+- Confounding of medium and method in research
+- Cognitive theory of instruction
 
-**DOI:** [10.1007/BF02299088](https://doi.org/10.1007/BF02299088)
+## Theoretical Framework
+Grounded in cognitive information processing theory; applies the logic of experimental design to critique media comparison studies; distinguishes between the symbolic systems that media can carry and the instructional events they instantiate.
+
+## Methods
+Theoretical/review paper; critical analysis of media comparison research methodology; identifies systematic confounds that bias findings in favor of new media.
+
+## Main Arguments
+- Media comparison studies routinely confound medium with method — when the same method is implemented across media, learning outcomes equate
+- The "novelty effect" inflates outcomes for new media in the short term; effects dissipate as novelty wears off
+- Resources should be allocated based on cost-effectiveness of different media for implementing effective methods, not on assumed inherent superiority of new technologies
+- This argument directly challenges the justification for any technology integration based on the technology itself rather than on instructional design
+
+## Limitations
+- Kozma (1994) directly rebuts Clark, arguing that some media have unique symbolic and interactive capabilities that enable new instructional methods, not merely carry existing ones
+- In the AI era, Clark's truck metaphor may understate how the "vehicle" (AI interaction) creates the instructional event itself
+- Empirically, individual differences in modality preference complicate the method-equivalence claim
+
+## Connections
+Directly paired with [[Will Media Influence Learning Reframing the Debate (Kozma 1994)]] as classic opposing views; relates to [[Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)]] on cognitive multimedia learning; connects to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on instructional theory.
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Will Media Influence Learning Reframing the Debate (Kozma 1994)]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
-
-## Summary
-Richard Clark's influential and controversial 1994 paper argues that media are "mere vehicles" for delivering instruction and that no medium produces learning gains that could not be achieved with a different, often less expensive medium. Clark contends that learning is determined by instructional methods, not the delivery medium, and warns against investing resources in new technologies based on medium-specific learning claims. The paper sparked decades of debate in educational technology.
-
-## Key Concepts
-- Media and learning
-- Instructional methods vs. media
-- Media comparison research
-- Confounded variables
-- Educational technology investment
-
-## Theoretical Framework
-Cognitive psychology of learning grounds Clark's argument that learning processes are universal and that apparent media effects are artifacts of confounded instructional methods, not the medium itself.
-
-## Methods
-Critical review of media comparison research; meta-analytic argument about methodological confounds in media effectiveness studies.
-
-## Main Arguments
-- Media do not influence learning; instructional methods do
-- Media comparison studies are methodologically flawed because they confound medium with method
-- Investment in new educational media based on learning effectiveness claims is economically irrational
-- The critical variable in any instructional medium is the design and delivery of the method, not the technology itself

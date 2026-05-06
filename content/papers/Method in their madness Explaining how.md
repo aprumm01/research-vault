@@ -1,24 +1,14 @@
 ---
 source_file: "research_docs/P175.pdf"
-type: "paper"
-community: "Problem-Based Learning"
+type: paper
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Problem-Based_Learning
-
-doi: "10.1016/j.destud.2023.101219"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
+  - community/Metacognitive_Support
 ---
 
 # Method in their madness: Explaining how
-
-
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
-
-**DOI:** [10.1016/j.destud.2023.101219](https://doi.org/10.1016/j.destud.2023.101219)
 
 ## Summary
 This paper investigates the apparent irrationality in designers' method selection practices, arguing that what looks like "madness" in method choice is actually explicable through understanding the social, political, and contextual factors that shape design method decisions in practice. Through ethnographic observation of design teams, the authors document how designers choose methods not only for their technical utility but for their communicative, rhetorical, and political functions — methods are used to build consensus, satisfy client expectations, and signal professional competence. The paper calls for a more socially grounded account of design method use.
@@ -50,4 +40,4 @@ Ethnographic study of specific design contexts; generalizability across design d
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

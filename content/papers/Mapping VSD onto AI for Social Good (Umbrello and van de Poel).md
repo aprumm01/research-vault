@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P19.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-doi: "10.1007/s43681-021-00038-3"
-
-abstract: "Value sensitive design (VSD) is an established method for integrating values into technical design. It has been applied to different technologies and, more recently, to artificial intelligence (AI). We argue that AI poses a number of challenges spe- cific to VSD that require a somewhat modified VSD approach. Machine learning (ML), in particular, poses two challenges. First, humans may not understand how an AI system learns certain things. This requires paying attention to values such as transpar"
+  - community/Responsible_AI_Governance
 ---
 
 # Mapping VSD onto AI for Social Good (Umbrello and van de Poel)
 
+## Summary
+Umbrello and van de Poel argue that Value Sensitive Design (VSD) requires significant modification when applied to AI — particularly machine learning — because ML systems can learn features that weren't foreseen by designers and may behave opaquely. They propose a threefold modified VSD approach: (1) integrating AI4SG (AI for Social Good) principles as concrete design norms; (2) distinguishing between values promoted vs. values respected by a design; and (3) extending VSD to the full AI lifecycle to monitor value drift. The approach is illustrated through a COVID-19 contact tracing app case.
 
-## Abstract
-Value sensitive design (VSD) is an established method for integrating values into technical design. It has been applied to different technologies and, more recently, to artificial intelligence (AI). We argue that AI poses a number of challenges spe- cific to VSD that require a somewhat modified VSD approach. Machine learning (ML), in particular, poses two challenges. First, humans may not understand how an AI system learns certain things. This requires paying attention to values such as transparency, explicability, and accountability. Second, ML may lead to AI systems adapting in ways that ‘disembody’ the values embedded in them. To address this, we propose a threefold modified VSD approach: (1) integrating a known set of VSD principles (AI4SG) as design nor
+## Key Concepts
+- Value Sensitive Design (VSD)
+- AI for Social Good (AI4SG) principles
+- Value disembodiment in ML systems
+- Transparency, explicability, accountability as AI-specific values
+- Lifecycle-based value monitoring
 
-**DOI:** [10.1007/s43681-021-00038-3](https://doi.org/10.1007/s43681-021-00038-3)
+## Theoretical Framework
+Builds on Friedman et al.'s VSD methodology and extends it using AI4SG literature; distinguishes stakeholder values along "do good" vs. "do no harm" dimensions to avoid value neutrality in design.
+
+## Methods
+Theoretical/conceptual paper with applied illustration using a SARS-CoV-2 contact tracing app as a running case study to demonstrate how modified VSD maps onto design decisions.
+
+## Main Arguments
+- ML systems pose unique VSD challenges: opacity and adaptive behavior can "disembody" embedded values over time
+- AI4SG principles (privacy, fairness, accountability, etc.) can serve as a pre-validated set of design norms to anchor VSD for AI
+- VSD must extend past deployment — values must be monitored and the system redesigned as unintended consequences emerge
+- Promoting positive outcomes requires going beyond harm avoidance to affirmatively support human flourishing
+
+## Limitations
+- AI4SG principles are themselves contested and context-dependent; mapping them to VSD may carry hidden assumptions
+- Lifecycle monitoring is resource-intensive and rarely implemented in practice; paper is aspirational rather than empirically validated
+
+## Connections
+Links to [[Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)]] on practitioner mindset change; relates to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on participatory governance; informs [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]] on operationalizing ethical principles.
 
 ## Connections
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Value-Sensitive Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
-
-## Summary
-Umbrello and van de Poel adapt Value Sensitive Design (VSD) methodology to address the specific challenges posed by AI systems, arguing that machine learning creates new problems for value embeddedness that require modifications to standard VSD approaches. They propose integrating AI4SG (AI for Social Good) principles into VSD to address transparency, explicability, and the risk that ML systems may "disembody" their initial value constraints as they adapt over time.
-
-## Key Concepts
-- Value Sensitive Design (VSD)
-- AI for Social Good (AI4SG)
-- Machine learning ethics
-- Value embeddedness
-- Transparency and explicability
-
-## Theoretical Framework
-VSD methodology (Friedman et al.) is extended and modified to account for the distinct challenges of ML systems, integrating with AI ethics frameworks focused on social benefit.
-
-## Methods
-Conceptual and theoretical analysis; mapping exercise aligning VSD principles with AI4SG guidelines; development of modified VSD approach for AI contexts.
-
-## Main Arguments
-- Standard VSD approaches require modification for ML systems because learning processes can destabilize embedded values over time
-- Transparency and explicability must be treated as design values, not just technical requirements
-- AI4SG principles provide a normative framework that complements VSD's process-based approach
-- The combination of VSD and AI4SG offers a more robust methodology for designing value-aligned AI systems
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

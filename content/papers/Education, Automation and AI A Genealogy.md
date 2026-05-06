@@ -1,19 +1,14 @@
 ---
-title: "Education, Automation and AI: A Genealogy"
+source_file: "research_docs/P311.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Education, automation and AI a genealogy of.pdf"
+community: "AI and Future of Work"
 tags:
-  - type/paper
-  - theme/history-of-ai
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
 ---
-# Education, Automation and AI: A Genealogy
 
-## Key Finding
-The relationship between technical development and education is a reciprocal one, where education always stands in relation to those skills, competencies, and techniques that are antic
+# Education, Automation and AI: A Genealogy
 
 ## Summary
 Applies a Foucauldian genealogical approach to trace how education has been mobilized as a governance tool in response to automation and AI from 1955 to 1997, finding that educational policy consistently responds to sociotechnical imaginaries of technological futures. Argues that the relationship between education and automation is not linear but oscillates between periods of techno-utopian adaptation and critical democratic resistance.
@@ -41,3 +36,6 @@ Genealogical analysis of Swedish and broader education policy materials from 195
 Primarily focused on Swedish policy context; genealogical method is interpretive and not easily replicable; period 1955–1997 predates the internet and contemporary AI; Foucauldian framing may not be legible to all education research audiences.
 
 ## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

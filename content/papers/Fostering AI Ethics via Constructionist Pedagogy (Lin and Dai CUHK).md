@@ -1,53 +1,46 @@
 ---
 source_file: "research_docs/P70.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
-
-doi: "10.1609/aaai.v39i28.35190"
+  - community/Responsible_AI_Governance
 ---
 
 # Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)
 
-
-## Abstract
-
-**DOI:** [10.1609/aaai.v39i28.35190](https://doi.org/10.1609/aaai.v39i28.35190)
-
-There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
-
 ## Summary
-This related work by Lin and Dai at CUHK examines fostering AI ethics education through constructionist pedagogy, documenting how students at a Hong Kong university develop ethical AI competencies through constructionist learning activities. The paper explores the gap between declarative AI ethics knowledge (knowing the principles) and procedural AI ethics knowledge (knowing how to apply them in system design), arguing that constructionist activities uniquely bridge this gap. The work contributes to the growing literature on AI ethics education with a distinctive East Asian institutional perspective.
+Lin and Dai present a constructionist pedagogical approach for developing epistemic insights into AI ethics among upper primary students. Three theory-informed activities have students build and interact with rule-based, ML-based, and generative AI systems, using mathematical reasoning to reflect on fairness, bias, and transparency. The interdisciplinary approach — spanning computer science, mathematics, philosophy, and humanities — helps students understand how AI knowledge construction differs from human cognition, grounding ethical reasoning in epistemic insight rather than abstract principles.
 
 ## Key Concepts
-- Fostering AI ethics through constructionism
-- Declarative vs. procedural AI ethics knowledge
-- Constructionist learning activities for ethics
-- East Asian AI ethics education context
-- Gap between principles and practice in AI ethics
+- Constructionist AI ethics pedagogy
+- Epistemic insights (how AI acquires/processes knowledge)
+- K-12 AI ethics education
+- Hands-on AI model building
+- Fairness, bias, transparency as ethical concepts
 
 ## Theoretical Framework
-Constructionism (Papert); AI ethics education; declarative vs. procedural knowledge (Anderson); draws on educational psychology and AI ethics literature.
+Constructionism (Papert) combined with interdisciplinary AI literacy frameworks; distinguishes between AI literacy (broad) and epistemic insight (understanding how AI processes knowledge differently from humans); uses hands-on building to make abstract concepts concrete.
 
 ## Methods
-Pedagogical study at CUHK; documentation of constructionist AI ethics learning activities; analysis of student ethical competency development.
+Design-based curriculum implementation at AAAI 2025; three classroom activities with upper primary students; qualitative analysis of student reasoning and artifacts; guided reflection integrated throughout.
 
 ## Main Arguments
-- Declarative AI ethics knowledge (knowing principles) is insufficient for ethical AI practice — procedural knowledge developed through construction is necessary
-- Constructionist activities force ethical operationalization: students must decide what fairness means in their specific system
-- Cultural context matters for AI ethics: CUHK students bring different default assumptions about individual vs. collective values
-- AI ethics education globally must account for cultural variation rather than exporting Western ethical frameworks
+- Students can develop meaningful epistemic insight into AI — not just use AI tools — when curriculum explicitly scaffolds understanding of how AI learns and processes information
+- Constructionist making (building AI models) is more effective than discussing AI abstractly for building ethical reasoning grounded in technical understanding
+- An interdisciplinary approach spanning CS, mathematics, and humanities is necessary because AI ethics genuinely requires all three domains
+- Students who understand how AI knows things differently from humans can better evaluate AI outputs critically
 
-## Limitations & Critiques
-Note: Limited text extraction — summary written from general knowledge of the work and field. Specific empirical details may be approximate. This note and the Epistemic Insights note (P39) may represent two aspects of the same research program.
+## Limitations
+- Short-term intervention; long-term effects on ethical reasoning unknown
+- Requires teacher preparation and curriculum infrastructure not widely available in K-12 settings
+
+## Connections
+Links to [[Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)]] (companion paper by same authors); relates to [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]] on holistic AI pedagogy; connects to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on constructivist theory.
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

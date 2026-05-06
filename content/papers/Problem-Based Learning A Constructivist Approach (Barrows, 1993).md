@@ -1,14 +1,16 @@
 ---
-title: "Problem-Based Learning: A Constructivist Approach (Barrows, 1993)"
+source_file: "research_docs/P115.pdf"
 type: paper
-community: ""
-year: ""
-venue: ""
-institution: ""
-source_file: "Problem-based Learning.pdf"
+community: "Metacognitive Support"
 tags:
-  - type/paper
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Metacognitive_Support
 ---
+
 # Problem-Based Learning: A Constructivist Approach (Barrows, 1993)
 
 ## Connections
+- [[Problem-Based Learning]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

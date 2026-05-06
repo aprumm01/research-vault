@@ -1,48 +1,45 @@
 ---
 source_file: "research_docs/P62.pdf"
-type: "paper"
+type: paper
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.1007/s00146-025-02667-2"
-
-abstract: "Generative Artificial Intelligence (GenAI) is fundamentally transforming notions of creativity and creative production across disciplines, yet a comprehensive understanding of professional attitudes and integration patterns remains challenging. This scoping review examines how creative professionals perceive and integrate GenAI technologies across four domains: visual art and design, writing and literature, performing arts, and environmental and spatial design. Following PRISMA-ScR guidelines, w"
 ---
 
 # LLM Role in UI UX Design: Systematic Literature Review (Ahmed and Imran)
 
+## Summary
+Ahmed and Imran conduct a systematic literature review of empirical and applied research examining the role of large language models (LLMs) in UI/UX design processes. Synthesizing studies across wireframing, user research, accessibility evaluation, design critique, and handoff documentation, the review identifies where LLMs currently add measurable value, where they introduce new risks, and where the gap between LLM capability and professional UX practice requirements is most significant. The paper serves as an evidence base for practitioners and researchers considering LLM integration in UX workflows.
 
-## Abstract
-Generative Artificial Intelligence (GenAI) is fundamentally transforming notions of creativity and creative production across disciplines, yet a comprehensive understanding of professional attitudes and integration patterns remains challenging. This scoping review examines how creative professionals perceive and integrate GenAI technologies across four domains: visual art and design, writing and literature, performing arts, and environmental and spatial design. Following PRISMA-ScR guidelines, we analysed 57 papers (2022–2025) from multiple databases, focusing mainly on empirically based studies of professional creative practice. We identify universal trends, including the shift from
+## Key Concepts
+- LLMs in UI/UX design workflows
+- Systematic literature review methodology
+- Wireframing and prototyping with LLMs
+- AI-assisted user research
+- Accessibility and inclusive design with AI
 
-**DOI:** [10.1007/s00146-025-02667-2](https://doi.org/10.1007/s00146-025-02667-2)
+## Theoretical Framework
+Systematic review using PRISMA guidelines; organizes findings by UX design phase (discovery, definition, ideation, prototyping, testing, handoff); evaluates each phase for evidence of LLM contribution and identified limitations.
+
+## Methods
+Systematic literature review; database searches (ACM DL, IEEE Xplore, Scopus); screening by title, abstract, and full text; quality appraisal and thematic synthesis across included studies.
+
+## Main Arguments
+- LLMs demonstrate consistent value in text-heavy UX tasks: writing user stories, generating interview questions, synthesizing research findings, and drafting design documentation
+- For visual and spatial design tasks (wireframing, layout), LLM value is more constrained — they require structured prompting and human refinement to produce usable outputs
+- Accessibility evaluation shows promise but LLMs' understanding of disability contexts and edge cases remains inconsistent
+- The review reveals a significant gap between academic proof-of-concept studies and evidence from professional practice settings — more ecologically valid research is needed
+
+## Limitations
+- Rapidly evolving field; studies included may be superseded by newer model capabilities
+- Definitional inconsistency across included studies in what counts as "LLM use" in UX complicates synthesis
+
+## Connections
+Relates to [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] on AI tools for UX practitioners; links to [[GenAI in UX Research Industry Study (Takafoli et al. Waterloo)]] on GenAI in UX practice; connects to [[Collaboration with Conversational AI for UX Evaluation (Kuang et al.)]] on AI in UX evaluation.
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
-
-## Summary
-Ahmed and Imran conduct the first systematic literature review focused specifically on the integration of large language models (LLMs) into UI/UX design workflows, synthesizing findings across the full design lifecycle from ideation through evaluation. They identify key applications of GPT-4, Gemini, and other LLMs in design practice, document best practices and challenges, and highlight limitations including hallucinations, prompt instability, and limited explainability that constrain LLM use in professional design contexts.
-
-## Key Concepts
-- Large language models in UI/UX
-- Systematic literature review
-- AI design tools
-- Prompt engineering
-- Human-AI collaboration in design
-
-## Theoretical Framework
-Human-computer interaction (HCI) and design process theory frame the review, mapping LLM capabilities and limitations onto established design workflow phases.
-
-## Methods
-Systematic literature review following PRISMA guidelines; analysis of published research on LLM applications in UI/UX design workflows.
-
-## Main Arguments
-- LLMs can support UI/UX work across ideation, prototyping, evaluation, and refinement phases
-- Hallucinations and prompt instability are significant barriers to reliable LLM use in design
-- Best practices for LLM integration in design are still emerging and vary by design phase
-- Human oversight and critical evaluation of LLM outputs remain essential for design quality

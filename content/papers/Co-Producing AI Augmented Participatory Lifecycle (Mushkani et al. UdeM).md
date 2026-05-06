@@ -1,49 +1,46 @@
 ---
 source_file: "research_docs/P21.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Responsible AI Governance"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-abstract: "Despite efforts to mitigate the inherent risks and bi- ases of artificial intelligence (AI) algorithms, these algo- rithms can disproportionately impact culturally marginal- ized groups. A range of approaches has been proposed to address or reduce these risks, including the develop- ment of ethical guidelines and principles for responsible AI, as well as technical solutions that promote algorith- mic fairness. Drawing on design justice, expansive learn- ing theory, and recent empirical work on p"
-
-doi: "10.1609/aies.v8i2.36674"
+  - community/Responsible_AI_Governance
 ---
 
 # Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)
 
+## Summary
+Mushkani et al. argue that existing AI ethics frameworks — whether regulatory, technical, or participatory — remain insufficient because they center expertise within organizations rather than affected communities. Drawing on design justice, expansive learning theory, and participatory AI empirical work, the authors propose a five-phase augmented AI lifecycle: co-framing, co-design, co-implementation, co-deployment, and co-maintenance. The lifecycle is grounded in four multidisciplinary workshops and emphasizes distributed authority, DEI, and iterative knowledge exchange across the full AI pipeline.
 
-## Abstract
+## Key Concepts
+- Design justice
+- Augmented participatory AI lifecycle (5 phases)
+- Distributed authority and epistemic equity
+- Expansive learning theory (Engeström)
+- Algorithmic fairness and its cultural contingency
 
-**DOI:** [10.1609/aies.v8i2.36674](https://doi.org/10.1609/aies.v8i2.36674)
+## Theoretical Framework
+Combines design justice (Costanza-Chock), expansive learning theory (Engeström), and participatory design; critiques Western-centric ethical frameworks and advocates pluralistic, cross-cultural alignment approaches.
 
-Despite efforts to mitigate the inherent risks and bi- ases of artificial intelligence (AI) algorithms, these algo- rithms can disproportionately impact culturally marginal- ized groups. A range of approaches has been proposed to address or reduce these risks, including the develop- ment of ethical guidelines and principles for responsible AI, as well as technical solutions that promote algorith- mic fairness. Drawing on design justice, expansive learn- ing theory, and recent empirical work on participatory AI, we argue that mitigating these harms requires a funda- mental re-architecture of the AI production pipeline. This re-design should center co-production, diversity, equity, in- clusion (DEI), and multidisciplinary collaboration. We intro- duce an augmented AI lifecycle consisting of f
+## Methods
+Conceptual framework development grounded in four multidisciplinary workshops; critical synthesis of empirical participatory AI literature; mapping to existing ethical frameworks (EU AI Act, NIST AI RMF, Montreal Declaration).
+
+## Main Arguments
+- Current AI governance frameworks are largely aspirational and center responsibility in expert/organizational hierarchies rather than affected publics
+- Fairness criteria (statistical parity, equal opportunity, individual fairness) are culturally contingent and sometimes conflict — pluralistic approaches are needed
+- Re-architecting the AI pipeline around co-production requires deliberate DEI practices at every lifecycle phase, not just at deployment
+- Participatory approaches must involve genuine authority redistribution, not tokenistic consultation
+
+## Limitations
+- Framework is primarily conceptual; scaling co-production in resource-constrained settings remains underexplored
+- Workshop-based grounding limits generalizability across sectors and governance contexts
+
+## Connections
+Links to [[Mapping VSD onto AI for Social Good (Umbrello and van de Poel)]] on lifecycle-based ethical design; relates to [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]] on organizational RAI maturity; connects to [[AI Failure Loops in Devalued Work (Kawakami et al.)]] on power dynamics in AI deployment.
 
 ## Connections
 - [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
-
-## Summary
-Mushkani et al. propose an augmented participatory lifecycle framework for AI co-production that extends traditional participatory design principles to AI system development, ensuring that diverse stakeholders — including affected communities — are involved throughout the AI development lifecycle. The paper argues that current AI development practices are insufficiently participatory and proposes practical methods for involving stakeholders at each stage from problem definition to deployment and evaluation. Published at CHI or similar venue from Université de Montréal.
-
-## Key Concepts
-- Participatory AI development lifecycle
-- AI co-production with stakeholders
-- Augmented participatory design methods
-- Responsible AI development through inclusion
-
-## Theoretical Framework
-Participatory design tradition extended to AI contexts; draws on value-sensitive design and community-centered design to argue for stakeholder involvement throughout AI system development.
-
-## Methods
-Framework development paper proposing an augmented participatory lifecycle for AI co-production; empirical grounding through case examples; published at CHI or related venue from Université de Montréal.
-
-## Main Arguments
-- Current AI development lifecycles exclude key stakeholders, particularly affected communities
-- Participatory design methods must be augmented to address the unique challenges of AI development
-- Co-production throughout the lifecycle — not just at use — is necessary for responsible AI
-- The augmented participatory lifecycle provides a practical roadmap for inclusive AI development
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

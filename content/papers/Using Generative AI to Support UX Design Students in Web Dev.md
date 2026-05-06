@@ -1,50 +1,47 @@
 ---
 source_file: "research_docs/P136.pdf"
-type: "paper"
+type: paper
 community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
-
-abstract: "This work explores the integration of Generative AI (GenAI) tools into web development ed"
-
-doi: "10.3390/app15137389"
 ---
 
 # Using Generative AI to Support UX Design Students in Web Dev
 
+## Summary
+Buendía-García and Piris-Ruano (Universitat Politècnica de Valencia) explore the integration of generative AI tools into web development education for UX design students. The study investigates how GenAI assists with code generation, design-to-code translation, and debugging in a UX-focused web development course, examining effects on student learning outcomes, engagement, and perceptions of AI. Findings indicate that GenAI tools accelerate prototyping and reduce technical barriers for design-oriented students unfamiliar with code, but require explicit scaffolding to prevent over-reliance and support critical evaluation of AI-generated code.
 
-## Abstract
+## Key Concepts
+- **Design-to-code translation**: Using GenAI to convert UX design mockups into working HTML/CSS/JavaScript prototypes
+- **Technical barrier reduction**: AI tools lowering the threshold for design students to engage with web development without deep programming backgrounds
+- **Over-reliance risk**: Students accepting AI-generated code without understanding or critically evaluating it
+- **Scaffolded AI integration**: Course design that structures when and how students engage with GenAI tools to promote learning rather than bypass it
+- **UX-development gap**: The professional challenge of bridging design and development; AI as a potential bridge
 
-**DOI:** [10.3390/app15137389](https://doi.org/10.3390/app15137389)
+## Theoretical Framework
+Educational technology and instructional design in higher education, drawing on constructivist learning and cognitive apprenticeship frameworks. Positions GenAI as scaffolding that should progressively fade as students develop independent capability.
 
-This work explores the integration of Generative AI (GenAI) tools into web development ed
+## Methods
+Empirical study in a UX web development course at a Spanish university. Quantitative assessment of learning outcomes pre/post GenAI integration; qualitative student feedback on AI tool use and learning experience.
+
+## Main Arguments
+1. GenAI tools substantially lower technical barriers for UX students engaging with web development, enabling faster prototyping
+2. Without explicit scaffolding, students use AI as a black box, failing to develop understanding of the code it generates
+3. Effective integration requires designing explicit "AI-off" practice periods and code comprehension tasks alongside AI-assisted work
+4. The design-development gap that traditionally separates UX designers and developers can be partially bridged by GenAI—but only if students develop critical evaluation skills
+
+## Limitations
+Single course, single institution (Spain); limited generalizability. UX/web development context is specific; findings may not transfer to other design or development educational contexts. Rapid GenAI evolution means specific tool behaviors may change.
+
+## Connections
+- Connects to [[Generative AI Integrated Educational Model for User-Centered]] on AI integration in UX/design education
+- Relates to [[The Potential and Implications of Generative AI on HCI Education]] on GenAI in HCI and design programs
+- Pairs with [[Contemporary Educational Technology, 2025, 17(3), ep583]] on AI in creative technical education
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Summary
-Buendía-García and Piris-Ruano investigate the integration of generative AI tools into web development courses for UX design students at the Universitat Politècnica de Valencia, assessing how AI supports design-development workflows and student learning outcomes. Their study finds that GenAI tools reduce technical barriers for design students, enabling focus on UX quality rather than implementation details, while also raising concerns about skill development and critical evaluation of AI outputs.
-
-## Key Concepts
-- Generative AI in UX education
-- Web development for designers
-- AI-assisted prototyping
-- Design-development bridge
-- Student learning outcomes
-
-## Theoretical Framework
-Technology-enhanced learning and UX education theory frame the investigation of how GenAI tools can reduce technical barriers while preserving learning of core UX competencies.
-
-## Methods
-Educational intervention study; integration of GenAI tools into UX web development courses; assessment of student outcomes and experiences; published in Applied Sciences 2025.
-
-## Main Arguments
-- GenAI tools reduce technical implementation barriers, allowing UX design students to focus on design quality
-- AI assistance in web development courses can democratize participation for students with limited coding skills
-- Risk of skill atrophy requires deliberate pedagogical design to ensure students develop foundational competencies
-- Students show positive attitudes toward GenAI tools but need guidance on critical evaluation and responsible use

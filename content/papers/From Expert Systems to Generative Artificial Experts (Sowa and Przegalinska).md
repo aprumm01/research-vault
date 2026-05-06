@@ -1,25 +1,43 @@
 ---
 source_file: "research_docs/P34.pdf"
-type: "paper"
+type: paper
 community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
-
-doi: "10.1613/jair.1.17175"
-
-abstract: "This paper introduces Generative Artificial Experts (GAEs) - a concept of a new type of generative AI agents designed for human-AI collaboration in knowledge work. GAEs have specialized domain expertise, perform tasks within bounded autonomy, include a synthetic persona and possess multimodal generative AI capabilities, among other features. We provide a definition of GAEs which includes seven defining traits, offering a taxonomy which sets them apart from other generative AI systems. We use lit"
 ---
 
 # From Expert Systems to Generative Artificial Experts (Sowa and Przegalinska)
 
+## Summary
+Sowa and Przegalinska trace the conceptual and technical evolution from classical expert systems of the 1970s-80s to contemporary generative AI, arguing that the latter represents a qualitative shift toward what they term "Generative Artificial Experts" — systems capable of producing contextually appropriate expert-level outputs without explicit rule encoding. The paper examines the epistemic and organizational implications of this shift, particularly for how humans understand, trust, and delegate to AI systems in professional contexts.
 
-## Abstract
+## Key Concepts
+- Expert systems (MYCIN, XCON paradigm)
+- Generative AI as expert knowledge production
+- Generative Artificial Experts
+- Tacit vs. explicit knowledge in AI systems
+- Human-AI delegation and trust in professional contexts
 
-**DOI:** [10.1613/jair.1.17175](https://doi.org/10.1613/jair.1.17175)
+## Theoretical Framework
+Draws on knowledge management theory (Polanyi's tacit/explicit distinction), organizational sociology of expertise, and AI systems history; frames the evolution from rule-based to generative AI as a transition in the epistemic structure of machine intelligence.
 
-This paper introduces Generative Artificial Experts (GAEs) - a concept of a new type of generative AI agents designed for human-AI collaboration in knowledge work. GAEs have specialized domain expertise, perform tasks within bounded autonomy, include a synthetic persona and possess multimodal generative AI capabilities, among other features. We provide a definition of GAEs which includes seven defining traits, offering a taxonomy which sets them apart from other generative AI systems. We use literature-review based conceptual analysis with abductive reasoning to propose the new concept that addresses identified limitations in existing systems. The paper explores the emergence of GAEs as a leap from expert systems. We name two enablers for GAEs - ongoing development of a research field of human-AI collaboration and growing capabilities of generative artificial intelligence systems. We discuss existing generative AI agents, noting that GAEs as such do not exist yet, but are starting to emerge. Due conceptual nature of this paper we do not explore the technical aspects of GAEs development. Instead, we use illustrative examples to present possible applications of GAEs and their potential role in the future of knowledge work. This article appears in the AI &amp; Society track.
+## Methods
+Conceptual and historical analysis; comparative review of expert systems and generative AI capabilities; draws on case examples from professional domains (medicine, law, engineering).
+
+## Main Arguments
+- Classical expert systems encoded explicit rules from human experts, making their reasoning transparent but brittle and domain-limited
+- Generative AI systems derive performance from statistical patterns in vast data, producing flexible outputs but with opaque reasoning — a fundamentally different epistemic structure
+- "Generative Artificial Experts" are emerging as organizational actors whose outputs organizations treat as expert judgment, raising new accountability and governance questions
+- Human-AI collaboration models must evolve to account for the different trust calibration challenges posed by each type of system
+
+## Limitations
+- "Generative Artificial Expert" as a category is the authors' theoretical contribution — empirical validation of how organizations actually treat GenAI outputs as expert judgment is limited
+- Historical framing of expert systems may oversimplify a heterogeneous research tradition
+
+## Connections
+Relates to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on theorizing AI in organizations; links to [[Automate Infomate Two Faces of Intelligent Technology (Zuboff 1985)]] on technology and knowledge transformation; connects to [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] on evolving AI in organizational contexts.
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
@@ -27,25 +45,3 @@ This paper introduces Generative Artificial Experts (GAEs) - a concept of a new 
 - [[Hybrid Intelligence]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Summary
-Sowa and Przegalinska introduce the concept of Generative Artificial Experts (GAEs)—a new class of AI agents that combine specialized domain expertise, bounded autonomy, a synthetic persona, and multimodal generative capabilities for human-AI collaboration in knowledge work. Published in the Journal of Artificial Intelligence Research, the paper provides a taxonomy that distinguishes GAEs from other generative AI systems and builds on the historical lineage of expert systems toward a new paradigm of AI-human intellectual partnership.
-
-## Key Concepts
-- Generative Artificial Experts (GAEs)
-- Knowledge work and AI
-- Expert systems
-- Human-AI collaboration
-- AI taxonomy
-
-## Theoretical Framework
-The conceptual framework draws on the history of expert systems (MYCIN, DENDRAL) and extends it toward contemporary LLM-based systems, theorizing a new agent type characterized by domain expertise, synthetic persona, and generative multimodal capability.
-
-## Methods
-Literature-based conceptual analysis; taxonomy development; comparison across AI system types.
-
-## Main Arguments
-- GAEs differ from general-purpose AI by possessing deep domain specialization and bounded autonomy
-- A synthetic persona enables more effective long-term human-AI collaboration than tool-based AI interactions
-- GAEs represent an evolution from expert systems toward genuine intellectual partners in knowledge work
-- Seven defining traits distinguish GAEs from other generative AI systems including chatbots and copilots

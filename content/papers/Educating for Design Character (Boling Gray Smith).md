@@ -1,24 +1,43 @@
 ---
 source_file: "research_docs/P26.pdf"
-type: "paper"
+type: paper
 community: "HCI Education and Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/HCI_Education_and_Pedagogy
-
-doi: "10.21606/drs.2020.120"
-
-abstract: "Some particular challenges in studio pedagogy arise from teaching for design character versus focusing solely on skills, knowledge or the cognitive processes of our students. In this paper, three authors with extensive combined experience in studio learning, teaching, and scholarship address these challenges via reflection on our own experiences of research and teaching and in-depth discussion with each other. We adopt a co/autoethnographic approach (Coia & Taylor, 2009), identifying a range of "
 ---
 
 # Educating for Design Character (Boling Gray Smith)
 
+## Summary
+Boling, Gray, and Smith argue that design pedagogy must shift from a primarily cognitive focus — skills, knowledge, design moves — to cultivating "design character": the full dispositional orientation of the designer, including beliefs, values, experiential knowledge, and judgment. Drawing on 20+ years of combined studio teaching across Indiana University and Purdue, they use a co/autoethnographic approach to surface pedagogical challenges organized around students, curriculum, colleagues, and self. The paper positions character as foundational to the future of design practice.
 
-## Abstract
-Some particular challenges in studio pedagogy arise from teaching for design character versus focusing solely on skills, knowledge or the cognitive processes of our students. In this paper, three authors with extensive combined experience in studio learning, teaching, and scholarship address these challenges via reflection on our own experiences of research and teaching and in-depth discussion with each other. We adopt a co/autoethnographic approach (Coia & Taylor, 2009), identifying a range of challenges we have faced ourselves across three established and emergent design disciplines. These challenges are grouped in relationship to students, to curriculum, to our colleagues, and to ourselves. In our experience these challenges affect instructors differently than—and in addition to—those presented by traditional studio, and we present opportunities to build on these articulated challenges to further studio pedagogy.
+## Key Concepts
+- Design character (Nelson and Stolterman's philosophical perspective)
+- Studio pedagogy
+- Co/autoethnographic method
+- Design disposition vs. design cognition
+- Character-centered design education
 
-**DOI:** [10.21606/drs.2020.120](https://doi.org/10.21606/drs.2020.120)
+## Theoretical Framework
+Grounds in Nelson and Stolterman's (2012) philosophical account of design; explicitly contrasts with the dominant cognitive perspective (Cross, Lawson, Schön); frames character as the holistic integration of being-in-the-world, not just expert thinking.
+
+## Methods
+Co/autoethnographic reflection by three studio educators (Boling, Gray, Smith) across three design disciplines and multiple curricular levels; review of embedded studies conducted during studio teaching; extended mutual discussion and analysis.
+
+## Main Arguments
+- Teaching for design character creates pedagogical challenges distinct from skills-based or cognitive approaches: it requires attending to students' whole person, values formation, and long-term growth trajectories
+- Curricular challenges include assessing character development without reducing it to observable behaviors; colleague challenges include working with co-instructors who hold different pedagogical philosophies
+- The "self" challenge for educators is significant: teaching from character requires modeling character, demanding personal reflection and sustained commitment
+- Without character formation, design education produces technically capable practitioners who may lack the ethical grounding and judgment for the work's real demands
+
+## Limitations
+- Autoethnographic method is inherently perspective-bound; findings reflect these three educators' specific institutional and disciplinary contexts
+- "Design character" is philosophically rich but operationally under-specified, making it difficult to assess or systematically cultivate
+
+## Connections
+Directly links to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on designer identity; relates to [[Developing Human Experience Experts (Cheatham Miami U)]] on holistic professional development; informs [[Designerly Ways of Knowing (Cross 1982)]] on foundational design epistemology.
 
 ## Connections
 - [[Design Judgment]] - `` [EXTRACTED]
@@ -26,25 +45,3 @@ Some particular challenges in studio pedagogy arise from teaching for design cha
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
-
-## Summary
-Boling, Gray, and Smith examine the challenges of cultivating "design character"—the disposition, judgment, and ethical orientation that distinguish expert designers—within higher education studio settings. Drawing on DRS 2020 research, they argue that studio pedagogy must go beyond teaching methods and process to actively develop students' professional identity and values. The paper contributes to understanding how design educators can foster the intangible qualities of expert practice.
-
-## Key Concepts
-- Design character
-- Studio pedagogy
-- Design education
-- Professional identity
-- Judgment and expertise
-
-## Theoretical Framework
-The concept of design character integrates virtue ethics, professional identity theory, and design cognition research to frame what studio education should cultivate beyond procedural skills.
-
-## Methods
-Conceptual analysis and design case study; empirical grounding in studio teaching experiences at Indiana University and Purdue University.
-
-## Main Arguments
-- Studio pedagogy must explicitly target the development of character alongside competency
-- Design character includes dispositions like reflective judgment, ethical awareness, and professional courage
-- Current studio models often neglect the identity-formation dimension of design education
-- Instructors serve as models of design character, not just facilitators of design process

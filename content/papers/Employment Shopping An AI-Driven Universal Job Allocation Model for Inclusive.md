@@ -1,51 +1,48 @@
 ---
 source_file: "research_docs/P78.pdf"
-type: "paper"
-community: "Responsible AI and Ethics"
+type: paper
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_and_Ethics
-
-abstract: "Unemployment remains a major global issue, particularly for marginalized groups such as ex-offenders, rural workers, and individuals with disabilities. Grounded in labor market segmentation theory and a critique of institutional barriers, this study argues that existing AI-driven job platforms often reproduce systemic exclusion due to digital access gaps and algorithmic bias. This study proposes Employment Shopping, an AI-powered, mobile employment solution that combines personalized job recomme"
-
-doi: "10.2139/ssrn.5315510"
+  - community/Human_Performance_Technology
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive
 
+## Summary
+This paper proposes "Employment Shopping," an AI-powered mobile employment solution designed to address workforce exclusion for marginalized groups — ex-offenders, rural workers, and people with disabilities. Grounded in labor market segmentation theory and critique of institutional barriers, the paper argues that existing AI-driven job platforms reproduce systemic exclusion through digital access gaps and algorithmic bias. The proposed model combines personalized AI job recommendations with in-person support via mobile Employment Buses, functioning as institutional entrepreneurship using bias-mitigating AI and public-private partnerships.
 
-## Abstract
+## Key Concepts
+- AI-driven job matching and recommendation systems
+- Labor market segmentation theory
+- Algorithmic bias in employment platforms
+- Institutional entrepreneurship
+- Mobile social infrastructure (Employment Buses)
 
-**DOI:** [10.2139/ssrn.5315510](https://doi.org/10.2139/ssrn.5315510)
+## Theoretical Framework
+Grounded in labor market segmentation theory (dual labor market, institutional barriers) and institutional entrepreneurship literature; critiques AI systems that optimize within existing market structures, reproducing exclusion; frames Employment Shopping as a socio-technical intervention that redesigns the infrastructure of labor market access.
 
-Unemployment remains a major global issue, particularly for marginalized groups such as ex-offenders, rural workers, and individuals with disabilities. Grounded in labor market segmentation theory and a critique of institutional barriers, this study argues that existing AI-driven job platforms often reproduce systemic exclusion due to digital access gaps and algorithmic bias. This study proposes Employment Shopping, an AI-powered, mobile employment solution that combines personalized job recommendations with in- person support via mobile Employment Buses. By functioning as an act of institutional entrepreneurship, the model leverages bias-mitigating AI and public-private partnerships to enhance accessibility and inclusivity. This research evaluates the model's feasibility, ethical implications, and expected impact, theoretically positioning Employment Shopping as a scalable, socio-technical intervention aligned with UN SDGs on poverty reduction, decent work, and eco
+## Methods
+Conceptual/design proposal paper; theoretical grounding in labor market and institutional theory; feasibility and ethical analysis; alignment with UN SDG frameworks on poverty reduction, decent work, and reduced inequalities.
+
+## Main Arguments
+- Existing AI-driven employment platforms are built for users with digital access, stable addresses, and standard employment histories — systematically excluding the most marginalized job seekers
+- Algorithmic bias in job matching reflects and amplifies historical discrimination; bias mitigation requires deliberate technical and governance interventions, not neutral optimization
+- Mobile Employment Buses address the physical infrastructure gap: bringing AI-assisted job matching to communities without stable internet access or proximity to employment centers
+- Public-private partnership models can enable scalable, sustainable deployment without relying exclusively on government resources
+
+## Limitations
+- Conceptual proposal without empirical implementation; feasibility is argued but not demonstrated
+- Bias-mitigating AI is presented as achievable without specifying which specific bias mitigation approaches would be used or how they would be evaluated
+
+## Connections
+Relates to [[AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)]] on AI and workforce equity; links to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on inclusive AI development; connects to [[Rethinking Optimization Systems-Based Social Externalities (Nokhiz et al. Cornel.md)]] on addressing AI optimization's exclusionary effects.
 
 ## Connections
 - [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
 - [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
-
-## Summary
-This paper proposes "Employment Shopping," an AI-powered mobile employment solution designed to address systemic exclusion of marginalized workers—including ex-offenders, rural workers, and people with disabilities—from mainstream job platforms. The model combines personalized AI job recommendations with in-person support through mobile Employment Buses, functioning as an act of institutional entrepreneurship that challenges algorithmic bias and digital access barriers to achieve inclusive workforce integration.
-
-## Key Concepts
-- AI job allocation
-- Labor market inclusion
-- Algorithmic bias
-- Institutional entrepreneurship
-- Sociotechnical intervention
-
-## Theoretical Framework
-Labor market segmentation theory and institutional entrepreneurship theory frame the critique of existing AI platforms and the design of the proposed inclusive model, with reference to UN Sustainable Development Goals.
-
-## Methods
-Conceptual/theoretical design; feasibility analysis; ethical and impact evaluation of the proposed Employment Shopping model.
-
-## Main Arguments
-- Existing AI job platforms reproduce systemic exclusion through algorithmic bias and digital access gaps
-- Combining AI personalization with in-person support via mobile units can reach underserved populations
-- Bias-mitigating design principles are essential for inclusive AI-powered employment systems
-- Public-private partnerships are necessary for the scalability and sustainability of inclusive employment models
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

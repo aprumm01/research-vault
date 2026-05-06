@@ -1,48 +1,45 @@
 ---
 source_file: "research_docs/P63.pdf"
-type: "paper"
+type: paper
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
-
-doi: "10.1109/access.2024.3502628"
-
-abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
 # UI UX for Generative AI: Taxonomy Trend Challenge (Kim et al.)
 
+## Summary
+Kim et al. develop a taxonomy of UI/UX design considerations specific to generative AI products — systems whose outputs are probabilistic, non-deterministic, and often surprising to users. The paper analyzes trends in how major AI products handle interface challenges (managing expectations, communicating uncertainty, supporting error recovery) and identifies persistent design challenges that current GenAI UI patterns inadequately address, including trust calibration, attribution transparency, and supporting appropriate human oversight.
 
-## Abstract
-*Abstract not yet found — search by title or check source PDF*
+## Key Concepts
+- GenAI UI/UX taxonomy
+- Non-determinism in AI interface design
+- Trust calibration in AI products
+- Uncertainty communication in UI
+- Human oversight and AI transparency in products
 
-**DOI:** [10.1109/access.2024.3502628](https://doi.org/10.1109/access.2024.3502628)
+## Theoretical Framework
+Draws on HCI principles for intelligent system design, mental models literature, and explainable AI; extends existing UI/UX design pattern literature to address the specific affordances and challenges of generative systems.
+
+## Methods
+Systematic analysis of existing GenAI products (chatbots, image generators, code assistants); taxonomic classification of UI/UX strategies employed; expert analysis of design patterns; identification of persistent challenges through comparative case analysis.
+
+## Main Arguments
+- Generative AI requires a distinct UI/UX vocabulary because its core behaviors (probabilistic outputs, hallucination, context sensitivity) violate assumptions underlying traditional interaction design principles
+- Current GenAI UI patterns address surface expectations (disclaimer text, regeneration buttons) without solving deeper challenges around trust calibration and appropriate reliance
+- Attribution transparency — making visible what a GenAI product "knows" and where its outputs come from — remains largely unaddressed in mainstream product design
+- Supporting appropriate human oversight requires UI that actively helps users identify when to scrutinize, question, or reject AI outputs
+
+## Limitations
+- Taxonomy developed from analysis of primarily English-language, Western market products; GenAI UI patterns vary across cultural and regulatory contexts
+- Rapidly evolving product landscape means specific pattern analyses may be outdated within months
+
+## Connections
+Relates to [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] on GenAI UI design research; links to [[To Engage or Not with AI for Critical Judgments (Lebovitz et al.)]] on human-AI judgment in AI-mediated tasks; connects to [[Making the Right Thing HCI and Responsible AI (Jung et al. CMU)]] on RAI in AI product design.
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
-
-## Summary
-Kim et al. develop a comprehensive taxonomy of UI/UX design patterns for generative AI applications, reviewing current trends and identifying open challenges. Published in IEEE Access, the paper categorizes interaction paradigms, output presentation strategies, and user control mechanisms across GenAI systems, providing designers with a systematic framework for understanding the design space. They identify key unsolved challenges including uncertainty communication, error recovery, and user agency preservation.
-
-## Key Concepts
-- Generative AI UI/UX
-- Interaction design taxonomy
-- AI interface patterns
-- User control and agency
-- Design challenges
-
-## Theoretical Framework
-HCI design pattern theory and human-centered AI frameworks organize the taxonomy, drawing on design principles for intelligent systems and interactive AI interfaces.
-
-## Methods
-Systematic taxonomy development; literature review and analysis of existing GenAI interfaces; classification of interaction patterns, output modalities, and control mechanisms.
-
-## Main Arguments
-- A systematic taxonomy of GenAI UI/UX patterns enables more principled design of AI interfaces
-- Key design challenges include communicating AI uncertainty, supporting error recovery, and preserving user agency
-- Current GenAI interfaces often lack mechanisms for users to understand and control AI behavior
-- Standardizing UI/UX patterns can improve GenAI usability and support broader adoption

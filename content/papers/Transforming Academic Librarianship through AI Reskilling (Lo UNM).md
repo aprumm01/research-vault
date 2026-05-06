@@ -1,50 +1,46 @@
 ---
 source_file: "research_docs/P72.pdf"
-type: "paper"
-community: "AI Literacy"
+type: paper
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
-
-abstract: "Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunit"
-
-doi: "10.1016/j.acalib.2024.102883"
+  - community/Workplace_Learning_and_AI
 ---
 
 # Transforming Academic Librarianship through AI Reskilling (Lo UNM)
 
+## Summary
+Lo examines how academic librarians at the University of New Mexico and peer institutions are developing AI competencies through structured reskilling programs, arguing that academic librarianship must fundamentally transform its professional identity and skill base in response to AI's impact on information work. The paper documents reskilling initiatives, identifies barriers to AI adoption among library professionals, and proposes a framework for AI literacy development specifically tailored to librarians' professional role as information intermediaries and research partners.
 
-## Abstract
+## Key Concepts
+- Academic librarian AI reskilling
+- AI literacy for information professionals
+- Professional identity transformation
+- Institutional reskilling programs
+- Information intermediary in an AI environment
 
-**DOI:** [10.1016/j.acalib.2024.102883](https://doi.org/10.1016/j.acalib.2024.102883)
+## Theoretical Framework
+Draws on professional development theory, organizational learning, and library science; frames AI reskilling not as technology adoption but as professional identity reconfiguration — librarians must understand AI's impact on information architecture, research workflows, and scholarly communication to remain effective partners.
 
-Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunities in high -tech fields such as AI development, cybersecurity, and robotics engineering. Approximately 30% of global jobs could be automated by the 2030s, disproportionately af fecting low -skilled workers and exacerbating income inequalities. Reskilling and upskilling initiatives emerge as critical for addressing these disruptions, with personalized AI -enabled training platforms showing promising results in preparing the workforce for AI-driven roles. The research identifies ethical and operati
+## Methods
+Mixed methods study; survey and interview data from academic librarians; document analysis of reskilling program materials; case study of UNM Libraries' AI competency development initiatives.
+
+## Main Arguments
+- AI is disrupting information work at its foundation: search, synthesis, citation, and discovery functions that define librarianship are being transformed by LLMs and AI search systems
+- Academic librarians who fail to develop AI literacy will be marginalized; those who develop expertise in AI's information implications can become essential partners in navigating an AI-mediated research landscape
+- Effective reskilling programs must address both technical AI competence and critical information literacy — helping librarians evaluate AI outputs, identify hallucinations, and understand AI's epistemic limitations
+- Institutional investment in structured reskilling (protected learning time, peer learning cohorts, clear competency frameworks) is essential — self-directed learning alone is insufficient
+
+## Limitations
+- UNM-centered study; academic library contexts vary widely in resources, institutional support, and digital infrastructure
+- Reskilling initiatives are early stage; long-term impact on librarian effectiveness and patron service is not yet assessable
+
+## Connections
+Relates to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on professional reskilling with AI tools; links to [[Beyond the Hype Responsible AI in Workplace Learning (Sposato)]] on evidence-based AI in learning contexts; connects to [[To Engage or Not with AI for Critical Judgments (Lebovitz et al.)]] on professional AI engagement.
 
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
-
-## Summary
-Leo S. Lo presents a case study of the GPT-4 Exploration Program at the University of New Mexico's College of University Libraries and Learning Sciences, which provided librarians with hands-on AI experience to build AI literacy and foster a culture of continuous learning. Drawing on Knowles's Adult Learning Principles (andragogy), Lo analyzes the program's structure, the diverse projects undertaken by participants, and lessons for professional development in academic librarianship.
-
-## Key Concepts
-- AI reskilling
-- Academic librarianship
-- Adult learning principles (andragogy)
-- GPT-4 professional development
-- AI literacy
-
-## Theoretical Framework
-Knowles's andragogy provides the pedagogical framework for the reskilling program, with AI literacy theory informing the design of hands-on exploration activities.
-
-## Methods
-Case study; analysis of a professional development program at UNM; description of program structure, participant projects, and outcomes; published in Journal of Academic Librarianship.
-
-## Main Arguments
-- Hands-on AI exploration programs are effective for building librarian AI literacy
-- Adult learning principles (self-direction, experience-based learning) are well-suited to AI professional development
-- Librarians can develop diverse AI applications relevant to their specific functional contexts
-- Building a culture of continuous learning is as important as specific AI skill development
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
