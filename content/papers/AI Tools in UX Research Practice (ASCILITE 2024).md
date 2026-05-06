@@ -1,16 +1,31 @@
 ---
+source_file: "research_docs/P96.pdf"
 type: "paper"
+community: "AI Literacy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
+
 doi: "10.14742/ascilite2021.0100"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-apa: "Unknown (2021). Ascilite 2021: Back to the future – ascilite ‘21 proceedings ascilite 2021 in armidale. https://doi.org/10.14742/ascilite2021.0100"
 ---
+
+# AI Tools in UX Research Practice (ASCILITE 2024)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/AI Literacy|AI Literacy]]
+**DOI:** [10.14742/ascilite2021.0100](https://doi.org/10.14742/ascilite2021.0100)
+
+## Connections
+- [[AI Literacy]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
 
 ## Summary
 This ASCILITE 2024 conference paper explores the role of AI tools in UX research practice, examining how UX researchers are integrating AI into their workflows and what implications this has for research quality, efficiency, and professional competency. The paper documents emerging patterns of AI use in UX research contexts and raises questions about the impact of AI assistance on research rigor and practitioner skill development.
@@ -35,12 +50,3 @@ Empirical study or survey of UX research practitioners; ASCILITE 2024 conference
 
 ## Related Topics
 - [[topics/AI Literacy|AI Literacy]]
-
-## Related Authors
-- [[authors/Leo S. Lo|Leo S. Lo]]
-- Dai
-- L. S.
-- Schauer
-- Simbeck
-- Pinkwart
-- [[authors/Colin M. Gray|Colin M. Gray]]

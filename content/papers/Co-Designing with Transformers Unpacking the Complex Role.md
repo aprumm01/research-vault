@@ -1,17 +1,25 @@
 ---
+source_file: "research_docs/P252.pdf"
 type: "paper"
+community: "Problem-Based Learning"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Problem-Based_Learning
+
 doi: "10.1145/3715336.3735805"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W."
-apa: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W. (2025). Co-designing with transformers: Unpacking the complex role of genai in interactive system design education. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 1228-1243. https://doi.org/10.1145/3715336.3735805"
 ---
+
+# Co-Designing with Transformers: Unpacking the Complex Role
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Metacognitive Support|Metacognitive Support]]
+**DOI:** [10.1145/3715336.3735805](https://doi.org/10.1145/3715336.3735805)
+
 ## Summary
 This paper unpacks the complex and often contradictory role that transformer-based AI systems play when introduced as collaborative participants in design processes, examining case studies where teams explicitly co-designed with AI rather than using it as a tool. The authors find that AI as collaborator introduces new dynamics around authorship, creative responsibility, and team communication that existing design collaboration frameworks do not adequately address. The paper calls for new theoretical frameworks that account for AI as a genuine participant in design processes with distinct capabilities, biases, and limitations.
 
@@ -37,14 +45,12 @@ Multiple case studies of design projects explicitly framing AI as a collaborator
 ## Limitations & Critiques
 Case study design limits generalizability; the concept of AI as "collaborator" remains contested; findings depend on specific transformer capabilities that may rapidly change.
 
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Metacognitive Support]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
+
 ## Related Topics
 - [[topics/Metacognitive Support|Metacognitive Support]]
-
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
-- Cash
-- Gonçalves
-- Dorst
-- [[authors/Paul Parsons|Paul Parsons]]
-- Toombs

@@ -1,19 +1,31 @@
 ---
-venue: "Journal of Management Studies 2025"
-year: 2025
+source_file: "research_docs/P35.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 doi: "10.37725/mgmt.2026.14066"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Barlatier, P., & Michel, S."
-apa: "Barlatier, P., & Michel, S. (2026). Rethinking responsibility in organization and management research. M@n@gement, 29(1), 1-6. https://doi.org/10.37725/mgmt.2026.14066"
 ---
+
+# Rethinking AI in Organization and Management (Ramaul et al.)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Hybrid Intelligence|Hybrid Intelligence]]
+**DOI:** [10.37725/mgmt.2026.14066](https://doi.org/10.37725/mgmt.2026.14066)
+
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Hybrid Intelligence]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+
 ## Summary
 Ramaula et al. conduct a problematizing review of how AI is theorized in organization and management research, identifying two dominant and problematic assumptions: AI as purely rational decision-maker and AI as anthropomorphized agent. They argue that both framings are theoretically inadequate for understanding AI as it now exists—capable of approaching human-level performance in domains previously considered exclusively human. The paper calls for new theoretical frameworks that move beyond rationality and anthropomorphism.
 
@@ -38,9 +50,3 @@ Problematizing review methodology; selective and critical reading of theoretical
 
 ## Related Topics
 - [[topics/Hybrid Intelligence|Hybrid Intelligence]]
-
-## Related Authors
-- Yang
-- Jiang
-- Sowa
-- Przegalinska

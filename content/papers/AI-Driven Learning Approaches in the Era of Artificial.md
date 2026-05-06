@@ -1,18 +1,25 @@
 ---
+source_file: "research_docs/P222.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 abstract: "Artificial Intelligence (AI) is integrated with various domains for design education — expanding creativity, problem-solving, design methodologies, research, etc. due to its ability to simulate human cognition and behavior. Using systematic review and content anal- ysis, this study conducts a systematic review to understand the AI- powered curriculum innovation trends in design education. From the analyzed papers, five emerging themes were identified: (1) Art and Design Education, (2) Visual Com"
 
 doi: "10.1145/3729706.3729781"
-authors: "Yang, H., & Chou, W."
-apa: "Yang, H., & Chou, W. (2025). Ai-driven learning approaches in the era of artificial intelligence: Innovations in design education. Proceedings of the 2025 4th International Conference on Cyber Security, Artificial Intelligence and the Digital Economy, 471-477. https://doi.org/10.1145/3729706.3729781"
 ---
+
+# AI-Driven Learning Approaches in the Era of Artificial
+
 
 ## Abstract
 
-Artificial Intelligence (AI) is integrated with various domains for design education — expanding creativity, problem-solving, design methodologies, research, etc. due to its ability to simulate human cognition and behavior. Using systematic review and content anal- ysis, this study conducts a systematic review to understand the AI- powered curriculum innovation trends in design education. From the analyzed papers, five emerging themes were identified: (1) Art and Design Education, (2) Visual Communication and Graphic Design, (3) Integration and Innovation of AI in Design Education, (4) Design Thinking and AI for Education, and (5) Generative AI for Design and Fashion. The results suggest th
+**DOI:** [10.1145/3729706.3729781](https://doi.org/10.1145/3729706.3729781)
 
-## Topics
-- [[topics/Design Thinking|Design Thinking]]
+Artificial Intelligence (AI) is integrated with various domains for design education — expanding creativity, problem-solving, design methodologies, research, etc. due to its ability to simulate human cognition and behavior. Using systematic review and content anal- ysis, this study conducts a systematic review to understand the AI- powered curriculum innovation trends in design education. From the analyzed papers, five emerging themes were identified: (1) Art and Design Education, (2) Visual Communication and Graphic Design, (3) Integration and Innovation of AI in Design Education, (4) Design Thinking and AI for Education, and (5) Generative AI for Design and Fashion. The results suggest th
 
 ## Summary
 This paper provides a broad overview of AI-driven learning approaches emerging in the current era of advanced AI, examining how machine learning, large language models, and adaptive systems are transforming educational delivery, personalization, and assessment. The paper evaluates the promise and risks of AI-driven learning across formal education, corporate training, and self-directed learning contexts. It argues for learning design principles that harness AI's personalization and feedback capabilities while maintaining the social, motivational, and identity-formation dimensions of learning that AI cannot replicate.
@@ -39,14 +46,12 @@ Conceptual review and synthesis of AI-driven learning research across contexts; 
 ## Limitations & Critiques
 The review spans very heterogeneous AI approaches and educational contexts; evidence quality for many AI-driven learning systems is limited; the field is moving faster than systematic evidence can accumulate.
 
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+
 ## Related Topics
 - [[topics/Design Thinking|Design Thinking]]
-
-## Related Authors
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- Cheatham
-- Parreira
-- Marble
-- Zeng
-- [[authors/Colin M. Gray|Colin M. Gray]]

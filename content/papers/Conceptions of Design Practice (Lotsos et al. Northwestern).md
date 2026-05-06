@@ -1,20 +1,31 @@
 ---
-venue: "CHI 2025"
-year: 2025
+source_file: "research_docs/P25.pdf"
 type: "paper"
+community: "HCI Education and Pedagogy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
+
 abstract: "Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates "
 
 doi: "10.1504/jdr.2015.071456"
-authors: "Lopes, A.M., & Gill, A."
-apa: "Lopes, A.M., & Gill, A. (2015). Reorienting sustainable design: Practice theory and aspirational conceptions of use. J. of Design Research, 13(3), 248. https://doi.org/10.1504/jdr.2015.071456"
 ---
+
+# Conceptions of Design Practice (Lotsos et al. Northwestern)
+
 
 ## Abstract
 
+**DOI:** [10.1504/jdr.2015.071456](https://doi.org/10.1504/jdr.2015.071456)
+
 Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates conceptions of design practice in current and future design professionals. We share findings from 21 semi-structured interviews with students, educators, and profes- sionals. Our analysis reveals t
 
-## Topics
-- [[topics/Design Judgment|Design Judgment]]
+## Connections
+- [[Design Judgment]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
 
 ## Summary
 Lotsos et al. examine how conceptions of design practice differ between academic and industry contexts, finding significant gaps between how design is theorized in educational settings and how it is practiced in professional environments. Drawing on interviews and analysis from Northwestern University, the paper documents the assumptions about design work that practitioners bring from academia to industry and where those assumptions fail or need revision. The paper contributes to understanding the transition from design education to professional practice.
@@ -39,12 +50,3 @@ Qualitative empirical study at Northwestern University; likely interviews with d
 
 ## Related Topics
 - [[topics/Design Judgment|Design Judgment]]
-
-## Related Authors
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- Naik
-- Shukla
-- Obi
-- Backus

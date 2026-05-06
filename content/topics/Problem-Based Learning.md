@@ -16,8 +16,3 @@ tags:
 - [[papers/Smith · Borge (Eds.)Learning and Collaboration|Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI]]
 - [[papers/Integrating User Experience in User Interface|Integrating User Experience in User Interface]]
 
-## Authors
-
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]

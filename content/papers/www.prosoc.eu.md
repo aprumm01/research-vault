@@ -1,13 +1,23 @@
 ---
+source_file: "research_docs/P188.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 abstract: "Using the model of analysis, design, development, implementation and evaluation (ADDIE) with regards to instructional design has become a prevalent practi se among e-learning designers and developers. This model assumes assigning specific r"
 
 doi: "10.18844/prosoc.v5i3.3906"
-authors: "Gawlik-Kobylinska, M."
-apa: "Gawlik-Kobylinska, M. (2018). Reconciling addie and agile instructional design modelsâ€”case study. New Trends and Issues Proceedings on Humanities and Social Sciences, 5(3), 14-21. https://doi.org/10.18844/prosoc.v5i3.3906"
 ---
 
+# Reconciling ADDIE and Agile Instructional Design Models: A Case Study
+
+
 ## Abstract
+
+**DOI:** [10.18844/prosoc.v5i3.3906](https://doi.org/10.18844/prosoc.v5i3.3906)
 
 Using the model of analysis, design, development, implementation and evaluation (ADDIE) with regards to instructional design has become a prevalent practi se among e-learning designers and developers. This model assumes assigning specific r
 
@@ -35,3 +45,9 @@ Case study of an instructional design team's adoption of a hybrid ADDIE-Agile ap
 
 ## Limitations & Critiques
 Single case study limits generalizability; the hybrid model may work differently in corporate vs. academic contexts; the case predates more recent developments in Agile instructional design literature.
+
+## Connections
+- [[ADDIE Model]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

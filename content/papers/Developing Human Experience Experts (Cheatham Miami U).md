@@ -1,20 +1,33 @@
 ---
-venue: "DUXU 2025"
-year: 2025
+source_file: "research_docs/P23.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 abstract: "The rapid development of generative AI tools is transforming design practice, shifting designers’ roles from technical producers to human experi- ence experts. As AI increasingly handles production tasks, design education must evolve to develop graduates who can understand complex human needs and cre- ate meaningful experiences. This paper presents a process-centric framework for design education built on four theoretical foundations: systems thinking, phe- nomenology, activity theory, and futur"
 
 doi: "10.1007/978-3-031-93233-5_3"
-authors: "Cheatham, D."
-apa: "Cheatham, D. (2025). Developing human experience experts: Design education’s process-centric response to generative ai. Lecture Notes in Computer Science, 37-54. https://doi.org/10.1007/978-3-031-93233-5_3"
 ---
+
+# Developing Human Experience Experts (Cheatham Miami U)
+
 
 ## Abstract
 
+**DOI:** [10.1007/978-3-031-93233-5_3](https://doi.org/10.1007/978-3-031-93233-5_3)
+
 The rapid development of generative AI tools is transforming design practice, shifting designers’ roles from technical producers to human experi- ence experts. As AI increasingly handles production tasks, design education must evolve to develop graduates who can understand complex human needs and cre- ate meaningful experiences. This paper presents a process-centric framework for design education built on four theoretical foundations: systems thinking, phe- nomenology, activity theory, and futures studies. Drawing from implementations in undergraduate and graduate courses at Miami University from 2023–2025, the paper demonstrates how these foundations can be translated into practical teaching methods emphasizing process over product. Through analysis of spe- ciﬁc interventions, including ripple effect diagrams and speciﬁcations grading, the paper shows how des
 
-## Topics
-- [[topics/Design Thinking|Design Thinking]]
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Activity Theory]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Dennis Cheatham presents a process-centric framework for design education in response to generative AI, arguing that as AI takes over production tasks, designers must develop as "human experience experts" capable of understanding complex human needs. Built on four theoretical foundations—systems thinking, phenomenology, activity theory, and futures studies—the framework is illustrated through course implementations at Miami University (2023–2025), demonstrating how process-oriented pedagogy cultivates judgment over technical skill.
@@ -41,12 +54,3 @@ Design case study; reflective analysis of course implementations at Miami Univer
 ## Related Topics
 - [[topics/Activity Theory|Activity Theory]]
 - [[topics/Design Thinking|Design Thinking]]
-
-## Related Authors
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- Yang
-- Chou
-- Parreira
-- Martinez Marroquin
-- Senadji

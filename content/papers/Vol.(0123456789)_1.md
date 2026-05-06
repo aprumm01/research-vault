@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P180.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.1007/s00146-025-02667-2"
 
 abstract: "Generative Artificial Intelligence (GenAI) is fundamentally transforming notions of creativity and creative production across disciplines, yet a comprehensive understanding of professional attitudes and integration patterns remains challenging. This scoping review examines how creative professionals perceive and integrate GenAI technologies across four domains: visual art and design, writing and literature, performing arts, and environmental and spatial design. Following PRISMA-ScR guidelines, w"
-authors: "Tsao, J., Liang, C.X., Nogues, C., & Wong, A."
-apa: "Tsao, J., Liang, C.X., Nogues, C., & Wong, A. (2025). Perceptions and integration of generative artificial intelligence in creative practices and industries: A scoping review and conceptual model. AI &amp; SOCIETY, 41(3), 2259-2278. https://doi.org/10.1007/s00146-025-02667-2"
 ---
+
+# Perceptions and Integration of Generative AI in Creative Practices and Industries
+
 
 ## Abstract
 Generative Artificial Intelligence (GenAI) is fundamentally transforming notions of creativity and creative production across disciplines, yet a comprehensive understanding of professional attitudes and integration patterns remains challenging. This scoping review examines how creative professionals perceive and integrate GenAI technologies across four domains: visual art and design, writing and literature, performing arts, and environmental and spatial design. Following PRISMA-ScR guidelines, we analysed 57 papers (2022–2025) from multiple databases, focusing mainly on empirically based studies of professional creative practice. We identify universal trends, including the shift from
+
+**DOI:** [10.1007/s00146-025-02667-2](https://doi.org/10.1007/s00146-025-02667-2)
 
 ## Summary
 This paper examines creative professionals' perceptions of and integration with generative AI in creative practices and industries, providing a cross-sectoral overview of how AI is being integrated into photography, illustration, graphic design, video production, and other creative fields. Through survey and interview research, the paper documents the diversity of integration strategies, the cultural and professional debates about AI in creative industries, and the emerging norms around AI disclosure and attribution. The paper contributes a broad empirical landscape of AI-creative industry integration.
@@ -34,3 +44,8 @@ Cross-sectoral survey and interview study with creative professionals in multipl
 
 ## Limitations & Critiques
 Cross-sectoral breadth comes at the cost of depth in any single creative industry; sampling across creative sectors introduces significant methodological heterogeneity; the pace of AI development makes cross-sectional findings quickly time-bound.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,15 +1,22 @@
 ---
+source_file: "research_docs/P203.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
+# The Proper Way to Become an Instructional
+
+
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
-
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
 
 ## Summary
 This paper examines the professional identity formation of instructional designers, arguing that entry into the field typically occurs through lateral moves from subject matter expertise rather than direct preparation, creating challenges for developing a coherent professional identity. The author traces how instructional designers come to see themselves as professionals rather than technical support staff, and what conditions support that identity development. The work speaks to the broader question of how a relatively young applied field constructs and transmits professional norms.
@@ -35,3 +42,10 @@ Conceptual analysis drawing on professional identity literature; reflective prac
 
 ## Limitations & Critiques
 Primarily conceptual with limited empirical grounding; may overstate the coherence of alternative, direct-preparation pathways into instructional design.
+
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

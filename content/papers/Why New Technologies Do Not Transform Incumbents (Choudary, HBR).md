@@ -1,13 +1,28 @@
 ---
 title: "Why New Technologies Do Not Transform Incumbents (Choudary, HBR)"
+source_file: "research_docs/P155.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
+# Why New Technologies Do Not Transform Incumbents (Choudary, HBR)
+
+
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This Harvard Business Review piece by Sangeet Paul Choudary argues that incumbent companies adopting AI aggressively still see only marginal gains because they are optimizing existing processes rather than fundamentally rethinking how work is organized. Choudary contends that AI's real transformative potential lies in disaggregating and reorganizing work tasks in ways that incumbents' organizational structures resist, giving AI-native competitors and new entrants a structural advantage.

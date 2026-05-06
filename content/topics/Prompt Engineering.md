@@ -16,6 +16,3 @@ tags:
 - [[papers/ARTICLE|Using Generative AI Tools in Collaborative UX Design Courses]]
 - [[papers/Beyond Replacement or Enhancement How AI Transforms Work Through Simultaneous Automation and Augmentation|Beyond Replacement or Enhancement: How AI Transforms Work Through Simultaneous Automation and Augmentation]]
 
-## Authors
-
-- [[authors/Peter Dalsgaard|Peter Dalsgaard]]

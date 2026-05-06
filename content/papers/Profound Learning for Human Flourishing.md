@@ -1,12 +1,27 @@
 ---
+source_file: "research_docs/P116.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
+# Profound Learning for Human Flourishing
+
+
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This work argues for a conception of deep, transformative learning oriented toward human flourishing rather than mere performance or skill acquisition. It challenges instrumentalist views of education that reduce learning to measurable competencies, advocating instead for educational approaches that develop wisdom, ethical judgment, and the capacity for meaningful life and work. The paper engages with questions about what learning is ultimately for in an era of technological disruption.

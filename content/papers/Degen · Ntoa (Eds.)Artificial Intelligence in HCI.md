@@ -1,9 +1,19 @@
 ---
+source_file: "research_docs/P144.pdf"
 type: "paper"
+community: "HCI Education and Pedagogy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
+
+# Degen · Ntoa (Eds.)Artificial Intelligence in HCI
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -32,3 +42,8 @@ Edited proceedings volume; peer-reviewed conference papers presenting empirical,
 
 ## Limitations & Critiques
 Conference proceedings format means individual contributions vary in scope and rigor; as an edited volume, it lacks a synthesizing monograph framework; the snapshot will date as AI-HCI research advances.
+
+## Connections
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

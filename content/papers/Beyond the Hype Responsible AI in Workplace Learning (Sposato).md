@@ -1,19 +1,32 @@
 ---
+source_file: "research_docs/P66.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 abstract: "Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoret"
 
 doi: "10.1108/et-01-2025-0034"
-authors: "Sposato, M."
-apa: "Sposato, M. (2025). Beyond the hype: Evidence-based approaches to responsible ai integration in workplace learning. Education + Training, 67(9), 928-939. https://doi.org/10.1108/et-01-2025-0034"
 ---
+
+# Beyond the Hype: Responsible AI in Workplace Learning (Sposato)
+
 
 ## Abstract
 
+**DOI:** [10.1108/et-01-2025-0034](https://doi.org/10.1108/et-01-2025-0034)
+
 Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoretical framework, we model workplace learning as an activity, intertwined with work and mediated by technology, and expose contradictions that arise when technology developed for formal
 
+## Connections
+- [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
+- [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-## Topics
-- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+
 ## Summary
 Sposato argues for evidence-based rather than hype-driven approaches to responsible AI integration in workplace learning, calling for systematic evaluation of AI tools against established learning science principles before adoption. The paper reviews current AI integration practices in workplace learning and finds them largely driven by novelty and commercial interest rather than learning effectiveness evidence. It proposes principles for responsible AI adoption that center learner outcomes and ethical considerations.
 
@@ -37,12 +50,3 @@ Analytical/review paper examining current AI integration practices in workplace 
 
 ## Related Topics
 - [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
-
-## Related Authors
-- Engström
-- Pittino
-- Mohlin
-- Johansson
-- Edh Mirzaei
-- Martinez Marroquin
-- Senadji

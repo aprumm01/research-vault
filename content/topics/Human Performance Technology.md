@@ -22,9 +22,3 @@ Human Performance Technology (HPT) is a systematic, evidence-based approach to i
 - [[papers/Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)|Behaviorism, Cognitivism, Constructivism: Comparing Critical Features (Ertmer & Newby, 2013)]]
 - [[papers/From Code to Collaboration AI Adoption and Workforce Transformation|From Code to Collaboration: AI Adoption and Workforce Transformation]]
 - [[papers/Employment Shopping An AI-Driven Universal Job Allocation Model for Inclusive|Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive]]
-
-## Authors
-
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]

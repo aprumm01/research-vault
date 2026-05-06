@@ -17,12 +17,3 @@ tags:
 - [[papers/Article Arts and Humanities in Higher Education 2026, Vol. 25(1) 27 –46 © The...|Competences for the Modern Designer: Systematic Literature Review (2026)]]
 - [[papers/Co-Designing with Transformers Unpacking the Complex Role|Co-Designing with Transformers: Unpacking the Complex Role]]
 
-## Authors
-
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Wendy Ju|Wendy Ju]]

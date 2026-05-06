@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P250.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.29119/1641-3466.2025.224.4"
 
 abstract: "Purpose: The purpose of this paper is to explore how students at the Faculty of Management at the University of Gdańsk use ChatGPT, a generative AI tool, for academic purposes. The study focuses on their motivations, perceptions, and overall attitudes toward the tool in the context of higher education. Design/methodology/approach: The research combines a literature review with empirical findings from a survey conducted among 260 students. This mixed-method approach allows for an in-depth analysi"
-authors: "University of Gdansk, Faculty of Management, Delińska, L., Minga, Z., & University of Gdansk, Faculty of Management"
-apa: "University of Gdansk, Faculty of Management, Delińska, L., Minga, Z., & University of Gdansk, Faculty of Management (2025). Chatgpt as a tool in higher education –   analysis of student utilization and perception. Scientific Papers of Silesian University of Technology Organization and Management Series, 2025(224), 61-77. https://doi.org/10.29119/1641-3466.2025.224.4"
 ---
+
+# ChatGPT as a Tool in Higher Education: Analysis of Student Utilization and Perception
+
 
 ## Abstract
 Purpose: The purpose of this paper is to explore how students at the Faculty of Management at the University of Gdańsk use ChatGPT, a generative AI tool, for academic purposes. The study focuses on their motivations, perceptions, and overall attitudes toward the tool in the context of higher education. Design/methodology/approach: The research combines a literature review with empirical findings from a survey conducted among 260 students. This mixed-method approach allows for an in-depth analysis of how ChatGPT is applied in academic settings. Findings: The findings indicate that ChatGPT is widely used for tasks such as quick information retrieval, writing assistance, and idea refinement. Students primarily value its efficiency and the potential to improve the quality of their work. However, concerns were also raised regarding the reliability of content, and its possible negative impact on creativity and critical thinking. Research limitations/implications: The study is limited to one faculty and one institution, which may affect the generalizability of the findings. Future research should consider a broader sample across various academic disciplines and institutions. Practical implications: The results highlight the need for structured educational programs that support students in the responsible and ethical use of AI tools. Institutions of higher education could use these insights to develop policies and guidelines that foster thoughtful and informed integration of AI into academic practice. Social implications: This research contributes to the ongoing discussion about the societal impact of AI in education. By addressing students' concerns and behaviors, it encourages a more reflective approach to the use of generative AI and can inform future strategies for its ethical implementation. Originality/value: This paper offers a unique perspective on student interaction with generative AI, supported by empirical data. It adds value to the academic discourse by providing actionable insights for both researchers and practitioners interested in the evolving role of AI in higher education.
+
+**DOI:** [10.29119/1641-3466.2025.224.4](https://doi.org/10.29119/1641-3466.2025.224.4)
 
 ## Summary
 This study from Silesian University of Technology analyzes how higher education students are utilizing ChatGPT and how they perceive its role in academic work. Through surveys and usage analysis, the paper documents that students primarily use ChatGPT for writing assistance, explanation, and summarization, with significant variation by field of study and academic level. The study finds broadly positive student perceptions of ChatGPT's utility but significant concerns about accuracy and academic integrity. The paper provides empirical baseline data for institutional policy development on AI in higher education.
@@ -34,3 +44,8 @@ Survey study with university students across faculties; usage frequency and purp
 
 ## Limitations & Critiques
 Single institution study limits generalizability; self-reported usage may underestimate AI use due to integrity concerns; the specific capabilities of ChatGPT have evolved significantly since initial data collection; Polish higher education context may not transfer to other national systems.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

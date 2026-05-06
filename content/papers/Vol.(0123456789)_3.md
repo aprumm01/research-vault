@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P279.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.1007/s11423-025-10492-z"
 
 abstract: "Artificial Intelligence (AI) tools are becoming increasingly popular in education, provid- ing teachers with new opportunities to enhance student learning experience and build upon existing teaching practices. This study employs a co-design approach to develop AI-inte- grated learning materials and explore their implementation in elementary classrooms. In collaboration with researchers, twenty-five in-service teachers co-designed engaging, age- appropriate lesson plans aligned with the national "
-authors: "Kosmas, P., Nisiforou, E.A., Kounnapi, E., Sophocleous, S., & Theophanous, G."
-apa: "Kosmas, P., Nisiforou, E.A., Kounnapi, E., Sophocleous, S., & Theophanous, G. (2025). Integrating artificial intelligence in literacy lessons for elementary classrooms: A co-design approach. Educational technology research and development, 73(4), 2589-2615. https://doi.org/10.1007/s11423-025-10492-z"
 ---
+
+# Integrating AI in Literacy Lessons for Elementary Classrooms: A Co-Design Approach
+
 
 ## Abstract
 Artificial Intelligence (AI) tools are becoming increasingly popular in education, provid- ing teachers with new opportunities to enhance student learning experience and build upon existing teaching practices. This study employs a co-design approach to develop AI-inte- grated learning materials and explore their implementation in elementary classrooms. In collaboration with researchers, twenty-five in-service teachers co-designed engaging, age- appropriate lesson plans aligned with the national elementary curriculum and adaptable to diverse classroom needs. Qualitative analysis of teachers’ focus groups (n = 25) high- lighted the co-desi
+
+**DOI:** [10.1007/s11423-025-10492-z](https://doi.org/10.1007/s11423-025-10492-z)
 
 ## Summary
 This paper presents a co-design study for integrating AI into literacy lessons in elementary classrooms, documenting a collaborative process in which teachers, designers, and researchers co-created AI-integrated literacy activities for early elementary students. The study examines how co-design methodology surfaces teacher pedagogical concerns, student developmental considerations, and institutional constraints that would be missed in top-down AI curriculum development. The paper contributes both a co-designed curriculum artifact and a co-design methodology for AI-integrated elementary education.
@@ -34,3 +44,8 @@ Participatory co-design study; iterative design workshops with teachers, researc
 
 ## Limitations & Critiques
 Single school/district co-design context; co-design processes are resource-intensive and may not scale; the specific AI tools integrated will evolve quickly; long-term literacy outcome data from AI-integrated approaches is not yet available.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,16 +1,23 @@
 ---
+source_file: "research_docs/P259.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
+# Designing Instructional Strategies: A Cognitive Perspective (Silber & Foshay)
+
+
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 Silber and Foshay's chapter provides a systematic account of instructional strategy selection from a cognitive science perspective, arguing that effective instructional design requires matching strategy choices to the cognitive demands of the target learning outcomes. The authors synthesize research on elaboration theory, component display theory, and cognitive load theory to offer a principled framework for making instructional decisions. The work bridges theory and practice by translating cognitive psychology findings into actionable design guidance.
 
@@ -36,14 +43,9 @@ Conceptual synthesis of empirical cognitive science research and established ins
 ## Limitations & Critiques
 The cognitive approach can underemphasize motivational, affective, and social dimensions of learning; the framework assumes relatively stable, well-defined learning objectives which may not apply to creative or ill-structured domains.
 
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
 
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Wang
-- Park
-- Heger
-- Passi
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

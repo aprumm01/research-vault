@@ -1,17 +1,30 @@
 ---
+source_file: "research_docs/P61.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.1109/EMR.2023.3272799"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Bilgram, V., & Laarmann, F."
-apa: "Bilgram, V., & Laarmann, F. (2023). Accelerating innovation with generative ai: Ai-augmented digital prototyping and innovation methods. IEEE Engineering Management Review, 51(2), 18-25. https://doi.org/10.1109/emr.2023.3272799"
 ---
+
+# Accelerating Innovation with GenAI: Digital Prototyping (Bilgram and Laarmann)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+**DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+
 ## Summary
 Bilgram and Laarmann report six months of hands-on experimentation with LLMs (particularly GPT) in real innovation projects at Nuremberg Institute of Technology and HYVE, demonstrating how generative AI can accelerate the early phases of innovation including exploration, ideation, and digital prototyping. The paper offers concrete use cases ranging from user journey mapping to idea generation to rapid prototyping, framing GenAI as a democratizing force in innovation management. It is an early practitioner-focused account of applied GenAI in professional innovation contexts.
 
@@ -35,12 +48,3 @@ Six months of experimentation with LLMs in internal and client innovation projec
 
 ## Related Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]
-
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Wang
-- Park
-- Heger
-- Passi

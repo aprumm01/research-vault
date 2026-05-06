@@ -1,19 +1,32 @@
 ---
+source_file: "research_docs/P213.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 doi: "10.1080/00461520701263350"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "SCHMIDT, H.G., LOYENS, S.M.M., VAN GOG, T., & PAAS, F."
-apa: "SCHMIDT, H.G., LOYENS, S.M.M., VAN GOG, T., & PAAS, F. (2007). Problem-based learning<i>is</i>compatible with human cognitive architecture: Commentary on kirschner, sweller, and clark (2006). Educational Psychologist, 42(2), 91-97. https://doi.org/10.1080/00461520701263350"
 ---
+
+# Why Minimal Guidance During Instruction Does Not Work (Kirschner Sweller Clark)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Cognitive Load Theory|Cognitive Load Theory]]
-- [[topics/Constructivism|Constructivism]]
-- [[topics/Problem-Based Learning|Problem-Based Learning]]
+**DOI:** [10.1080/00461520701263350](https://doi.org/10.1080/00461520701263350)
+
+## Connections
+- [[Cognitive Load Theory]] - `` [EXTRACTED]
+- [[Constructivism]] - `` [EXTRACTED]
+- [[Problem-Based Learning]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+
 ## Summary
 Kirschner, Sweller, and Clark mount a cognitive-scientific critique of minimally guided instruction, arguing that constructivist, discovery, problem-based, and inquiry-based approaches are less effective than explicit instruction because they ignore how human cognitive architecture works. Drawing on cognitive load theory and research on expert-novice differences, they contend that novices lack the schemas necessary to benefit from minimal guidance, making direct instruction more efficient and effective for initial learning.
 
@@ -44,8 +57,3 @@ Theoretical review and synthesis of empirical evidence from cognitive psychology
 ## Related Authors
 - Ertmer
 - Newby
-- Dai
-- Mishra
-- esmer
-- Grabinger
-- Dunlap

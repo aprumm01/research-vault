@@ -1,20 +1,27 @@
 ---
 title: "Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education"
+source_file: "research_docs/P254.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 abstract: "Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates "
 
 doi: "10.1145/3742901.3742905"
-authors: "Lotsos, A.N., Wang, Y., & Horn, M.S."
-apa: "Lotsos, A.N., Wang, Y., & Horn, M.S. (2025). Conceptions of design practice from academy to industry: Implications for hci and design education. Proceedings of the EduCHI 2025: 7th Annual Symposium on HCI Education, 1-12. https://doi.org/10.1145/3742901.3742905"
 ---
+
+# Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education
+
 
 ## Abstract
 
+**DOI:** [10.1145/3742901.3742905](https://doi.org/10.1145/3742901.3742905)
+
 Interactive technologies increasingly permeate our everyday lives, and the impact of the design professionals (e.g. UX, Product, and Interaction designers) responsible for their design and implemen- tation has never been more apparent. This is reflected in higher education, where HCI and design programs now train professional designers alongside researchers and scholars. However, preparing students for such a complex, interdisciplinary profession is a chal- lenging task. This paper investigates conceptions of design practice in current and future design professionals. We share findings from 21 semi-structured interviews with students, educators, and profes- sionals. Our analysis reveals t
 
-
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
 ## Summary
 This paper investigates the gap between how design practice is conceptualized in academic design education versus how it is enacted in professional industry contexts. Through interviews with practitioners and analysis of design education curricula, the authors find that academic design education tends to emphasize process, reflection, and conceptual development, while industry contexts emphasize speed, constraint satisfaction, and iterative user feedback. The paper argues for design education that explicitly bridges these different conceptions, preparing students for the transition without abandoning the intellectual rigor of academic design.
 
@@ -40,14 +47,12 @@ Qualitative study; semi-structured interviews with design educators and design p
 ## Limitations & Critiques
 Sample limited to a single national context; the academic-industry binary may overstate the homogeneity of each context; findings may be more applicable to product and interaction design than to other design disciplines.
 
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+
 ## Related Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]
-
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Park
-- Heger
-- Passi
-- Dhanorkar

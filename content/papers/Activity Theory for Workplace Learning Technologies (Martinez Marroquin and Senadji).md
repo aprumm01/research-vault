@@ -1,20 +1,25 @@
 ---
-venue: "Journal"
-year: 2025
+source_file: "research_docs/P33.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 abstract: "Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoret"
 
 doi: "10.1108/ijilt-07-2024-0141"
-authors: "Martinez Marroquin, E., & Senadji, B."
-apa: "Martinez Marroquin, E., & Senadji, B. (2025). Activity theory as framework for analysis of workplace learning technologies: The case of generative ai conversational agents. The International Journal of Information and Learning Technology, 42(4), 353-365. https://doi.org/10.1108/ijilt-07-2024-0141"
 ---
+
+# Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)
+
 
 ## Abstract
 
-Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoretical framework, we model workplace learning as an activity, intertwined with work and mediated by technology, and expose contradictions that arise when technology developed for formal
+**DOI:** [10.1108/ijilt-07-2024-0141](https://doi.org/10.1108/ijilt-07-2024-0141)
 
-## Topics
-- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
+Purpose – Technology, such as artificial intelligence (AI), is transforming the way we work; however, it is yet to systemically transform learning at the workplace beyond augmentation of formal education’s learning processes. This paper derives functional requirements for technologies that support workplace learning and assesses the suitability and limitations of generative AI conversational agents, as an example of application. Design/methodology/approach – Using activity theory (AT) as theoretical framework, we model workplace learning as an activity, intertwined with work and mediated by technology, and expose contradictions that arise when technology developed for formal
 
 ## Summary
 Martinez Marroquin and Senadji apply Activity Theory as a framework for analyzing and designing workplace learning technologies, arguing that Engeström's expansive learning model provides a more robust account of technology-mediated workplace learning than cognitive models alone. The paper demonstrates how Activity Theory's components — subjects, tools, objects, rules, community, and division of labor — can inform the design of learning systems that account for the social, organizational, and contradictory dimensions of workplace learning. The work connects Vygotskian activity theory to contemporary learning technology design practice.
@@ -41,15 +46,9 @@ Conceptual framework application; case analysis of workplace learning technology
 ## Limitations & Critiques
 Activity Theory is complex and can be difficult to operationalize in design practice; the framework's Marxist roots create translation challenges in some organizational contexts; the application to technology design requires significant conceptual work.
 
-## Related Topics
-- [[topics/Activity Theory|Activity Theory]]
-- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]
+## Connections
+- [[Activity Theory]] - `` [EXTRACTED]
+- [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
+- [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-## Related Authors
-- Cheatham
-- Engström
-- Pittino
-- Mohlin
-- Johansson
-- Edh Mirzaei
-- Sposato
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

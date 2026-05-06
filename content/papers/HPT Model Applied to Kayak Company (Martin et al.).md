@@ -1,19 +1,31 @@
 ---
-venue: "Performance Improvement 2009"
-year: 2009
+source_file: "research_docs/P45.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 doi: "10.1002/pfi.20061"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Martin, F., Hall, H.A., Blakely, A., Gayford, M.C., & Gunter, E."
-apa: "Martin, F., Hall, H.A., Blakely, A., Gayford, M.C., & Gunter, E. (2009). The hpt model applied to a kayak company's registration process. Performance Improvement, 48(3), 26-35. https://doi.org/10.1002/pfi.20061"
 ---
+
+# HPT Model Applied to Kayak Company (Martin et al.)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
+**DOI:** [10.1002/pfi.20061](https://doi.org/10.1002/pfi.20061)
+
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+
 ## Summary
 Martin et al. provide a detailed case study of applying the Human Performance Technology (HPT) model to a premier kayak company on the North Carolina coast, addressing performance problems including misinformed customers, dissatisfied customers, and guide no-shows. The case study walks through each step of the HPT process—organizational analysis, environmental analysis, gap analysis, cause analysis, and intervention design—demonstrating how HPT translates theory into actionable organizational solutions.
 
@@ -37,10 +49,9 @@ Applied case study; step-by-step application of the HPT model to real organizati
 - Practical case studies demonstrate the utility of HPT theory for practitioners in organizational settings
 
 ## Related Topics
+- [[topics/Human Performance Technology|Human Performance Technology]]
 - [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
 
 ## Related Authors
-- Watkins
-- Leigh
-- Foshay
-- Kaufman
+- Ertmer
+- Newby

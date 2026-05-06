@@ -51,3 +51,6 @@ Perspective piece without empirical grounding; written in 2018 when specific AI 
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+
+## Related Topics
+- [[topics/ADDIE Model|ADDIE Model]]

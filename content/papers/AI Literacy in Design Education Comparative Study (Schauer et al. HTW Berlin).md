@@ -1,19 +1,32 @@
 ---
+source_file: "research_docs/P38.pdf"
 type: "paper"
+community: "AI Literacy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
+
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.5220/0013338100003932"
-authors: "Schauer, S., Simbeck, K., & Pinkwart, N."
-apa: "Schauer, S., Simbeck, K., & Pinkwart, N. (2025). Ai literacy and attitudes towards ai in design education: A comparative study of communication and architectural design students. Proceedings of the 17th International Conference on Computer Supported Education, 464-471. https://doi.org/10.5220/0013338100003932"
 ---
+
+# AI Literacy in Design Education: Comparative Study (Schauer et al. HTW Berlin)
+
 
 ## Abstract
 
+**DOI:** [10.5220/0013338100003932](https://doi.org/10.5220/0013338100003932)
+
 There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
 
+## Connections
+- [[AI Literacy]] - `` [EXTRACTED]
+- [[AI in Design Education]] - `` [EXTRACTED]
 
-## Topics
-- [[topics/AI Literacy|AI Literacy]]
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+
 ## Summary
 Schauer, Simbeck, and Pinkwart conduct a comparative quantitative and qualitative survey of communication design and architectural design students at HTW Berlin and Humboldt University, assessing AI literacy levels and attitudes toward AI. Students self-rate their AI literacy as moderate, express awareness of both AI's productivity benefits and its risks (decreased creativity, job losses, copyright concerns), and show disciplinary differences between communication and architecture students. The paper contributes empirical baseline data on design students' AI competencies and attitudes.
 
@@ -37,9 +50,3 @@ Two-part quantitative and qualitative survey of communication design and archite
 
 ## Related Topics
 - [[topics/AI Literacy|AI Literacy]]
-
-## Related Authors
-- [[authors/Leo S. Lo|Leo S. Lo]]
-- Dai
-- L. S.
-- [[authors/Colin M. Gray|Colin M. Gray]]

@@ -1,16 +1,30 @@
 ---
-venue: "Organization Science 2022"
-year: 2022
+source_file: "research_docs/P49.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 doi: "10.1287/orsc.2021.1549"
 
 abstract: "Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa"
-authors: "Lebovitz, S., Lifshitz-Assaf, H., & Levina, N."
-apa: "Lebovitz, S., Lifshitz-Assaf, H., & Levina, N. (2022). To engage or not to engage with ai for critical judgments: How professionals deal with opacity when using ai for medical diagnosis. Organization Science, 33(1), 126-148. https://doi.org/10.1287/orsc.2021.1549"
 ---
+
+# To Engage or Not with AI for Critical Judgments (Lebovitz et al.)
+
 
 ## Abstract
 Artiﬁcial intelligence (AI) technologies promise to transform how professionals conduct knowledge work by augmenting their capabilities for making professional judg- ments. We know little, however, about how human-AI augmentation takes place in prac- tice. Yet, gaining this understanding is pa
+
+**DOI:** [10.1287/orsc.2021.1549](https://doi.org/10.1287/orsc.2021.1549)
+
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Workplace Learning and AI]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Lebovitz, Lifshitz-Assaf, and Levina examine how radiologists and other medical professionals decide whether to engage with AI recommendations for critical diagnostic judgments, focusing on how they navigate AI's "opacity"—its inability to explain its reasoning. Through qualitative research, they find professionals develop distinct strategies for using AI: some routinely engage with it, others systematically ignore it, and many develop contextual rules for when AI input helps versus hinders judgment.

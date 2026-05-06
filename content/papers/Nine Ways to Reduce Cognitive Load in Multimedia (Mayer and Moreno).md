@@ -1,19 +1,31 @@
 ---
-venue: "Educational Psychologist 2003"
-year: 2003
+source_file: "research_docs/P44.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 doi: "10.1207/s15326985ep3801_6"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Mayer, R.E., & Moreno, R."
-apa: "Mayer, R.E., & Moreno, R. (2003). Nine ways to reduce cognitive load in multimedia learning. Educational Psychologist, 38(1), 43-52. https://doi.org/10.1207/s15326985ep3801_6"
 ---
+
+# Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Cognitive Load Theory|Cognitive Load Theory]]
+**DOI:** [10.1207/s15326985ep3801_6](https://doi.org/10.1207/s15326985ep3801_6)
+
+## Connections
+- [[Cognitive Load Theory]] - `` [EXTRACTED]
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+
 ## Summary
 Mayer and Moreno propose a theory of multimedia learning based on dual-channel processing, limited cognitive capacity, and active processing, then use this theory to identify five overload scenarios and nine corresponding strategies for reducing cognitive load in multimedia instruction. The strategies—including pre-training, modality effects, segmentation, coherence, and signaling—provide evidence-based design guidance for instructional multimedia.
 
@@ -39,11 +51,3 @@ Review and synthesis of experimental research; theoretical framework development
 
 ## Related Topics
 - [[topics/Cognitive Load Theory|Cognitive Load Theory]]
-
-## Related Authors
-- SCHMIDT
-- LOYENS
-- VAN GOG
-- PAAS
-- Ertmer
-- Newby

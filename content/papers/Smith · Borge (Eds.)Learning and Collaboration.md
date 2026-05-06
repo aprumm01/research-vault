@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P264.pdf"
 type: "paper"
+community: "Problem-Based Learning"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Problem-Based_Learning
+
 doi: "10.1007/978-3-031-93746-0_28"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Tseng, T., Lee, T., & Kuo, J."
-apa: "Tseng, T., Lee, T., & Kuo, J. (2025). Enhancing inquiry-based learning in human factors engineering with generative ai: A case study in industrial design education. Lecture Notes in Computer Science, 402-414. https://doi.org/10.1007/978-3-031-93746-0_28"
 ---
+
+# Smith · Borge (Eds.)Learning and Collaboration
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.1007/978-3-031-93746-0_28](https://doi.org/10.1007/978-3-031-93746-0_28)
 
 ## Summary
 Smith and Borge's edited volume brings together research on learning and collaboration at the intersection of educational psychology, CSCL (Computer-Supported Collaborative Learning), and organizational learning. The volume examines how collaborative processes produce learning outcomes that individual learning cannot achieve, with particular attention to how technology mediates collaborative knowledge construction. It synthesizes foundational research on collaborative learning while pointing toward emerging challenges in AI-mediated collaborative environments.
@@ -34,3 +44,10 @@ Edited volume; synthetic chapters reviewing empirical research programs in colla
 
 ## Limitations & Critiques
 As an edited volume, coherence across chapters depends on editorial framing; collaborative learning research is most robust in controlled settings and may not fully transfer to authentic organizational or educational contexts.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Problem-Based Learning]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

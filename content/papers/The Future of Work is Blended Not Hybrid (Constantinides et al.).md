@@ -1,20 +1,30 @@
 ---
-authors: "Ali, A. E."
-venue: "CHI 2025"
-year: 2025
+source_file: "research_docs/P46.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 abstract: "The way we work is no longer hybrid—it is blended with AI co- workers, automated decisions, and virtual presence reshaping hu- man roles, agency, and expertise. We now work through AI, with our outputs shaped by invisible algorithms. AI’s infiltration into knowledge, creative, and service work is not just about automation, but concerns redistribution of agency, creativity, and control. How do we deal with physical and distributed AI-mediated workspaces? What happens when algorithms co-author rep"
 
 doi: "10.1145/3729176.3729202"
-apa: "Constantinides, M., Verma, H., Sadeghian, S., & El Ali, A. (2025). The future of work is blended, not hybrid. Proceedings of the 4th Annual Symposium on Human-Computer Interaction for Work, 1-13. https://doi.org/10.1145/3729176.3729202"
 ---
+
+# The Future of Work is Blended Not Hybrid (Constantinides et al.)
+
 
 ## Abstract
 
+**DOI:** [10.1145/3729176.3729202](https://doi.org/10.1145/3729176.3729202)
+
 The way we work is no longer hybrid—it is blended with AI co- workers, automated decisions, and virtual presence reshaping hu- man roles, agency, and expertise. We now work through AI, with our outputs shaped by invisible algorithms. AI’s infiltration into knowledge, creative, and service work is not just about automation, but concerns redistribution of agency, creativity, and control. How do we deal with physical and distributed AI-mediated workspaces? What happens when algorithms co-author reports, and draft our creative work? In this provocation, we argue that hybrid work is obsolete. Blended work is the future, not just in physic
 
-## Authors
-- [[authors/Abdallah El Ali|Abdallah El Ali]]
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Constantinides et al. argue that work is no longer simply "hybrid" (split between home and office) but "blended"—deeply integrated with AI co-workers, algorithmic decisions, and AI-mediated outputs that reshape human roles, agency, and expertise. They contend that AI has fundamentally infiltrated knowledge, creative, and service work, redistributing agency and creativity in ways that require new conceptual frameworks beyond simple human-machine binary thinking.

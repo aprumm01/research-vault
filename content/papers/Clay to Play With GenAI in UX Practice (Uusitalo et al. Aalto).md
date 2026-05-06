@@ -1,17 +1,31 @@
 ---
+source_file: "research_docs/P11.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.1145/3643834.3661624"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Uusitalo, S., Salovaara, A., Jokela, T., & Salmimaa, M."
-apa: "Uusitalo, S., Salovaara, A., Jokela, T., & Salmimaa, M. (2024). ”clay to play with”: Generative ai tools in ux and industrial design practice. Designing Interactive Systems Conference, 1566-1578. https://doi.org/10.1145/3643834.3661624"
 ---
+
+# Clay to Play With: GenAI in UX Practice (Uusitalo et al. Aalto)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]
+**DOI:** [10.1145/3643834.3661624](https://doi.org/10.1145/3643834.3661624)
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+
 ## Summary
 Uusitalo et al. study how UX and industrial designers at Aalto University use generative AI tools, finding that practitioners experience GenAI as "clay to play with" — a malleable, exploratory material that affords rapid creative iteration rather than a finished product generator. The metaphor captures how professional designers are integrating GenAI into their creative process as a generative substrate rather than an answer machine. The paper contributes a material-centric account of how GenAI is being appropriated in professional design practice.
 
@@ -35,12 +49,3 @@ Qualitative empirical study at Aalto University with UX and industrial designers
 
 ## Related Topics
 - [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]
-
-## Related Authors
-- [[authors/Hancheng Cao|Hancheng Cao]]
-- [[authors/Abdallah El Ali|Abdallah El Ali]]
-- Takaffoli
-- Mäkelä
-- Khan
-- Shokrizadeh
-- [[authors/Hancheng Cao|Hancheng Cao]]

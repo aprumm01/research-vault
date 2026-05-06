@@ -1,19 +1,25 @@
 ---
-venue: "Chieh-Ju Huang(B) Y uan Ze University, Taoyuan City 320315,"
+source_file: "research_docs/P280.pdf"
 type: "paper"
+community: "Problem-Based Learning"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Problem-Based_Learning
+
 abstract: "This study examines the integration of user experience (UX) princi- ples into user interface (UI) design education through a Problem-Based Learning (PBL) approach augmented by generative artiﬁcial intelligence (AI) technolo- gies. The PBL framework emphasizes addressing real-world challenges, fostering self-directed learning and collaboration among interdisciplinary student teams. Generative AI tools were employed to enhance creativity, streamline design pro- cesses, and provide immediate feedba"
 
 doi: "10.36948/ijfmr.2023.v05i06.9650"
-authors: "-, F.D."
-apa: "-, F.D. (2023). User interface, user experience, layouts. International Journal For Multidisciplinary Research, 5(6). https://doi.org/10.36948/ijfmr.2023.v05i06.9650"
 ---
+
+# Integrating User Experience in User Interface
+
 
 ## Abstract
 
-This study examines the integration of user experience (UX) princi- ples into user interface (UI) design education through a Problem-Based Learning (PBL) approach augmented by generative artiﬁcial intelligence (AI) technolo- gies. The PBL framework emphasizes addressing real-world challenges, fostering self-directed learning and collaboration among interdisciplinary student teams. Generative AI tools were employed to enhance creativity, streamline design pro- cesses, and provide immediate feedback, thereby reducing development time and facilitating iterative problem-solving. The curriculum incorporated UX design theories, UI design practices, and user testing methodologies, with input from industry professionals to bridge the gap between theoretical knowledge and prac- tical appli
+**DOI:** [10.36948/ijfmr.2023.v05i06.9650](https://doi.org/10.36948/ijfmr.2023.v05i06.9650)
 
-## Topics
-- [[topics/Problem-Based Learning|Problem-Based Learning]]
+This study examines the integration of user experience (UX) princi- ples into user interface (UI) design education through a Problem-Based Learning (PBL) approach augmented by generative artiﬁcial intelligence (AI) technolo- gies. The PBL framework emphasizes addressing real-world challenges, fostering self-directed learning and collaboration among interdisciplinary student teams. Generative AI tools were employed to enhance creativity, streamline design pro- cesses, and provide immediate feedback, thereby reducing development time and facilitating iterative problem-solving. The curriculum incorporated UX design theories, UI design practices, and user testing methodologies, with input from industry professionals to bridge the gap between theoretical knowledge and prac- tical appli
 
 ## Summary
 This paper examines the integration of user experience (UX) principles and methods into user interface (UI) design workflows, addressing the persistent gap between UX research and UI production in both professional practice and education. The authors argue that UX and UI are often treated as sequential phases (UX research → UI design) when they are most effective as concurrent, iterative activities. The paper proposes integration frameworks and documents case studies where UX-UI integration produced measurably better outcomes than traditional handoff-based workflows.
@@ -40,11 +46,12 @@ Case study analysis of UX-UI integrated design projects; comparative analysis wi
 ## Limitations & Critiques
 Case study design limits generalizability; the integration model requires organizational investment in tools and processes; small teams and freelancers may find the model less applicable than enterprise contexts.
 
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Problem-Based Learning]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
+
 ## Related Topics
 - [[topics/Problem-Based Learning|Problem-Based Learning]]
-
-## Related Authors
-- SCHMIDT
-- LOYENS
-- VAN GOG
-- PAAS

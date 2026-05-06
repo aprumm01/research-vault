@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P198.pdf"
 type: "paper"
+community: "HCI Education and Pedagogy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
+
 doi: "10.32431/kace.2026.29.1.011"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Kim, S."
-apa: "Kim, S. (2026). The impact of design thinking-based ai education using generative ai on elementary school students' ai literacy. The Journal of Korean Association of Computer Education, 29(1), 116-127. https://doi.org/10.32431/kace.2026.29.1.011"
 ---
+
+# The Application of Generative AI in Design-Based Elementary Education
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.32431/kace.2026.29.1.011](https://doi.org/10.32431/kace.2026.29.1.011)
 
 ## Summary
 This paper examines the application of generative AI in design-based elementary education, investigating how young students can engage with AI as a design tool and what pedagogical frameworks support meaningful AI-integrated design learning at the K-6 level. The research documents teacher strategies, student engagement patterns, and learning outcomes when elementary students use age-appropriate AI design tools in project-based contexts. The paper argues that early AI design education can build both technological literacy and design thinking skills simultaneously.
@@ -34,3 +44,9 @@ Classroom-based research study; qualitative and quantitative data from elementar
 
 ## Limitations & Critiques
 Limited to specific age groups and tool contexts; the rapid evolution of AI tools may quickly date specific findings; scale effects and equity implications of AI in elementary design education require further investigation.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

@@ -1,17 +1,30 @@
 ---
-venue: "PhD Dissertation National University"
-year: 2025
+source_file: "research_docs/P32.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 abstract: "Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall"
 
 doi: "10.47978/tus.2024.74.04.003"
-authors: "Kolev, D., & Petkov, I."
-apa: "Kolev, D., & Petkov, I. (2025). The impact of ai and automation on job displacement. Proceedings of the Technical University of Sofia, 74(4). https://doi.org/10.47978/tus.2024.74.04.003"
 ---
+
+# AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)
+
 
 ## Abstract
 
+**DOI:** [10.47978/tus.2024.74.04.003](https://doi.org/10.47978/tus.2024.74.04.003)
+
 Artificial intelligence's rapid adoption and technological advancement have impacted the Information Communication and Technology (ICT) industry. These advancements also present chall
+
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Brown's doctoral dissertation investigates the correlational relationship between AI adoption and both diversity outcomes and job displacement in the ICT industry, using quantitative methods across a large sample of ICT organizations. The study finds that AI adoption correlates with increased job displacement, particularly affecting diverse and lower-skilled worker populations, raising concerns about AI's differential impact on ICT workforce equity. Published March 2025, this is one of the first large-scale quantitative dissertations specifically examining AI's equity effects in the ICT sector.

@@ -1,9 +1,19 @@
 ---
+source_file: "research_docs/P145.pdf"
 type: "paper"
+community: "HCI Education and Pedagogy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
+
+# Stop Whining, Start Doing! Identity Conflict in Project-Managed Software Environments (Case & Piñeiro, 2009)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -32,3 +42,10 @@ Ethnographic study of software development teams; qualitative data from observat
 
 ## Limitations & Critiques
 Single organizational context limits generalizability; the critical management perspective may be seen as advocacy rather than analysis; the findings may be more specific to Agile and sprint-based development cultures than to project management broadly.
+
+## Connections
+- [[Design Judgment]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

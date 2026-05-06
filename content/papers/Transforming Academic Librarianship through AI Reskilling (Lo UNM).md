@@ -1,24 +1,32 @@
 ---
-authors: "Lo, L. S."
-venue: "Journal of Academic Librarianship 2024"
-year: 2024
+source_file: "research_docs/P72.pdf"
 type: "paper"
+community: "AI Literacy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
+
 abstract: "Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunit"
 
 doi: "10.1016/j.acalib.2024.102883"
-apa: "Lo, L.S. (2024). Transforming academic librarianship through ai reskilling: Insights from the gpt-4 exploration program. The Journal of Academic Librarianship, 50(3), 102883. https://doi.org/10.1016/j.acalib.2024.102883"
 ---
+
+# Transforming Academic Librarianship through AI Reskilling (Lo UNM)
+
 
 ## Abstract
 
+**DOI:** [10.1016/j.acalib.2024.102883](https://doi.org/10.1016/j.acalib.2024.102883)
+
 Artificial Intelligence (AI) is reshaping the employment landscape by transforming industries through automation, data-driven decision-making, and innovation. This study investigates the dual impact of AI on job creation and displacement, emphasizing the need for strategic policy interventions to mitigate workforce disruptions. The findings highlight that while AI displaces routine and repetitive roles, particularly in sectors like manufacturing, logistics, and retail, it also creates opportunities in high -tech fields such as AI development, cybersecurity, and robotics engineering. Approximately 30% of global jobs could be automated by the 2030s, disproportionately af fecting low -skilled workers and exacerbating income inequalities. Reskilling and upskilling initiatives emerge as critical for addressing these disruptions, with personalized AI -enabled training platforms showing promising results in preparing the workforce for AI-driven roles. The research identifies ethical and operati
 
-## Authors
-- [[authors/Leo S. Lo|Leo S. Lo]]
+## Connections
+- [[AI Literacy]] - `` [EXTRACTED]
+- [[Workplace Learning and AI]] - `` [EXTRACTED]
 
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy
 
-## Topics
-- [[topics/AI Literacy|AI Literacy]]
 ## Summary
 Leo S. Lo presents a case study of the GPT-4 Exploration Program at the University of New Mexico's College of University Libraries and Learning Sciences, which provided librarians with hands-on AI experience to build AI literacy and foster a culture of continuous learning. Drawing on Knowles's Adult Learning Principles (andragogy), Lo analyzes the program's structure, the diverse projects undertaken by participants, and lessons for professional development in academic librarianship.
 
@@ -43,11 +51,3 @@ Case study; analysis of a professional development program at UNM; description o
 
 ## Related Topics
 - [[topics/AI Literacy|AI Literacy]]
-
-## Related Authors
-- Dai
-- [[authors/Leo S. Lo|Leo S. Lo]]
-- Schauer
-- Simbeck
-- Pinkwart
-- [[authors/Colin M. Gray|Colin M. Gray]]

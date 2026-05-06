@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P237.pdf"
 type: "paper"
+community: "HCI Education and Pedagogy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
+
 doi: "10.1007/978-3-031-93418-6_2"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Chen, C."
-apa: "Chen, C. (2025). How hands-on experience with generative ai shapes design students’ perspectives on ai's future impact. Lecture Notes in Computer Science, 22-35. https://doi.org/10.1007/978-3-031-93418-6_2"
 ---
+
+# How Hands-on Experience with Generative AI Shapes Design Students' Perspectives on AI's Future Impact
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.1007/978-3-031-93418-6_2](https://doi.org/10.1007/978-3-031-93418-6_2)
 
 ## Summary
 This LNAI (Lecture Notes in AI) volume edited by Degen and Ntoa presents collected research on artificial intelligence in human-computer interaction from the 2025 HCI International conference. The volume covers advances in AI-mediated interaction design, intelligent interface systems, conversational AI UX, and AI evaluation methods. As an edited conference proceedings volume, it represents the current state of AI-HCI research practice, providing a snapshot of where the field is directing its attention in the integration of AI capabilities with human-centered interaction design.
@@ -34,3 +44,10 @@ Edited proceedings volume; peer-reviewed conference papers presenting empirical,
 
 ## Limitations & Critiques
 Conference proceedings format means individual contributions vary in scope and rigor; as an edited volume, it lacks the synthesizing framework of a monograph; the 2025 snapshot will date as AI-HCI research advances.
+
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

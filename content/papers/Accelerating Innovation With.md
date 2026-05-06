@@ -1,18 +1,24 @@
 ---
-venue: "IEEE DOI 10.1109/EMR.2023.3272799 Abstract—Easy-to-use gener"
+source_file: "research_docs/P172.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 doi: "10.1109/EMR.2023.3272799"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Bilgram, V., & Laarmann, F."
-apa: "Bilgram, V., & Laarmann, F. (2023). Accelerating innovation with generative ai: Ai-augmented digital prototyping and innovation methods. IEEE Engineering Management Review, 51(2), 18-25. https://doi.org/10.1109/emr.2023.3272799"
 ---
+
+# Accelerating Innovation With
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+**DOI:** [10.1109/EMR.2023.3272799](https://doi.org/10.1109/EMR.2023.3272799)
 
 ## Summary
 This paper examines how generative AI tools are accelerating innovation workflows through AI-augmented digital prototyping and innovation methods, arguing that GenAI represents a qualitative shift in innovation capacity by compressing the ideation-to-prototype cycle. The authors present case studies of organizations using GenAI in early-stage innovation, documenting how AI-augmented digital prototyping enables rapid exploration of a wider solution space than traditional methods allow. The paper argues for a new "AI-augmented innovation" methodology that systematically integrates GenAI into established innovation frameworks.
@@ -38,3 +44,10 @@ Case studies of organizations using GenAI tools in digital prototyping and innov
 
 ## Limitations & Critiques
 Case study evidence; GenAI innovation acceleration effects may be context-specific and depend on organizational readiness; the quality of AI-generated concepts is difficult to assess without long-term outcome tracking.
+
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

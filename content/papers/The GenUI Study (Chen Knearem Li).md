@@ -1,24 +1,32 @@
 ---
-authors: "Chen, X. A."
-venue: "ACM"
-year: 2025
+source_file: "research_docs/P4.pdf"
 type: "paper"
+community: "Generative UI Tools"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Generative_UI_Tools
+
 doi: "10.1145/3715336.3735780"
 
 abstract: "AI can now generate high-fidelity UI mock-up screens from a high-level textual description, promising to support UX practitioners’ work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, software engineers, and product managers. Using a state-of-the-"
-apa: "Chen, X.'., Knearem, T., & Li, Y. (2025). The genui study: Exploring the design of generative ui tools to support ux practitioners and beyond. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 1179-1196. https://doi.org/10.1145/3715336.3735780"
 ---
+
+# The GenUI Study (Chen Knearem Li)
+
 
 ## Abstract
 
+**DOI:** [10.1145/3715336.3735780](https://doi.org/10.1145/3715336.3735780)
+
 AI can now generate high-fidelity UI mock-up screens from a high-level textual description, promising to support UX practitioners’ work. However, it remains unclear how UX practitioners would adopt such Generative UI (GenUI) models in a way that is integral and beneficial to their work. To answer this question, we conducted a formative study with 37 UX-related professionals that consisted of four roles: UX designers, UX researchers, software engineers, and product managers. Using a state-of-the-art GenUI tool, each participant went through a week-long, individual mini-project exercise with role-specific tasks, keeping a daily journal of their usage and experiences with GenUI, followed by a semi-structured interview. We report findings on participants’ workflow using the GenUI tool, how GenUI can support all and each specific roles, and existing gaps between GenUI and users’ needs and expectations, which lead to design implications to inform future work on GenUI development.
 
-## Authors
-- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Generative UI Tools]] - `` [EXTRACTED]
 
+#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
 
-## Topics
-- [[topics/Generative UI Tools|Generative UI Tools]]
 ## Summary
 Chen, Knearem, and Li present the full GenUI study—an extended version of their formative work—examining how generative UI tools can support UX practitioners and beyond. Through a week-long diary study with 37 UX-related professionals, they develop design implications for GenUI tools that better serve multiple roles (designers, researchers, developers, product managers) and support team-level collaboration. The study concludes that GenUI produces a "good first draft" but struggles with the "last mile" of design refinement.
 
@@ -43,6 +51,3 @@ Diary study; 37 UX professionals across four roles; week-long individual mini-pr
 
 ## Related Topics
 - [[topics/Generative UI Tools|Generative UI Tools]]
-
-## Related Authors
-- Knearem

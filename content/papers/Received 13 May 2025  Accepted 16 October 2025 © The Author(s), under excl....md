@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P231.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 doi: "10.1007/s10798-025-10045-8"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Chen, H., Chen, Y., Lin, Y., & Lin, M."
-apa: "Chen, H., Chen, Y., Lin, Y., & Lin, M. (2025). Comparing student designers’ metacognition and design processes with and without generative ai: A preliminary study. International Journal of Technology and Design Education. https://doi.org/10.1007/s10798-025-10045-8"
 ---
+
+# Comparing Student Designers' Metacognition and Design Processes With and Without Generative AI (Chen et al., 2025)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.1007/s10798-025-10045-8](https://doi.org/10.1007/s10798-025-10045-8)
 
 ## Summary
 Chen et al.'s 2025 study compares student designers' metacognitive processes and design outcomes when working with versus without generative AI tools. Using protocol analysis and design artifact comparison, the study finds that AI-assisted designers show different metacognitive patterns: they spend less time in divergent ideation and more time evaluating and directing AI outputs. While AI-assisted students produce more visually diverse initial concepts, they show less evidence of deep design reasoning. The paper raises important questions about what design cognition AI tools enhance versus potentially atrophy.
@@ -34,3 +44,10 @@ Controlled comparison study; concurrent think-aloud protocol analysis with stude
 
 ## Limitations & Critiques
 Laboratory-like protocol study may not capture real design studio practice; student participants are novice designers, limiting generalizability to professional practice; the quality assessment of design artifacts involves subjective judgment.
+
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

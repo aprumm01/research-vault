@@ -1,13 +1,29 @@
 ---
+source_file: "research_docs/P83.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.2307/j.ctv11990qk.7"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-apa: "Unknown (2020). Webster’s new collegiate and the poetry of clark coolidge and bernadette mayer. Dictionary Poetics, 101-128. https://doi.org/10.2307/j.ctv11990qk.7"
 ---
+
+# e-Learning and the Science of Instruction (Clark and Mayer)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.2307/j.ctv11990qk.7](https://doi.org/10.2307/j.ctv11990qk.7)
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Clark and Mayer's textbook "e-Learning and the Science of Instruction" applies cognitive learning science principles to the design of e-learning materials, translating research on multimedia learning into practical guidelines for instructional designers. The book introduces principles such as the coherence principle, signaling principle, contiguity principle, and modality principle, each grounded in Mayer's cognitive theory of multimedia learning. It is the foundational applied reference for evidence-based e-learning design.

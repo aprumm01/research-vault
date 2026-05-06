@@ -1,24 +1,33 @@
 ---
-authors: "Holstein, K., & Martelaro, N."
-venue: "CHI 2025"
-year: 2025
+source_file: "research_docs/P5.pdf"
 type: "paper"
+community: "Responsible AI and Ethics"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_and_Ethics
+
 doi: "10.1007/s00146-025-02504-6"
 
 abstract: "Despite the potential of generative AI (GenAI) design tools to enhance design processes, professionals often struggle to integrate AI into their workflows. Fundamental cognitive challenges include the need to specify all design criteria as distinct parameters upfront (intent formulation) and designers’ reduced cognitive involvement in the design process due to cognitive offloading, which can lead to insufficient problem exploration, underspecification, and limited ability to evaluate outcomes. M"
-apa: "Süner-Pla-Cerdà, S., Şen, G., Kumbasar, E., Şahin, B., & Ünlü, C.E. (2025). Designer experiences and perspectives on the role of generative ai in industrial design. AI &amp; SOCIETY, 41(3), 2361-2384. https://doi.org/10.1007/s00146-025-02504-6"
 ---
+
+# Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)
+
 
 ## Abstract
 
+**DOI:** [10.1007/s00146-025-02504-6](https://doi.org/10.1007/s00146-025-02504-6)
+
 Despite the potential of generative AI (GenAI) design tools to enhance design processes, professionals often struggle to integrate AI into their workflows. Fundamental cognitive challenges include the need to specify all design criteria as distinct parameters upfront (intent formulation) and designers’ reduced cognitive involvement in the design process due to cognitive offloading, which can lead to insufficient problem exploration, underspecification, and limited ability to evaluate outcomes. Motivated by these challenges, we envision novel metacognitive support agents that assist designers in working more reflectively with GenAI. To explore this vision, we conducted exploratory prototyping through a Wizard of Oz elicitation study with 20 mechanical designers probing multiple metacognitive support strategies. We found that agent-supported users created more feasible designs than non-supported users, with differing impacts between support strategies. Based on these findings, we discuss opportunities and tradeoffs of metacognitive support agents and considerations for future AI-based design tools.
 
-## Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
+## Connections
+- [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Metacognitive Support]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-## Topics
-- [[topics/Cognitive Offloading and De-skilling|Cognitive Offloading and De-skilling]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Gmeiner et al. at Carnegie Mellon University explore the design of metacognitive support agents that help designers maintain reflective engagement when using generative AI design tools. They find that cognitive offloading to AI leads to underspecification of design intent and reduced ability to evaluate AI outputs. Their proposed metacognitive agents prompt designers to articulate goals, reflect on AI suggestions, and maintain critical oversight—addressing fundamental cognitive challenges in human-AI co-creation.
@@ -45,12 +54,3 @@ Design research; likely includes user studies, prototype development, and evalua
 ## Related Topics
 - [[topics/Cognitive Offloading and De-skilling|Cognitive Offloading and De-skilling]]
 - [[topics/Metacognitive Support|Metacognitive Support]]
-
-## Related Authors
-- [[authors/Paul Parsons|Paul Parsons]]
-- Cash
-- Gonçalves
-- Dorst
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- Parreira
-- Toombs

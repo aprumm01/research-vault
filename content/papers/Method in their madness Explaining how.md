@@ -1,18 +1,25 @@
 ---
+source_file: "research_docs/P175.pdf"
 type: "paper"
+community: "Problem-Based Learning"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Problem-Based_Learning
+
 doi: "10.1016/j.destud.2023.101219"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Cash, P., Gonçalves, M., & Dorst, K."
-apa: "Cash, P., Gonçalves, M., & Dorst, K. (2023). Method in their madness: Explaining how designers think and act through the cognitive co-evolution model. Design Studies, 88, 101219. https://doi.org/10.1016/j.destud.2023.101219"
 ---
+
+# Method in their madness: Explaining how
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Metacognitive Support|Metacognitive Support]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]
+**DOI:** [10.1016/j.destud.2023.101219](https://doi.org/10.1016/j.destud.2023.101219)
+
 ## Summary
 This paper investigates the apparent irrationality in designers' method selection practices, arguing that what looks like "madness" in method choice is actually explicable through understanding the social, political, and contextual factors that shape design method decisions in practice. Through ethnographic observation of design teams, the authors document how designers choose methods not only for their technical utility but for their communicative, rhetorical, and political functions — methods are used to build consensus, satisfy client expectations, and signal professional competence. The paper calls for a more socially grounded account of design method use.
 
@@ -38,15 +45,13 @@ Ethnographic observation of design teams in professional settings; qualitative a
 ## Limitations & Critiques
 Ethnographic study of specific design contexts; generalizability across design disciplines and organizational settings requires further investigation; the "madness" framing may be somewhat rhetorical.
 
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Metacognitive Support]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
+
 ## Related Topics
 - [[topics/Metacognitive Support|Metacognitive Support]]
 - [[topics/Studio Pedagogy|Studio Pedagogy]]
-
-## Related Authors
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- Parreira

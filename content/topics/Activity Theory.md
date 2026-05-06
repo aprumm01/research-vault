@@ -13,7 +13,3 @@ tags:
 - [[papers/Developing Human Experience Experts (Cheatham Miami U)|Developing Human Experience Experts (Cheatham Miami U)]]
 - [[papers/Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)|Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]]
 
-## Authors
-
-- [[authors/Wendy Ju|Wendy Ju]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]

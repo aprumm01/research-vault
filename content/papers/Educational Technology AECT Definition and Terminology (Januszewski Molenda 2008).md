@@ -1,17 +1,25 @@
 ---
+source_file: "research_docs/P255.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 doi: "10.1111/j.1467-8535.2008.00925_4.x"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Mishra, S."
-apa: "Mishra, S. (2008). Educational technology: A definition with commentary – by alan januszewski &amp; michael molenda. British Journal of Educational Technology, 40(1), 187-187. https://doi.org/10.1111/j.1467-8535.2008.00925_4.x"
 ---
+
+# Educational Technology AECT Definition and Terminology (Januszewski Molenda 2008)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Constructivism|Constructivism]]
+**DOI:** [10.1111/j.1467-8535.2008.00925_4.x](https://doi.org/10.1111/j.1467-8535.2008.00925_4.x)
+
 ## Summary
 Januszewski and Molenda's AECT definitional work establishes the 2008 official definition of educational technology as "the study and ethical practice of facilitating learning and improving performance by creating, using, and managing appropriate technological processes and resources." The text unpacks each element of this definition, tracing the historical development of the field from visual instruction to audiovisual communication to the broader conception of instructional technology. The definition grounds the field's professional identity and scope.
 
@@ -37,14 +45,7 @@ Conceptual and historical analysis; committee-based definition development typic
 ## Limitations & Critiques
 Definitional consensus documents necessarily smooth over genuine theoretical disagreements within the field; the 2008 definition has been critiqued for underemphasizing sociocultural and critical perspectives on technology.
 
-## Related Topics
-- [[topics/Constructivism|Constructivism]]
+## Connections
+- [[Constructivism]] - `` [EXTRACTED]
 
-## Related Authors
-- Ertmer
-- Newby
-- Dai
-- esmer
-- Grabinger
-- Dunlap
-- SCHMIDT
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

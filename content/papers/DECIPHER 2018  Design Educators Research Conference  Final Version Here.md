@@ -1,9 +1,19 @@
 ---
+source_file: "research_docs/P260.pdf"
 type: "paper"
+community: "HCI Education and Pedagogy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/HCI_Education_and_Pedagogy
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
+
+# Developing Students' Instrumental Design Judgment (MurdochKitt et al., DECIPHER 2018)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -32,3 +42,10 @@ Design pedagogy research; case study from a design course at Oslo Metropolitan U
 
 ## Limitations & Critiques
 Single-course case study limits generalizability; student population at a single Scandinavian institution may not reflect global design education diversity; the framework for assessing judgment development needs further operationalization.
+
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Judgment]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

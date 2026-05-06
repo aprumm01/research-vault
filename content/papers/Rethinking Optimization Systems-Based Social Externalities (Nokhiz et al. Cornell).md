@@ -1,19 +1,26 @@
 ---
+source_file: "research_docs/P50.pdf"
 type: "paper"
+community: "Responsible AI and Ethics"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_and_Ethics
+
 abstract: "Optimization is widely used for decision making across various domains, valued for its ability to improve efficiency. However, poor implementation practices can lead to unintended consequences, particularly in socioeconomic contexts where externalities (costs or benefits to third parties outside the optimization process) are significant. To propose solutions, it is crucial to first characterize in- volved stakeholders, their goals, and the types of subpar practices causing unforeseen outcomes. T"
 
 doi: "10.1609/aies.v8i2.36684"
-authors: "Nokhiz, P., Ruwanpathirana, A.K., & Nissenbaum, H."
-apa: "Nokhiz, P., Ruwanpathirana, A.K., & Nissenbaum, H. (2025). Rethinking optimization: A systems-based approach to social externalities. Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society, 8(2), 1913-1925. https://doi.org/10.1609/aies.v8i2.36684"
 ---
+
+# Rethinking Optimization: Systems-Based Social Externalities (Nokhiz et al. Cornell)
+
 
 ## Abstract
 
+**DOI:** [10.1609/aies.v8i2.36684](https://doi.org/10.1609/aies.v8i2.36684)
+
 Optimization is widely used for decision making across various domains, valued for its ability to improve efficiency. However, poor implementation practices can lead to unintended consequences, particularly in socioeconomic contexts where externalities (costs or benefits to third parties outside the optimization process) are significant. To propose solutions, it is crucial to first characterize in- volved stakeholders, their goals, and the types of subpar practices causing unforeseen outcomes. This task is complex because affected stakeholders often fall outside the direct focus of optimization processes. Also, incorporating these externalities into optimization requires going beyond tradi- tional economic frameworks, which often focus on describing externalities but fail to
 
-
-## Topics
-- [[topics/Algorithmic Bias and Fairness|Algorithmic Bias and Fairness]]
 ## Summary
 Nokhiz, Haim, and colleagues at Cornell present a critical analysis of optimization-based AI systems, arguing that the "optimization" paradigm systematically externalizes social harms that do not appear in the objective function. The paper proposes a systems-based framework for identifying and accounting for social externalities in AI system design, drawing on environmental economics' externality concept to argue that harmful AI outcomes are not bugs but predictable consequences of optimization without social cost accounting. The work is foundational for responsible AI design methodology.
 
@@ -39,13 +46,8 @@ Conceptual framework development; case analysis of AI systems where optimization
 ## Limitations & Critiques
 The economics metaphor may oversimplify complex social dynamics; operationalizing externality identification in practice requires extensive domain expertise; the framework does not specify who is responsible for internalization of externalities.
 
-## Related Topics
-- [[topics/Algorithmic Bias and Fairness|Algorithmic Bias and Fairness]]
+## Connections
+- [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-## Related Authors
-- Chakrabarti
-- Mushkani
-- Berard
-- Ammar
-- Chatonnier
-- Koseki
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics

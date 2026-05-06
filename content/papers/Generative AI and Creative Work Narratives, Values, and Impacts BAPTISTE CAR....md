@@ -1,9 +1,19 @@
 ---
+source_file: "research_docs/P236.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
+
+# Generative AI and Creative Work: Narratives, Values, and Impacts (Caramiaux et al., Microsoft Research, 2023)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
@@ -32,3 +42,9 @@ Semi-structured interviews with 30+ creative professionals across multiple disci
 
 ## Limitations & Critiques
 The three-narrative typology may oversimplify a complex landscape; Microsoft Research institutional context may influence findings; the study captures a specific moment in creative AI adoption that may have shifted.
+
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

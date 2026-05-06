@@ -24,11 +24,3 @@ tags:
 - [[papers/International Journal on Technology, Innovation, and Management  (IJTIM) 3(1)...|Exploring the Impact of AI Language Model ChatGPT on User Experience (IJTIM)]]
 - [[papers/Integrating  AI  Into  The  Design  Process|Integrating AI into the Design Process]]
 
-## Authors
-
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]

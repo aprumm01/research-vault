@@ -1,18 +1,25 @@
 ---
+source_file: "research_docs/P278.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 doi: "10.32403/0554-4866-2024-2-88-133-139"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Ukrainian Academy of Printing, Soroka, N.V., Ohirko, I.V., & Ukrainian Academy of Printing"
-apa: "Ukrainian Academy of Printing, Soroka, N.V., Ohirko, I.V., & Ukrainian Academy of Printing (2024). Advantages of integrating ai into the ui/ux design process. Printing and Publishing, 2(88), 133-139. https://doi.org/10.32403/0554-4866-2024-2-88-133-139"
 ---
+
+# Integrating AI into the Design Process
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
-- [[topics/Design Thinking|Design Thinking]]
+**DOI:** [10.32403/0554-4866-2024-2-88-133-139](https://doi.org/10.32403/0554-4866-2024-2-88-133-139)
+
 ## Summary
 This practitioner-oriented paper examines methods and frameworks for integrating AI into the design process across multiple design disciplines, offering a taxonomy of AI integration points and design process stages where AI adds most value. Drawing on case studies from product design, graphic design, and UX, the paper argues that AI integration is most effective when designed around the designer's process rather than around the AI tool's capabilities. The paper provides practical frameworks for designers seeking to systematically incorporate AI into professional practice.
 
@@ -38,15 +45,13 @@ Multiple case studies across design disciplines; practitioner documentation and 
 ## Limitations & Critiques
 Case study evidence is primarily from design disciplines with strong visual output; service design and systems design integration is less thoroughly addressed; the pace of AI tool development means specific tool recommendations will date quickly.
 
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+
 ## Related Topics
 - [[topics/Design Thinking|Design Thinking]]
 - [[topics/Responsible AI Governance|Responsible AI Governance]]
-
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- Yang
-- Park
-- Wang

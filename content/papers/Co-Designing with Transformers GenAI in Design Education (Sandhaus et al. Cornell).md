@@ -1,19 +1,26 @@
 ---
+source_file: "research_docs/P10.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 abstract: "This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for e"
 
 doi: "10.1145/3715336.3735805"
-authors: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W."
-apa: "Sandhaus, H., Gu, Q., Parreira, M.T., & Ju, W. (2025). Co-designing with transformers: Unpacking the complex role of genai in interactive system design education. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 1228-1243. https://doi.org/10.1145/3715336.3735805"
 ---
+
+# Co-Designing with Transformers: GenAI in Design Education (Sandhaus et al. Cornell)
+
 
 ## Abstract
 
+**DOI:** [10.1145/3715336.3735805](https://doi.org/10.1145/3715336.3735805)
+
 This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
 
-
-## Topics
-- [[topics/Design Thinking|Design Thinking]]
 ## Summary
 Sandhaus, Hegde, and colleagues at Cornell report on integrating large language model-based tools into design education courses, documenting how students and instructors navigate the introduction of transformer-based AI into design studio workflows. The paper examines student attitudes, adoption patterns, and the pedagogical challenges that emerge when AI becomes a studio collaborator. The authors identify a need for new frameworks for evaluating AI-assisted design work and for helping students develop AI literacy alongside design skills.
 
@@ -39,14 +46,9 @@ Case study of AI integration in Cornell design courses; qualitative data from st
 ## Limitations & Critiques
 Single institution case study; the rapid evolution of AI tools means specific findings may have short validity; the study does not include long-term follow-up on student design practice.
 
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-## Related Authors
-- Yang
-- Chou
-- Cheatham
-- Marble
-- Zeng
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- Belling
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

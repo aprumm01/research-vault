@@ -1,13 +1,28 @@
 ---
 title: "What Field Did You Say You Were In? Defining and Naming Our Discipline (Reiser, 2018)"
+source_file: "research_docs/P117.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
+# What Field Did You Say You Were In? Defining and Naming Our Discipline (Reiser, 2018)
+
+
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Robert Reiser's chapter examines the question of what field instructional design and technology (IDT) belongs to, tracing its historical development from audiovisual communications through programmed instruction to contemporary technology-enhanced learning. Reiser argues that IDT is a coherent field defined by its focus on systematic approaches to designing effective instruction, with a distinct history of theory and practice that justifies its status as an independent discipline.

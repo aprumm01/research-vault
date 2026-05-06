@@ -1,20 +1,26 @@
 ---
+source_file: "research_docs/P247.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 abstract: "Purpose – This paper examines the integration of artificial intelligence (AI) in organizational training and development through an evidence-based lens, addressing the gap between technological enthusiasm and pedagogical effectiveness in workplace learning contexts. Design/methodology/approach – An integrative literature review methodology was employed following Torraco’s (2016) framework for synthesizing diverse knowledge streams. The analysis examined 180 papers from multiple databases, combin"
 
 doi: "10.64591/hfdxns51"
-authors: "Orquia, C.J."
-apa: "Orquia, C.J. (2025). Beyond the hype. SCI-TECH LENS, 1(1). https://doi.org/10.64591/hfdxns51"
 ---
+
+# Beyond the hype: evidence-based
+
 
 ## Abstract
 
+**DOI:** [10.64591/hfdxns51](https://doi.org/10.64591/hfdxns51)
+
 Purpose – This paper examines the integration of artificial intelligence (AI) in organizational training and development through an evidence-based lens, addressing the gap between technological enthusiasm and pedagogical effectiveness in workplace learning contexts. Design/methodology/approach – An integrative literature review methodology was employed following Torraco’s (2016) framework for synthesizing diverse knowledge streams. The analysis examined 180 papers from multiple databases, combining theoretical frameworks from social cognitive theory (Bandura, 1986) and organizational learning theory (Dittmar et al., 2025) to develop an integrated conceptual framework. Findings – The analysis reveals critical misalignments between current AI implementation practices and established learning principles. While AI demonstrates effectiveness in personalized content delivery and routine skill development
 
-
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]
 ## Summary
 This paper provides an evidence-based critique of the "AI hype" surrounding AI integration in workplace learning, arguing that many claims about AI's transformative potential for organizational learning are significantly overstated and that practitioners need more rigorous evidence standards for evaluating AI learning tools. The authors review the available empirical evidence on AI in workplace learning contexts and find a substantial gap between marketing claims and research-backed outcomes. The paper proposes criteria for responsible AI integration in workplace learning based on existing evidence rather than hype cycles.
 
@@ -40,15 +46,13 @@ Evidence review of published research on AI in workplace learning; gap analysis 
 ## Limitations & Critiques
 Evidence reviews are limited by the quality and availability of published research; the rapidly evolving AI landscape means the evidence review has a short shelf life; the critique of "hype" may be perceived as AI skepticism rather than balanced evaluation.
 
+## Connections
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[Workplace Learning and AI]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+
 ## Related Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]
 - [[topics/Studio Pedagogy|Studio Pedagogy]]
-
-## Related Authors
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- Park

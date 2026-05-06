@@ -1,13 +1,23 @@
 ---
+source_file: "research_docs/P193.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 abstract: "This article proposes a computer-mediated intersensory learning model as an alternative to traditional instructional approaches for students with learning disabilities (LDs) in the inclusive classroom. Predominant practices of classroom inclusion today reflect the six principles of zero reject, nondiscriminatory evaluation, appropriate education, least restrictive environment, proce­ dural due process, and parental and student par­ ticipation. These practices guide the amended In­ dividuals with"
 
 doi: "10.1007/s11528-010-0385-4"
-authors: "Soonhwa Seok, Boaventura DaCosta, Carolyn Kinsell, John C. Poggio, Edward L. Meyen"
-apa: "Soonhwa Seok, Boaventura DaCosta, Carolyn Kinsell, John C. Poggio, Edward L. Meyen (2010). Computer-mediated intersensory learning model for students with learning disabilities. TechTrends, 54(2), 63-71. https://doi.org/10.1007/s11528-010-0385-4"
 ---
 
+# Computer-Mediated Intersensory Learning Model for Students with Learning Disabilities (Seok et al.)
+
+
 ## Abstract
+
+**DOI:** [10.1007/s11528-010-0385-4](https://doi.org/10.1007/s11528-010-0385-4)
 
 This article proposes a computer-mediated intersensory learning model as an alternative to traditional instructional approaches for students with learning disabilities (LDs) in the inclusive classroom. Predominant practices of classroom inclusion today reflect the six principles of zero reject, nondiscriminatory evaluation, appropriate education, least restrictive environment, proce­ dural due process, and parental and student par­ ticipation. These practices guide the amended In­ dividuals with Disabilities Education Act (IDEA) of 2004. For nearly 35 years the act has champi­ oned for the rights of children with disabilities. The act mandates that students with LDs are edu­ cated in the general education classroom (Hock, Deshler, & Schumaker, 1999). Those with LDs are expected to reach a mas­ tery level of the subject matter in the inclusive classroom (Kameenui & Carnine, 1998). Among other things, society now expects all learners of the digital genera
 
@@ -35,3 +45,8 @@ Theoretical model development drawing on cognitive psychology and special educat
 
 ## Limitations & Critiques
 Primarily theoretical; the model requires empirical validation with specific student populations; accessibility guidelines evolve with assistive technology; the model predates current AI-adaptive learning tools that may offer more dynamic intersensory support.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

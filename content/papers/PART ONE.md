@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P182.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 doi: "10.1002/pfi.20023"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Planitz, M.A."
-apa: "Planitz, M.A. (2008). Handbook of human performance technology: Principles, practices, potential (3rd ed.) edited by james a. pershing. Performance Improvement, 47(8), 52-54. https://doi.org/10.1002/pfi.20023"
 ---
+
+# Fundamentals of Human Performance Technology (Pershing, 2006)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.1002/pfi.20023](https://doi.org/10.1002/pfi.20023)
 
 ## Summary
 Pershing's foundational chapter on Human Performance Technology (HPT) defines the field, traces its historical origins in behavioral psychology and systems thinking, and presents the core HPT framework that distinguishes performance problems from training solutions. The chapter establishes that HPT is not synonymous with training but encompasses the full range of interventions — from job redesign and incentive systems to communication improvements — needed to close performance gaps. It argues for a systematic, evidence-based approach to workplace performance improvement.
@@ -34,3 +44,8 @@ Conceptual framework development; historical review of HPT's intellectual origin
 
 ## Limitations & Critiques
 Critics argue HPT's behavioral foundations undervalue intrinsic motivation and creativity; the field's corporate orientation can deprioritize worker wellbeing in favor of productivity metrics.
+
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

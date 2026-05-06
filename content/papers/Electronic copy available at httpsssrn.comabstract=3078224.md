@@ -1,13 +1,23 @@
 ---
+source_file: "research_docs/P281.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 abstract: "While the term “Artiﬁcial Intelligence” (AI) was coined in the 1950s, in recent years AI has become a focus of attention in mainstream media. Yet the forces behind AI’s revival ha"
 
 doi: "10.2139/ssrn.3078224"
-authors: "Katz, Y."
-apa: "Katz, Y. (2017). Manufacturing an artificial intelligence revolution. SSRN Electronic Journal. https://doi.org/10.2139/ssrn.3078224"
 ---
 
+# Manufacturing an Artificial Intelligence Revolution (Katz, 2017)
+
+
 ## Abstract
+
+**DOI:** [10.2139/ssrn.3078224](https://doi.org/10.2139/ssrn.3078224)
 
 While the term “Artiﬁcial Intelligence” (AI) was coined in the 1950s, in recent years AI has become a focus of attention in mainstream media. Yet the forces behind AI’s revival ha
 
@@ -35,3 +45,8 @@ Historical and critical analysis; examination of AI discourse in media, policy, 
 
 ## Limitations & Critiques
 Written in 2017 when AI capabilities were less mature; the critical/skeptical framing may be perceived as dismissive of genuine AI advances; the political economy analysis focuses on the US context and may not transfer to other national AI development contexts.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

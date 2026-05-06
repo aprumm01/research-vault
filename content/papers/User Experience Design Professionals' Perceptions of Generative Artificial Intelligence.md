@@ -1,16 +1,25 @@
 ---
-venue: "acm.org/doi/10.1145/3613904.3642114 . . RESEARCH-ARTICLE Use"
 title: "User Experience Design Professionals' Perceptions of Generative Artificial Intelligence"
+source_file: "research_docs/P242.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.1145/3613904.3642114"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Li, J., Cao, H., Lin, L., Hou, Y., Zhu, R., & El Ali, A."
-apa: "Li, J., Cao, H., Lin, L., Hou, Y., Zhu, R., & El Ali, A. (2024). User experience design professionals’ perceptions of generative artificial intelligence. Proceedings of the CHI Conference on Human Factors in Computing Systems, 1-18. https://doi.org/10.1145/3613904.3642114"
 ---
+
+# User Experience Design Professionals' Perceptions of Generative Artificial Intelligence
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.1145/3613904.3642114](https://doi.org/10.1145/3613904.3642114)
 
 ## Summary
 Li et al.'s CHI 2025 paper presents a comprehensive study of UX design professionals' perceptions of generative AI, examining how practitioners across roles (UX researchers, interaction designers, content designers, managers) understand and integrate generative AI. The study finds significant role-specific variation in adoption driven by different relationships to knowledge, creativity, and craft. UX researchers show more skepticism than interaction designers due to the centrality of contextual human understanding in research work.
@@ -36,3 +45,8 @@ Semi-structured interviews with UX professionals across roles; thematic analysis
 
 ## Limitations & Critiques
 CHI venue sample may skew toward sophisticated practitioners; perceptions may shift with AI tool evolution; does not track actual behavior.
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

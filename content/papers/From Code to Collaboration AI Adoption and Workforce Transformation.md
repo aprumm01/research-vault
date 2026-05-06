@@ -1,13 +1,28 @@
 ---
 title: "From Code to Collaboration: AI Adoption and Workforce Transformation"
+source_file: "research_docs/P271.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 abstract: "Purpose – Artificial intelligence is creating a significant technological disruption in all industries. The adoption of AI in business has been proliferated by the use of data analytics, machine learning and robotics. One of the sectors that was significantly impacted by this disruption is the IT sector . The present study aims to understand employee perceptions regarding AI advancements, their impact on job roles and organizational interventions for effective AI integration. Design/methodology/"
 
 doi: "[Missing]"
 ---
 
+# From Code to Collaboration: AI Adoption and Workforce Transformation
+
+
 ## Abstract
 Purpose – Artificial intelligence is creating a significant technological disruption in all industries. The adoption of AI in business has been proliferated by the use of data analytics, machine learning and robotics. One of the sectors that was significantly impacted by this disruption is the IT sector . The present study aims to understand employee perceptions regarding AI advancements, their impact on job roles and organizational interventions for effective AI integration. Design/methodology/approach – A qualitative approach was used in this study to explore IT professionals’ perceptions of AI advancements in the workplace. A purposive sampling technique was used for this study . In- depth semi-structured interviews were conducted with 27 IT specialists from multinational corporations. The present study conducts a thematic analysis to identify gaps and provide solutions for organizati ons to miti
+
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 Rastogi and Pandita examine employee perceptions of AI advancements in the IT sector through qualitative interviews with 27 IT specialists from multinational corporations, finding that AI is transforming job roles from technical execution toward strategic collaboration and decision-making. While employees recognize AI's productivity benefits, they also express concerns about skill redundancy, job security, and the pace of change. The study identifies organizational interventions needed to support effective AI integration.
@@ -30,3 +45,10 @@ Qualitative; 27 semi-structured interviews with IT specialists from multinationa
 - Employee concerns about job security and skill obsolescence are significant barriers to AI adoption
 - Organizations need proactive reskilling programs and clear communication about AI's role in the workforce
 - Successful AI integration requires cultural change alongside technical implementation
+
+## Related Topics
+- [[topics/Human Performance Technology|Human Performance Technology]]
+
+## Related Authors
+- Ertmer
+- Newby

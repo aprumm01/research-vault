@@ -1,18 +1,32 @@
 ---
+source_file: "research_docs/P108.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 doi: "10.1007/bf02299676"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Watkins, R., Leigh, D., Foshay, R., & Kaufman, R."
-apa: "Watkins, R., Leigh, D., Foshay, R., & Kaufman, R. (1998). Kirkpatrick plus: Evaluation and continuous improvement with a community focus. Educational Technology Research and Development, 46(4), 90-96. https://doi.org/10.1007/bf02299676"
 ---
+
+# Kirkpatrick Plus: Evaluation and Continuous
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+**DOI:** [10.1007/bf02299676](https://doi.org/10.1007/bf02299676)
+
+## Connections
+- [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+
 ## Summary
 Watkins, Leigh, Foshay, and Kaufman propose "Kirkpatrick Plus," a framework that extends Kirkpatrick's four-level evaluation model by adding a fifth level—societal outcomes—and incorporating continuous improvement and community impact perspectives. They argue that as organizations are increasingly accountable to stakeholders beyond their boundaries, training evaluation must assess contributions to community and societal good, not just organizational performance.
 
@@ -36,14 +50,10 @@ Conceptual framework development; critical review of the Kirkpatrick model and p
 - Evaluation frameworks must evolve alongside changes in organizational context and stakeholder expectations
 
 ## Related Topics
+- [[topics/Human Performance Technology|Human Performance Technology]]
 - [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
 - [[topics/Responsible AI Governance|Responsible AI Governance]]
 
 ## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Park
-- Wang
-- Weinberg
-- Chan
+- Ertmer
+- Newby

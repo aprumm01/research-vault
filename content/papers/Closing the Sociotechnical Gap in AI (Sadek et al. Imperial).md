@@ -1,19 +1,30 @@
 ---
-venue: "IEEE Technology and Society"
-year: 2024
+source_file: "research_docs/P20.pdf"
 type: "paper"
+community: "Responsible AI and Ethics"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_and_Ethics
+
 doi: "10.1109/MTS.2024.3392280"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Sadek, M., Calvo, R.A., & Mougenot, C."
-apa: "Sadek, M., Calvo, R.A., & Mougenot, C. (2024). Closing the socio–technical gap in ai: The need for measuring practitioners’ attitudes and perceptions. IEEE Technology and Society Magazine, 43(2), 88-91. https://doi.org/10.1109/mts.2024.3392280"
 ---
+
+# Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Value-Sensitive Design|Value-Sensitive Design]]
+**DOI:** [10.1109/MTS.2024.3392280](https://doi.org/10.1109/MTS.2024.3392280)
+
+## Connections
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Value-Sensitive Design]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
 
 ## Summary
 Sadek et al. argue in this IEEE Technology and Society Magazine piece that a "sociotechnical gap" exists in AI between what AI systems are technically capable of and what practitioners actually understand and perceive about those capabilities. This gap creates risks when practitioners deploy AI without accurate mental models, leading to misuse, over-trust, or under-utilization. The paper calls for systematic measurement of practitioners' AI attitudes and perceptions as a necessary step toward closing the sociotechnical gap.

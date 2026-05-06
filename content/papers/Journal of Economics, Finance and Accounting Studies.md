@@ -1,13 +1,24 @@
 ---
+source_file: "research_docs/P171.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 doi: "10.32996/jefas"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-apa: "Unknown (n.d.). Journal of economics, finance and accounting studies. https://doi.org/10.32996/jefas"
 ---
+
+# A Review of Human-Centric AI in Industry 5.0
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.32996/jefas](https://doi.org/10.32996/jefas)
 
 ## Summary
 This systematic review examines the emerging literature on human-centric AI in Industry 5.0, analyzing how the Industry 5.0 framework's emphasis on human wellbeing, sustainability, and resilience differs from Industry 4.0's productivity-centered focus. The review synthesizes research on collaborative robots, AI workplace integration, and human-machine collaboration to assess how Industry 5.0 principles are being operationalized. The paper argues that human-centric AI requires not just technical design choices but organizational and policy commitments to worker agency and wellbeing.
@@ -33,3 +44,8 @@ Systematic literature review of Industry 5.0 and human-centric AI research; them
 
 ## Limitations & Critiques
 Industry 5.0 as a framework is relatively new and some cited implementations may be primarily rhetorical; the review spans heterogeneous manufacturing contexts; the human-centric claims of many Industry 5.0 implementations have not been independently validated.
+
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

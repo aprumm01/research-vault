@@ -1,20 +1,26 @@
 ---
 title: "Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools"
+source_file: "research_docs/P235.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 doi: "10.1145/3544548.3580999"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Gmeiner, F., Yang, H., Yao, L., Holstein, K., & Martelaro, N."
-apa: "Gmeiner, F., Yang, H., Yao, L., Holstein, K., & Martelaro, N. (2023). Exploring challenges and opportunities to support designers in learning to co-create with ai-based manufacturing design tools. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems, 1-20. https://doi.org/10.1145/3544548.3580999"
 ---
 
 # Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools
 
+
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+**DOI:** [10.1145/3544548.3580999](https://doi.org/10.1145/3544548.3580999)
+
 ## Summary
 This paper investigates the challenges designers face when learning to effectively co-create with AI systems, identifying specific knowledge, skill, and attitude barriers that prevent practitioners from developing productive human-AI collaboration. Through participatory research with designers at various skill levels, the authors develop a framework of support needs organized around three dimensions: technical understanding of AI (enough to set realistic expectations), creative skill in directing AI outputs, and reflective practice in evaluating AI contributions. The paper offers design implications for tools and educational interventions.
 
@@ -40,14 +46,8 @@ Participatory research workshops with designers; qualitative data from collabora
 ## Limitations & Critiques
 Participatory sample may not represent the diversity of design practice; the framework needs validation in real-world professional contexts; the specific AI tools used in workshops may limit generalizability.
 
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+## Connections
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
 
-## Related Authors
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Wang
-- Park
-- Heger
-- Passi
-- Dhanorkar
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

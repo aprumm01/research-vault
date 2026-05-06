@@ -1,19 +1,33 @@
 ---
+source_file: "research_docs/P17.pdf"
 type: "paper"
+community: "Responsible AI and Ethics"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_and_Ethics
+
 abstract: "AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure"
 
 doi: "10.1145/3715336.3735745"
-authors: "Jung, J., Saxena, D., Park, M., Kim, J., Forlizzi, J., Holstein, K., & Zimmerman, J."
-apa: "Jung, J., Saxena, D., Park, M., Kim, J., Forlizzi, J., Holstein, K., & Zimmerman, J. (2025). Making the right thing: Bridging hci and responsible ai in early-stage ai concept selection. Proceedings of the 2025 ACM Designing Interactive Systems Conference, 2992-3012. https://doi.org/10.1145/3715336.3735745"
 ---
+
+# Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
+
 
 ## Abstract
 
+**DOI:** [10.1145/3715336.3735745](https://doi.org/10.1145/3715336.3735745)
+
 AI projects often fail due to financial, technical, ethical, or user acceptance challenges—failure
 
+## Connections
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_and_Ethics
+
 ## Summary
 Jung et al. at Carnegie Mellon University address the challenge of integrating responsible AI (RAI) practices into early-stage AI concept selection, where HCI designers make critical decisions that shape later ethical and technical constraints. They propose a framework bridging HCI design methods with RAI principles to help practitioners identify ethical risks before development begins. The paper argues that responsible AI must be built into design thinking processes, not retrofitted after systems are built.
 
@@ -38,12 +52,3 @@ Design research; framework development; case-based analysis of AI concept select
 
 ## Related Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]
-
-## Related Authors
-- Wang
-- Heger
-- Passi
-- Dhanorkar
-- Kahn
-- Vorvoreanu
-- Weinberg

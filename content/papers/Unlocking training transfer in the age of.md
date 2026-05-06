@@ -1,17 +1,29 @@
 ---
+source_file: "research_docs/P134.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 doi: "10.1016/j.bushor.2024.02.002"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Park, J.J."
-apa: "Park, J.J. (2024). Unlocking training transfer in the age of artificial intelligence. Business Horizons, 67(3), 263-269. https://doi.org/10.1016/j.bushor.2024.02.002"
 ---
+
+# Unlocking training transfer in the age of
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+**DOI:** [10.1016/j.bushor.2024.02.002](https://doi.org/10.1016/j.bushor.2024.02.002)
+
+## Connections
+- [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
 
 ## Summary
 Park examines how the emergence of AI is transforming training transfer research and practice, identifying key challenges and future directions for ensuring that workplace training produces lasting behavioral change. She argues that AI-enabled personalization, adaptive learning, and just-in-time support create new opportunities for enhancing transfer while also introducing new risks around dependency and shallow learning. The paper provides a forward-looking research agenda for training transfer in AI-integrated workplaces.
@@ -37,12 +49,3 @@ Conceptual review and future directions paper; synthesis of training transfer re
 
 ## Related Topics
 - [[topics/Responsible AI Governance|Responsible AI Governance]]
-
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Wang
-- Heger
-- Passi
-- Dhanorkar

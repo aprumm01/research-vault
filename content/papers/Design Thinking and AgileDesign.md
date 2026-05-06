@@ -1,17 +1,25 @@
 ---
+source_file: "research_docs/P256.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 doi: "10.1007/978-1-4842-6461-4_10"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Belling, S."
-apa: "Belling, S. (2020). Design thinking with agile. Succeeding with Agile Hybrids, 109-117. https://doi.org/10.1007/978-1-4842-6461-4_10"
 ---
+
+# Design Thinking and Agile Design
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Design Thinking|Design Thinking]]
+**DOI:** [10.1007/978-1-4842-6461-4_10](https://doi.org/10.1007/978-1-4842-6461-4_10)
+
 ## Summary
 This paper examines the relationship between Design Thinking — a human-centered, divergent-convergent problem-solving methodology — and Agile software development — an iterative, sprint-based development approach. The authors argue that while the two frameworks are complementary in principle (both emphasize iteration, user feedback, and embracing change), they can conflict in practice due to different timelines, team structures, and validation standards. The paper offers a synthesis model for integrating Design Thinking's front-end exploration with Agile's development cycles.
 
@@ -37,14 +45,9 @@ Comparative framework analysis; case study of integrated Design Thinking-Agile t
 ## Limitations & Critiques
 Integration success depends heavily on organizational context and team maturity; the synthesis model may work differently in product vs. service design contexts; "Design Thinking" itself is a contested and varied practice across organizations.
 
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
 
-## Related Authors
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- Yang
-- Chou
-- Cheatham
-- Parreira
-- Marble
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

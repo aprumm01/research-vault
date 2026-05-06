@@ -1,12 +1,27 @@
 ---
+source_file: "research_docs/P111.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "[Missing]"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
 ---
 
+# Theory of Transactional Distance (Moore)
+
+
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+## Connections
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This work by Moore addresses foundational concepts in instructional design, educational technology, or distance learning. Moore's scholarship has been influential in developing theoretical frameworks for understanding learner-instructor, learner-content, and learner-learner interactions in technology-mediated learning environments, as well as theories of transactional distance in distance education.

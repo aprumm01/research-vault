@@ -1,22 +1,27 @@
 ---
 title: "Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy: An Interdisciplinary Approach to AI Literacy"
+source_file: "research_docs/P166.pdf"
 type: "paper"
+community: "AI Literacy"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
+
 abstract: "There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epis"
 
 doi: "10.1609/aaai.v39i28.35190"
-authors: "Lin, Z., & Dai, Y."
-apa: "Lin, Z., & Dai, Y. (2025). Fostering epistemic insights into ai ethics through a constructionist pedagogy: An interdisciplinary approach to ai literacy. Proceedings of the AAAI Conference on Artificial Intelligence, 39(28), 29171-29177. https://doi.org/10.1609/aaai.v39i28.35190"
 ---
 
 # Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy: An Interdisciplinary Approach to AI Literacy
 
+
 ## Abstract
+
+**DOI:** [10.1609/aaai.v39i28.35190](https://doi.org/10.1609/aaai.v39i28.35190)
 
 There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter science, philosophy, and the humanities, alongside ep- istemic insights into how AI systems acquire, process, and apply knowledge differently from humans. To address th is challenge , this study presents the design, development, and implementation of three theory -informed activities aimed at fostering epistemic insight and ethical understanding of AI among upper primary school students (ages 10 -12). Grounded in constructionism, our pedagogical design lever- ages hands-on experimentation with guided reflection to con- cretize complex AI concepts . Students examine rule -based, data-driven, and generative AI systems, employing mathe- matical reasoning to represe
 
-
-## Topics
-- [[topics/AI Literacy|AI Literacy]]
 ## Summary
 This paper presents a constructionist pedagogical approach to teaching AI ethics, arguing that students develop deeper ethical understanding when they construct AI ethics knowledge through hands-on design activities rather than through abstract principle instruction. Drawing on Papert's constructionism, the paper documents a course in which students design and build AI artifacts that embody ethical considerations, developing epistemic insights — deeper understanding of what AI ethics means in practice — through the construction process. The paper contributes both a theoretical framework and practical course design for AI ethics education.
 
@@ -42,12 +47,9 @@ Action research in an AI ethics course; qualitative analysis of student construc
 ## Limitations & Critiques
 Single course context; epistemic development is difficult to measure rigorously; the constructionist approach requires significant technical infrastructure and may not scale to non-technical educational contexts.
 
-## Related Topics
-- [[topics/AI Literacy|AI Literacy]]
+## Connections
+- [[AI Literacy]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-## Related Authors
-- [[authors/Leo S. Lo|Leo S. Lo]]
-- L. S.
-- Schauer
-- Simbeck
-- Pinkwart
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

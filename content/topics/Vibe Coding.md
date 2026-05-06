@@ -12,6 +12,3 @@ tags:
 
 - [[papers/Vibe Coding for Product Design (Li et al.)|Vibe Coding for Product Design (Li et al.)]]
 
-## Authors
-
-- [[authors/Hancheng Cao|Hancheng Cao]]

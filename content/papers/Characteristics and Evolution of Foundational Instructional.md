@@ -1,14 +1,29 @@
 ---
+source_file: "research_docs/P80.pdf"
 type: "paper"
+community: "Instructional Design Theory"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Instructional_Design_Theory
+
 doi: "10.4324/9781003354697-5"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Cubbage, J., Coleman, L.S., & Jenkins, C.D."
-apa: "Cubbage, J., Coleman, L.S., & Jenkins, C.D. (2026). Foundational technologies and media evolution. Media, Industries, Society, 19-35. https://doi.org/10.4324/9781003354697-5"
 ---
+
+# Characteristics and Evolution of Foundational Instructional 
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.4324/9781003354697-5](https://doi.org/10.4324/9781003354697-5)
+
+## Connections
+- [[Instructional Design Theory]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 This paper traces the development and characteristic features of foundational instructional design models, examining how models like ADDIE, Dick and Carey, and others evolved from their origins in military and behavioral psychology to their current forms. The analysis identifies common structural elements (analysis, design, development, implementation, evaluation) while noting how different models emphasize different values — systematic process, learner-centeredness, performance improvement, or rapid development. The paper is a useful historical and comparative reference for instructional design scholarship.

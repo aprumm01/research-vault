@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P204.pdf"
 type: "paper"
+community: "GenAI in UX and Design Practice"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/GenAI_in_UX_and_Design_Practice
+
 doi: "10.5143/jesk.2024.43.6.575"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Hwang, S., Lee, Y., & Jung, K."
-apa: "Hwang, S., Lee, Y., & Jung, K. (2024). A systematic literature review of eeg utilization studies in ux/ui design. Journal of the Ergonomics Society of Korea, 43(6), 575-587. https://doi.org/10.5143/jesk.2024.43.6.575"
 ---
+
+# The Role of Large Language Models in UI/UX Design: A Systematic Review
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.5143/jesk.2024.43.6.575](https://doi.org/10.5143/jesk.2024.43.6.575)
 
 ## Summary
 This systematic review examines the growing literature on the role of large language models (LLMs) in UI/UX design, cataloguing how LLMs are being used across the design process: from user research and requirements synthesis to wireframing support, design pattern generation, and usability evaluation. The review finds that LLMs show significant promise for automating routine design documentation and supporting ideation, but consistently struggle with tasks requiring aesthetic judgment, contextual user understanding, and iterative refinement based on design-specific feedback. The paper maps current capabilities and critical gaps for the research agenda.
@@ -34,3 +44,10 @@ Systematic literature review; search across HCI, AI, and design research databas
 
 ## Limitations & Critiques
 The rapid evolution of LLMs means the review may be partially outdated by publication; heterogeneous study designs make cross-study comparison difficult; the review does not address LLMs' impact on UX practitioner skill development.
+
+## Connections
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,18 +1,26 @@
 ---
 title: "Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design"
+source_file: "research_docs/P230.pdf"
 type: "paper"
+community: "Responsible AI Governance"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Responsible_AI_Governance
+
 doi: "10.1145/3706598.3713233"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Naqvi, S.M., He, R., & Kaur, H."
-apa: "Naqvi, S.M., He, R., & Kaur, H. (2025). Catalyst for creativity or a hollow trend?: A cross-level perspective on the role of generative ai in design. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems, 1-16. https://doi.org/10.1145/3706598.3713233"
 ---
+
+# Catalyst for Creativity or a Hollow Trend?: A Cross-Level Perspective on The Role of Generative AI in Design
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-## Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+**DOI:** [10.1145/3706598.3713233](https://doi.org/10.1145/3706598.3713233)
+
 ## Summary
 This paper takes a cross-level perspective on generative AI in creative work, examining AI's role at the individual, team, and organizational levels simultaneously to evaluate whether the "AI as creativity catalyst" narrative is substantiated or a hollow trend. The analysis finds that AI genuinely catalyzes creativity at the individual ideation level but introduces coordination challenges and creative friction at the team level, and creates new organizational tensions around authorship, intellectual property, and quality control. The paper argues for level-specific frameworks for evaluating and designing AI creativity support.
 
@@ -38,14 +46,9 @@ Multi-level qualitative and quantitative synthesis; case studies from creative o
 ## Limitations & Critiques
 Cross-level analysis requires different data and methods at each level, creating integration challenges; the findings may be sector-specific; the creative quality outcome measures used across levels are not fully commensurable.
 
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Responsible AI Governance]] - `` [EXTRACTED]
 
-## Related Authors
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- Wang
-- Park
-- Heger
-- Passi
+#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

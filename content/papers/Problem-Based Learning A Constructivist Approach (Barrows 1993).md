@@ -1,19 +1,30 @@
 ---
+source_file: "research_docs/P115.pdf"
 type: "paper"
+community: "Problem-Based Learning"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Problem-Based_Learning
+
 doi: "10.1016/0307-4412(93)90084-d"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-apa: "Unknown (1993). Problem based learning. Biochemical Education, 21(4), 169. https://doi.org/10.1016/0307-4412(93)90084-d"
 ---
+
+# Problem-Based Learning A Constructivist Approach (Barrows 1993)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
 
-90084-d)
+**DOI:** [10.1016/0307-4412(93)90084-d](https://doi.org/10.1016/0307-4412(93)90084-d)
 
+## Connections
+- [[Problem-Based Learning]] - `` [EXTRACTED]
 
-## Topics
-- [[topics/Problem-Based Learning|Problem-Based Learning]]
+#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
+
 ## Summary
 This work addresses problem-based learning (PBL) as a constructivist instructional approach in which learners are presented with authentic, ill-structured problems as the starting point for learning. PBL originated in medical education and has since been applied broadly across professional training contexts, developing students' problem-solving, self-directed learning, and collaborative skills through engagement with real-world scenarios rather than abstract didactic content.
 
@@ -38,10 +49,3 @@ Theoretical overview and pedagogical framework; likely includes description of P
 
 ## Related Topics
 - [[topics/Problem-Based Learning|Problem-Based Learning]]
-
-## Related Authors
-- SCHMIDT
-- LOYENS
-- VAN GOG
-- PAAS
-- F.D.

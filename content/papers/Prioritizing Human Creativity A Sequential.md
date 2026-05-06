@@ -1,19 +1,26 @@
 ---
+source_file: "research_docs/P184.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 abstract: "This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for e"
 
 doi: "10.1007/978-3-031-93233-5_5"
-authors: "Marble, J."
-apa: "Marble, J. (2025). Prioritizing human creativity: A sequential approach to teaching generative ai in graphic design education. Lecture Notes in Computer Science, 64-78. https://doi.org/10.1007/978-3-031-93233-5_5"
 ---
+
+# Prioritizing Human Creativity: A Sequential
+
 
 ## Abstract
 
+**DOI:** [10.1007/978-3-031-93233-5_5](https://doi.org/10.1007/978-3-031-93233-5_5)
+
 This paper examines the integration of generative AI (GenAI) tools into graphic design education through a sequential pedagogical approach. Focus- ing on two case studies—a foundational typography course and an advanced studio course—it investigates how students develop design skills before engaging with AI tools. The typography course, designed without GenAI tools, prioritizes tech- nical skills, iterative processes, and conceptualization, while the advanced course introduces AI as a tool for exploration and ideation. Outcomes highlight the impor- tance of strong foundational skills in facilitating meaningful AI use and preserving human creativity. Ethical considerations, including attribution and ownership are also addressed, equipping students to navigate AI’s role responsibly in their design practice. Keywords: Graphic Desi
 
-
-## Topics
-- [[topics/Design Thinking|Design Thinking]]
 ## Summary
 This paper proposes and evaluates a sequential pedagogical approach to teaching generative AI in graphic design education that explicitly prioritizes human creativity before introducing AI tools. The approach sequences instruction so students develop foundational design skills, creative processes, and critical aesthetic judgment before engaging with AI tools, countering the risk that early AI exposure atrophies creative development. The paper documents outcomes from courses using this sequence and argues that AI integration in design education must be pedagogically intentional about skill development sequencing.
 
@@ -39,14 +46,12 @@ Pedagogical intervention study; comparison of student outcomes in sequentially-o
 ## Limitations & Critiques
 Single institutional study; the optimal sequencing timing (how long before AI introduction?) is not fully established; may be less applicable to students entering with prior AI tool experience.
 
+## Connections
+- [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Thinking]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+
 ## Related Topics
 - [[topics/Design Thinking|Design Thinking]]
-
-## Related Authors
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- Yang
-- Chou
-- Cheatham
-- Parreira
-- Zeng

@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P211.pdf"
 type: "paper"
+community: "AI and Future of Work"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_and_Future_of_Work
+
 doi: "10.1145/3436954"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Zimmerman, J., Oh, C., Yildirim, N., Kass, A., Tung, T., & Forlizzi, J."
-apa: "Zimmerman, J., Oh, C., Yildirim, N., Kass, A., Tung, T., & Forlizzi, J. (2020). Ux designers pushing ai in the enterprise. Interactions, 28(1), 72-77. https://doi.org/10.1145/3436954"
 ---
+
+# UX Designers Pushing AI in the Enterprise: A Case for Adaptive UIs (Zimmerman, CMU)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.1145/3436954](https://doi.org/10.1145/3436954)
 
 ## Summary
 Zimmerman's CMU paper examines how UX designers are advocating for and driving AI integration within enterprise organizations, arguing that UX designers occupy a unique position to bridge technical AI capabilities and human-centered organizational needs. Drawing on case studies of enterprise AI deployments, the paper documents how UX designers are expanding their roles to include AI strategy, prompt engineering, and AI governance — while also identifying the challenges when UX perspectives are marginalized in technical AI development processes. It calls for UX practitioners to claim greater agency in enterprise AI design.
@@ -34,3 +44,9 @@ Case study research; interviews with UX designers and stakeholders in enterprise
 
 ## Limitations & Critiques
 Enterprise context may not generalize to startups, agencies, or public sector contexts; the case studies reflect a specific moment in enterprise AI adoption; UX practitioners' capacity to influence AI strategy depends heavily on organizational power dynamics.
+
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

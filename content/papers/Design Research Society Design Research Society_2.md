@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P263.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 doi: "10.21606/drs.2020.120"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Boling, E., Gray, C.M., & Smith, K.M."
-apa: "Boling, E., Gray, C.M., & Smith, K.M. (2020). Educating for design character in higher education: Challenges in studio pedagogy. Proceedings of DRS. https://doi.org/10.21606/drs.2020.120"
 ---
+
+# Educating for Design Character in Higher Education: Challenges in Teaching Design Judgment (MurdochKitt et al.)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.21606/drs.2020.120](https://doi.org/10.21606/drs.2020.120)
 
 ## Summary
 MurdochKitt, Culén, and Mainsah's Design Research Society paper examines the challenge of educating for design character — the dispositional qualities (curiosity, care, integrity, courage) that distinguish excellent designers beyond technical skill. Drawing on virtue ethics and phronesis, the paper argues that design character cannot be taught through method instruction alone but requires pedagogical approaches that cultivate practical wisdom through reflection, mentorship, and exposure to complex design challenges. It positions character education as a legitimate and necessary dimension of higher design education.
@@ -34,3 +44,10 @@ Conceptual framework development; qualitative case analysis from design educatio
 
 ## Limitations & Critiques
 "Design character" resists precise operationalization; the virtue ethics framework may carry cultural assumptions that don't transfer across design education contexts globally; empirical evidence for the pedagogical claims is limited.
+
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Studio Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

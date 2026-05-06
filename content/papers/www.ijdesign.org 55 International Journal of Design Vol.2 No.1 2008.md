@@ -1,14 +1,24 @@
 ---
+source_file: "research_docs/P202.pdf"
 type: "paper"
+community: "AI in Design Education"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_in_Design_Education
+
 doi: "10.1080/14626268.2020.1722708"
 
 abstract: "Abstract not yet found — search by title or check source PDF"
-authors: "Stolterman, E., & Wiberg, M."
-apa: "Stolterman, E., & Wiberg, M. (2020). Compositional interaction design—changes in design practice and its implications for teaching and research. Digital Creativity, 31(1), 44-63. https://doi.org/10.1080/14626268.2020.1722708"
 ---
+
+# The Nature of Design Practice and Implications for Interaction Design Research (Nelson & Stolterman, IJOD 2008)
+
 
 ## Abstract
 *Abstract not yet found — search by title or check source PDF*
+
+**DOI:** [10.1080/14626268.2020.1722708](https://doi.org/10.1080/14626268.2020.1722708)
 
 ## Summary
 Nelson and Stolterman's influential paper argues that design practice is characterized by intentional creation of the "ultimate particular" — a unique artifact situated in a specific context that has never existed before and addresses a situation that may never recur. They contrast design with science (which seeks general laws) and art (which expresses subjective vision), positioning design as a third mode of human inquiry. The paper has significant implications for interaction design research, arguing that design scholarship must develop methods appropriate for studying unique, intentional, and situated artifacts rather than borrowing wholesale from natural science.
@@ -34,3 +44,9 @@ Conceptual and philosophical argument; no empirical data; analysis of design pra
 
 ## Limitations & Critiques
 The paper's philosophical focus can make it difficult to operationalize for design researchers; the emphasis on uniqueness may understate the extent to which designers work with patterns, frameworks, and reusable knowledge.
+
+## Connections
+- [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
