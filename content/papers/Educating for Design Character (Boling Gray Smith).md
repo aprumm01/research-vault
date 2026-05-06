@@ -48,7 +48,3 @@ Conceptual analysis and design case study; empirical grounding in studio teachin
 - Design character includes dispositions like reflective judgment, ethical awareness, and professional courage
 - Current studio models often neglect the identity-formation dimension of design education
 - Instructors serve as models of design character, not just facilitators of design process
-
-## Related Topics
-- [[topics/Design Judgment|Design Judgment]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

@@ -19,6 +19,3 @@ doi: "10.1145/3742901.3742910"
 This article explores how the emergence of creative AI technologies transforms creative workersâ€™ self-apprehension in the context of critical theory and labor studies. The distinguishing contribution
 
 ## Connections
-
-## Related Topics
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

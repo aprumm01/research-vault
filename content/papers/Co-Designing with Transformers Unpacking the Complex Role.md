@@ -51,6 +51,3 @@ Case study design limits generalizability; the concept of AI as "collaborator" r
 - [[Metacognitive Support]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
-
-## Related Topics
-- [[topics/Metacognitive Support|Metacognitive Support]]

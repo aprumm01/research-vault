@@ -15,6 +15,3 @@ tags:
 This article analyses how the impacts of AI technologies on creative work have been identified and constructed. The concept of imaginaries is used as a methodological and analytical approach to analys
 
 ## Connections
-
-## Related Topics
-- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]

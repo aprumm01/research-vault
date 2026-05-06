@@ -17,6 +17,3 @@ tags:
 Generative AI image creation tools have the potential to trans- form design education and practice, but raise critical concerns for creativity and ownership. We leverage the 2022 launch of tools like
 
 ## Connections
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

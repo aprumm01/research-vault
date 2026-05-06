@@ -17,7 +17,3 @@ tags:
 The Attack on ISO The 'systems approach' to instructional design is the training industry's guiding light. Some of the best
 
 ## Connections
-
-## Related Topics
-- [[topics/ADDIE Model|ADDIE Model]]
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

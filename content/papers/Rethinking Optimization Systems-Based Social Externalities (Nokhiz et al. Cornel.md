@@ -19,6 +19,3 @@ tags:
 Optimization ignoring socioeconomic externalities causes harm; systems approach beyond economics
 
 ## Connections
-
-## Related Topics
-- [[topics/Algorithmic Bias and Fairness|Algorithmic Bias and Fairness]]

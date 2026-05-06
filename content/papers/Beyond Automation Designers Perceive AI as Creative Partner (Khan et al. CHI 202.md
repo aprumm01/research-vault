@@ -23,6 +23,3 @@ doi: "10.1145/3706598.3713500"
 Designers view AI as creative partner in divergent thinking stages of UI/UX design
 
 ## Connections
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

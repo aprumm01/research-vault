@@ -47,6 +47,3 @@ Empirical qualitative study; interviews with UX design professionals; thematic a
 - Professional identity concerns are significant: designers fear being perceived as less skilled when using AI
 - Adoption varies significantly by organizational culture and team norms around AI use
 - UX designers are actively negotiating the boundaries of appropriate AI use in their professional practice
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

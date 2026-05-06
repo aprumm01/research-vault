@@ -50,6 +50,3 @@ Large-scale deployment studies face ecological validity trade-offs; the prototyp
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
-
-## Related Topics
-- [[topics/Generative UI Tools|Generative UI Tools]]

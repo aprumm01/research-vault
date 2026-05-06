@@ -51,6 +51,3 @@ Needs-finding study informs design requirements but does not evaluate specific i
 - [[Generative UI Tools]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
-
-## Related Topics
-- [[topics/Generative UI Tools|Generative UI Tools]]

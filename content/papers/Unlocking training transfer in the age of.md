@@ -46,6 +46,3 @@ Conceptual review and future directions paper; synthesis of training transfer re
 - Just-in-time AI support in the workplace can bridge the learning-performance gap
 - AI dependency risks creating shallow competency that transfers poorly without AI assistance
 - Future transfer research must account for human-AI collaboration as a new condition of professional performance
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

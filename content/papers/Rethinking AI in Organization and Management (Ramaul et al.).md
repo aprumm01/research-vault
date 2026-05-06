@@ -47,6 +47,3 @@ Problematizing review methodology; selective and critical reading of theoretical
 - Neither rationality nor anthropomorphism captures the actual capabilities and limitations of contemporary AI
 - Scholars need new theoretical frameworks that treat AI as a third ontological category distinct from tools and humans
 - Existing theories risk being applied inappropriately to AI systems, producing misleading predictions and prescriptions
-
-## Related Topics
-- [[topics/Hybrid Intelligence|Hybrid Intelligence]]

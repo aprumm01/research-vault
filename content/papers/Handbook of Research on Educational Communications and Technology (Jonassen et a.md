@@ -17,11 +17,3 @@ tags:
 TECHNOLOGY Voices of the Founders: Early Discourses in Educational Technology Ann De Vaney, Rebecca P. Butler
 
 ## Connections
-
-## Related Topics
-- [[topics/Constructivism|Constructivism]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]
-
-## Related Authors
-- Ertmer
-- Newby

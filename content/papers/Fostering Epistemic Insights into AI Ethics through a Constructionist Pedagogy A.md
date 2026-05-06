@@ -19,6 +19,3 @@ tags:
 There is a growing consensus on the importance of AI ethics in K-12 education, yet effective teaching remains a challenge . AI ethics requires an interdisciplinary understanding of com- puter scienc
 
 ## Connections
-
-## Related Topics
-- [[topics/AI Literacy|AI Literacy]]

@@ -46,8 +46,3 @@ Conceptual framework; prescriptive model with guidelines for implementing each l
 - Level 4 (Results) evaluation connects training to organizational performance but is the most difficult to measure
 - Each level of evaluation builds on the previous, requiring careful planning across all four
 - Organizations that only evaluate at Level 1 lack evidence of training's true value or impact
-
-## Related Topics
-- [[topics/Kirkpatrick Evaluation Model|Kirkpatrick Evaluation Model]]
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

@@ -47,6 +47,3 @@ Conceptual analysis and literature review; examines case studies and ethical fra
 - Intellectual property rights over AI-generated work remain legally and ethically unresolved
 - Designers must develop new ethical competencies to use AI tools responsibly
 - The accelerating pace of AI adoption in design requires proactive ethical governance at individual, organizational, and policy levels
-
-## Related Topics
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

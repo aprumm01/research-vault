@@ -46,6 +46,3 @@ Empirical and theoretical elaboration; likely protocol study analysis; 32-page p
 - Expert designers actively manage the interaction between problem and solution spaces
 - Co-evolution is a distinctive feature of design cognition that distinguishes design from other problem-solving
 - Understanding co-evolution has implications for design education, tools, and assessment
-
-## Related Topics
-- [[topics/Design Judgment|Design Judgment]]

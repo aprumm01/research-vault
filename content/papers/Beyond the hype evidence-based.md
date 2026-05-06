@@ -52,7 +52,3 @@ Evidence reviews are limited by the quality and availability of published resear
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

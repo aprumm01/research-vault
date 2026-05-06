@@ -50,7 +50,3 @@ Design research; likely includes user studies, prototype development, and evalua
 - Metacognitive support agents can prompt reflection at critical decision points in AI-assisted design
 - Designers need support for intent formulation—specifying what they want before engaging AI generation
 - Human oversight and interpretive engagement with AI outputs are necessary conditions for high-quality co-created design
-
-## Related Topics
-- [[topics/Cognitive Offloading and De-skilling|Cognitive Offloading and De-skilling]]
-- [[topics/Metacognitive Support|Metacognitive Support]]

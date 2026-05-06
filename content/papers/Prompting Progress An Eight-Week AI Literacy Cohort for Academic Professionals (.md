@@ -21,7 +21,3 @@ doi: "10.25844/p9rv-vj67"
 UNM Digital Repository UNM Digital Repository University Libraries & Learning Sciences Faculty and Staff Publications Academic Department Resources
 
 ## Connections
-
-## Related Topics
-- [[topics/AI Literacy|AI Literacy]]
-- [[topics/Prompt Engineering|Prompt Engineering]]

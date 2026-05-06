@@ -52,6 +52,3 @@ Self-reported literacy measures may not accurately capture actual capabilities; 
 - [[Job Displacement and Reskilling]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Related Topics
-- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]

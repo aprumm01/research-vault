@@ -49,7 +49,3 @@ Theoretical framework development with empirical vignette illustration; analysis
 - Prompting involves semantic projection (mapping intent onto language), compositional structuring (organizing prompt elements), and interpretive negotiation (refining outputs)
 - Treating prompting as cognitive labor reveals its epistemic and creative dimensions
 - Reframing prompting theory enriches understanding of human-AI collaboration in creative work
-
-## Related Topics
-- [[topics/Creative Ambiguity|Creative Ambiguity]]
-- [[topics/Prompt Engineering|Prompt Engineering]]

@@ -51,7 +51,3 @@ Ethnographic study of specific design contexts; generalizability across design d
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
-
-## Related Topics
-- [[topics/Metacognitive Support|Metacognitive Support]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

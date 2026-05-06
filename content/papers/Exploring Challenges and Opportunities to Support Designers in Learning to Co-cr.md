@@ -18,6 +18,3 @@ tags:
 AI-based design tools are proliferating in professional software to assist engineering and industrial designers in complex manufac- turing and design tasks. These tools take on more agentic roles than
 
 ## Connections
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

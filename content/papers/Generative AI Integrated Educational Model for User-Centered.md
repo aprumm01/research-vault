@@ -49,6 +49,3 @@ Empirical study; curriculum design and implementation at Chengyi College, Jimei 
 - Divergent use of AI (ideation, brainstorming) and convergent use (refinement, feedback) require different pedagogical supports
 - AI integration enhances student creativity and reduces time barriers for design exploration
 - The educational model provides a transferable framework for incorporating GenAI into UCD curricula
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]

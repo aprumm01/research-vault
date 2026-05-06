@@ -47,6 +47,3 @@ Qualitative explorative study using interactive methods to capture free fantasie
 - AI features trigger specific sensemaking processes (e.g., uncertainty, opportunity, threat)
 - Sensemaking perspectives complement technology adoption models by foregrounding interpretation
 - Organizations need to actively shape sensemaking processes, not just provide AI training
-
-## Related Topics
-- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]

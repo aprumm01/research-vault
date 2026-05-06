@@ -49,6 +49,3 @@ Conceptual framework development; literature review and analysis of industry cas
 - Organizations must create new AI-centric roles rather than simply automating existing ones
 - HR leadership bears primary responsibility for developing AI-literate and adaptable workforces
 - Workforce planning must anticipate both displacement risks and emerging skill needs
-
-## Related Topics
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

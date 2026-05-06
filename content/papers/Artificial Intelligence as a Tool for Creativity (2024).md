@@ -52,6 +52,3 @@ Case study design limits generalizability; the homogenization risk may be tool-s
 - [[Design Thinking]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]

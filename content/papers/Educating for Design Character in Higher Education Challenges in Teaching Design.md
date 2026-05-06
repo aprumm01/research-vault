@@ -21,6 +21,3 @@ doi: "10.21606/drs.2020.120"
 DRS Digital Library DRS Digital Library DRS Biennial Conference Series DRS2020: Synergy Aug 11th, 12:00 AM
 
 ## Connections
-
-## Related Topics
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

@@ -48,10 +48,3 @@ The chapter reflects the ISPI institutional perspective; independent consultants
 - [[Human Performance Technology]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
-
-## Related Topics
-- [[topics/Human Performance Technology|Human Performance Technology]]
-
-## Related Authors
-- Ertmer
-- Newby

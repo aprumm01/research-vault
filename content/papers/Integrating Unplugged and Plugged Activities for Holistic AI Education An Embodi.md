@@ -19,10 +19,3 @@ doi: "10.1007/s10639-024-13043-w"
 There is a growing consensus that AI literacy requires a holistic lens, including not only technical knowledge and skills but also social and ethical considerations. Yet, providing holistic AI educa
 
 ## Connections
-
-## Related Topics
-- [[topics/AI Literacy|AI Literacy]]
-
-## Related Authors
-- Ertmer
-- Newby

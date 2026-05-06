@@ -47,7 +47,3 @@ Multi-criteria decision-making (MCDM) quantitative analysis; models different co
 - Different task types warrant different human-AI configurations — no universal optimal solution
 - Co-creation dynamics between humans and AI are context-dependent and must be empirically assessed
 - MCDM provides a rigorous framework for managers to make principled role allocation decisions
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

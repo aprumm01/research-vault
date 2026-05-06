@@ -53,11 +53,3 @@ Implementation of REALs is resource-intensive and requires significant instructi
 - [[Constructivism]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
-
-## Related Topics
-- [[topics/ADDIE Model|ADDIE Model]]
-- [[topics/Constructivism|Constructivism]]
-
-## Related Authors
-- Ertmer
-- Newby

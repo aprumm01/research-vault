@@ -52,6 +52,3 @@ The review spans very heterogeneous AI approaches and educational contexts; evid
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]

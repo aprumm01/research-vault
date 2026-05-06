@@ -52,6 +52,3 @@ Pedagogical effectiveness is documented qualitatively; longitudinal evidence for
 - [[Metacognitive Support]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
-
-## Related Topics
-- [[topics/Metacognitive Support|Metacognitive Support]]

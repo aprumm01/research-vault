@@ -17,10 +17,3 @@ tags:
 concept or as a fi eld of practice. First, the defi nition of the concept: Educational technology is the study and ethical practice of facilitating learning and improving performance by creating, us
 
 ## Connections
-
-## Related Topics
-- [[topics/Constructivism|Constructivism]]
-
-## Related Authors
-- Ertmer
-- Newby

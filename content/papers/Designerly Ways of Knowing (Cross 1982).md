@@ -47,6 +47,3 @@ Theoretical and conceptual analysis drawing on design theory, philosophy of scie
 - Designerly knowing involves reading and writing in "object languages" (visual, spatial, material)
 - Design education should cultivate intrinsic values (judgment, reflection, creativity), not just technical skills
 - Design cognition involves tacit knowledge that resists full articulation
-
-## Related Topics
-- [[topics/Designerly Ways of Knowing|Designerly Ways of Knowing]]

@@ -21,6 +21,3 @@ doi: "10.1007/s00146-025-02504-6"
 The introduction of generative AI (GenAI) tools has created a significant disruption in the design professions as they become increasingly integrated into creative processes. Whilst there is an abunda
 
 ## Connections
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

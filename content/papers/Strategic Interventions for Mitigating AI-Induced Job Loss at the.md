@@ -52,7 +52,3 @@ Evidence base for long-term intervention effectiveness is thin; the scale of AI-
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
-
-## Related Topics
-- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

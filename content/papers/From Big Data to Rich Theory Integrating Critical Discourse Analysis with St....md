@@ -16,6 +16,3 @@ tags:
 **Institution:** n, Portugal 2 Aalto University School of Business, Espoo, Fi
 
 ## Connections
-
-## Related Topics
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

@@ -23,7 +23,3 @@ doi: "10.1145/3706599.3719931"
 GenAI in design risks de-skilling, cognitive offloading, misplaced responsibility paradoxes
 
 ## Connections
-
-## Related Topics
-- [[topics/Cognitive Offloading and De-skilling|Cognitive Offloading and De-skilling]]
-- [[topics/Design Judgment|Design Judgment]]

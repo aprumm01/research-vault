@@ -50,7 +50,3 @@ Design case study; reflective analysis of course implementations at Miami Univer
 - Process-centric education develops graduates who can navigate ambiguity that AI cannot resolve
 - Systems thinking and futures studies prepare designers for complex sociotechnical contexts
 - Phenomenological approaches help students develop sensitivity to the lived experiences of end users
-
-## Related Topics
-- [[topics/Activity Theory|Activity Theory]]
-- [[topics/Design Thinking|Design Thinking]]

@@ -47,6 +47,3 @@ Two-part quantitative and qualitative survey of communication design and archite
 - Students show nuanced awareness of AI risks (creativity loss, copyright, job displacement) alongside benefits
 - Communication and architectural design students differ in their AI attitudes and literacy profiles
 - Design curricula need to develop structured AI literacy programming that addresses both competencies and critical perspectives
-
-## Related Topics
-- [[topics/AI Literacy|AI Literacy]]

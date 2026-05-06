@@ -14,6 +14,3 @@ tags:
 **Institution:** nada MICHAEL JOFFE, Google Inc., Canada The introduction of 
 
 ## Connections
-
-## Related Topics
-- [[topics/Prompt Engineering|Prompt Engineering]]

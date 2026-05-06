@@ -18,6 +18,3 @@ tags:
 Technologies LNCS 15808
 
 ## Connections
-
-## Related Topics
-- [[topics/Problem-Based Learning|Problem-Based Learning]]

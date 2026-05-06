@@ -49,6 +49,3 @@ Qualitative analysis; examination of written reflections from 33 student teams; 
 - Agency-distribution judgment—deciding what to delegate to AI—is a critical and underexplored design competency
 - Reliability judgment—evaluating when to trust AI outputs—requires development through explicit pedagogical attention
 - Design education must prepare students for the cognitive demands of AI-augmented design work
-
-## Related Topics
-- [[topics/Design Judgment|Design Judgment]]

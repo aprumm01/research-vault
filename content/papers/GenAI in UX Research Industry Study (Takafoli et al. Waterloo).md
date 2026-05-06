@@ -48,6 +48,3 @@ Empirical industry study; interviews and/or surveys with UX practitioners from m
 - Organizational policies around AI use in research are emerging but inconsistent
 - Team dynamics and power relations shift when AI tools mediate research tasks
 - Concerns about data quality, bias, and participant privacy are key barriers to fuller GenAI adoption
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

@@ -52,6 +52,3 @@ Single institutional study; the optimal sequencing timing (how long before AI in
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]

@@ -47,6 +47,3 @@ Experimental psychology; multiple studies examining how manipulated automation t
 - The psychological response to AI threat is to emphasize distinctly human creative capacities
 - These lay beliefs may influence educational and career choices in response to AI adoption
 - Creativity is culturally constructed as the last domain of irreducibly human value in an automated world
-
-## Related Topics
-- [[topics/Job Displacement and Reskilling|Job Displacement and Reskilling]]

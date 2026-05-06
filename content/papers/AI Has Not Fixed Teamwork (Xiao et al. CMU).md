@@ -44,6 +44,3 @@ Longitudinal study (2023–2025) of a project-based software development organiz
 - AI shifted collaborative culture by increasing individual autonomy and reducing interdependence
 - The assumption that individual productivity gains translate to team gains is empirically unsupported
 - Organizations need team-level AI adoption strategies, not just individual tool deployment
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

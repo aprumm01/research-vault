@@ -15,6 +15,3 @@ tags:
 Exploring the Impact of Artificial Intelligence language model ChatGPT on the User Experience Ahmed AL-Sa'diÂ¹, Dave MillerÂ²
 
 ## Connections
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]

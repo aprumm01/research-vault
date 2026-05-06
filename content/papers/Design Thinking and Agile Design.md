@@ -15,6 +15,3 @@ tags:
 New Trends or Just Good Design Practice? Svihla, V. Design Design Thinking
 
 ## Connections
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]

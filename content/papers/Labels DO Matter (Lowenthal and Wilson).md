@@ -47,6 +47,3 @@ Analytical review; examination of job postings, academic program titles, and pro
 - Reverting to "educational technology" creates confusion for practitioners working in corporate and higher education contexts
 - Strong rationale is needed before making changes to foundational definitions that affect professional identity
 - Labels function as professional signals that influence hiring, program design, and public legitimacy
-
-## Related Topics
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

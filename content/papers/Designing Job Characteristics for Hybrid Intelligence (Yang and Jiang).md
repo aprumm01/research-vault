@@ -48,6 +48,3 @@ Qualitative; 23 semi-structured interviews with middle managers from 10 service 
 - AI participation alters the feedback and accountability structures of traditional job design
 - Organizations need new management principles to govern human-AI hybrid roles
 - Skill atrophy and over-reliance on AI are key risks when job characteristics are poorly designed
-
-## Related Topics
-- [[topics/Hybrid Intelligence|Hybrid Intelligence]]

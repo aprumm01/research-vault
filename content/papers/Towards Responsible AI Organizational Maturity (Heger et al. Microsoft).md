@@ -48,6 +48,3 @@ Qualitative research; in-depth interviews and co-design sessions with 90 RAI exp
 - RAI maturity depends on interdependent organizational, team, and practice-level factors
 - Early integration of RAI into design and development processes is critical for mature organizational RAI
 - Collaboration across roles—legal, engineering, design, policy—is necessary for effective RAI governance
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

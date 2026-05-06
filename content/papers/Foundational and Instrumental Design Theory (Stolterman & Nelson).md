@@ -17,6 +17,3 @@ tags:
 Foundational and Instrumental Design Theory Per Galle
 
 ## Connections
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

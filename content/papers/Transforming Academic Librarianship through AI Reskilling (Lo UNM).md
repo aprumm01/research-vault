@@ -48,6 +48,3 @@ Case study; analysis of a professional development program at UNM; description o
 - Adult learning principles (self-direction, experience-based learning) are well-suited to AI professional development
 - Librarians can develop diverse AI applications relevant to their specific functional contexts
 - Building a culture of continuous learning is as important as specific AI skill development
-
-## Related Topics
-- [[topics/AI Literacy|AI Literacy]]

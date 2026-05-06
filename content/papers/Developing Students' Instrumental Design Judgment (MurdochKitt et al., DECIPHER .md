@@ -18,6 +18,3 @@ tags:
 Developing Studentsâ€™ Instrumental Judgment Capacity for Design Research Methods KELLY MURDOCH-KITT
 
 ## Connections
-
-## Related Topics
-- [[topics/Design Judgment|Design Judgment]]

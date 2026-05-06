@@ -19,6 +19,3 @@ tags:
 GenAI plays complex multifaceted role in interactive system design education
 
 ## Connections
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]

@@ -52,6 +52,3 @@ Case study design limits generalizability; the integration model requires organi
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
-
-## Related Topics
-- [[topics/Problem-Based Learning|Problem-Based Learning]]

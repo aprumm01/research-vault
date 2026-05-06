@@ -21,6 +21,3 @@ doi: "10.1007/s40593-025-00518-1"
 Artificial Intelligence and their derived Generative technologies are playing a cru - cial role in many applications that involve an active collaboration among machine assistants and human users. Tha
 
 ## Connections
-
-## Related Topics
-- [[topics/Prompt Engineering|Prompt Engineering]]

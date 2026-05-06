@@ -17,10 +17,3 @@ tags:
 FOUNDATIONS OF HUMAN PERFORMANCE TECHNOLOGY MONIQUE MUELLER
 
 ## Connections
-
-## Related Topics
-- [[topics/Human Performance Technology|Human Performance Technology]]
-
-## Related Authors
-- Ertmer
-- Newby

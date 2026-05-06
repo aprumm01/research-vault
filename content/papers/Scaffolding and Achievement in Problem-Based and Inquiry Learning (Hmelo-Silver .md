@@ -18,7 +18,3 @@ tags:
 Copyright Câƒ 2007, Lawrence Erlbaum Associates, Inc. Scaffolding and Achievement in Problem-Based and Inquiry Learning: A Response to Kirschner, Sweller, and Clark (2006)
 
 ## Connections
-
-## Related Topics
-- [[topics/Metacognitive Support|Metacognitive Support]]
-- [[topics/Problem-Based Learning|Problem-Based Learning]]

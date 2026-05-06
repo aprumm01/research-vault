@@ -49,6 +49,3 @@ Instrument validation in specific organizational contexts; cross-sector generali
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

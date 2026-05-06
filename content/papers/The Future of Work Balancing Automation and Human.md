@@ -51,6 +51,3 @@ The optimistic complementarity narrative may understate genuine displacement eff
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

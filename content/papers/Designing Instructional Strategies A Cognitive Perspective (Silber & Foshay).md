@@ -17,6 +17,3 @@ tags:
 CHAPTER SIXTEEN Designing Instructional Strategies A Cognitive Perspective
 
 ## Connections
-
-## Related Topics
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

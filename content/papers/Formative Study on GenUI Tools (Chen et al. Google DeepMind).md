@@ -46,6 +46,3 @@ Formative study; week-long diary study with 37 UX professionals (designers, rese
 - Different roles (UX designers, researchers, developers, PMs) have distinct integration needs and use patterns
 - Current GenUI tools inadequately support team-level collaboration and handoff workflows
 - Accessibility standards and practical constraints are underserved by current GenUI capabilities
-
-## Related Topics
-- [[topics/Generative UI Tools|Generative UI Tools]]

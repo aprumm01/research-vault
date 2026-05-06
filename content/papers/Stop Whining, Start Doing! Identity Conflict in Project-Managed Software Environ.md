@@ -17,7 +17,3 @@ tags:
 ISSN 1473-2866 www.ephemeraweb.org volume 9(2): 93-112
 
 ## Connections
-
-## Related Topics
-- [[topics/Design Judgment|Design Judgment]]
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

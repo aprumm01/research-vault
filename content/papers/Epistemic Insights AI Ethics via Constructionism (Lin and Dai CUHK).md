@@ -49,6 +49,3 @@ Note: This is a paper with limited text extraction — summary written from gene
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_Literacy
-
-## Related Topics
-- [[topics/AI Literacy|AI Literacy]]

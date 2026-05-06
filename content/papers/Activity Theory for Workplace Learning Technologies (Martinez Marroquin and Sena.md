@@ -22,7 +22,3 @@ doi: "10.1108/IJILT-07-2024-0141"
 AT models workplace learning; GenAI as example; contradictions when AI used beyond formal education
 
 ## Connections
-
-## Related Topics
-- [[topics/Activity Theory|Activity Theory]]
-- [[topics/Sensemaking and AI Adoption|Sensemaking and AI Adoption]]

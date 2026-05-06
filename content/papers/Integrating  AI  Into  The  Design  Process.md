@@ -51,7 +51,3 @@ Case study evidence is primarily from design disciplines with strong visual outp
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
-
-## Related Topics
-- [[topics/Design Thinking|Design Thinking]]
-- [[topics/Responsible AI Governance|Responsible AI Governance]]

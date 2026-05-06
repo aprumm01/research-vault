@@ -22,6 +22,3 @@ doi: "10.1177/14740222251342646"
 Higher education institutions offering education in design need to review their teaching content in relation to a changing society and digitalization. In emerging post-digital era higher education is
 
 ## Connections
-
-## Related Topics
-- [[topics/Metacognitive Support|Metacognitive Support]]

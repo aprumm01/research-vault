@@ -46,6 +46,3 @@ Qualitative empirical study at Aalto University with UX and industrial designers
 - The clay metaphor captures the non-deterministic, iterative nature of productive GenAI use
 - This material framing differs from efficiency-focused accounts of AI adoption in design
 - Design education should cultivate "playing with AI" skills, not just prompt engineering techniques
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

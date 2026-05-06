@@ -48,6 +48,3 @@ Empirical qualitative study with writing professionals; likely interviews or sur
 - Both AI resistance and embracement can be craft-consistent strategies, not opposites
 - Craft identity provides professional resilience resources in the face of AI disruption
 - Understanding professional identity is essential for predicting how creative workers will adapt to AI
-
-## Related Topics
-- [[topics/Human-AI Creative Collaboration|Human-AI Creative Collaboration]]

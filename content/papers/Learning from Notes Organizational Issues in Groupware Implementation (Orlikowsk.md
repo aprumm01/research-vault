@@ -18,6 +18,3 @@ tags:
 This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people
 
 ## Connections
-
-## Related Topics
-- [[topics/Studio Pedagogy|Studio Pedagogy]]

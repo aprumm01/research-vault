@@ -12,6 +12,3 @@ tags:
 # Industrial Designers in UX Practice: Motivations, Professionalization, and Designer Identity (SÃ¼ner-Pla-CerdÃ  et al., 2023)
 
 ## Connections
-
-## Related Topics
-- [[topics/Designerly Ways of Knowing|Designerly Ways of Knowing]]

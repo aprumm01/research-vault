@@ -18,6 +18,3 @@ tags:
 Using the model of analysis, design, development, implementation and evaluation (ADDIE) with regards to instructional design has become a prevalent practi se among e-learning designers and developers
 
 ## Connections
-
-## Related Topics
-- [[topics/ADDIE Model|ADDIE Model]]
