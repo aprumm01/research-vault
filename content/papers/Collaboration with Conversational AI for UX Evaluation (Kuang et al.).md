@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P37.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Collaboration with Conversational AI for UX Evaluation (Kuang et al.)
@@ -16,4 +16,4 @@ tags:
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Wizard-of-Oz Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

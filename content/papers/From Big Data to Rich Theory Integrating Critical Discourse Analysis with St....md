@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P300.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Studio_Pedagogy
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with St...
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

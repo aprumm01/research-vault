@@ -20,7 +20,4 @@ Participatory Design sessions are structured co-design activities — workshops,
 - Liz Sanders
 
 ## Papers in This Corpus
-- [[Designing the Constraints: Co-creation Exercises (Eckert and Stacey)]]
 - [["It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation (Showkat & Baumer)]]
-- [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]]
-- [[“It’s Like the Value System in the Loop”: Domain Experts’ Values Expectations...]]

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P3.pdf"
 type: paper
-community: "Semi-Structured Interviews"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Metacognitive_Support
 ---
 
 # Formative Study on GenUI Tools (Chen et al. Google DeepMind)
@@ -17,4 +17,4 @@ tags:
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[The GenUI Study (Chen Knearem Li)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

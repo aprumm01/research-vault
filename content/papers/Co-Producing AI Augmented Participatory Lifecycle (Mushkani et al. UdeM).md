@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P21.pdf"
 type: paper
-community: "Workplace Learning and AI"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_and_Future_of_Work
 ---
 
 # Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)
@@ -17,4 +17,4 @@ tags:
 - [[Participatory Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

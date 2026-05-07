@@ -18,7 +18,3 @@ Protocol Analysis captures cognitive processes in real time through verbal think
 ## Key Thinkers
 - K. Anders Ericsson
 - Herbert Simon
-
-## Papers in This Corpus
-- [[Cognitive Co-Evolution Model for Design (Cash et al.)]]
-- [[Tracing the Invisible: Students Judgment in AI Design Work (Naik et al. Purdue)]]

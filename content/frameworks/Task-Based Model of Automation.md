@@ -21,8 +21,6 @@ Autor, Levy & Murnane's task framework decomposes jobs into bundles of tasks (ro
 - Richard Murnane
 
 ## Papers in This Corpus
-- [[Poets Over Quants: Automation Increases Value of Creativity]]
-- [[The Future of Work: Balancing Automation and Human]]
 - [[Why Are There Still So Many Jobs? (Oravec Review of Autor, 2018)]]
 
 ## Authors in This Corpus

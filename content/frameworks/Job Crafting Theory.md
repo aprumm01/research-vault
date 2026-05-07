@@ -18,8 +18,3 @@ Job Crafting Theory describes how employees proactively reshape their jobs by al
 ## Key Thinkers
 - Amy Wrzesniewski
 - Jane Dutton
-
-## Papers in This Corpus
-- [[AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)]]
-- [[Perceptions of GenAI in Creative Industries: Scoping Review (Tsao et al.)]]
-- [[arXiv:2502.08854v2 [cs.HC] 22 Jun 2025 Generative AI & Changing Work: Systema...]]

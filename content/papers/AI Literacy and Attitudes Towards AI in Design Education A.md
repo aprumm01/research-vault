@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P224.pdf"
 type: paper
-community: "Survey / Questionnaire Study"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
+  - community/Semi-Structured_Interviews
 ---
 
 # AI Literacy and Attitudes Towards AI in Design Education: A
@@ -19,4 +19,4 @@ tags:
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Technology Acceptance Model]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

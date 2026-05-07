@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P320.pdf"
 type: paper
-community: "Survey / Questionnaire Study"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
+  - community/AI_and_Future_of_Work
 ---
 
 # The Capitalist Machine: Computerization, Workers' Power, and Labor's Share (Kristal, 2013)
@@ -15,4 +15,4 @@ tags:
 - [[Kristal]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

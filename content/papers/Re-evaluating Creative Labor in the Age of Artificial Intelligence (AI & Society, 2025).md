@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P241.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Studio_Pedagogy
 ---
 
 # Re-evaluating Creative Labor in the Age of Artificial Intelligence (AI & Society, 2025)
@@ -14,4 +14,4 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P4.pdf"
 type: paper
-community: "Semi-Structured Interviews"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Metacognitive_Support
 ---
 
 # The GenUI Study (Chen Knearem Li)
@@ -15,4 +15,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Generative UI Tools]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

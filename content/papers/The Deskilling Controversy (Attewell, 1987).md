@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P324.pdf"
 type: paper
-community: "Historical Analysis"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # The Deskilling Controversy (Attewell, 1987)
@@ -45,4 +45,4 @@ Review paper without original primary data; dated 1987 and predates internet-era
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

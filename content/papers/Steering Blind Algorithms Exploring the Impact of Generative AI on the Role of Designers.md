@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P164.pdf"
 type: paper
-community: "Design Cognition"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Cognition
+  - community/Semi-Structured_Interviews
 ---
 
 # Steering Blind Algorithms: Exploring the Impact of Generative AI on the Role of Designers
@@ -16,4 +16,4 @@ tags:
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Cognition
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

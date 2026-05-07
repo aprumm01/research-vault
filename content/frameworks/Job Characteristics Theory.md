@@ -18,6 +18,3 @@ Hackman & Oldham's Job Characteristics Theory identifies five core job dimension
 ## Key Thinkers
 - J. Richard Hackman
 - Greg Oldham
-
-## Papers in This Corpus
-- [[Designing Job Characteristics for Hybrid Intelligence (Yang and Jiang)]]

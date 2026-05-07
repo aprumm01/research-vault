@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P93.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Studio_Pedagogy
 ---
 
 # Ethical Dimensions of AI in Graphic Design
@@ -15,4 +15,4 @@ tags:
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

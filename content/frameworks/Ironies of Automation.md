@@ -18,6 +18,3 @@ Bainbridge's 'ironies of automation' thesis argues that increased automation par
 ## Key Thinkers
 - Lisanne Bainbridge
 - Jens Rasmussen
-
-## Papers in This Corpus
-- [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]]

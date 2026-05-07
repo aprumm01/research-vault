@@ -20,5 +20,4 @@ Phenomenography is a qualitative research methodology, developed by Marton, that
 - Roger Säljö
 
 ## Papers in This Corpus
-- [[Conceptions of Design Practice (Lotsos et al. Northwestern)]]
 - [[Reflecting on the Integration of Generative AI in Design Education (Voces y Silencios, 2024)]]

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P322.pdf"
 type: paper
-community: "Historical Analysis"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/AI_and_Future_of_Work
 ---
 
 # The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)
@@ -41,4 +41,4 @@ Focus on White male US/UK researchers is acknowledged as an artifact of historic
 - [[Genealogical  Policy Analysis]] - `` [EXTRACTED]
 - [[Historical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

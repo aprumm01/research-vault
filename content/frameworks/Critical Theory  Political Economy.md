@@ -1,25 +1,31 @@
 ---
 source_file: ""
 type: framework
-community: "Historical Analysis"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/AI_and_Future_of_Work
 ---
 
 # Critical Theory / Political Economy
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
-Critical Theory examines how power, capital, and ideology shape technology development and its social effects. Habermas distinguishes communicative from instrumental rationality; Feenberg's critical theory of technology analyzes the social choices embedded in design.
+Critical Theory examines how power, capital, and ideology shape technology development and its social effects. Habermas distinguishes communicative from instrumental rationality; Feenberg's critical theory of technology analyzes the social choices embedded in design; political economists trace how platform capitalism and surveillance reshape labor.
+
+## Key Thinkers
+- Jürgen Habermas
+- Andrew Feenberg
+- Herbert Marcuse
+- Karl Marx
 
 ## Papers in This Corpus
-- [[Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)]]
-- [[Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)]]
-- [[Electronic copy available at: https://ssrn.com/abstract=3078224]]
 - [[Intellectual Assembly Lines: The Rationalization of Managerial, Professional, and Technical Work (Perrolle, 1984)]]
 - [[Inventing Ourselves Out of Jobs: America's Debate over Technological Unemployment (Review, 2001)]]
-- [[Manufacturing an AI Revolution (Katz 2017)]]
 - [[The Deskilling Controversy (Attewell, 1987)]]
+
+## Authors in This Corpus
+- [[Attewell]]
+- [[Perrolle]]

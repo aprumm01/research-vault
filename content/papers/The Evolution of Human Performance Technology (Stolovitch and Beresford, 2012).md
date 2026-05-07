@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P124.pdf"
 type: paper
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # The Evolution of Human Performance Technology (Stolovitch and Beresford, 2012)
@@ -16,4 +16,4 @@ tags:
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Stolovitch]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

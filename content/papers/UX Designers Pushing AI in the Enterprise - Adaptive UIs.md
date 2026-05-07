@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P137.pdf"
 type: paper
-community: "Design Cognition"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Cognition
+  - community/AI_in_Design_Education
 ---
 
 # UX Designers Pushing AI in the Enterprise - Adaptive UIs
@@ -15,4 +15,4 @@ tags:
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Cognition
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

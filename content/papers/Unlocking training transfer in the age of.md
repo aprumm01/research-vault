@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P134.pdf"
 type: paper
-community: "AI in Design Education"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/AI_and_Future_of_Work
 ---
 
 # Unlocking training transfer in the age of
@@ -14,4 +14,4 @@ tags:
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

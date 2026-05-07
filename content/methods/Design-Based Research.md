@@ -19,8 +19,3 @@ Design-Based Research (DBR) is an iterative methodology that integrates the desi
 - Ann Brown
 - Allan Collins
 - Jan van den Akker
-
-## Papers in This Corpus
-- [[AI-assisted Learning in HCI Education (Heyer et al. Malmo)]]
-- [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]]
-- [[Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)]]

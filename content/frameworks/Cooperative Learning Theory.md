@@ -19,6 +19,3 @@ Cooperative Learning Theory, developed by Johnson & Johnson and Slavin, identifi
 - David Johnson
 - Roger Johnson
 - Robert Slavin
-
-## Papers in This Corpus
-- [[Embedding Cooperative Learning into the]]

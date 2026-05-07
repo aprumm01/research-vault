@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/AU384.pdf"
 type: author
-community: "AI and Future of Work"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Studio_Pedagogy
 ---
 
 # Ramaul
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

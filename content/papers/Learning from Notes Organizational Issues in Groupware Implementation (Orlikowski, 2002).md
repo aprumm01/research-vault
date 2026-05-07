@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P179.pdf"
 type: paper
-community: "Workplace Learning and AI"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Studio_Pedagogy
 ---
 
 # Learning from Notes: Organizational Issues in Groupware Implementation (Orlikowski, 2002)
@@ -15,4 +15,4 @@ tags:
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

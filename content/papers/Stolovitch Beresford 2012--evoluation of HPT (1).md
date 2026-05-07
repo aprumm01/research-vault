@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P290.pdf"
 type: paper
-community: "Historical Analysis"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/AI_and_Future_of_Work
 ---
 
 # Stolovitch Beresford 2012--evoluation of HPT (1)
@@ -16,4 +16,4 @@ tags:
 - [[Human Performance Technology (HPT)]] - `` [EXTRACTED]
 - [[Narrative Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

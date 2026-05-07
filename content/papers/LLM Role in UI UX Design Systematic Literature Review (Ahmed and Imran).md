@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P62.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Studio_Pedagogy
 ---
 
 # LLM Role in UI UX Design: Systematic Literature Review (Ahmed and Imran)
@@ -14,4 +14,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

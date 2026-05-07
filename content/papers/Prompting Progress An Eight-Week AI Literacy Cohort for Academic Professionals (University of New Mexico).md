@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P186.pdf"
 type: paper
-community: "Design Cognition"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Cognition
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Prompting Progress: An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico)
@@ -16,4 +16,4 @@ tags:
 - [[Prompt Engineering]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Cognition
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

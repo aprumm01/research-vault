@@ -1,16 +1,16 @@
 ---
 source_file: ""
 type: framework
-community: "Historical Analysis"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/AI_and_Future_of_Work
 ---
 
 # Sociotechnical Imaginaries
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
 Sociotechnical Imaginaries are collectively imagined and institutionally stabilized forms of social order that co-produce science, technology, and social life. They shape what futures are considered desirable or possible, and are reproduced through policy, media, and organizational practice.

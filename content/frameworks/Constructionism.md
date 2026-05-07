@@ -20,8 +20,4 @@ Constructionism extends constructivism by arguing that learning is most effectiv
 - Mitchel Resnick
 
 ## Papers in This Corpus
-- [[Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)]]
-- [[Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)]]
-- [[Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy:]]
-- [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]]
 - [[The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)]]

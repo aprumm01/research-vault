@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P191.pdf"
 type: paper
-community: "Survey / Questionnaire Study"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
+  - community/AI_in_Design_Education
 ---
 
 # Integrating Unplugged and Plugged Activities for Holistic AI Education: An Embodied Constructionist Approach (Dai, 2025)
@@ -14,4 +14,4 @@ tags:
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[Dai]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

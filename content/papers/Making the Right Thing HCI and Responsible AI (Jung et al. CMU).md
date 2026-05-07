@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P17.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Metacognitive_Support
 ---
 
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
@@ -19,4 +19,4 @@ tags:
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

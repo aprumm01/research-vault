@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P340.pdf"
 type: paper
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # Fr om code to collaboration:
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

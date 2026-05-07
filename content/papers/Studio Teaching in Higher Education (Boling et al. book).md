@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P52.pdf"
 type: paper
-community: "Design Cognition"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Cognition
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Studio Teaching in Higher Education (Boling et al. book)
@@ -16,4 +16,4 @@ tags:
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Cognition
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

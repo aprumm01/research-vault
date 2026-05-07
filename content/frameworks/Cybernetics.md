@@ -1,16 +1,16 @@
 ---
 source_file: ""
 type: framework
-community: "Historical Analysis"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/AI_and_Future_of_Work
 ---
 
 # Cybernetics
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
 Wiener's Cybernetics is the science of control and communication in the animal and the machine. It introduced feedback loops, homeostasis, and information as unifying concepts across biology, engineering, and social systems. Foundational to AI, human-computer interaction, and systems thinking.
@@ -21,7 +21,6 @@ Wiener's Cybernetics is the science of control and communication in the animal a
 - Claude Shannon
 
 ## Papers in This Corpus
-- [[How to Be Universal: Some Cybernetic Strategies, 1943-70]]
 - [[Some Moral and Technical Consequences of Automation (Norbert Wiener, 1960)]]
 
 ## Authors in This Corpus

@@ -21,12 +21,4 @@ Long & Magerko's multidimensional AI literacy framework identifies the competenc
 - David Touretzky
 
 ## Papers in This Corpus
-- [[AI Literacy and Attitudes Towards AI in Design Education: A]]
-- [[AI Literacy in Design Education: Comparative Study (Schauer et al. HTW Berlin)]]
 - [[Artificial Intelligence as a Tool for Individual and Collaborative Creativity in Design Education]]
-- [[Co-Designing with Transformers: GenAI in Design Education (Sandhaus et al. Cornell)]]
-- [[Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)]]
-- [[Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)]]
-- [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]]
-- [[Prompting Progress: An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico)]]
-- [[State of AI Literacy in Academic Libraries (Lo UNM)]]

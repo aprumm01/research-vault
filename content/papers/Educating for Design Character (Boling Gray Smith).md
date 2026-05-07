@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P26.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Studio_Pedagogy
 ---
 
 # Educating for Design Character (Boling Gray Smith)
@@ -17,4 +17,4 @@ tags:
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

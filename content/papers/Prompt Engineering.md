@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "Design Cognition"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Design_Cognition
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Prompt Engineering
@@ -14,4 +14,4 @@ tags:
 - [[Creative Ambiguity]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Design_Cognition
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

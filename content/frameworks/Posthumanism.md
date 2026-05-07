@@ -19,7 +19,3 @@ Posthumanism (Haraway, Barad) critiques humanist assumptions about the stability
 - Donna Haraway
 - Karen Barad
 - N. Katherine Hayles
-
-## Papers in This Corpus
-- [[Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)]]
-- [[Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)]]

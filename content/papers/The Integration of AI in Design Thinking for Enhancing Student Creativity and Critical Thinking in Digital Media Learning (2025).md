@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P201.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Studio_Pedagogy
 ---
 
 # The Integration of AI in Design Thinking for Enhancing Student Creativity and Critical Thinking in Digital Media Learning (2025)
@@ -17,4 +17,4 @@ tags:
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

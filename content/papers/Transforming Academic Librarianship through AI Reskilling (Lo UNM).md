@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P72.pdf"
 type: paper
-community: "Workplace Learning and AI"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Studio_Pedagogy
 ---
 
 # Transforming Academic Librarianship through AI Reskilling (Lo UNM)
@@ -19,4 +19,4 @@ tags:
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P295.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Metacognitive_Support
 ---
 
 # John Zimmerman, Carnegie Mellon University
@@ -17,4 +17,4 @@ tags:
 - [[Research through Design]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

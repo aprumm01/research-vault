@@ -1,13 +1,13 @@
 ---
 source_file: "research_docs/AU354.pdf"
 type: author
-community: "Survey / Questionnaire Study"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
+  - community/AI_in_Design_Education
 ---
 
 # Dai
 
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

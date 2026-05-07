@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P321.pdf"
 type: paper
-community: "Historical Analysis"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # The Electronic Sweatshop: How Computers Are Transforming the Office (Review, 1992)
@@ -15,4 +15,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Labor Process Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

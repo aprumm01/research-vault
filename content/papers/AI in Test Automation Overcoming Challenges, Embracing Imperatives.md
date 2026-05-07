@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P90.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Studio_Pedagogy
 ---
 
 # AI in Test Automation: Overcoming Challenges, Embracing Imperatives
@@ -14,4 +14,4 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

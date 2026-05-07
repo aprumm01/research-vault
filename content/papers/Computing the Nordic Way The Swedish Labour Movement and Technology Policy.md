@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P309.pdf"
 type: paper
-community: "Historical Analysis"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Historical_Analysis
+  - community/AI_and_Future_of_Work
 ---
 
 # Computing the Nordic Way: The Swedish Labour Movement and Technology Policy
@@ -41,4 +41,4 @@ Specific to the Swedish Nordic context and the reformist labour movement traditi
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Sociotechnical Imaginaries]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

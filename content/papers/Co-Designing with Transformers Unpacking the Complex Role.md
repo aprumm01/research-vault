@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P252.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/Semi-Structured_Interviews
 ---
 
 # Co-Designing with Transformers: Unpacking the Complex Role
@@ -16,4 +16,4 @@ tags:
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Participatory Design Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

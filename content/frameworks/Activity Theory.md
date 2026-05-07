@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: framework
-community: "Workplace Learning and AI"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Studio_Pedagogy
 ---
 
 # Activity Theory
@@ -20,9 +20,8 @@ Activity Theory (CHAT — Cultural-Historical Activity Theory) frames human acti
 
 ## Papers in This Corpus
 - [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]]
-- [[Co-Producing AI: Augmented Participatory Lifecycle (Mushkani et al. UdeM)]]
 
 ## Connections
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

@@ -22,6 +22,4 @@ VSD is a theoretically grounded approach to the design of technology that accoun
 
 ## Papers in This Corpus
 - [["It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation (Showkat & Baumer)]]
-- [[Mapping VSD onto AI for Social Good (Umbrello and van de Poel)]]
 - [[Mapping Value Sensitive Design onto AI for Social Good Principles]]
-- [[“It’s Like the Value System in the Loop”: Domain Experts’ Values Expectations...]]

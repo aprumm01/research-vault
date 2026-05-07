@@ -18,9 +18,6 @@ Cognitive Load Theory holds that working memory is severely limited in capacity 
 - Alan Baddeley
 - Richard Mayer
 
-## Papers in This Corpus
-- [[Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)]]
-
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 

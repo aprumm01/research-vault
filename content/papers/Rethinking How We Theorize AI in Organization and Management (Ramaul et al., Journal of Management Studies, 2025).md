@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P187.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Studio_Pedagogy
 ---
 
 # Rethinking How We Theorize AI in Organization and Management (Ramaul et al., Journal of Management Studies, 2025)
@@ -16,4 +16,4 @@ tags:
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

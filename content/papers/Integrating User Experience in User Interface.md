@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P280.pdf"
 type: paper
-community: "Semi-Structured Interviews"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Metacognitive_Support
 ---
 
 # Integrating User Experience in User Interface
@@ -17,4 +17,4 @@ tags:
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P283.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/Studio_Pedagogy
 ---
 
 # Instructional Design and Creativity: A Response to the Criticized
@@ -14,4 +14,4 @@ tags:
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

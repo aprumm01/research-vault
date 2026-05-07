@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P167.pdf"
 type: paper
-community: "Semi-Structured Interviews"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
+  - community/Metacognitive_Support
 ---
 
 # A Formative Study to Explore the Design of Generative UI Tools
@@ -16,4 +16,4 @@ tags:
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
