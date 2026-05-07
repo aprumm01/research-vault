@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P128.pdf"
 type: paper
-community: "Studio Pedagogy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/AI_in_Design_Education
 ---
 
 # The Impact of Generative AI on the CSCW Landscape: Insights
@@ -16,4 +16,4 @@ tags:
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P296.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Human_Performance_Technology
 ---
 
 # Van Tiem et al. 2004--performance tech defined
@@ -15,4 +15,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human Performance Technology (HPT)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

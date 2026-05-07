@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Jonassen]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P252.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Metacognitive_Support
 ---
 
 # Co-Designing with Transformers: Unpacking the Complex Role
@@ -16,4 +16,4 @@ tags:
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Participatory Design Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

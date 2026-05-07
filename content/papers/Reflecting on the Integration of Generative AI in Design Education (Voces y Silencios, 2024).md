@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P189.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Reflecting on the Integration of Generative AI in Design Education (Voces y Silencios, 2024)
@@ -20,4 +20,4 @@ tags:
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

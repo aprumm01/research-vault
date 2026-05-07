@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P14.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Semi-Structured_Interviews
 ---
 
 # Vibe Coding for Product Design (Li et al.)
@@ -17,4 +17,4 @@ tags:
 - [[Thematic Analysis]] - `` [EXTRACTED]
 - [[Vibe Coding]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

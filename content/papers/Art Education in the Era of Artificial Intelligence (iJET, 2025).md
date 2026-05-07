@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P243.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Art Education in the Era of Artificial Intelligence (iJET, 2025)
@@ -39,4 +39,4 @@ The study draws on Chinese institutional contexts and publicly visible social me
 - [[Discourse Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

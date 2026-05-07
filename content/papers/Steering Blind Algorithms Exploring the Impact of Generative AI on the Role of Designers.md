@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P164.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Design Cognition"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Design_Cognition
 ---
 
 # Steering Blind Algorithms: Exploring the Impact of Generative AI on the Role of Designers
@@ -16,4 +16,4 @@ tags:
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Design_Cognition

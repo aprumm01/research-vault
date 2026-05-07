@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "AI Literacy"
+community: "Design Cognition"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Design_Cognition
 ---
 
 # Prompt Engineering
@@ -14,4 +14,4 @@ tags:
 - [[Creative Ambiguity]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Design_Cognition

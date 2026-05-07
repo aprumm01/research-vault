@@ -12,5 +12,7 @@ tags:
 
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]
+- [[Januszewski]] - `` [EXTRACTED]
+- [[Molenda]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

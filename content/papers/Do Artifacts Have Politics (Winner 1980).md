@@ -15,5 +15,6 @@ tags:
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
+- [[Winner]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

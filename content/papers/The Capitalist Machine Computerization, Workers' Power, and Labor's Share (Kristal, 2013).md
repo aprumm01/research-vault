@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Kristal]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

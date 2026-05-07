@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P23.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Workplace_Learning_and_AI
 ---
 
 # Developing Human Experience Experts (Cheatham Miami U)
@@ -19,4 +19,4 @@ tags:
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

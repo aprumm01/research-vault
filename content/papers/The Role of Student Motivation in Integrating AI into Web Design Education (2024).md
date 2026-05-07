@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P205.pdf"
 type: paper
-community: "AI in Design Education"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/AI_and_Future_of_Work
 ---
 
 # The Role of Student Motivation in Integrating AI into Web Design Education (2024)
@@ -18,4 +18,4 @@ tags:
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

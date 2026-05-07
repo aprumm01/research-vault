@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P40.pdf"
 type: paper
-community: "AI Literacy"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Integrating Unplugged and Plugged for Holistic AI Education (Dai)
@@ -20,4 +20,4 @@ tags:
 - [[Constructivism]] - `` [EXTRACTED]
 - [[Design-Based Research]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

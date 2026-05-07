@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P319.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Metacognitive_Support
 ---
 
 # Some Moral and Technical Consequences of Automation (Norbert Wiener, 1960)
@@ -39,5 +39,6 @@ Historical text from 1960; written before modern computing; some specific predic
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Cybernetics]] - `` [EXTRACTED]
 - [[Metacognitive Support]] - `` [EXTRACTED]
+- [[Wiener]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

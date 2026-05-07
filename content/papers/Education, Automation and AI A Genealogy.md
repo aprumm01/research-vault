@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P311.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Education, Automation and AI: A Genealogy
@@ -42,4 +42,4 @@ Primarily focused on Swedish policy context; genealogical method is interpretive
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Sociotechnical Imaginaries]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

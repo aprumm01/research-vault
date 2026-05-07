@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: method
-community: "AI and Future of Work"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Discourse Analysis
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

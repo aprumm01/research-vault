@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P9.pdf"
 type: paper
-community: "AI Literacy"
+community: "Design Cognition"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Design_Cognition
 ---
 
 # Thinking through Prompting: Cognitive Mediation (Dalsgaard)
@@ -19,4 +19,4 @@ tags:
 - [[Prompt Engineering]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Design_Cognition

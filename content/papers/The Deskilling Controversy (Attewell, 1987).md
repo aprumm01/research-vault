@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P324.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/Historical_Analysis
 ---
 
 # The Deskilling Controversy (Attewell, 1987)
@@ -37,6 +37,7 @@ Review paper without original primary data; dated 1987 and predates internet-era
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Attewell]] - `` [EXTRACTED]
 - [[Case Study]] - `` [EXTRACTED]
 - [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]
 - [[Critical Theory  Political Economy]] - `` [EXTRACTED]
@@ -44,4 +45,4 @@ Review paper without original primary data; dated 1987 and predates internet-era
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

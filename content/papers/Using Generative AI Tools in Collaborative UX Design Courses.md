@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P209.pdf"
 type: paper
-community: "AI Literacy"
+community: "Design Cognition"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Design_Cognition
 ---
 
 # Using Generative AI Tools in Collaborative UX Design Courses
@@ -15,4 +15,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Design_Cognition

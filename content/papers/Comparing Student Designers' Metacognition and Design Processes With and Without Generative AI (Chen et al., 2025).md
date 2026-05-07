@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Chen]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 

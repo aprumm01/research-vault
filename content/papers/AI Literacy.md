@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "AI Literacy"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI Literacy
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

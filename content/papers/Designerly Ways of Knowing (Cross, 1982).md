@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Cross]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]
 

@@ -14,5 +14,6 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Murdoch-Kitt]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

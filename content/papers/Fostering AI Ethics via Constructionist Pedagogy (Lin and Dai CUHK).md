@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P70.pdf"
 type: paper
-community: "AI Literacy"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)
@@ -16,4 +16,4 @@ tags:
 - [[Constructionism]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

@@ -14,5 +14,6 @@ tags:
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Constructivism_1]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Kozma]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

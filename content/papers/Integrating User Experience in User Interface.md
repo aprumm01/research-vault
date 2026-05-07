@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P280.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Semi-Structured_Interviews
 ---
 
 # Integrating User Experience in User Interface
@@ -17,4 +17,4 @@ tags:
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

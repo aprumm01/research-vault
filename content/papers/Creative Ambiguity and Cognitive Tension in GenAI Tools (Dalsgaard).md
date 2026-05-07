@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P8.pdf"
 type: paper
-community: "AI Literacy"
+community: "Design Cognition"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Design_Cognition
 ---
 
 # Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)
@@ -16,4 +16,4 @@ tags:
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Design_Cognition

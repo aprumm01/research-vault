@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P5.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)
@@ -18,4 +18,4 @@ tags:
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Wizard-of-Oz Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

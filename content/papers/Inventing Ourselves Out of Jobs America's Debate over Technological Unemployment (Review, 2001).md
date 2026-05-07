@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P316.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Inventing Ourselves Out of Jobs: America's Debate over Technological Unemployment (Review, 2001)
@@ -17,4 +17,4 @@ tags:
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Job Displacement and Reskilling]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P78.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/AI_and_Future_of_Work
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive
@@ -17,4 +17,4 @@ tags:
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

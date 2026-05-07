@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
+- [[Bradshaw]] - `` [EXTRACTED]
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 

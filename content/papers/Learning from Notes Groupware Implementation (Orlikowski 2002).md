@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[Constructivism_1]] - `` [EXTRACTED]
 - [[Ethnography]] - `` [EXTRACTED]
+- [[Orlikowski]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 

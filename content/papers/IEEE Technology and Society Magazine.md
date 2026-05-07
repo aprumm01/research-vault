@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P333.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # IEEE Technology and Society Magazine
@@ -18,4 +18,4 @@ tags:
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Technology Acceptance Model]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

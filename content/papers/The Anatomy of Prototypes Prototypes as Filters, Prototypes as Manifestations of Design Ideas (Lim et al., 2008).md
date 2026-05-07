@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Lim]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

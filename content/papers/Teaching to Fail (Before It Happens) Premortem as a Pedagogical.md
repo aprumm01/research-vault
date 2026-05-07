@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P196.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Workplace_Learning_and_AI
 ---
 
 # Teaching to Fail (Before It Happens): Premortem as a Pedagogical
@@ -18,4 +18,4 @@ tags:
 - [[Organizational Learning Theory]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

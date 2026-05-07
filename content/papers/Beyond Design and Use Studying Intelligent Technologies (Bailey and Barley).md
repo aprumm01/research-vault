@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P29.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Beyond Design and Use: Studying Intelligent Technologies (Bailey and Barley)
@@ -17,4 +17,4 @@ tags:
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

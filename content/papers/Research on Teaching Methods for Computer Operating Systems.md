@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P118.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Research on Teaching Methods for Computer Operating Systems
@@ -16,4 +16,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

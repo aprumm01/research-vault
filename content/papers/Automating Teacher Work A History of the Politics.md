@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P308.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Automating Teacher Work: A History of the Politics
@@ -41,4 +41,4 @@ Primarily Sweden-focused with a specific social democratic labor history; draws 
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P143.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/Human_Performance_Technology
 ---
 
 # Human Performance Technology Models Overview (Wilmoth, Prigmore & Bray)
@@ -15,4 +15,4 @@ tags:
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P107.pdf"
 type: paper
-community: "Studio Pedagogy"
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/Human_Performance_Technology
 ---
 
 # Evaluating Training Programs: The Four Levels (Kirkpatrick)
@@ -15,4 +15,4 @@ tags:
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

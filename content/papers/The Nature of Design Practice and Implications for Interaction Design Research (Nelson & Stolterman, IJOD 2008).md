@@ -14,5 +14,7 @@ tags:
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Nelson]] - `` [EXTRACTED]
+- [[Stolterman]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

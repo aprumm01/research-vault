@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: method
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Historical Analysis
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

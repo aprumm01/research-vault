@@ -11,6 +11,7 @@ tags:
 # Media Will Never Influence Learning (Clark 1994)
 
 ## Connections
+- [[Clark]] - `` [EXTRACTED]
 - [[Information Processing Theory]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Will Media Influence Learning Reframing the Debate (Kozma 1994)]] - `` [EXTRACTED]

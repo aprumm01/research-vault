@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P47.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Manufacturing an AI Revolution (Katz 2017)
@@ -15,7 +15,8 @@ tags:
 - [[Animo Nullius AI Origin Story and Data Colonialism (Penn 2023)]] - `` [EXTRACTED]
 - [[Critical Theory  Political Economy]] - `` [EXTRACTED]
 - [[Historical Analysis]] - `` [EXTRACTED]
+- [[Katz]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

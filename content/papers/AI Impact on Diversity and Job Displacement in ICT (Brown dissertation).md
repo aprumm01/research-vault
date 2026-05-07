@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P32.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Semi-Structured_Interviews
 ---
 
 # AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)
@@ -16,4 +16,4 @@ tags:
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

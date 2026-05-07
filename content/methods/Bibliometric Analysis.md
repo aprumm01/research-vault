@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: method
-community: "Instructional Design Theory"
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/Human_Performance_Technology
 ---
 
 # Bibliometric Analysis
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

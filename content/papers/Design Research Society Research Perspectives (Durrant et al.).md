@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P132.pdf"
 type: paper
-community: "AI Literacy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/AI_in_Design_Education
 ---
 
 # Design Research Society Research Perspectives (Durrant et al.)
@@ -18,4 +18,4 @@ tags:
 - [[Posthumanism]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

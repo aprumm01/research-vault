@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P312.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Expert Systems: Commercializing Artificial Intelligence (IEEE Annals, 1993)
@@ -40,4 +40,4 @@ Editorial introduction rather than full research article; relies heavily on self
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Historical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

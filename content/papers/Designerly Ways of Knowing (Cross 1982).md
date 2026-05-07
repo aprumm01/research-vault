@@ -12,6 +12,7 @@ tags:
 
 ## Connections
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Cross]] - `` [EXTRACTED]
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]

@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[Li]] - `` [EXTRACTED]
 - [[Technology Acceptance Model]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 

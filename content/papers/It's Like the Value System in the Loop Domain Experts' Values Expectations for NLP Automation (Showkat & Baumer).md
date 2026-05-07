@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P227.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Metacognitive_Support
 ---
 
 # "It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation (Showkat & Baumer)
@@ -16,4 +16,4 @@ tags:
 - [[Participatory Design Theory]] - `` [EXTRACTED]
 - [[Value-Sensitive Design (VSD)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

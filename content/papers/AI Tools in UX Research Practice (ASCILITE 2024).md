@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P96.pdf"
 type: paper
-community: "AI Literacy"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI Tools in UX Research Practice (ASCILITE 2024)
@@ -15,4 +15,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

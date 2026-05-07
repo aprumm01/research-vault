@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P131.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Design Cognition"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Design_Cognition
 ---
 
 # The Potential and Implications of Generative AI on HCI Education
@@ -18,4 +18,4 @@ tags:
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Design_Cognition

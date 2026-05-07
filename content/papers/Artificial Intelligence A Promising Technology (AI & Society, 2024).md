@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P305.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Semi-Structured_Interviews
 ---
 
 # Artificial Intelligence: A Promising Technology (AI & Society, 2024)
@@ -40,4 +40,4 @@ General overview perspective may lack specificity; "promising technology" framin
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

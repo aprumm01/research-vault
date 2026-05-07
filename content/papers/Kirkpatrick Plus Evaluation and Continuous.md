@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P108.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/Human_Performance_Technology
 ---
 
 # Kirkpatrick Plus: Evaluation and Continuous
@@ -17,4 +17,4 @@ tags:
 - [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

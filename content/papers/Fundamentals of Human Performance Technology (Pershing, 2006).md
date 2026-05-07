@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P182.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "Human Performance Technology"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/Human_Performance_Technology
 ---
 
 # Fundamentals of Human Performance Technology (Pershing, 2006)
@@ -13,5 +13,6 @@ tags:
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
+- [[Pershing]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology

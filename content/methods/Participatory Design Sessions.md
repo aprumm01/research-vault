@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: method
-community: "AI and Future of Work"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Semi-Structured_Interviews
 ---
 
 # Participatory Design Sessions
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

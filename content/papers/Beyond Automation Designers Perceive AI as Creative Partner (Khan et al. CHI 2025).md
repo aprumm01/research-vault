@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P1.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Semi-Structured Interviews"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Semi-Structured_Interviews
 ---
 
 # Beyond Automation: Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)
@@ -15,7 +15,8 @@ tags:
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[Khan]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

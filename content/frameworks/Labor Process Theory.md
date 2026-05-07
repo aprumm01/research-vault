@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: framework
-community: "Metacognitive Support"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/Historical_Analysis
 ---
 
 # Labor Process Theory
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

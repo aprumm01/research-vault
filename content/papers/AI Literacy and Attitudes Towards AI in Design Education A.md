@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P224.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI Literacy and Attitudes Towards AI in Design Education: A
@@ -19,4 +19,4 @@ tags:
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Technology Acceptance Model]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

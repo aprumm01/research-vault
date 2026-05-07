@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P22.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI-Driven Learning Innovations in Design Education (Yang and Chou)
@@ -14,4 +14,4 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Constructivism_1]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

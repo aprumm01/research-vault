@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P30.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Historical Analysis"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Historical_Analysis
 ---
 
 # Automate Infomate: Two Faces of Intelligent Technology (Zuboff 1985)
@@ -19,5 +19,6 @@ tags:
 - [[Labor Process Theory]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
+- [[Zuboff]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Historical_Analysis

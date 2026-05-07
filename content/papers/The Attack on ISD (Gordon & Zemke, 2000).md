@@ -12,7 +12,9 @@ tags:
 
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
+- [[Gordon]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Zemke]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

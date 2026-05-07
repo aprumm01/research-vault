@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P204.pdf"
 type: paper
-community: "Studio Pedagogy"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # The Role of Large Language Models in UI/UX Design: A Systematic Review
@@ -41,4 +41,4 @@ The rapidly evolving field means findings may be outdated quickly; publication b
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

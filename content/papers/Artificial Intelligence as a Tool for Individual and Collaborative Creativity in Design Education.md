@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P245.pdf"
 type: paper
-community: "AI Literacy"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_Literacy
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Artificial Intelligence as a Tool for Individual and Collaborative Creativity in Design Education
@@ -18,4 +18,4 @@ tags:
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_Literacy
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

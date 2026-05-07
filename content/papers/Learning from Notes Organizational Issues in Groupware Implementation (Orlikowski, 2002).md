@@ -11,6 +11,7 @@ tags:
 # Learning from Notes: Organizational Issues in Groupware Implementation (Orlikowski, 2002)
 
 ## Connections
+- [[Orlikowski]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 

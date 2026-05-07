@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P295.pdf"
 type: paper
-community: "Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Making_the_Right_Thing:_HCI_and_Responsible_AI_(Jung_et_al._CMU)
+  - community/AI_and_Future_of_Work
 ---
 
 # John Zimmerman, Carnegie Mellon University
@@ -17,4 +17,4 @@ tags:
 - [[Research through Design]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Making_the_Right_Thing:_HCI_and_Responsible_AI_(Jung_et_al._CMU)
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

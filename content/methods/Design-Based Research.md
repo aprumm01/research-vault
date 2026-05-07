@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: method
-community: "Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Making_the_Right_Thing:_HCI_and_Responsible_AI_(Jung_et_al._CMU)
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Design-Based Research
 
-#graphify/document #graphify/EXTRACTED #community/Making_the_Right_Thing:_HCI_and_Responsible_AI_(Jung_et_al._CMU)
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

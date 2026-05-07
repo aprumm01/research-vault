@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P222.pdf"
 type: paper
-community: "AI in Design Education"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/AI_and_Future_of_Work
 ---
 
 # AI-Driven Learning Approaches in the Era of Artificial
@@ -17,4 +17,4 @@ tags:
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
