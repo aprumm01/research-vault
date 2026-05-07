@@ -11,3 +11,13 @@ tags:
 # Ironies of Automation
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+
+## Overview
+Bainbridge's 'ironies of automation' thesis argues that increased automation paradoxically increases the cognitive demands placed on human operators: automating routine tasks leaves humans with residual tasks that are hardest to automate, while skill degradation and complacency reduce their ability to perform them.
+
+## Key Thinkers
+- Lisanne Bainbridge
+- Jens Rasmussen
+
+## Papers in This Corpus
+- [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]]

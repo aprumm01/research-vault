@@ -11,3 +11,15 @@ tags:
 # Posthumanism
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+
+## Overview
+Posthumanism (Haraway, Barad) critiques humanist assumptions about the stability and centrality of the human subject, foregrounding the entanglement of humans with nonhumans, technologies, and environments. Barad's agential realism dissolves the boundary between discourse and materiality through 'intra-action.'
+
+## Key Thinkers
+- Donna Haraway
+- Karen Barad
+- N. Katherine Hayles
+
+## Papers in This Corpus
+- [[Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)]]
+- [[Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)]]
