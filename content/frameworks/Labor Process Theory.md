@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: framework
-community: "GenAI in UX and Design Practice"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Metacognitive_Support
 ---
 
 # Labor Process Theory
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

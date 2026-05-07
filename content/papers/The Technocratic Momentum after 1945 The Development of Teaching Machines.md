@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P323.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # The Technocratic Momentum after 1945: The Development of Teaching Machines
@@ -36,7 +36,8 @@ Historical analysis of OECD, UNESCO, and national education policy documents; co
 Primarily focused on Western (US, OECD) and Soviet contexts; does not examine non-OECD countries or Global South education systems; analysis ends before the internet era; may oversimplify the diversity of positions within behaviorism and cognitivism.
 
 ## Connections
+- [[Design Thinking_1]] - `` [EXTRACTED]
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

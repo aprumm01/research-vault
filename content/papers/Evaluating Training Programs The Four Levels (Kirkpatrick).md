@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P107.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Studio_Pedagogy
 ---
 
 # Evaluating Training Programs: The Four Levels (Kirkpatrick)
@@ -15,4 +15,4 @@ tags:
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

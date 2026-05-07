@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "Constructivism"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Constructivism
+  - community/Metacognitive_Support
 ---
 
 # Metacognitive Support
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Constructivism
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

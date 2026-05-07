@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P115.pdf"
 type: paper
-community: "Constructivism"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Constructivism
+  - community/Metacognitive_Support
 ---
 
 # Problem-Based Learning: A Constructivist Approach (Barrows, 1993)
@@ -15,4 +15,4 @@ tags:
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Constructivism
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[Constructivism_1]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
+- [[Design Thinking_1]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Systematic Literature Review]] - `` [EXTRACTED]
 

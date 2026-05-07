@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P251.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Instructional_Design_Theory
 ---
 
 # Closing the Sociotechnical Gap in AI: Measuring Practitioners' Attitudes and Perceptions
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

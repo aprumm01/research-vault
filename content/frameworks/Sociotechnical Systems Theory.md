@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: framework
-community: "Survey / Questionnaire Study"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Sociotechnical Systems Theory
 
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

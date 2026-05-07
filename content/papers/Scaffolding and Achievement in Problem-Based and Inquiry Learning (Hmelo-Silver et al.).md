@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P119.pdf"
 type: paper
-community: "Constructivism"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Constructivism
+  - community/Metacognitive_Support
 ---
 
 # Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)
@@ -14,4 +14,4 @@ tags:
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Constructivism
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

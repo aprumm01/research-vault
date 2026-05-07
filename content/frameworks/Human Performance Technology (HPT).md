@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: framework
-community: "Instructional Design Theory"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/AI_and_Future_of_Work
 ---
 
 # Human Performance Technology (HPT)
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P324.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Metacognitive_Support
 ---
 
 # The Deskilling Controversy (Attewell, 1987)
@@ -44,4 +44,4 @@ Review paper without original primary data; dated 1987 and predates internet-era
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

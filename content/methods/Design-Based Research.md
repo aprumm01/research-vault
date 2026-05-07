@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: method
-community: "AI in Design Education"
+community: "Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Making_the_Right_Thing:_HCI_and_Responsible_AI_(Jung_et_al._CMU)
 ---
 
 # Design-Based Research
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Making_the_Right_Thing:_HCI_and_Responsible_AI_(Jung_et_al._CMU)

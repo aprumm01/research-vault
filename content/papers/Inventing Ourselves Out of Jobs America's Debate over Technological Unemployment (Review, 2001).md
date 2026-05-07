@@ -13,6 +13,7 @@ tags:
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Critical Theory  Political Economy]] - `` [EXTRACTED]
+- [[Design Thinking_1]] - `` [EXTRACTED]
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Job Displacement and Reskilling]] - `` [EXTRACTED]
 

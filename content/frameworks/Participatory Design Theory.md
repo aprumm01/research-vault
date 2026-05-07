@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: framework
-community: "Survey / Questionnaire Study"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
+  - community/AI_and_Future_of_Work
 ---
 
 # Participatory Design Theory
 
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

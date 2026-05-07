@@ -1,13 +1,13 @@
 ---
 source_file: ""
 type: method
-community: "Constructivism"
+community: "Workplace Learning and AI"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Constructivism
+  - community/Workplace_Learning_and_AI
 ---
 
 # Ethnography
 
-#graphify/document #graphify/EXTRACTED #community/Constructivism
+#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

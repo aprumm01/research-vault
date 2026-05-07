@@ -1,19 +1,18 @@
 ---
 type: community
-members: 18
+members: 17
 ---
 
 # Studio Pedagogy
 
-**Members:** 18 nodes
+**Members:** 17 nodes
 
 ## Members
 - [[1 Lilla Vicsek Artificial intelligence and the future of work – Lessons from ...]] - research_docs/P306.pdf
 - [[43]] - research_docs/P285.pdf
 - [[AI in Test Automation Overcoming Challenges, Embracing Imperatives]] - research_docs/P90.pdf
-- [[Beyond the hype evidence-based_1]] - research_docs/P331.pdf
-- [[Educating for Design Character in Higher Education Challenges in Teaching Design Judgment (MurdochKitt et al.)]] - research_docs/P263.pdf
 - [[Ethical Dimensions of AI in Graphic Design]] - research_docs/P93.pdf
+- [[Evaluating Training Programs The Four Levels (Kirkpatrick)]] - research_docs/P107.pdf
 - [[From Big Data to Rich Theory Integrating Critical Discourse Analysis with St...]] - research_docs/P300.pdf
 - [[Instructional Design and Creativity A Response to the Criticized_1]] - research_docs/P170.pdf
 - [[Instructional Design and Creativity A Response to the Criticized_2]] - research_docs/P283.pdf
@@ -35,17 +34,18 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 12 edges to [[_COMMUNITY_AI in Design Education]]
-- 9 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
-- 9 edges to [[_COMMUNITY_AI and Future of Work]]
-- 7 edges to [[_COMMUNITY_Instructional Design Theory]]
-- 3 edges to [[_COMMUNITY_Constructivism]]
-- 2 edges to [[_COMMUNITY_Workplace Learning and AI]]
-- 1 edge to [[_COMMUNITY_Survey  Questionnaire Study]]
+- 10 edges to [[_COMMUNITY_AI and Future of Work]]
+- 9 edges to [[_COMMUNITY_AI in Design Education]]
+- 9 edges to [[_COMMUNITY_Instructional Design Theory]]
+- 8 edges to [[_COMMUNITY_GenAI in UX and Design Practice]]
+- 3 edges to [[_COMMUNITY_Workplace Learning and AI]]
+- 2 edges to [[_COMMUNITY_Survey  Questionnaire Study]]
+- 1 edge to [[_COMMUNITY_AI Literacy]]
+- 1 edge to [[_COMMUNITY_Metacognitive Support]]
 
 ## Top bridge nodes
 - [[The Impact of Generative AI on the CSCW Landscape Insights]] - degree 4, connects to 3 communities
-- [[The Integration of AI in Design Thinking for Enhancing Student Creativity and Critical Thinking in Digital Media Learning (2025)]] - degree 4, connects to 2 communities
+- [[The Integration of AI in Design Thinking for Enhancing Student Creativity and Critical Thinking in Digital Media Learning (2025)]] - degree 5, connects to 2 communities
 - [[The Role of Large Language Models in UIUX Design A Systematic Review]] - degree 4, connects to 2 communities
-- [[Beyond the hype evidence-based_1]] - degree 3, connects to 2 communities
 - [[Instructional Design and Creativity A Response to the Critics]] - degree 3, connects to 2 communities
+- [[Studio Pedagogy]] - degree 31, connects to 1 community

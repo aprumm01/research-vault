@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P229.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/AI_Literacy
 ---
 
 # Beyond Replacement or Enhancement: How AI Transforms Work Through Simultaneous Automation and Augmentation
@@ -15,4 +15,4 @@ tags:
 - [[Prompt Engineering]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

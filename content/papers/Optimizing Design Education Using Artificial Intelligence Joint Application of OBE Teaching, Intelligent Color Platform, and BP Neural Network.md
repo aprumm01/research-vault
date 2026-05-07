@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P163.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "AI Literacy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/AI_Literacy
 ---
 
 # Optimizing Design Education Using Artificial Intelligence: Joint Application of OBE Teaching, Intelligent Color Platform, and BP Neural Network
@@ -17,4 +17,4 @@ tags:
 - [[Prompt Engineering]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

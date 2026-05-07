@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P315.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Metacognitive Support"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Metacognitive_Support
 ---
 
 # Intellectual Assembly Lines: The Rationalization of Managerial, Professional, and Technical Work (Perrolle, 1984)
@@ -16,4 +16,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Labor Process Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

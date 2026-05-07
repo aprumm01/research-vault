@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P263.pdf"
 type: paper
-community: "Studio Pedagogy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - community/AI_in_Design_Education
 ---
 
 # Educating for Design Character in Higher Education: Challenges in Teaching Design Judgment (MurdochKitt et al.)
@@ -15,4 +15,4 @@ tags:
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

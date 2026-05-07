@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P189.pdf"
 type: paper
-community: "Constructivism"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Constructivism
+  - community/AI_in_Design_Education
 ---
 
 # Reflecting on the Integration of Generative AI in Design Education (Voces y Silencios, 2024)
@@ -16,7 +16,8 @@ tags:
 - [[Constructivism_1]] - `` [EXTRACTED]
 - [[Ethnography]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Phenomenography]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Constructivism
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
