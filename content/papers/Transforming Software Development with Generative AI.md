@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P133.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Transforming Software Development with Generative AI
@@ -43,5 +43,8 @@ Small qualitative sample (N=13); Norwegian software organization context may not
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
+- [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "Generative UI Tools"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Generative UI Tools
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P333.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # IEEE Technology and Society Magazine
@@ -36,6 +36,10 @@ Instrument development and validation study; survey of practitioners across tech
 Instrument validation in specific organizational contexts; cross-sector generalizability requires further study; the measurement approach may not capture rapidly shifting sociotechnical gaps as AI capabilities and expectations evolve.
 
 ## Connections
+- [[Participatory Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
+- [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

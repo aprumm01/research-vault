@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P64.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Designing the Constraints: Co-creation Exercises (Eckert and Stacey)
@@ -40,6 +40,10 @@ Qualitative case analysis; analysis of datasets from co-creation workshops betwe
 Relates to [[Anatomy of Prototypes (Lim Stolterman Tenenberg)]] on design representations and constraints; links to [[Cognitive Co-Evolution Model for Design (Cash et al.)]] on design problem framing; connects to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on authentic co-design practices.
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Participatory Design Sessions]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

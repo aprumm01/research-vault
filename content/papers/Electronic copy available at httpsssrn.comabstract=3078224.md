@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P342.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/AI_and_Future_of_Work
 ---
 
 # Electronic copy available at: https://ssrn.com/abstract=3078224
@@ -36,6 +36,7 @@ Historical and critical analysis; examination of AI discourse in media, policy, 
 Written in 2017 when AI capabilities were less mature; the critical/skeptical framing may be perceived as dismissive of genuine AI advances; the political economy analysis focuses on the US context and may not transfer to other national AI development contexts.
 
 ## Connections
+- [[Critical Theory  Political Economy]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P108.pdf"
 type: paper
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # Kirkpatrick Plus: Evaluation and Continuous
@@ -41,9 +41,10 @@ Level 5 evaluation is even more difficult to attribute to training than Level 4;
 - Connects to [[Stolovitch Beresford 2012--evoluation of HPT (1)]] on performance improvement systemic thinking
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

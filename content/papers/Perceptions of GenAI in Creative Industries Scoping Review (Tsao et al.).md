@@ -41,5 +41,7 @@ Relates to [[AI Rivalry as a Craft Writing Professionals (Varanasi et al. NYU)]]
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Job Crafting Theory]] - `` [EXTRACTED]
+- [[Systematic Literature Review]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

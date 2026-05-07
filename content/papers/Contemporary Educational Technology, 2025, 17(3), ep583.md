@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P105.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Contemporary Educational Technology, 2025, 17(3), ep583
@@ -41,6 +41,9 @@ Single course, single institution, Turkish context—limited generalizability. C
 - Pairs with [[Using Generative AI to Support UX Design Students in Web Dev]] on AI scaffolding in design courses
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Mixed Methods]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

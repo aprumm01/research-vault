@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P176.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Navigating a New Direction in HCI Education: Challenges of
@@ -37,5 +37,7 @@ Survey-based study of faculty views may not capture student experience or actual
 
 ## Connections
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

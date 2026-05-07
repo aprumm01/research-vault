@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P8.pdf"
 type: paper
-community: "Prompt Engineering"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prompt_Engineering
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)
@@ -36,7 +36,9 @@ Theoretical/conceptual paper supported by five cross-modal illustrative cases sp
 The cases are illustrative rather than empirical, and the framework has not been validated with user studies; the argument assumes creative practitioners have the capacity and willingness to engage with tension, which may not hold across all contexts or skill levels.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Creative Ambiguity]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prompt_Engineering
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

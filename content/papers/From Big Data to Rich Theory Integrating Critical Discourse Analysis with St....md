@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P300.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Studio_Pedagogy
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with St...
@@ -13,7 +13,7 @@ tags:
 ## Connections
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
 
 ## Summary
 Aranda et al. propose a mixed-methods approach combining Critical Discourse Analysis (CDA) with Structural Topic Modeling (STM) to analyze large corpora of management texts, arguing that neither method alone captures the complexity of organizational discourse. The integration enables researchers to identify macro-level topic patterns through STM while using CDA to unpack the ideological dimensions of dominant discourses. The paper contributes methodologically to management research and discourse analysis.

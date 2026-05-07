@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P73.pdf"
 type: paper
-community: "Workplace Learning and AI"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_in_Design_Education
 ---
 
 # State of AI Literacy in Academic Libraries (Lo UNM)
@@ -41,6 +41,8 @@ Relates to [[Transforming Academic Librarianship through AI Reskilling (Lo UNM)]
 
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
+- [[AI Literacy Framework]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

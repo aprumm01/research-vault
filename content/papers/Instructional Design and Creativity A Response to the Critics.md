@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P87.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Studio_Pedagogy
 ---
 
 # Instructional Design and Creativity: A Response to the Critics
@@ -40,7 +40,8 @@ Dick's defense may understate the degree to which the model's linear logic can c
 - Relates to [[The Cultures of Contemporary Instructional Design Scholarship, Part One Deve....]] on ID epistemologies
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

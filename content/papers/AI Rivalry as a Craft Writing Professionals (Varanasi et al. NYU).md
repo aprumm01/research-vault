@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P16.pdf"
 type: paper
-community: "Human-AI Creative Collaboration"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human-AI_Creative_Collaboration
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # AI Rivalry as a Craft: Writing Professionals (Varanasi et al. NYU)
@@ -39,5 +39,8 @@ Sample recruited via snowball/purposive sampling and may overrepresent writers w
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[Job Crafting Theory]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human-AI_Creative_Collaboration
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P69.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Design Capability in Social Innovation (Cao Ma Meng Tongji)
@@ -40,6 +40,8 @@ Case study research across social innovation design projects; analysis of design
 Relates to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on participatory design for social good; links to [[Educating for Design Character (Boling Gray Smith)]] on design education beyond commercial practice; connects to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on cross-functional design conceptions.
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

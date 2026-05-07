@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P324.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # The Deskilling Controversy (Attewell, 1987)
@@ -37,7 +37,11 @@ Review paper without original primary data; dated 1987 and predates internet-era
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Case Study]] - `` [EXTRACTED]
 - [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]
+- [[Critical Theory  Political Economy]] - `` [EXTRACTED]
+- [[Labor Process Theory]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

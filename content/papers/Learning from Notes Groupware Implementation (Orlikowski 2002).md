@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P48.pdf"
 type: paper
-community: "Workplace Learning and AI"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/Constructivism
 ---
 
 # Learning from Notes: Groupware Implementation (Orlikowski 2002)
@@ -40,6 +40,9 @@ Exploratory field study; participant observation and interviews at Alpha Corpora
 Relates to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on technology-organization fit; links to [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] on technology in organizational contexts; connects to [[Automate Infomate Two Faces of Intelligent Technology (Zuboff 1985)]] on technology and organizational transformation.
 
 ## Connections
+- [[Constructivism_1]] - `` [EXTRACTED]
+- [[Ethnography]] - `` [EXTRACTED]
+- [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/Constructivism

@@ -44,7 +44,7 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        const folderOrder = ["communities", "topics", "papers", "authors", "synthesis"]
+        const folderOrder = ["communities", "frameworks", "methods", "topics", "papers", "authors", "synthesis"]
         if (a.isFolder && b.isFolder) {
           const ai = folderOrder.indexOf(a.slugSegment ?? "")
           const bi = folderOrder.indexOf(b.slugSegment ?? "")
@@ -106,7 +106,7 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        const folderOrder = ["communities", "topics", "papers", "authors", "synthesis"]
+        const folderOrder = ["communities", "frameworks", "methods", "topics", "papers", "authors", "synthesis"]
         if (a.isFolder && b.isFolder) {
           const ai = folderOrder.indexOf(a.slugSegment ?? "")
           const bi = folderOrder.indexOf(b.slugSegment ?? "")

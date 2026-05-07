@@ -42,6 +42,11 @@ Foundational for [[Beyond Design and Use Studying Intelligent Technologies (Bail
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Beyond Design and Use Studying Intelligent Technologies (Bailey and Barley)]] - `` [EXTRACTED]
+- [[Critical Theory  Political Economy]] - `` [EXTRACTED]
+- [[Ethnography]] - `` [EXTRACTED]
+- [[Genealogical  Policy Analysis]] - `` [EXTRACTED]
+- [[Labor Process Theory]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

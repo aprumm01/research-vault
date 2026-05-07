@@ -42,6 +42,8 @@ Directly applies [[Behaviorism Cognitivism Constructivism Compared (Ertmer and N
 
 ## Connections
 - [[Cognitive Load Theory]] - `` [EXTRACTED]
+- [[Cognitive Load Theory_1]] - `` [EXTRACTED]
+- [[Information Processing Theory]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

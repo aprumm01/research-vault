@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P53.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Constructivism
 ---
 
 # Cognitive Co-Evolution Model for Design (Cash et al.)
@@ -40,7 +40,9 @@ Empirical design protocol studies; coding and analysis of design session transcr
 Links to [[Designerly Ways of Knowing (Cross 1982)]] on design cognition; relates to [[Anatomy of Prototypes (Lim Stolterman Tenenberg)]] on external representations; connects to [[Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] on supporting design cognition with AI.
 
 ## Connections
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Protocol Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Constructivism

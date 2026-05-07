@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P31.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_and_Future_of_Work
 ---
 
 # Do Artifacts Have Politics? (Winner 1980)
@@ -40,6 +40,9 @@ Conceptual/theoretical essay with historical case analysis; uses specific cases 
 Foundational for [[Automate Infomate Two Faces of Intelligent Technology (Zuboff 1985)]] on technology and power; relates to [[AI Failure Loops in Devalued Work (Kawakami et al.)]] on systemic bias in AI design; connects to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on distributed authority in AI governance.
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

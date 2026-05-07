@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P112.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Constructivism
 ---
 
 # Motivation, Volition, and Performamce
@@ -41,6 +41,8 @@ Motivational design research often relies on self-report measures that may not a
 - Pairs with [[Scaffolding and Achievement in Problem-Based and Inquiry Learning]] on supporting learner persistence
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Constructivism

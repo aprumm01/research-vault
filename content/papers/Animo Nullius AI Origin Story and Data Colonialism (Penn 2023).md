@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P60.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_and_Future_of_Work
 ---
 
 # Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)
@@ -40,6 +40,10 @@ Historical and conceptual analysis; close reading of founding AI researchers' te
 Relates to [[Do Artifacts Have Politics (Winner 1980)]] on technology and power; links to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on AI governance and dispossession; connects to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on theorizing AI origins and assumptions.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Critical Theory  Political Economy]] - `` [EXTRACTED]
+- [[Genealogical  Policy Analysis]] - `` [EXTRACTED]
+- [[Historical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

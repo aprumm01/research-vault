@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P32.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI Impact on Diversity and Job Displacement in ICT (Brown dissertation)
@@ -42,5 +42,8 @@ Relates to [[AI Failure Loops in Devalued Work (Kawakami et al.)]] on occupation
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
+- [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

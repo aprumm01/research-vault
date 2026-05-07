@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P4.pdf"
 type: paper
-community: "Generative UI Tools"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # The GenUI Study (Chen Knearem Li)
@@ -39,4 +39,4 @@ Single company, single tool, homogeneous professional context; results may not t
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Generative UI Tools]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

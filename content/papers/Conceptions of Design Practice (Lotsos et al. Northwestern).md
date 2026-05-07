@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P25.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/AI_in_Design_Education
 ---
 
 # Conceptions of Design Practice (Lotsos et al. Northwestern)
@@ -42,5 +42,6 @@ Relates to [[Educating for Design Character (Boling Gray Smith)]] on design char
 ## Connections
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

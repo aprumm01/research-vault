@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P67.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)
@@ -41,5 +41,9 @@ Links to [[The Future of Work is Blended Not Hybrid (Constantinides et al.)]] on
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
+- [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

@@ -40,6 +40,8 @@ Historical/comparative analysis; review of primary model documents and textbooks
 Links to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on learning theory foundations; relates to [[Instructional Design and Creativity A Response to the Criticized.md]] on ID theory debates; connects to [[HPT Model Applied to Kayak Company (Martin et al.)]] on performance technology applications.
 
 ## Connections
+- [[Constructivism_1]] - `` [EXTRACTED]
+- [[Information Processing Theory]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

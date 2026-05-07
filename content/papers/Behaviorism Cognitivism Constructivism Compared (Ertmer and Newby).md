@@ -41,6 +41,7 @@ Foundational for [[Integrating Unplugged and Plugged for Holistic AI Education (
 
 ## Connections
 - [[Cognitive Load Theory]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Constructivism]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 

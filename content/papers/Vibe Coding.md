@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "AI and Future of Work"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Vibe Coding
@@ -14,4 +14,4 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

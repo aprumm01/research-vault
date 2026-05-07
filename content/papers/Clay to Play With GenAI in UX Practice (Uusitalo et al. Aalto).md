@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P11.pdf"
 type: paper
-community: "Human-AI Creative Collaboration"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human-AI_Creative_Collaboration
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Clay to Play With: GenAI in UX Practice (Uusitalo et al. Aalto)
@@ -38,5 +38,7 @@ Small sample (n=10) from a specific organizational context (Nokia/Aalto collabor
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human-AI_Creative_Collaboration
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

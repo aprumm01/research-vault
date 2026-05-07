@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P290.pdf"
 type: paper
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # Stolovitch Beresford 2012--evoluation of HPT (1)
@@ -41,6 +41,8 @@ Historical account reflects the perspectives of HPT's dominant figures; alternat
 - Connects to [[E1C01_1 10142009 5]] (Wilmoth et al. on HPT models)
 
 ## Connections
+- [[Historical Analysis]] - `` [EXTRACTED]
 - [[Human Performance Technology]] - `` [EXTRACTED]
+- [[Human Performance Technology (HPT)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

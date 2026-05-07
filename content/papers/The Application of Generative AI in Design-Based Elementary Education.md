@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P198.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/AI_in_Design_Education
 ---
 
 # The Application of Generative AI in Design-Based Elementary Education
@@ -14,4 +14,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P296.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Instructional_Design_Theory
 ---
 
 # Van Tiem et al. 2004--performance tech defined
@@ -41,6 +41,8 @@ The HPT model's comprehensiveness can make it difficult to apply; practitioners 
 - Pairs with [[The Current State of Human]] (Cho et al. on HPT's intellectual structure)
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Human Performance Technology (HPT)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

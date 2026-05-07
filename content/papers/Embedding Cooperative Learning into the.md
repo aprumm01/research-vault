@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P248.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/AI_and_Future_of_Work
 ---
 
 # Embedding Cooperative Learning into the
@@ -36,6 +36,7 @@ Conceptual synthesis and design framework development; literature review of coop
 Written in 1998 before current AI and adaptive learning technology; cooperative learning principle translation to software may require significant update for modern platforms; the framework is descriptive rather than empirically validated in ILS contexts.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

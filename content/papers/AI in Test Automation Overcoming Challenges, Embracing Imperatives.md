@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P90.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Studio_Pedagogy
 ---
 
 # AI in Test Automation: Overcoming Challenges, Embracing Imperatives
@@ -14,4 +14,4 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

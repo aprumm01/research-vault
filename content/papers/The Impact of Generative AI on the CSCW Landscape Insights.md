@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P128.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Studio_Pedagogy
 ---
 
 # The Impact of Generative AI on the CSCW Landscape: Insights
@@ -41,8 +41,9 @@ Panel/position paper format; reflects the views of a particular group of senior 
 - Pairs with [[ASCILITE 2024]] on AI literacy needs in HCI and UX education
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

@@ -40,7 +40,10 @@ Theoretical/conceptual paper; comparative analysis of knowledge structures acros
 Foundational for [[Educating for Design Character (Boling Gray Smith)]] and [[Conceptions of Design Practice (Lotsos et al. Northwestern)]]; relates to [[Anatomy of Prototypes (Lim Stolterman Tenenberg)]] on design knowledge; informs [[Developing Human Experience Experts (Cheatham Miami U)]] on design epistemology.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]
+- [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

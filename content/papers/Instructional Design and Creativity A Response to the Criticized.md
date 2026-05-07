@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P77.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Constructivism
 ---
 
 # Instructional Design and Creativity: A Response to the Criticized
@@ -40,7 +40,12 @@ Response paper; close analysis of Dick's (1995) arguments; counterargument devel
 Links to [[Designerly Ways of Knowing (Cross 1982)]] on design vs. science epistemology; relates to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on constructivist approaches to instruction; connects to [[Characteristics and Evolution of Foundational Instructional.md]] on ID model development.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Constructivism_1]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Reflective Practice]] - `` [EXTRACTED]
+- [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Constructivism

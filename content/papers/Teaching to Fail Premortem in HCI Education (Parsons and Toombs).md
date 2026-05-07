@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P59.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/AI_in_Design_Education
 ---
 
 # Teaching to Fail: Premortem in HCI Education (Parsons and Toombs)
@@ -40,7 +40,9 @@ Classroom implementation study; qualitative analysis of student premortem artifa
 Relates to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on design competency development; links to [[Educating for Design Character (Boling Gray Smith)]] on reflective design pedagogy; connects to [[Tracing the Invisible Students Judgment in AI Design Work (Naik et al. Purdue)]] on student judgment in design.
 
 ## Connections
+- [[Action Research]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

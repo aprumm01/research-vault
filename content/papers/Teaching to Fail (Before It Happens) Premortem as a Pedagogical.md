@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P196.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/AI_in_Design_Education
 ---
 
 # Teaching to Fail (Before It Happens): Premortem as a Pedagogical
@@ -37,7 +37,10 @@ Pedagogical effectiveness is documented qualitatively; longitudinal evidence for
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Case Study]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Metacognitive Support]] - `` [EXTRACTED]
+- [[Organizational Learning Theory]] - `` [EXTRACTED]
+- [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

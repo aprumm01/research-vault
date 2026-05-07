@@ -40,6 +40,7 @@ Systematic analysis of existing GenAI products (chatbots, image generators, code
 Relates to [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] on GenAI UI design research; links to [[To Engage or Not with AI for Critical Judgments (Lebovitz et al.)]] on human-AI judgment in AI-mediated tasks; connects to [[Making the Right Thing HCI and Responsible AI (Jung et al. CMU)]] on RAI in AI product design.
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

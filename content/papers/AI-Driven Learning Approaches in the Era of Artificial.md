@@ -37,6 +37,8 @@ The review spans very heterogeneous AI approaches and educational contexts; evid
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Case Study]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 

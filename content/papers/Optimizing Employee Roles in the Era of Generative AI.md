@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P113.pdf"
 type: paper
-community: "Human-AI Creative Collaboration"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human-AI_Creative_Collaboration
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Optimizing Employee Roles in the Era of Generative AI
@@ -15,4 +15,4 @@ tags:
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human-AI_Creative_Collaboration
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

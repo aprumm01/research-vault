@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P338.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_in_Design_Education
 ---
 
 # ASCILITE 2024
@@ -44,4 +44,4 @@ Single-institution sample; Melbourne-based HCI students may not represent UX edu
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

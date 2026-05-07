@@ -41,6 +41,7 @@ Theoretical/review paper; critical analysis of media comparison research methodo
 Directly paired with [[Will Media Influence Learning Reframing the Debate (Kozma 1994)]] as classic opposing views; relates to [[Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)]] on cognitive multimedia learning; connects to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on instructional theory.
 
 ## Connections
+- [[Information Processing Theory]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Will Media Influence Learning Reframing the Debate (Kozma 1994)]] - `` [EXTRACTED]
 

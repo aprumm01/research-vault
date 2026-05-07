@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P45.pdf"
 type: paper
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # HPT Model Applied to Kayak Company (Martin et al.)
@@ -40,8 +40,10 @@ Applied case study; performance analysis at a kayak manufacturing company; inter
 Relates to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on learning theory foundations of instructional design; connects to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on technology in work performance contexts; links to broader ID literature on performance consulting.
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
+- [[Human Performance Technology (HPT)]] - `` [EXTRACTED]
 - [[Kirkpatrick Evaluation Model]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

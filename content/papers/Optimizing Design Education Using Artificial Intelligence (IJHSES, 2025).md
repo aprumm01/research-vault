@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P177.pdf"
 type: paper
-community: "Instructional Design Theory"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Optimizing Design Education Using Artificial Intelligence (IJHSES, 2025)
@@ -38,5 +38,7 @@ Single institution in China; narrow focus on color composition limits generaliza
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

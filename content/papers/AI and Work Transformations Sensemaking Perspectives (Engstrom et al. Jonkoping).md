@@ -40,7 +40,11 @@ Qualitative, explorative, and interactive; 23 focus groups across four large Swe
 Relates to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on technology and workplace learning; links to [[Learning from Notes Groupware Implementation (Orlikowski 2002)]] on organizational sensemaking and technology; connects to [[Designing Job Characteristics for Hybrid Intelligence (Yang and Jiang)]] on AI-integrated work design.
 
 ## Connections
+- [[Organizational Learning Theory]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
+- [[Sensemaking Theory]] - `` [EXTRACTED]
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
+- [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

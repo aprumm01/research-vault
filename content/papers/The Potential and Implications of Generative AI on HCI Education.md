@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P131.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Constructivism
 ---
 
 # The Potential and Implications of Generative AI on HCI Education
@@ -41,7 +41,11 @@ Single institution, single module, single instructor perspective. Survey-based s
 - Pairs with [[The Impact of Generative AI on the CSCW Landscape Insights]] on GenAI's impact on HCI scholarship and education
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
+- [[Reflective Practice]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Constructivism

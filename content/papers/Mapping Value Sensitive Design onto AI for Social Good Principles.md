@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P174.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_and_Future_of_Work
 ---
 
 # Mapping Value Sensitive Design onto AI for Social Good Principles
@@ -36,7 +36,9 @@ Conceptual/theoretical; no original empirical data; framework development illust
 Theoretical framework not yet empirically validated; AI4SG principles remain somewhat fuzzy and contested across different stakeholder groups; the contact tracing example is illustrative rather than evaluative; operationalizing the framework in practice requires significant additional work.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Value-Sensitive Design]] - `` [EXTRACTED]
+- [[Value-Sensitive Design (VSD)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

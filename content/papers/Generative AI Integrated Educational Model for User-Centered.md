@@ -44,5 +44,6 @@ Single-institution study; Chinese university context may limit generalizability.
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P24.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/AI_in_Design_Education
 ---
 
 # Tracing the Invisible: Students Judgment in AI Design Work (Naik et al. Purdue)
@@ -41,7 +41,9 @@ Relates to [[Educating for Design Character (Boling Gray Smith)]] on character a
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Protocol Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P78.pdf"
 type: paper
-community: "Human Performance Technology"
+community: "Instructional Design Theory"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human_Performance_Technology
+  - community/Instructional_Design_Theory
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive
@@ -41,8 +41,9 @@ Relates to [[AI Impact on Diversity and Job Displacement in ICT (Brown dissertat
 
 ## Connections
 - [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human_Performance_Technology
+#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

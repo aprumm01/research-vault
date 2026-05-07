@@ -1,20 +1,21 @@
 ---
 source_file: "research_docs/P137.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Constructivism
 ---
 
 # UX Designers Pushing AI in the Enterprise - Adaptive UIs
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Constructivism
 
 ## Summary
 Zimmerman, Oh, Yildirim, Kass, Tung, and Forlizzi at Carnegie Mellon and Accenture argue that UX designers have a unique opportunity to push adaptive user interfaces (AUIs) into enterprise settings, where AI can learn from workers' repetitive actions and automate the most routine tasks. They make the case that small amounts of AI can enrich enterprise UIs in practical ways, and that UX designers are well-positioned to champion and shape responsible AI integration in organizational software.

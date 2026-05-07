@@ -41,6 +41,8 @@ Links to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on the
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Ethnography]] - `` [EXTRACTED]
+- [[Sensemaking Theory]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI

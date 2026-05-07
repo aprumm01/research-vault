@@ -1,11 +1,11 @@
 ---
 type: community
-members: 68
+members: 74
 ---
 
 # GenAI in UX and Design Practice
 
-**Members:** 68 nodes
+**Members:** 74 nodes
 
 ## Members
 - [['Clay to Play With' Generative AI Tools in UX and Industrial Design Practice]] - research_docs/P216.pdf
@@ -13,69 +13,75 @@ members: 68
 - [[A Comparative Analysis_1]] - research_docs/P268.pdf
 - [[A Comparative Analysis_2]] - research_docs/P339.pdf
 - [[A Comparative Analysis]] - research_docs/P97.pdf
+- [[A Formative Study to Explore the Design of Generative UI Tools]] - research_docs/P167.pdf
 - [[A Method to Evaluate the UX of Systems Integrating AI (Springer, 2024)]] - research_docs/P168.pdf
-- [[AI Assistance in Enterprise UX Workflows (Zhu et al. Kookmin)]] - research_docs/P36.pdf
+- [[AI Rivalry as a Craft Writing Professionals (Varanasi et al. NYU)]] - research_docs/P16.pdf
 - [[Accelerating Innovation with GenAI Digital Prototyping (Bilgram and Laarmann)]] - research_docs/P61.pdf
-- [[Art Education in the Era of Artificial Intelligence (iJET, 2025)]] - research_docs/P243.pdf
-- [[Artificial Intelligence A Promising Technology (AI & Society, 2024)]] - research_docs/P305.pdf
-- [[ChatGPT as a Tool in Higher Education Analysis of Student Utilization and Perception]] - research_docs/P250.pdf
+- [[Beyond Automation Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)]] - research_docs/P1.pdf
+- [[Beyond Replacement or Enhancement How AI Transforms Work Through Simultaneous Automation and Augmentation]] - research_docs/P229.pdf
+- [[Cognitive Offloading and De-skilling]]
 - [[Collaboration with Conversational AI Assistants for UX Evaluation Questions and How to Ask Them]] - research_docs/P253.pdf
 - [[Collaboration with Conversational AI for UX Evaluation (Kuang et al.)]] - research_docs/P37.pdf
 - [[Comparing Grounded Theory and Topic Modeling Extreme Divergence or Complementary Tools (Marquette, 2017)]] - research_docs/P152.pdf
 - [[Computer-Mediated]] - research_docs/P289.pdf
 - [[Computer-Mediated Intersensory Learning Model for Students with Learning Disabilities (Seok et al.)]] - research_docs/P193.pdf
+- [[Constrained Design Space Explorations Utilizing Generative AI]] - research_docs/P210.pdf
+- [[Creative Ambiguity]]
+- [[Creative Ambiguity and Cognitive Tension in GenAI Tools (Dalsgaard)]] - research_docs/P8.pdf
+- [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] - research_docs/P7.pdf
+- [[Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (SÃ¼ner-Pla-CerdÃ  et al., AI & Society 2025)]] - research_docs/P234.pdf
 - [[Designers Articulation of Design Judgements in Cross-Cultural User Research]] - research_docs/P258.pdf
 - [[Do Learners Really Know Best Urban Legends in Education]] - research_docs/P261.pdf
-- [[Electronic copy available at httpsssrn.comabstract=3078224]] - research_docs/P342.pdf
-- [[Embedding Cooperative Learning into the]] - research_docs/P248.pdf
 - [[Embedding Cooperative Learning into the_1]] - research_docs/P332.pdf
-- [[Expert Systems Commercializing Artificial Intelligence (IEEE Annals, 1993)]] - research_docs/P312.pdf
 - [[Exploring Resistance and Other Oppositional Responses to AI]] - research_docs/P154.pdf
+- [[Exploring the Impact of AI Language Model ChatGPT on User Experience (IJTIM)]] - research_docs/P266.pdf
+- [[Formative Study on GenUI Tools (Chen et al. Google DeepMind)]] - research_docs/P3.pdf
 - [[From Disruptions to Discussions How GenAI Impacts Human Interactions in Software Development]] - research_docs/P272.pdf
 - [[Full Terms & Conditions of access and use can be found at]] - research_docs/P336.pdf
+- [[GenAI in UX Research Industry Study (Takafoli et al. Waterloo)]] - research_docs/P15.pdf
 - [[GenAI in UX and Design Practice]]
-- [[Generative AI and the Automating of Academia (Postdigital Science, 2024)]] - research_docs/P313.pdf
-- [[Generative AI in User Experience Design and Research How Do UX Practitioners, Teams, and Companies Use GenAI in Industry]] - research_docs/P217.pdf
-- [[How to Be Universal Some Cybernetic Strategies, 1943-70]] - research_docs/P104.pdf
+- [[Generative UI Tools]]
+- [[Human-AI Creative Collaboration]]
 - [[I202 Social Informatics Week 2 Problem Identification (Course Material)]] - research_docs/P314.pdf
 - [[Integrating AI in Literacy Lessons for Elementary Classrooms A Co-Design Approach]] - research_docs/P279.pdf
 - [[Intellectual Assembly Lines The Rationalization of Managerial, Professional, and Technical Work (Perrolle, 1984)]] - research_docs/P315.pdf
-- [[LLM Role in UI UX Design Systematic Literature Review (Ahmed and Imran)]] - research_docs/P62.pdf
-- [[Learning from AI’s Previous Awakenings The History of Expert Systems (Brock, 2018)]] - research_docs/P317.pdf
+- [[Job Crafting Theory]]
+- [[Labor Process Theory]]
 - [[Manufacturing an Artificial Intelligence Revolution (Katz, 2017)]] - research_docs/P281.pdf
-- [[Methodology, Legend, and Rhetoric The Constructions of AI by Academia and Industry (Eynon & Young, 2020)]] - research_docs/P318.pdf
-- [[Motivation, Volition, and Performamce]] - research_docs/P112.pdf
+- [[Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]] - research_docs/P5.pdf
 - [[Multimedia Instruction (Mayer, 2014)]] - research_docs/P110.pdf
+- [[Optimizing Employee Roles in the Era of Generative AI]] - research_docs/P113.pdf
+- [[Optimizing Employee Roles in the Era of Generative AI_1]] - research_docs/P178.pdf
 - [[PRINCIPLES]] - research_docs/P341.pdf
 - [[Perceptions and Integration of Generative AI in Creative Practices and Industries]] - research_docs/P180.pdf
 - [[Perceptions of GenAI in Creative Industries Scoping Review (Tsao et al.)]] - research_docs/P54.pdf
 - [[Performance Technology Foundation and Field Overview (Van Tiem et al., 2004)]] - research_docs/P139.pdf
 - [[Principles of Instructional Design (GagnÃ©, Briggs & Wager)]] - research_docs/P101.pdf
 - [[Principles of Instructional Design (GagnÃ©, Briggs & Wager)_1]] - research_docs/P273.pdf
-- [[Profound Learning for Human Flourishing]] - research_docs/P116.pdf
 - [[Program Evaluation Concepts and Practices (Fitzpatrick, Sanders & Worthen)_1]] - research_docs/P269.pdf
 - [[Program Evaluation Concepts and Practices (Fitzpatrick, Sanders & Worthen)]] - research_docs/P98.pdf
+- [[Prompt Engineering]]
 - [[Reiser (2018)--Chapter 1 What field]] - research_docs/P287.pdf
-- [[Research on Teaching Methods for Computer Operating Systems]] - research_docs/P118.pdf
 - [[SpringerBriefs in Applied Sciences and Technology]] - research_docs/P293.pdf
-- [[Steering Blind Algorithms Exploring the Impact of Generative AI on the Role of Designers]] - research_docs/P164.pdf
+- [[The Deskilling Controversy (Attewell, 1987)]] - research_docs/P324.pdf
 - [[The Electronic Sweatshop How Computers Are Transforming the Office (Review, 1992)]] - research_docs/P321.pdf
 - [[The Expert Systems Business How It Grew and Died (IEEE Annals, 2018)]] - research_docs/P325.pdf
-- [[The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)]] - research_docs/P322.pdf
+- [[The GenUI Study (Chen Knearem Li)]] - research_docs/P4.pdf
+- [[The GenUI Study Exploring the Design of Generative UI Tools to]] - research_docs/P200.pdf
 - [[Theoretical Foundations of Educational Communications and Technology (Spector, 2008)]] - research_docs/P122.pdf
 - [[Theory of Transactional Distance (Moore)]] - research_docs/P111.pdf
+- [[Thinking through Prompting Cognitive Mediation (Dalsgaard)]] - research_docs/P9.pdf
 - [[UI UX for Generative AI Taxonomy Trend Challenge (Kim et al.)]] - research_docs/P63.pdf
-- [[Understanding Collaboration Designers and Decision-making AI (Ogawa et al.)]] - research_docs/P55.pdf
 - [[Understanding How AI-Driven Innovations Reshape Human Resource Management and Organizational Effectiveness]] - research_docs/P165.pdf
 - [[Understanding the Past, Present, and Future of Design Fictions (Muller & Fiesler, CHI 2020)]] - research_docs/P228.pdf
-- [[User Experience Design Professionals' Perceptions of Generative Artificial Intelligence]] - research_docs/P208.pdf
 - [[User Experience Design Professionals' Perceptions of Generative Artificial Intelligence_1]] - research_docs/P242.pdf
 - [[User Experience and AI Assessing the Qualities of AI-Infused Systems (Springer)]] - research_docs/P207.pdf
-- [[Van Tiem et al. 2004--performance tech defined]] - research_docs/P296.pdf
+- [[Using Generative AI Tools in Collaborative UX Design Courses]] - research_docs/P209.pdf
 - [[What Field Did You Say You Were In Defining and Naming Our Discipline (Reiser, 2018)]] - research_docs/P117.pdf
 - [[Why New Technologies Do Not Transform Incumbents (Choudary, HBR)]] - research_docs/P155.pdf
+- [[Wizard-of-Oz Study]]
+- [[arXiv2502.08854v2 cs.HC 22 Jun 2025 Generative AI & Changing Work Systema...]] - research_docs/P302.pdf
 - [[e-Learning and the Science of Instruction (Clark & Mayer)]] - research_docs/P83.pdf
-- [[iJET  Vol. 20 No. 2 (2025) International Journal of Emerging Technologies in...]] - research_docs/P327.pdf
 
 ## Live Query (requires Dataview plugin)
 
@@ -85,16 +91,17 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 18 edges to [[_COMMUNITY_AI in Design Education]]
-- 12 edges to [[_COMMUNITY_AI and Future of Work]]
-- 11 edges to [[_COMMUNITY_HCI Education and Pedagogy]]
-- 10 edges to [[_COMMUNITY_Human-AI Creative Collaboration]]
-- 6 edges to [[_COMMUNITY_Responsible AI Governance]]
-- 6 edges to [[_COMMUNITY_Prompt Engineering]]
-- 4 edges to [[_COMMUNITY_Generative UI Tools]]
-- 4 edges to [[_COMMUNITY_Metacognitive Support]]
-- 3 edges to [[_COMMUNITY_Instructional Design Theory]]
+- 35 edges to [[_COMMUNITY_AI in Design Education]]
+- 32 edges to [[_COMMUNITY_AI and Future of Work]]
+- 29 edges to [[_COMMUNITY_Survey  Questionnaire Study]]
+- 17 edges to [[_COMMUNITY_Constructivism]]
+- 9 edges to [[_COMMUNITY_Studio Pedagogy]]
+- 4 edges to [[_COMMUNITY_Instructional Design Theory]]
 - 2 edges to [[_COMMUNITY_Workplace Learning and AI]]
 
 ## Top bridge nodes
-- [[GenAI in UX and Design Practice]] - degree 143, connects to 2 communities
+- [[The Deskilling Controversy (Attewell, 1987)]] - degree 7, connects to 4 communities
+- [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]] - degree 7, connects to 3 communities
+- [[Thinking through Prompting Cognitive Mediation (Dalsgaard)]] - degree 7, connects to 3 communities
+- [[Beyond Automation Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)]] - degree 6, connects to 3 communities
+- [[AI Rivalry as a Craft Writing Professionals (Varanasi et al. NYU)]] - degree 6, connects to 2 communities

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P224.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/AI_in_Design_Education
 ---
 
 # AI Literacy and Attitudes Towards AI in Design Education: A
@@ -36,8 +36,11 @@ Survey study with design students; AI literacy assessment instruments; quantitat
 Self-reported literacy measures may not accurately capture actual capabilities; attitudes toward AI are rapidly shifting as tools evolve; the design student sample may not generalize across design disciplines or geographic contexts.
 
 ## Connections
+- [[AI Literacy Framework]] - `` [EXTRACTED]
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Job Displacement and Reskilling]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

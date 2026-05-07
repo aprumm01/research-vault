@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P68.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Promoting Students Deep Learning via Design-Based Learning (Weng et al.)
@@ -41,5 +41,7 @@ Relates to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
+- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

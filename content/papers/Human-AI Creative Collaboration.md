@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "Human-AI Creative Collaboration"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Human-AI_Creative_Collaboration
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Human-AI Creative Collaboration
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Human-AI_Creative_Collaboration
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

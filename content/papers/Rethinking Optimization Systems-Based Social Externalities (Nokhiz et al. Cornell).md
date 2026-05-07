@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P50.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_and_Future_of_Work
 ---
 
 # Rethinking Optimization: Systems-Based Social Externalities (Nokhiz et al. Cornell)
@@ -37,6 +37,10 @@ The economics metaphor may oversimplify complex social dynamics; operationalizin
 
 ## Connections
 - [[Algorithmic Bias and Fairness]] - `` [EXTRACTED]
+- [[Case Study]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Organizational Learning Theory]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

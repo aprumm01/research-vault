@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P118.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/Constructivism
 ---
 
 # Research on Teaching Methods for Computer Operating Systems
@@ -41,6 +41,9 @@ Military university context with specific disciplinary constraints limits genera
 - Pairs with [[Scaffolding and Achievement in Problem-Based and Inquiry Learning]] on active learning in technical subjects
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Constructivism_1]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/Constructivism

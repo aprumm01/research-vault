@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P7.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)
@@ -37,8 +37,11 @@ Reddit-sourced data skews toward vocal, tech-savvy practitioners and may not rep
 
 ## Connections
 - [[Cognitive Offloading and De-skilling]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Design Judgment]] - `` [EXTRACTED]
+- [[Discourse Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

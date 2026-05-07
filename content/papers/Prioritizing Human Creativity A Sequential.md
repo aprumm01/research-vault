@@ -37,6 +37,7 @@ Single institutional study; the optimal sequencing timing (how long before AI in
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Constructivism_1]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 

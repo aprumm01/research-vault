@@ -37,6 +37,10 @@ Activity Theory is complex and can be difficult to operationalize in design prac
 
 ## Connections
 - [[Activity Theory]] - `` [EXTRACTED]
+- [[Activity Theory_1]] - `` [EXTRACTED]
+- [[Case Study]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Organizational Learning Theory]] - `` [EXTRACTED]
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 

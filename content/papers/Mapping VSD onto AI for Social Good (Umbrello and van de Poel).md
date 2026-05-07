@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P19.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_and_Future_of_Work
 ---
 
 # Mapping VSD onto AI for Social Good (Umbrello and van de Poel)
@@ -40,7 +40,10 @@ Theoretical/conceptual paper with applied illustration using a SARS-CoV-2 contac
 Links to [[Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)]] on practitioner mindset change; relates to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on participatory governance; informs [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]] on operationalizing ethical principles.
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Value-Sensitive Design]] - `` [EXTRACTED]
+- [[Value-Sensitive Design (VSD)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

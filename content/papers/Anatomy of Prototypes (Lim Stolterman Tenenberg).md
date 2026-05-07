@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P28.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Constructivism
 ---
 
 # Anatomy of Prototypes (Lim Stolterman Tenenberg)
@@ -41,7 +41,9 @@ Links to [[Designerly Ways of Knowing (Cross 1982)]] on modelling as core design
 
 ## Connections
 - [[Cognitive Co-Evolution Model for Design (Cash et al.)]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Constructivism

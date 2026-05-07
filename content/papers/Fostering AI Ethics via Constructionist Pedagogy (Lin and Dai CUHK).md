@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P70.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_in_Design_Education
 ---
 
 # Fostering AI Ethics via Constructionist Pedagogy (Lin and Dai CUHK)
@@ -40,7 +40,9 @@ Design-based curriculum implementation at AAAI 2025; three classroom activities 
 Links to [[Epistemic Insights AI Ethics via Constructionism (Lin and Dai CUHK)]] (companion paper by same authors); relates to [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]] on holistic AI pedagogy; connects to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on constructivist theory.
 
 ## Connections
+- [[AI Literacy Framework]] - `` [EXTRACTED]
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Constructionism]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

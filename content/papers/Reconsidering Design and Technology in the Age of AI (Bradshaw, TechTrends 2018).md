@@ -37,6 +37,7 @@ Perspective piece without empirical grounding; written in 2018 when specific AI 
 
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

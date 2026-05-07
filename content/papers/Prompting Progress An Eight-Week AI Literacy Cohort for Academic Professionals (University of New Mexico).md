@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P186.pdf"
 type: paper
-community: "Prompt Engineering"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prompt_Engineering
+  - community/AI_in_Design_Education
 ---
 
 # Prompting Progress: An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico)
@@ -37,6 +37,8 @@ Single institution program evaluation; self-reported confidence measures may not
 
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
+- [[AI Literacy Framework]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prompt_Engineering
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

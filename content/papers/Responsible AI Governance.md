@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "Responsible AI Governance"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_in_Design_Education
 ---
 
 # Responsible AI Governance
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -42,7 +42,9 @@ Links to [[Integrating Unplugged and Plugged for Holistic AI Education (Dai)]] (
 
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
+- [[AI Literacy Framework]] - `` [EXTRACTED]
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Constructionism]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P116.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/AI_and_Future_of_Work
 ---
 
 # Profound Learning for Human Flourishing
@@ -41,6 +41,7 @@ Philosophical and conceptual analysis; synthesis of humanistic education researc
 - Pairs with [[Reiser (2018)--Chapter 1 What field]] on the purposes and identity of educational technology
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

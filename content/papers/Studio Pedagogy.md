@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Studio_Pedagogy
 ---
 
 # Studio Pedagogy
@@ -14,4 +14,4 @@ tags:
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

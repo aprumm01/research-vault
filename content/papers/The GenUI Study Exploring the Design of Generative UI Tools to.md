@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P200.pdf"
 type: paper
-community: "Generative UI Tools"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # The GenUI Study: Exploring the Design of Generative UI Tools to
@@ -38,5 +38,6 @@ Large-scale deployment studies face ecological validity trade-offs; the prototyp
 ## Connections
 - [[Generative UI Tools]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

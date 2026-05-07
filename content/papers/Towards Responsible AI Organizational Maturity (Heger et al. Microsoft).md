@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P18.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)
@@ -40,7 +40,10 @@ Qualitative interviews and co-design sessions with 90 RAI experts across industr
 Relates to [[Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)]] on measuring practitioner attitudes; connects to [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] on participatory governance; informs [[Making the Right Thing HCI and Responsible AI (Jung et al. CMU)]] on early-stage RAI practice.
 
 ## Connections
+- [[Participatory Design Sessions]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P175.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/Constructivism
 ---
 
 # Method in their madness: Explaining how
@@ -37,7 +37,9 @@ Ethnographic study of specific design contexts; generalizability across design d
 
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
+- [[Ethnography]] - `` [EXTRACTED]
 - [[Metacognitive Support]] - `` [EXTRACTED]
+- [[Reflective Practice]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/Constructivism

@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P282.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/Constructivism
 ---
 
 # Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy:
@@ -40,4 +40,4 @@ Single course context; epistemic development is difficult to measure rigorously;
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/Constructivism

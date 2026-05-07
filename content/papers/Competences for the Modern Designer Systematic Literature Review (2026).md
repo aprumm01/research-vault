@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P232.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/Constructivism
 ---
 
 # Competences for the Modern Designer: Systematic Literature Review (2026)
@@ -15,4 +15,4 @@ tags:
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Metacognitive Support]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/Constructivism

@@ -41,7 +41,9 @@ Relates to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on t
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Historical Analysis]] - `` [EXTRACTED]
 - [[Hybrid Intelligence]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

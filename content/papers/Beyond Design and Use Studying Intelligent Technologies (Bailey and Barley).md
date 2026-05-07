@@ -41,6 +41,8 @@ Links to [[Activity Theory for Workplace Learning Technologies (Martinez Marroqu
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
+- [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

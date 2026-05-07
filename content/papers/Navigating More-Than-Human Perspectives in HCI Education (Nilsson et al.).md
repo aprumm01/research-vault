@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P58.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/AI_in_Design_Education
 ---
 
 # Navigating More-Than-Human Perspectives in HCI Education (Nilsson et al.)
@@ -40,6 +40,8 @@ Pedagogical action research; design studio courses incorporating more-than-human
 Relates to [[AI-assisted Learning in HCI Education (Heyer et al. Malmo)]] (same institutional context, Malmö); links to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on design practice evolution; connects to [[Do Artifacts Have Politics (Winner 1980)]] on technology's non-human political entanglements.
 
 ## Connections
+- [[Action Research]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Thematic Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

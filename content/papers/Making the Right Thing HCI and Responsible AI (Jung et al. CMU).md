@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P17.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_and_Future_of_Work
 ---
 
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
@@ -36,8 +36,11 @@ Three design experiments: (1) conceptual design experiment, (2) a probe study ex
 Design experiments are exploratory rather than evaluative; the practitioner sample may not reflect the diversity of AI development contexts globally; the proposed approach requires organizational willingness to invest in early-stage ethics work that may not always exist.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Design-Based Research]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Research through Design]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

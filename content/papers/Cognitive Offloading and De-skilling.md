@@ -1,11 +1,11 @@
 ---
 source_file: ""
 type: paper
-community: "HCI Education and Pedagogy"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Cognitive Offloading and De-skilling
@@ -14,4 +14,4 @@ tags:
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

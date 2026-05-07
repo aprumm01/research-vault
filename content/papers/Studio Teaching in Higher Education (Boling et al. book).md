@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P52.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Constructivism
 ---
 
 # Studio Teaching in Higher Education (Boling et al. book)
@@ -40,6 +40,9 @@ Edited scholarly volume; empirical studies, theoretical essays, and case analyse
 Links to [[Educating for Design Character (Boling Gray Smith)]] (same authors, related arguments); relates to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on designer identity; connects to [[Designerly Ways of Knowing (Cross 1982)]] on design epistemology.
 
 ## Connections
+- [[Constructivism_1]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Constructivism

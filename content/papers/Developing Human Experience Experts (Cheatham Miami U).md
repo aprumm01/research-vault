@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P23.pdf"
 type: paper
-community: "Workplace Learning and AI"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Workplace_Learning_and_AI
+  - community/AI_in_Design_Education
 ---
 
 # Developing Human Experience Experts (Cheatham Miami U)
@@ -42,7 +42,9 @@ Relates to [[Educating for Design Character (Boling Gray Smith)]] on character-c
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Activity Theory]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
+- [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Workplace_Learning_and_AI
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

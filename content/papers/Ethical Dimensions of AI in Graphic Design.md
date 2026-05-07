@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P93.pdf"
 type: paper
-community: "HCI Education and Pedagogy"
+community: "Studio Pedagogy"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
+  - community/Studio_Pedagogy
 ---
 
 # Ethical Dimensions of AI in Graphic Design
@@ -42,6 +42,8 @@ Literature review rather than empirical study. The field moves faster than acade
 - Relates to [[Examining the Interplay of Efficiency (AI Workplace)]] on AI's labor displacement paradoxes
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
+- [[Systematic Literature Review]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy
+#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

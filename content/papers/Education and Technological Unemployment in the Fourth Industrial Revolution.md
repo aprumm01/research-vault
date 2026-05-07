@@ -37,6 +37,7 @@ Highly normative and theoretical; the "homo collaborans" framework is prescripti
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Job Displacement and Reskilling]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

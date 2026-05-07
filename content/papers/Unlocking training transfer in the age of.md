@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P134.pdf"
 type: paper
-community: "Responsible AI Governance"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
+  - community/AI_in_Design_Education
 ---
 
 # Unlocking training transfer in the age of
@@ -41,6 +41,7 @@ Conceptual paper proposing future directions rather than reporting empirical evi
 - Pairs with [[Fr om code to collaboration]] on changing skill requirements in AI-transformed workplaces
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

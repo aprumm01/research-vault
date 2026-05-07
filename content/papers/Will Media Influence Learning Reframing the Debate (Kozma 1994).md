@@ -41,6 +41,8 @@ Conceptual/theoretical paper; systematic response to Clark (1994); reviews empir
 Directly responds to [[Media Will Never Influence Learning (Clark 1994)]]; relates to [[Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)]] on multimedia learning principles; connects to [[Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]] on learning theory for instruction.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Constructivism_1]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

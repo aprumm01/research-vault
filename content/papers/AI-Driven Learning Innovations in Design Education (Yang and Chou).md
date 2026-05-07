@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P22.pdf"
 type: paper
-community: "AI in Design Education"
+community: "Constructivism"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - community/Constructivism
 ---
 
 # AI-Driven Learning Innovations in Design Education (Yang and Chou)
@@ -41,5 +41,6 @@ Relates to [[Educating for Design Character (Boling Gray Smith)]] on design char
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Constructivism_1]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education
+#graphify/document #graphify/EXTRACTED #community/Constructivism

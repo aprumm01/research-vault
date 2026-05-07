@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P9.pdf"
 type: paper
-community: "Prompt Engineering"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prompt_Engineering
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Thinking through Prompting: Cognitive Mediation (Dalsgaard)
@@ -36,8 +36,12 @@ Conceptual/theoretical paper using design case analysis and cross-disciplinary s
 Primarily theoretical with limited empirical grounding; the analogy between prompting and design sketching may break down in contexts where prompting is rote or task-driven rather than exploratory.
 
 ## Connections
+- [[Case Study]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Creative Ambiguity]] - `` [EXTRACTED]
+- [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
+- [[Reflective Practice]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prompt_Engineering
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

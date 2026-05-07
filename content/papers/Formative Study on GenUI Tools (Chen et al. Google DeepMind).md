@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P3.pdf"
 type: paper
-community: "Generative UI Tools"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Formative Study on GenUI Tools (Chen et al. Google DeepMind)
@@ -38,6 +38,7 @@ Study was conducted within a single large software company with a state-of-the-a
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Generative UI Tools]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[The GenUI Study (Chen Knearem Li)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

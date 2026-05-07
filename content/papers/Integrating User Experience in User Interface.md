@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P280.pdf"
 type: paper
-community: "Metacognitive Support"
+community: "AI in Design Education"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - community/AI_in_Design_Education
 ---
 
 # Integrating User Experience in User Interface
@@ -37,7 +37,8 @@ Case study design limits generalizability; the integration model requires organi
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
+- [[Case Study]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support
+#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

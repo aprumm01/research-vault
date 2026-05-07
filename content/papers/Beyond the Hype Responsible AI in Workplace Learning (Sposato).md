@@ -40,6 +40,8 @@ Integrative literature review; 180 papers from multiple databases; Boell and Cec
 Relates to [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] on workplace learning technology fit; links to [[AI and Work Transformations Sensemaking Perspectives (Engstrom et al. Jonkoping)]] on sensemaking in AI adoption; connects to [[Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)]] on responsible AI practices.
 
 ## Connections
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Organizational Learning Theory]] - `` [EXTRACTED]
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
 

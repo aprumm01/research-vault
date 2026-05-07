@@ -41,6 +41,9 @@ Relates to [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Sh
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
+- [[Historical Analysis]] - `` [EXTRACTED]
 - [[Job Displacement and Reskilling]] - `` [EXTRACTED]
+- [[Task-Based Model of Automation]] - `` [EXTRACTED]
 
 #graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

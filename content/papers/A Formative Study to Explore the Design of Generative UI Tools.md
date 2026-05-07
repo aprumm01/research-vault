@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P167.pdf"
 type: paper
-community: "Generative UI Tools"
+community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Generative_UI_Tools
+  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # A Formative Study to Explore the Design of Generative UI Tools
@@ -38,5 +38,6 @@ Needs-finding study informs design requirements but does not evaluate specific i
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Generative UI Tools]] - `` [EXTRACTED]
+- [[Semi-Structured Interviews]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Generative_UI_Tools
+#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

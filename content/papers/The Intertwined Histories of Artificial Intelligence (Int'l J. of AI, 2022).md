@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P322.pdf"
 type: paper
-community: "GenAI in UX and Design Practice"
+community: "AI and Future of Work"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - community/AI_and_Future_of_Work
 ---
 
 # The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)
@@ -36,6 +36,9 @@ Intellectual history; review of early AI literature (1950s–1970s), primarily f
 Focus on White male US/UK researchers is acknowledged as an artifact of historical exclusion but limits the history; explicitly not comprehensive; does not address non-Western AI or education traditions; analysis stops before the modern deep learning era.
 
 ## Connections
+- [[Constructionism]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
+- [[Genealogical  Policy Analysis]] - `` [EXTRACTED]
+- [[Historical Analysis]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
+#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

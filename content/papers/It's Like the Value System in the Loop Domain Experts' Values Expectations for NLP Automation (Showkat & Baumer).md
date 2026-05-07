@@ -1,11 +1,11 @@
 ---
 source_file: "research_docs/P227.pdf"
 type: paper
-community: "AI and Future of Work"
+community: "Survey / Questionnaire Study"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - community/Survey_/_Questionnaire_Study
 ---
 
 # "It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation (Showkat & Baumer)
@@ -37,5 +37,8 @@ Study limited to three professional domains; the participatory design setting ma
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
+- [[Participatory Design Sessions]] - `` [EXTRACTED]
+- [[Participatory Design Theory]] - `` [EXTRACTED]
+- [[Value-Sensitive Design (VSD)]] - `` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
+#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
