@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P219.pdf"
 type: paper
 community: "Instructional Design Theory"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+venue: "ISPI Handbook"
+year: "2006"
 ---
 
 # Standards and Ethics in Human Performance Technology (Guerra, 2006)

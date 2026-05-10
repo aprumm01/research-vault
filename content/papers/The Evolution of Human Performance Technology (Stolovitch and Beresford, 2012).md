@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P124.pdf"
 type: paper
 community: "Instructional Design Theory"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+venue: "ISPI Handbook"
+year: "2012"
 ---
 
 # The Evolution of Human Performance Technology (Stolovitch and Beresford, 2012)

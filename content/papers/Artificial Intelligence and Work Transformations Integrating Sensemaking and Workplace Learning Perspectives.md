@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P328.pdf"
 type: paper
 community: "Studio Pedagogy"
@@ -6,9 +7,11 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Studio_Pedagogy
+venue: "Beyond the Hype (Chapter)"
+year: "2025"
 ---
 
-# Artificial intelligence and work
+# Artificial Intelligence and Work Transformations Integrating Sensemaking and Workplace Learning Perspectives
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]

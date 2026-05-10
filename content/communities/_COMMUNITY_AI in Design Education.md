@@ -19,7 +19,7 @@ members: 82
 - [[AI in Design Education]]
 - [[AI-Driven Learning Approaches in the Era of Artificial_1]] - research_docs/P299.pdf
 - [[AI-Driven Learning Approaches in the Era of Artificial_2]] - research_docs/P356.pdf
-- [[AI-Driven User Experience Design Exploring Innovations and Challenges in Del...]] - research_docs/P367.pdf
+- [[AI-Driven User Experience Design Exploring Innovations and Challenges in Delivering Tailored User Experiences]] - research_docs/P367.pdf
 - [[AI-assisted Learning in HCI Education]] - research_docs/P221.pdf
 - [[AI-assisted Learning in HCI Education_1]] - research_docs/P298.pdf
 - [[AI-assisted Learning in HCI Education_2]] - research_docs/P355.pdf

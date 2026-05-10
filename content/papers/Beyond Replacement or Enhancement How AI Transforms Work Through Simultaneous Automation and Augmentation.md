@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P229.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
@@ -6,6 +7,7 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
+year: "2025"
 ---
 
 # Beyond Replacement or Enhancement: How AI Transforms Work Through Simultaneous Automation and Augmentation

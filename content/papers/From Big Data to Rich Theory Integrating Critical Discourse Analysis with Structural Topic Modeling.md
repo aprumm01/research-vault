@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P153.pdf"
 type: paper
 community: "AI and Future of Work"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_and_Future_of_Work
+venue: "European Management Review"
+year: "2021"
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling

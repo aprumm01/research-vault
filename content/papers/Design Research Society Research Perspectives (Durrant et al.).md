@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P132.pdf"
 type: paper
 community: "AI in Design Education"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+venue: "DRS"
+year: "2022"
 ---
 
 # Design Research Society Research Perspectives (Durrant et al.)

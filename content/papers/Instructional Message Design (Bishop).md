@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P275.pdf"
 type: paper
 community: "Instructional Design Theory"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+venue: "Book Chapter"
+year: "2008"
 ---
 
 # Instructional Message Design (Bishop)

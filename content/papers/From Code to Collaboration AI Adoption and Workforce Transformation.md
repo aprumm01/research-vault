@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P99.pdf"
 type: paper
 community: "Instructional Design Theory"
@@ -6,6 +7,7 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+year: "2025"
 ---
 
 # From Code to Collaboration: AI Adoption and Workforce Transformation

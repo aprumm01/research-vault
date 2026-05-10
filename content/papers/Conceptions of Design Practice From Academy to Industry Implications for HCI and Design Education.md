@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P254.pdf"
 type: paper
 community: "AI in Design Education"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+venue: "CHI 2025"
+year: "2025"
 ---
 
 # Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education

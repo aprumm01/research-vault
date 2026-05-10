@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P197.pdf"
 type: paper
 community: "AI in Design Education"
@@ -6,6 +7,9 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+venue: "ACM TOCHI"
+year: "2008"
+doi: "10.1145/1375761.1375762"
 ---
 
 # The Anatomy of Prototypes: Prototypes as Filters, Prototypes as Manifestations of Design Ideas (Lim et al., 2008)

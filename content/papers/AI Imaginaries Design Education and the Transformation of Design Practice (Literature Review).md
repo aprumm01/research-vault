@@ -8,7 +8,7 @@ tags:
   - community/Metacognitive_Support
 ---
 
-# AI Imaginaries, Design Education, and the Transformation of Design Practice L...
+# AI Imaginaries Design Education and the Transformation of Design Practice (Literature Review)
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]

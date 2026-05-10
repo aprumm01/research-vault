@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P270.pdf"
 type: paper
 community: "AI in Design Education"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/AI_in_Design_Education
+venue: "MIT Press / Book"
+year: "2012"
 ---
 
 # Foundational and Instrumental Design Theory (Stolterman & Nelson)

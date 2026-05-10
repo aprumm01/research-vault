@@ -1,4 +1,5 @@
 ---
+
 title: "arXiv:2502.08854v2 [cs.HC] 22 Jun 2025 Generative AI & Changing Work: Systema..."
 type: paper
 community: ""
@@ -8,6 +9,7 @@ institution: "485−6663] 1 Denison University, Granville OH, USA 2 New York"
 source_file: "Law25.pdf"
 tags:
   - type/paper
+doi: "10.48550/arXiv.2502.08854"
 ---
 # arXiv:2502.08854v2 [cs.HC] 22 Jun 2025 Generative AI & Changing Work: Systema...
 

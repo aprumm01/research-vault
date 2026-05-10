@@ -12,7 +12,7 @@ members: 23
 - [[Activity Theory]]
 - [[Activity Theory_1]]
 - [[Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)]] - research_docs/P33.pdf
-- [[Artificial intelligence and work]] - research_docs/P328.pdf
+- [[Artificial Intelligence and Work Transformations Integrating Sensemaking and Workplace Learning Perspectives]] - research_docs/P328.pdf
 - [[Beyond the Hype Responsible AI in Workplace Learning (Sposato)]] - research_docs/P66.pdf
 - [[Beyond the hype evidence-based]] - research_docs/P247.pdf
 - [[Co-Producing AI Augmented Participatory Lifecycle (Mushkani et al. UdeM)]] - research_docs/P21.pdf

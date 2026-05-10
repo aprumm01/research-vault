@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P277.pdf"
 type: paper
 community: "Instructional Design Theory"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Instructional_Design_Theory
+venue: "Contemporary Educational Technology"
+year: "2025"
 ---
 
 # Integrating AI into Instructional Design: A Pedagogical Framework (Contemporary Ed Tech, 2025)

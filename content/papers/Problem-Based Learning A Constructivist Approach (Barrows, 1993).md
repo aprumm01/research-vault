@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P115.pdf"
 type: paper
 community: "Metacognitive Support"
@@ -6,6 +7,8 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Metacognitive_Support
+venue: "New Directions for Teaching and Learning"
+year: "1993"
 ---
 
 # Problem-Based Learning: A Constructivist Approach (Barrows, 1993)

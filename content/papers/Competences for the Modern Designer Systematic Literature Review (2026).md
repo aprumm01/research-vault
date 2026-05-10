@@ -1,4 +1,5 @@
 ---
+
 source_file: "research_docs/P232.pdf"
 type: paper
 community: "Metacognitive Support"
@@ -6,6 +7,7 @@ tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/Metacognitive_Support
+year: "2026"
 ---
 
 # Competences for the Modern Designer: Systematic Literature Review (2026)
