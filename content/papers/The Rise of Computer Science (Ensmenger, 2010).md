@@ -35,6 +35,9 @@ Historical analysis using primary sources: memoirs, professional society documen
 ## Limitations
 Focus on U.S. context; international computing history may show different patterns. Emphasis on exclusionary dynamics may underweight genuine technical contributions of CS as a discipline.
 
+## Author
+- [[Ensmenger]]
+
 ## Connections
 - [[How to Be Universal Some Cybernetic Strategies, 1943-70]] — adjacent history of how cybernetics established itself as a legitimate computational discipline in the same era
 - [[AI and Future of Work]] — situates historical exclusionary dynamics as precursors to contemporary AI bias and representation debates
