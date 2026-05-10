@@ -1,5 +1,5 @@
----
-title: "Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (SÃ¼ner-Pla-CerdÃ  et al., AI & Society 2025)"
+﻿---
+title: "Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (SÃƒÂ¼ner-Pla-CerdÃƒÂ  et al., AI & Society 2025)"
 type: paper
 community: ""
 year: ""
@@ -11,7 +11,7 @@ tags:
 
 doi: "10.1007/s00146-025-02504-6"
 ---
-# Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (SÃ¼ner-Pla-CerdÃ  et al., AI & Society 2025)
+# Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (SÃƒÂ¼ner-Pla-CerdÃƒÂ  et al., AI & Society 2025)
 
 **DOI:** [10.1007/s00146-025-02504-6](https://doi.org/10.1007/s00146-025-02504-6)
 
