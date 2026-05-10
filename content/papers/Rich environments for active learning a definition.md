@@ -3,9 +3,6 @@ source_file: "research_docs/P190.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 ---
 
 # Rich environments for active learning: a definition
@@ -42,5 +39,3 @@ Implementation of REALs is resource-intensive and requires significant instructi
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
 - [[Constructivism]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

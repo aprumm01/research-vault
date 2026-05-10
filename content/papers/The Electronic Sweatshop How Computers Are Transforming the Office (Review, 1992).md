@@ -3,9 +3,6 @@ source_file: "research_docs/P321.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # The Electronic Sweatshop: How Computers Are Transforming the Office (Review, 1992)
@@ -17,5 +14,3 @@ Reviews Barbara Garson's investigative book examining how computers are reorgani
 - [[Ethnography]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Labor Process Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

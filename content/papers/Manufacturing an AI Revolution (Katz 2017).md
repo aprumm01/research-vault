@@ -3,9 +3,6 @@ source_file: "research_docs/P47.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Manufacturing an AI Revolution (Katz 2017)
@@ -18,8 +15,6 @@ tags:
 - [[Katz]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Summary
 Yarden Katz argues that the contemporary "AI revolution" is a manufactured narrative shaped by institutional power, venture capital interests, and military funding rather than a purely technical breakthrough. Drawing on the history of AI from the 1950s onward, Katz shows how AI's periodic revivals are driven as much by economic and political forces as by scientific progress—and that the current wave of AI enthusiasm serves specific ideological and financial interests that deserve critical scrutiny.

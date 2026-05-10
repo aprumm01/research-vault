@@ -38,7 +38,7 @@ members: 26
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Human_Performance_Technology
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

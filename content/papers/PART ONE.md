@@ -3,9 +3,6 @@ source_file: "research_docs/P182.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "10.1002/pfi.20023"
 
@@ -47,5 +44,3 @@ Critics argue HPT's behavioral foundations undervalue intrinsic motivation and c
 
 ## Connections
 - [[Human Performance Technology]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

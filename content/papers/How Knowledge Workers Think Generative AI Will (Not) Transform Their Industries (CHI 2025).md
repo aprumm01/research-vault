@@ -4,9 +4,6 @@ source_file: "research_docs/P238.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 
 doi: "[Missing — PDF may need OCR]"
 
@@ -40,5 +37,3 @@ Professional interviews; thematic analysis.
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

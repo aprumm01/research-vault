@@ -3,9 +3,6 @@ source_file: "research_docs/P3.pdf"
 type: paper
 community: "Metacognitive Support"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Metacognitive_Support
 ---
 
 # Formative Study on GenUI Tools (Chen et al. Google DeepMind)
@@ -41,5 +38,3 @@ Study was conducted within a single large software company with a state-of-the-a
 - [[Generative UI Tools]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[The GenUI Study (Chen Knearem Li)]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

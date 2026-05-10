@@ -3,9 +3,6 @@ source_file: "research_docs/P101.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "[Missing]"
 
@@ -20,8 +17,6 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Gagné, Briggs, and Wager's chapter on "The Events of Instruction" presents a systematic framework for planning individual lessons based on nine instructional events—from gaining attention to enhancing retention and transfer. The events are derived from information processing theory and correspond to internal learning processes, providing instructional designers and teachers with a research-grounded structure for sequencing instructional activities.

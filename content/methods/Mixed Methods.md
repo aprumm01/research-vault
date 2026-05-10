@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Mixed Methods
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
 
 ## Overview
 Mixed Methods research combines quantitative and qualitative data collection and analysis within a single study or research program. Creswell identifies convergent, explanatory sequential, and exploratory sequential designs. Integration can occur at design, data collection, analysis, or interpretation stages.

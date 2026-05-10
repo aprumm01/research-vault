@@ -1,14 +1,12 @@
 ---
-title: "Vibe Coding"
-type: "concept"
-community: ""
+source_file: ""
+type: paper
+community: "Semi-Structured Interviews"
 tags:
-  - graphify/concept
 ---
 
 # Vibe Coding
 
-## Related Papers
-
-- [[papers/Vibe Coding for Product Design (Li et al.)|Vibe Coding for Product Design (Li et al.)]]
-
+## Connections
+- [[AI and Future of Work]] - `` [EXTRACTED]
+- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

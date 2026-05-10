@@ -3,9 +3,6 @@ source_file: "research_docs/P198.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
 
 doi: "10.32431/kace.2026.29.1.011"
 
@@ -48,5 +45,3 @@ Limited to specific age groups and tool contexts; the rapid evolution of AI tool
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

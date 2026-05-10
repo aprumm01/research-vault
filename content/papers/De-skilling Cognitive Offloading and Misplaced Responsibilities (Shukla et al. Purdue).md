@@ -3,9 +3,6 @@ source_file: "research_docs/P7.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)
@@ -44,5 +41,3 @@ Reddit-sourced data skews toward vocal, tech-savvy practitioners and may not rep
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Ironies of Automation]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

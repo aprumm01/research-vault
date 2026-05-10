@@ -3,9 +3,6 @@ source_file: "research_docs/P78.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive
@@ -45,5 +42,3 @@ Relates to [[AI Impact on Diversity and Job Displacement in ICT (Brown dissertat
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

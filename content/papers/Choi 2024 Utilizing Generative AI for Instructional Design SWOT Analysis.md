@@ -3,9 +3,6 @@ source_file: "research_docs/P163.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "[Missing]"
 
@@ -23,8 +20,6 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory
 
 ## Summary
 This paper presents a SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis of generative AI tools in instructional design practice. Published in TechTrends (2024), it examines how instructional designers can leverage GenAI while navigating its limitations and risks.

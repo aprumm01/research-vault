@@ -4,9 +4,7 @@ source_file: "research_docs/P159.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - AI-Society
 venue: "AI & Society"
 year: "2023"
 ---
@@ -18,5 +16,3 @@ year: "2023"
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Süner-Pla-Cerda]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

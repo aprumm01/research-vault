@@ -4,9 +4,7 @@ source_file: "research_docs/P119.pdf"
 type: paper
 community: "Metacognitive Support"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - EducationalPsychologist
 venue: "Educational Psychologist"
 year: "2007"
 ---
@@ -16,5 +14,3 @@ year: "2007"
 ## Connections
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

@@ -3,9 +3,6 @@ source_file: "research_docs/P171.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 
 doi: "10.32996/jefas"
 
@@ -47,5 +44,3 @@ Industry 5.0 as a framework is relatively new and some cited implementations may
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

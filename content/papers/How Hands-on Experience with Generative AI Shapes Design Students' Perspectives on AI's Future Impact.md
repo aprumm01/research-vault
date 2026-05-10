@@ -4,9 +4,6 @@ source_file: "research_docs/P237.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 year: "2024"
 ---
 
@@ -16,5 +13,3 @@ year: "2024"
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

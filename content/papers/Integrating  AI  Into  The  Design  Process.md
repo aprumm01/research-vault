@@ -3,9 +3,6 @@ source_file: "research_docs/P278.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.32403/0554-4866-2024-2-88-133-139"
 
@@ -49,5 +46,3 @@ Case study evidence is primarily from design disciplines with strong visual outp
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

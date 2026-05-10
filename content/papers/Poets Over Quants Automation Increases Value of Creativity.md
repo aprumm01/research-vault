@@ -3,9 +3,6 @@ source_file: "research_docs/P71.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Poets Over Quants: Automation Increases Value of Creativity
@@ -45,5 +42,3 @@ Relates to [[De-skilling Cognitive Offloading and Misplaced Responsibilities (Sh
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Job Displacement and Reskilling]] - `` [EXTRACTED]
 - [[Task-Based Model of Automation]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

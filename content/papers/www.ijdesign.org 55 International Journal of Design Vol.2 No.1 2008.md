@@ -3,9 +3,6 @@ source_file: "research_docs/P202.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.1080/14626268.2020.1722708"
 
@@ -48,5 +45,3 @@ The paper's philosophical focus can make it difficult to operationalize for desi
 ## Connections
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

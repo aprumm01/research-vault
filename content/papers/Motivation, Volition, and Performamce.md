@@ -3,9 +3,6 @@ source_file: "research_docs/P112.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 ---
 
 # Motivation, Volition, and Performamce
@@ -44,5 +41,3 @@ Motivational design research often relies on self-report measures that may not a
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

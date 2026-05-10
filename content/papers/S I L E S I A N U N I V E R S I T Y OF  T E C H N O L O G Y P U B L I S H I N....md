@@ -3,9 +3,6 @@ source_file: "research_docs/P250.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.29119/1641-3466.2025.224.4"
 
@@ -47,5 +44,3 @@ Single institution study limits generalizability; self-reported usage may undere
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

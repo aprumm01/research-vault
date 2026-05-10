@@ -3,9 +3,6 @@ source_file: "research_docs/P52.pdf"
 type: paper
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Studio Teaching in Higher Education (Boling et al. book)
@@ -44,5 +41,3 @@ Links to [[Educating for Design Character (Boling Gray Smith)]] (same authors, r
 - [[Design Cognition]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

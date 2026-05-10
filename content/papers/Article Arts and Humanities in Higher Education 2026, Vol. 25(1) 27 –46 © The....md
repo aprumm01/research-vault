@@ -3,9 +3,6 @@ source_file: "research_docs/P232.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
 
 doi: "10.1177/14740222251342646"
 
@@ -49,5 +46,3 @@ Systematic review captures published literature which may lag practice; competen
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Metacognitive Support]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

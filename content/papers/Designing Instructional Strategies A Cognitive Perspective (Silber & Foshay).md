@@ -4,9 +4,7 @@ source_file: "research_docs/P259.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - book-chapter
 venue: "Handbook Chapter"
 year: "2010"
 ---
@@ -17,5 +15,3 @@ year: "2010"
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

@@ -3,9 +3,6 @@ source_file: "research_docs/P60.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Animo Nullius: AI Origin Story and Data Colonialism (Penn 2023)
@@ -46,5 +43,3 @@ Relates to [[Do Artifacts Have Politics (Winner 1980)]] on technology and power;
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Penn]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

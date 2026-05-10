@@ -3,9 +3,6 @@ source_file: "research_docs/P17.pdf"
 type: paper
 community: "Metacognitive Support"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Metacognitive_Support
 ---
 
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)
@@ -43,5 +40,3 @@ Design experiments are exploratory rather than evaluative; the practitioner samp
 - [[Research through Design]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

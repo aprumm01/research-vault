@@ -3,9 +3,6 @@ source_file: ""
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Studio Pedagogy
@@ -13,5 +10,3 @@ tags:
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

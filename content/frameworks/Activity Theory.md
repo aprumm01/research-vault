@@ -3,9 +3,6 @@ source_file: ""
 type: framework
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Activity Theory
@@ -23,5 +20,3 @@ Activity Theory (CHAT — Cultural-Historical Activity Theory) frames human acti
 
 ## Connections
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

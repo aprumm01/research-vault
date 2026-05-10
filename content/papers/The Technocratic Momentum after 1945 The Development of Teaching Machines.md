@@ -3,9 +3,6 @@ source_file: "research_docs/P323.pdf"
 type: paper
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # The Technocratic Momentum after 1945: The Development of Teaching Machines
@@ -39,5 +36,3 @@ Primarily focused on Western (US, OECD) and Soviet contexts; does not examine no
 - [[Design Thinking_1]] - `` [EXTRACTED]
 - [[Historical Analysis]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

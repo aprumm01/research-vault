@@ -3,9 +3,6 @@ source_file: "research_docs/P259.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "[Missing]"
 
@@ -47,5 +44,3 @@ The cognitive approach can underemphasize motivational, affective, and social di
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

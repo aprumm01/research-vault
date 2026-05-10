@@ -16,7 +16,7 @@ members: 4
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Making_the_Right_Thing:_HCI_and_Responsible_AI_(Jung_et_al._CMU)
+TABLE source_file, type FROM:_HCI_and_Responsible_AI_(Jung_et_al._CMU)
 SORT file.name ASC
 ```
 

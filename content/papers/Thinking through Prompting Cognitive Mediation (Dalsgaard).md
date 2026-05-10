@@ -3,9 +3,6 @@ source_file: "research_docs/P9.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Thinking through Prompting: Cognitive Mediation (Dalsgaard)
@@ -43,5 +40,3 @@ Primarily theoretical with limited empirical grounding; the analogy between prom
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

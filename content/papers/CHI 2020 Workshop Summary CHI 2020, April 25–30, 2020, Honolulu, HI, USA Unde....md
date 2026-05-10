@@ -3,9 +3,6 @@ source_file: "research_docs/P228.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1145/3334480.3375168"
 
@@ -47,5 +44,3 @@ As a workshop summary, the document reflects the perspectives of a relatively ho
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

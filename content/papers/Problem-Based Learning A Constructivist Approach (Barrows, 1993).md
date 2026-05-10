@@ -4,9 +4,7 @@ source_file: "research_docs/P115.pdf"
 type: paper
 community: "Metacognitive Support"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Metacognitive_Support
+  - CHI
 venue: "New Directions for Teaching and Learning"
 year: "1993"
 ---
@@ -17,5 +15,3 @@ year: "1993"
 - [[Constructivism_1]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

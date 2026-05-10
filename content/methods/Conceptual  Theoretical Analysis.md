@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Conceptual / Theoretical Analysis
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
 Conceptual and theoretical papers develop, critique, or synthesize frameworks without primary empirical data collection. They contribute by clarifying constructs, revealing hidden assumptions, proposing new models, or synthesizing disparate literatures into coherent theoretical accounts.

@@ -4,9 +4,7 @@ source_file: "research_docs/P274.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - book-chapter
 venue: "Lawrence Erlbaum Associates"
 year: "1996"
 ---
@@ -18,5 +16,3 @@ year: "1996"
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Jonassen]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

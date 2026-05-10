@@ -4,9 +4,7 @@ source_file: "research_docs/P153.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
+  - EuropeanManagementReview
 venue: "European Management Review"
 year: "2021"
 ---
@@ -17,5 +15,3 @@ year: "2021"
 - [[Discourse Analysis]] - `` [EXTRACTED]
 - [[Mixed Methods]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

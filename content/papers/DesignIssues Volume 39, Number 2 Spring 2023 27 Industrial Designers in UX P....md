@@ -3,9 +3,6 @@ source_file: "research_docs/P159.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.1162/desi_a_00715"
 
@@ -50,5 +47,3 @@ Sample limited to Spanish and UK industrial designers; the findings may reflect 
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

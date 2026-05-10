@@ -3,9 +3,6 @@ source_file: "research_docs/P1.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Beyond Automation: Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)
@@ -43,5 +40,3 @@ Sample of 20 designers drawn primarily from tech-forward contexts may not repres
 - [[Khan]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

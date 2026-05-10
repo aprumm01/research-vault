@@ -4,9 +4,7 @@ source_file: "research_docs/P220.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - book-chapter
 venue: "Book Chapter"
 year: "2012"
 ---
@@ -18,5 +16,3 @@ year: "2012"
 - [[Herring]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Smaldino]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

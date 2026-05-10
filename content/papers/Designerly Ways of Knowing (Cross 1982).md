@@ -3,9 +3,6 @@ source_file: "research_docs/P27.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 ---
 
 # Designerly Ways of Knowing (Cross 1982)
@@ -46,5 +43,3 @@ Foundational for [[Educating for Design Character (Boling Gray Smith)]] and [[Co
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Designerly Ways of Knowing]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

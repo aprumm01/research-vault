@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Systematic Literature Review
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
 
 ## Overview
 Systematic Literature Reviews use explicit, reproducible search strategies and predefined inclusion/exclusion criteria to synthesize evidence across a body of research. PRISMA guidelines provide a reporting standard. Distinguishable from narrative reviews by its exhaustiveness and transparency.

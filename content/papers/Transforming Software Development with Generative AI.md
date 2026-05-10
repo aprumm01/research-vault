@@ -3,9 +3,6 @@ source_file: "research_docs/P133.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Transforming Software Development with Generative AI
@@ -46,5 +43,3 @@ Small qualitative sample (N=13); Norwegian software organization context may not
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

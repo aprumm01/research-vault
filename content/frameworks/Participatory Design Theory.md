@@ -3,14 +3,9 @@ source_file: ""
 type: framework
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Participatory Design Theory
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
 
 ## Overview
 Emerging from the Scandinavian workplace democracy tradition, Participatory Design involves workers and end-users as genuine co-designers throughout the design process, not merely as consultants. It combines emancipatory political commitments with practical design methods like workshops, mock-ups, and future scenarios.

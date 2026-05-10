@@ -4,9 +4,7 @@ source_file: "research_docs/P145.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - ephemera
 venue: "ephemera"
 year: "2009"
 ---
@@ -19,5 +17,3 @@ year: "2009"
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Piñeiro]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

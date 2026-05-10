@@ -3,9 +3,6 @@ source_file: "research_docs/P98.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.15585/mmwr.rr7306a1"
 
@@ -23,8 +20,6 @@ Summary Program evaluation is a critical tool for understanding and improving or
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 Fitzpatrick, Sanders, and Worthen's foundational textbook chapter establishes the basic purpose, uses, and conceptual distinctions of program evaluation, framing it as a systematic process of determining the value or merit of educational and social programs. They distinguish formal from informal evaluation, formative from summative purposes, and internal from external evaluators, providing students and practitioners with a conceptual foundation for navigating the landscape of evaluation approaches.

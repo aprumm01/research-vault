@@ -3,9 +3,6 @@ source_file: "research_docs/P223.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
 
 abstract: "When AI entered the workplace, many believed it could re- shape teamwork as profoundly as it boosted individual pro- ductivity. Wo"
 
@@ -45,5 +42,3 @@ Case study design limits generalizability; team AI tool use is rapidly evolving;
 
 ## Connections
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

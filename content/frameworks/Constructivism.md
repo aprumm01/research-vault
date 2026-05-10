@@ -3,9 +3,6 @@ source_file: ""
 type: framework
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 ---
 
 # Constructivism
@@ -26,5 +23,3 @@ Constructivism holds that learners actively construct knowledge through experien
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

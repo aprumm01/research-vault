@@ -3,9 +3,6 @@ source_file: "research_docs/P5.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)
@@ -42,5 +39,3 @@ Wizard of Oz methodology simulates but does not fully replicate real agent behav
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Wizard-of-Oz Study]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

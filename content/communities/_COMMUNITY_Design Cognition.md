@@ -28,7 +28,7 @@ members: 16
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Design_Cognition
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

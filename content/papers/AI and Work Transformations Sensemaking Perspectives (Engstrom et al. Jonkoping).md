@@ -3,9 +3,6 @@ source_file: "research_docs/P65.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # AI and Work Transformations: Sensemaking Perspectives (Engstrom et al. Jonkoping)
@@ -46,5 +43,3 @@ Relates to [[Activity Theory for Workplace Learning Technologies (Martinez Marro
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

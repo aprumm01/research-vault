@@ -35,7 +35,7 @@ members: 23
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Workplace_Learning_and_AI
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

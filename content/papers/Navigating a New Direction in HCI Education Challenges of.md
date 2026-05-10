@@ -3,9 +3,6 @@ source_file: "research_docs/P176.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Navigating a New Direction in HCI Education: Challenges of
@@ -39,5 +36,3 @@ Survey-based study of faculty views may not capture student experience or actual
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

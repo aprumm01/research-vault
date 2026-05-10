@@ -41,7 +41,7 @@ members: 29
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Metacognitive_Support
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

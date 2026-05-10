@@ -3,9 +3,6 @@ source_file: "research_docs/P201.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.37934/sijcad.4.1.2437"
 
@@ -49,5 +46,3 @@ Quasi-experimental design cannot fully isolate the effect of AI integration from
 ## Connections
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

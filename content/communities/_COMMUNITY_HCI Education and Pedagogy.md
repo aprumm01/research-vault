@@ -54,7 +54,7 @@ members: 42
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/HCI_Education_and_Pedagogy
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

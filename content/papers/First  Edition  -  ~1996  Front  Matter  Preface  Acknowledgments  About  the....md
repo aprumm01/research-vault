@@ -3,9 +3,6 @@ source_file: "research_docs/P274.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "10.1111/j.1467-8535.2004.00409_15.x"
 
@@ -49,5 +46,3 @@ As a 1996 volume, it predates the internet era, digital learning environments, a
 - [[Constructivism]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

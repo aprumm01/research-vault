@@ -3,9 +3,6 @@ source_file: "research_docs/P322.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # The Intertwined Histories of Artificial Intelligence (Int'l J. of AI, 2022)
@@ -40,5 +37,3 @@ Focus on White male US/UK researchers is acknowledged as an artifact of historic
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Genealogical  Policy Analysis]] - `` [EXTRACTED]
 - [[Historical Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

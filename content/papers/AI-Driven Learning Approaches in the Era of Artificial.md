@@ -3,9 +3,6 @@ source_file: "research_docs/P222.pdf"
 type: paper
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI-Driven Learning Approaches in the Era of Artificial
@@ -41,5 +38,3 @@ The review spans very heterogeneous AI approaches and educational contexts; evid
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

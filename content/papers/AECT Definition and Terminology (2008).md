@@ -3,9 +3,6 @@ source_file: "research_docs/P84.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 ---
 
 # AECT Definition and Terminology (2008)
@@ -43,5 +40,3 @@ Definitional work is inherently contested; critics argue the 2008 definition is 
 
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

@@ -3,9 +3,6 @@ source_file: "research_docs/P77.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Instructional Design and Creativity: A Response to the Criticized
@@ -47,5 +44,3 @@ Links to [[Designerly Ways of Knowing (Cross 1982)]] on design vs. science epist
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

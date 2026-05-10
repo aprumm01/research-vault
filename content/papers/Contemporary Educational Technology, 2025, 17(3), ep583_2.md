@@ -3,9 +3,6 @@ source_file: "research_docs/P277.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "10.30935/cedtech/16433"
 
@@ -47,5 +44,3 @@ Framework is primarily prescriptive without comprehensive empirical validation; 
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

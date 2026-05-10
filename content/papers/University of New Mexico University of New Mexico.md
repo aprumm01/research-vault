@@ -3,9 +3,6 @@ source_file: "research_docs/P186.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.25844/p9rv-vj67"
 
@@ -48,5 +45,3 @@ Single institution program evaluation; self-reported confidence measures may not
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

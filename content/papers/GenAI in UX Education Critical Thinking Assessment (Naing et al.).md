@@ -3,9 +3,6 @@ source_file: "research_docs/P51.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 ---
 
 # GenAI in UX Education: Critical Thinking Assessment (Naing et al.)
@@ -42,5 +39,3 @@ Relates to [[Conceptions of Design Practice (Lotsos et al. Northwestern)]] on de
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

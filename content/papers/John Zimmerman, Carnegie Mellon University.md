@@ -3,9 +3,6 @@ source_file: "research_docs/P295.pdf"
 type: paper
 community: "Metacognitive Support"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Metacognitive_Support
 ---
 
 # John Zimmerman, Carnegie Mellon University
@@ -41,5 +38,3 @@ Enterprise context may not generalize to startups, agencies, or public sector co
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Research through Design]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

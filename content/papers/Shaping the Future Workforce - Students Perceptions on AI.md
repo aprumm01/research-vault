@@ -3,9 +3,6 @@ source_file: "research_docs/P120.pdf"
 type: paper
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Shaping the Future Workforce - Students Perceptions on AI
@@ -14,8 +11,6 @@ tags:
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
 
 ## Summary
 Ferhataj, Biçoku, and Memaj examine how university students perceive AI and human-centric technologies in the context of Industry 5.0—a framework emphasizing human-machine collaboration and social value creation. Their survey-based study finds that students recognize AI's transformative potential for future work but are ambivalent about its impact on human roles, with significant variation by discipline and prior AI exposure.

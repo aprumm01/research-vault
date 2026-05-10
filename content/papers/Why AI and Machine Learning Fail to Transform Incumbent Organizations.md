@@ -4,9 +4,6 @@ source_file: "research_docs/P156.pdf"
 type: "paper"
 community: "Responsible AI Governance"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Responsible_AI_Governance
 
 doi: "[Missing — PDF may need OCR]"
 
@@ -46,5 +43,3 @@ Case evidence is selective; incumbent/new entrant binary oversimplifies organiza
 
 ## Connections
 - [[Responsible AI Governance]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Responsible_AI_Governance

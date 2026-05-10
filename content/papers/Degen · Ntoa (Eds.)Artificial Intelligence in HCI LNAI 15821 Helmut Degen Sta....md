@@ -3,9 +3,6 @@ source_file: "research_docs/P237.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
 
 doi: "10.1007/978-3-031-93418-6_2"
 
@@ -49,5 +46,3 @@ Conference proceedings format means individual contributions vary in scope and r
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

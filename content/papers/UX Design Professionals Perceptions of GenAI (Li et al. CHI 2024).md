@@ -3,9 +3,6 @@ source_file: "research_docs/P6.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # UX Design Professionals Perceptions of GenAI (Li et al. CHI 2024)
@@ -16,8 +13,6 @@ tags:
 - [[Li]] - `` [EXTRACTED]
 - [[Technology Acceptance Model]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
 
 ## Summary
 Li et al. present findings from CHI 2024 on how UX design professionals perceive generative AI tools, drawing on interviews and studies with practitioners across industry. They find that UX designers view GenAI ambivalently: valuing its speed and ideation support while concerned about quality, creativity, and professional identity. The study maps how perceptions vary by role, experience, and organizational context, contributing to understanding of how GenAI is being absorbed into professional UX practice.

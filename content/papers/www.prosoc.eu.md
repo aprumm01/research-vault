@@ -3,9 +3,6 @@ source_file: "research_docs/P188.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 abstract: "Using the model of analysis, design, development, implementation and evaluation (ADDIE) with regards to instructional design has become a prevalent practi se among e-learning designers and developers. This model assumes assigning specific r"
 
@@ -49,5 +46,3 @@ Single case study limits generalizability; the hybrid model may work differently
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

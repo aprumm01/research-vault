@@ -3,9 +3,6 @@ source_file: ""
 type: framework
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 ---
 
 # Cognitive Load Theory
@@ -20,5 +17,3 @@ Cognitive Load Theory holds that working memory is severely limited in capacity 
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

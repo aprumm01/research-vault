@@ -4,9 +4,7 @@ source_file: "research_docs/P188.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - TechTrends
 venue: "TechTrends"
 year: "2013"
 ---
@@ -16,5 +14,3 @@ year: "2013"
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

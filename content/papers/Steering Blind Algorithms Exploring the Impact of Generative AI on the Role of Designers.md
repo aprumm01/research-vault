@@ -3,9 +3,6 @@ source_file: "research_docs/P164.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Steering Blind Algorithms: Exploring the Impact of Generative AI on the Role of Designers
@@ -40,5 +37,3 @@ Conceptual analysis; extended abstract likely drawing on literature review and t
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

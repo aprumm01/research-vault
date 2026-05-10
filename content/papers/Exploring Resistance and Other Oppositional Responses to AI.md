@@ -4,9 +4,7 @@ source_file: "research_docs/P154.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - ACM
 venue: "ACM"
 year: "2023"
 ---
@@ -15,5 +13,3 @@ year: "2023"
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

@@ -3,9 +3,6 @@ source_file: "research_docs/P266.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.54489/ijtim.v3i1.195"
 
@@ -49,5 +46,3 @@ Survey at a single point in time as ChatGPT was newly available; findings may da
 ## Connections
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

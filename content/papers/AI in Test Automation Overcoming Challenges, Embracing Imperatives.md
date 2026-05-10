@@ -4,9 +4,6 @@ source_file: "research_docs/P90.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 year: "2024"
 ---
 
@@ -15,5 +12,3 @@ year: "2024"
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

@@ -3,9 +3,6 @@ source_file: "research_docs/P256.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.1007/978-1-4842-6461-4_10"
 
@@ -49,5 +46,3 @@ Integration success depends heavily on organizational context and team maturity;
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

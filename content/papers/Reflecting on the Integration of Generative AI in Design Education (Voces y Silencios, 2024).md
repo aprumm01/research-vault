@@ -3,9 +3,6 @@ source_file: "research_docs/P189.pdf"
 type: paper
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Reflecting on the Integration of Generative AI in Design Education (Voces y Silencios, 2024)
@@ -22,5 +19,3 @@ A testimonial phenomenological reflection by a design educator at NC State on in
 - [[Phenomenography]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

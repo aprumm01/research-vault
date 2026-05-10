@@ -3,11 +3,6 @@ source_file: ""
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 ---
 
 # HCI Education and Pedagogy
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

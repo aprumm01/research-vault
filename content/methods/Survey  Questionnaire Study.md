@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Survey / Questionnaire Study
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
 
 ## Overview
 Survey research collects standardized self-report data from a sample using closed or Likert-scale questions. It enables quantitative analysis of attitudes, behaviors, and perceptions across large populations. Design considerations include sampling strategy, question wording, and response bias.

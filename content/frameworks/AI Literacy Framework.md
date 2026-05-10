@@ -3,14 +3,9 @@ source_file: ""
 type: framework
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # AI Literacy Framework
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
 
 ## Overview
 Long & Magerko's multidimensional AI literacy framework identifies the competencies needed to critically understand, use, and evaluate AI systems. It encompasses conceptual knowledge (what AI can and cannot do), interaction skills, and critical appraisal of AI's social and ethical implications.

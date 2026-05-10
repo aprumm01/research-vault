@@ -3,9 +3,6 @@ source_file: "research_docs/P49.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # To Engage or Not with AI for Critical Judgments (Lebovitz et al.)
@@ -44,5 +41,3 @@ Links to [[Rethinking AI in Organization and Management (Ramaul et al.)]] on the
 - [[Ethnography]] - `` [EXTRACTED]
 - [[Sensemaking Theory]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

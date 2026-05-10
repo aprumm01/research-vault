@@ -3,9 +3,6 @@ source_file: "research_docs/P115.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
 
 doi: "10.1016/0307-4412(93)90084-d"
 
@@ -22,8 +19,6 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 
 ## Connections
 - [[Problem-Based Learning]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning
 
 ## Summary
 This work addresses problem-based learning (PBL) as a constructivist instructional approach in which learners are presented with authentic, ill-structured problems as the starting point for learning. PBL originated in medical education and has since been applied broadly across professional training contexts, developing students' problem-solving, self-directed learning, and collaborative skills through engagement with real-world scenarios rather than abstract didactic content.

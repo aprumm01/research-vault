@@ -3,9 +3,6 @@ source_file: "research_docs/P234.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (SÃƒÂ¼ner-Pla-CerdÃƒÂ  et al., AI & Society 2025)
@@ -39,5 +36,3 @@ Qualitative sample may not represent the full diversity of industrial design pra
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 - [[SÃ¼ner-Pla-Cerda]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

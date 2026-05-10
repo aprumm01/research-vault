@@ -3,9 +3,6 @@ source_file: "research_docs/P305.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Artificial Intelligence: A Promising Technology (AI & Society, 2024)
@@ -39,5 +36,3 @@ General overview perspective may lack specificity; "promising technology" framin
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

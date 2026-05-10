@@ -3,9 +3,6 @@ source_file: "research_docs/P255.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "10.1111/j.1467-8535.2008.00925_4.x"
 
@@ -47,5 +44,3 @@ Definitional consensus documents necessarily smooth over genuine theoretical dis
 
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

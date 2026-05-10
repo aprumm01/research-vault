@@ -3,9 +3,6 @@ source_file: "research_docs/P319.pdf"
 type: paper
 community: "Metacognitive Support"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Metacognitive_Support
 ---
 
 # Some Moral and Technical Consequences of Automation (Norbert Wiener, 1960)
@@ -40,5 +37,3 @@ Historical text from 1960; written before modern computing; some specific predic
 - [[Cybernetics]] - `` [EXTRACTED]
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Wiener]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

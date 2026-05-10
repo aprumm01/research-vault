@@ -3,9 +3,6 @@ source_file: "research_docs/P313.pdf"
 type: paper
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Generative AI and the Automating of Academia (Postdigital Science, 2024)
@@ -40,5 +37,3 @@ UK-specific context with strong neoliberal HE restructuring; survey-based with s
 - [[Mixed Methods]] - `` [EXTRACTED]
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

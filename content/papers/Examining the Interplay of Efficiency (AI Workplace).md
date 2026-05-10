@@ -3,9 +3,6 @@ source_file: "research_docs/P94.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Examining the Interplay of Efficiency (AI Workplace)
@@ -42,5 +39,3 @@ Conceptual paper without primary empirical data. The "paradox" framing may overs
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

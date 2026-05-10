@@ -4,9 +4,7 @@ source_file: "research_docs/P132.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - DRS
 venue: "DRS"
 year: "2022"
 ---
@@ -20,5 +18,3 @@ year: "2022"
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Posthumanism]] - `` [EXTRACTED]
 - [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

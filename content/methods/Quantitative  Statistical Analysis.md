@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Quantitative / Statistical Analysis
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
 
 ## Overview
 Quantitative research uses numerical data and statistical methods — regression, panel data models, experimental designs, structural equation modeling — to test hypotheses and establish relationships. In labor economics and education research, quasi-experimental and difference-in-differences designs are common for causal inference.

@@ -3,9 +3,6 @@ source_file: "research_docs/P209.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1007/s40593-025-00518-1"
 
@@ -49,5 +46,3 @@ Study conducted during rapid AI tool evolution; findings may not transfer to dif
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Prompt Engineering]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

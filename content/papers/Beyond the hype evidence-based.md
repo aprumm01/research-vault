@@ -3,9 +3,6 @@ source_file: "research_docs/P247.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Beyond the hype: evidence-based
@@ -39,5 +36,3 @@ Evidence reviews are limited by the quality and availability of published resear
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

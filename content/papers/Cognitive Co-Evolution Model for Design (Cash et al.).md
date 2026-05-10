@@ -3,9 +3,6 @@ source_file: "research_docs/P53.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 ---
 
 # Cognitive Co-Evolution Model for Design (Cash et al.)
@@ -44,5 +41,3 @@ Links to [[Designerly Ways of Knowing (Cross 1982)]] on design cognition; relate
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Protocol Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

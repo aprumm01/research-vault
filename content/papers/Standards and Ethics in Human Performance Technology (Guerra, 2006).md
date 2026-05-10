@@ -4,9 +4,7 @@ source_file: "research_docs/P219.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - ISPI
 venue: "ISPI Handbook"
 year: "2006"
 ---
@@ -18,5 +16,3 @@ year: "2006"
 - [[Guerra]] - `` [EXTRACTED]
 - [[Human Performance Technology]] - `` [EXTRACTED]
 - [[Human Performance Technology_1]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

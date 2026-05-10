@@ -3,9 +3,6 @@ source_file: "research_docs/P205.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.59400/fes.v2i2.1242"
 
@@ -49,5 +46,3 @@ Cross-sectional survey design; motivation-behavior relationships are correlation
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

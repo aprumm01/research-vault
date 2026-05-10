@@ -3,9 +3,6 @@ source_file: "research_docs/P67.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)
@@ -45,5 +42,3 @@ Links to [[The Future of Work is Blended Not Hybrid (Constantinides et al.)]] on
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

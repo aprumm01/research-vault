@@ -3,9 +3,6 @@ source_file: "research_docs/P275.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "10.1007/978-1-4614-3185-5_30"
 
@@ -47,5 +44,3 @@ Much of the empirical foundation comes from controlled laboratory settings; real
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

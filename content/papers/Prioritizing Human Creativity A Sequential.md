@@ -3,9 +3,6 @@ source_file: "research_docs/P184.pdf"
 type: paper
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Prioritizing Human Creativity: A Sequential
@@ -40,5 +37,3 @@ Single institutional study; the optimal sequencing timing (how long before AI in
 - [[Constructivism_1]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study

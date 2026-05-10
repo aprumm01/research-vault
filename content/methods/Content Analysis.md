@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "Historical Analysis"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Historical_Analysis
 ---
 
 # Content Analysis
-
-#graphify/document #graphify/EXTRACTED #community/Historical_Analysis
 
 ## Overview
 Content analysis is a systematic, replicable technique for compressing texts into meaningful categories. Herring's Web Content Analysis (WebCA) extends classical content analysis to computer-mediated communication, treating the web as a medium with distinct structural, social, and textual dimensions. It is distinguished from discourse analysis by its emphasis on explicit, pre-specified coding schemes applied to observable message features rather than the interpretation of rhetorical strategies.

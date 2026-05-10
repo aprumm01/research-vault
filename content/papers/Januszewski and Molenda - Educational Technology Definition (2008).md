@@ -3,9 +3,6 @@ source_file: "research_docs/P106.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 ---
 
 # Januszewski and Molenda - Educational Technology Definition (2008)
@@ -42,5 +39,3 @@ Definitional work is inherently contested and reflects the commitments of its au
 
 ## Connections
 - [[Constructivism]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

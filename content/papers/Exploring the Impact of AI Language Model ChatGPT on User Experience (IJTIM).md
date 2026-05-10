@@ -4,9 +4,7 @@ source_file: "research_docs/P266.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
+  - IJTIM
 venue: "IJTIM"
 year: "2023"
 ---
@@ -16,5 +14,3 @@ year: "2023"
 ## Connections
 - [[Design Thinking]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

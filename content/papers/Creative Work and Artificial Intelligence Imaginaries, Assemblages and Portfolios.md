@@ -3,9 +3,6 @@ source_file: "research_docs/P233.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Creative Work and Artificial Intelligence: Imaginaries, Assemblages and Portfolios
@@ -40,5 +37,3 @@ Qualitative sampling may not represent the full diversity of creative workers; t
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

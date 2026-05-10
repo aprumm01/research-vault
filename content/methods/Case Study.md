@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Case Study
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
 
 ## Overview
 Case Study research involves in-depth investigation of a bounded instance — a person, organization, project, or technology — to develop or test theoretical understanding. Yin's framework distinguishes descriptive, exploratory, and explanatory case studies and addresses threats to validity.

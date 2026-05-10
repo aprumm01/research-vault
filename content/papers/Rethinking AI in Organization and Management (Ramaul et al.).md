@@ -3,9 +3,6 @@ source_file: "research_docs/P35.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Rethinking AI in Organization and Management (Ramaul et al.)
@@ -43,5 +40,3 @@ Relates to [[Beyond Design and Use Studying Intelligent Technologies (Bailey and
 - [[AI and Future of Work]] - `` [EXTRACTED]
 - [[Conceptual  Theoretical Analysis]] - `` [EXTRACTED]
 - [[Hybrid Intelligence]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

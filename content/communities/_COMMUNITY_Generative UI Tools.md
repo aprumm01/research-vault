@@ -17,7 +17,7 @@ members: 5
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Generative_UI_Tools
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

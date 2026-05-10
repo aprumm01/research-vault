@@ -3,9 +3,6 @@ source_file: "research_docs/P128.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # The Impact of Generative AI on the CSCW Landscape: Insights
@@ -45,5 +42,3 @@ Panel/position paper format; reflects the views of a particular group of senior 
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

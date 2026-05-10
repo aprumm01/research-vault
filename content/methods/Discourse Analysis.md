@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Discourse Analysis
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
 Discourse Analysis examines how language and texts construct social reality, identity, and power relations. Critical Discourse Analysis (Fairclough) links textual analysis to social theory; computational approaches use topic modeling or word embeddings to analyze large corpora.

@@ -3,9 +3,6 @@ source_file: "research_docs/P172.pdf"
 type: paper
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 ---
 
 # Accelerating Innovation With
@@ -39,5 +36,3 @@ Case study evidence; GenAI innovation acceleration effects may be context-specif
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

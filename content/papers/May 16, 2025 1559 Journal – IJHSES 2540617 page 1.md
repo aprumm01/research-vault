@@ -3,9 +3,6 @@ source_file: "research_docs/P177.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 doi: "10.1142/S0129156425406175"
 
@@ -48,5 +45,3 @@ Study conducted in a single institution with limited sample size; AI feedback qu
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

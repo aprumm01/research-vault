@@ -3,14 +3,9 @@ source_file: ""
 type: framework
 community: "Survey / Questionnaire Study"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Survey_/_Questionnaire_Study
 ---
 
 # Reflective Practice
-
-#graphify/document #graphify/EXTRACTED #community/Survey_/_Questionnaire_Study
 
 ## Overview
 Schön's epistemology of practice distinguishes technical rationality (applying known theories) from reflection-in-action (thinking on your feet) and reflection-on-action (retrospective analysis). It repositions professional expertise as tacit, situated, and generative rather than purely rule-following.

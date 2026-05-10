@@ -3,9 +3,6 @@ source_file: "research_docs/P297.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 ---
 
 # The Dick and Carey Model:
@@ -44,5 +41,3 @@ Author's perspective naturally inclines toward defense of the model; independent
 - [[Constructivism]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

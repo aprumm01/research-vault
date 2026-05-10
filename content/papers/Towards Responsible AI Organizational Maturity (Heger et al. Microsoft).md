@@ -3,9 +3,6 @@ source_file: "research_docs/P18.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Towards Responsible AI Organizational Maturity (Heger et al. Microsoft)
@@ -45,5 +42,3 @@ Relates to [[Closing the Sociotechnical Gap in AI (Sadek et al. Imperial)]] on m
 - [[Responsible AI and Ethics]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

@@ -3,14 +3,9 @@ source_file: ""
 type: framework
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Value-Sensitive Design (VSD)
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
 VSD is a theoretically grounded approach to the design of technology that accounts for human values in a principled and comprehensive manner throughout the design process. It uses conceptual, empirical, and technical investigations to surface stakeholder values and embed them into system design.

@@ -3,9 +3,6 @@ source_file: "research_docs/P33.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Activity Theory for Workplace Learning Technologies (Martinez Marroquin and Senadji)
@@ -43,5 +40,3 @@ Activity Theory is complex and can be difficult to operationalize in design prac
 - [[Organizational Learning Theory]] - `` [EXTRACTED]
 - [[Sensemaking and AI Adoption]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

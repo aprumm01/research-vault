@@ -3,9 +3,6 @@ source_file: "research_docs/P167.pdf"
 type: paper
 community: "Metacognitive Support"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Metacognitive_Support
 ---
 
 # A Formative Study to Explore the Design of Generative UI Tools
@@ -40,5 +37,3 @@ Needs-finding study informs design requirements but does not evaluate specific i
 - [[Generative UI Tools]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Metacognitive_Support

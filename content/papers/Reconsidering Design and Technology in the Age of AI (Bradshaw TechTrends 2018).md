@@ -3,9 +3,6 @@ source_file: "research_docs/P218.pdf"
 type: "paper"
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 
 abstract: "Author Affiliations: Full Text Word Count: ISSN: Record: 1 Reconsidering the Instructional Design and Technology Timeline Through a Lens of Social Justice. Bradshaw, Amy C. bradshaw@ou.edu TechTrends: Linking Research & Practice to Improve Learning. Jul2018, Vol. 62 Issue 4, p336-344. 9p. Article *EDUCATIONAL technology *INSTRUCTIONAL systems design *TEACHING methods *SOCIAL justice *TEACHER education Equity History Inclusion Social justice A combined timeline project of major events in the fiel"
 
@@ -49,5 +46,3 @@ Perspective piece without empirical grounding; written in 2018 when specific AI 
 ## Connections
 - [[ADDIE Model]] - `` [EXTRACTED]
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

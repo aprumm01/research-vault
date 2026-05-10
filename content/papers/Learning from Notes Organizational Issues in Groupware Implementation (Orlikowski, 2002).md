@@ -4,9 +4,7 @@ source_file: "research_docs/P179.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
+  - OrganizationScience
 venue: "Organization Science"
 year: "2002"
 ---
@@ -17,5 +15,3 @@ year: "2002"
 - [[Orlikowski]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

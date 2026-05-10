@@ -3,9 +3,6 @@ source_file: "research_docs/P196.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Teaching to Fail (Before It Happens): Premortem as a Pedagogical
@@ -42,5 +39,3 @@ Pedagogical effectiveness is documented qualitatively; longitudinal evidence for
 - [[Metacognitive Support]] - `` [EXTRACTED]
 - [[Organizational Learning Theory]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

@@ -45,7 +45,7 @@ members: 33
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Responsible_AI_Governance
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

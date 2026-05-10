@@ -3,14 +3,9 @@ source_file: ""
 type: method
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Thematic Analysis
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews
 
 ## Overview
 Thematic Analysis is a flexible qualitative method for identifying, analyzing, and reporting patterns of meaning (themes) across a dataset. Braun & Clarke's reflexive approach foregrounds the researcher's active role in constructing themes rather than discovering pre-existing ones.

@@ -3,9 +3,6 @@ source_file: "research_docs/P272.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1109/tse.2026.3655626"
 
@@ -47,5 +44,3 @@ Study conducted at a specific moment in AI coding tool adoption; rapidly improvi
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

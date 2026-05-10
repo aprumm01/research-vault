@@ -3,14 +3,9 @@ source_file: ""
 type: framework
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Genealogical / Policy Analysis
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
 Drawing on Foucault's genealogical method, this framework traces how discourses construct social problems, institutions, and subjects over time. Policy assemblage analysis examines how heterogeneous elements (texts, practices, actors, technologies) are assembled into governance arrangements.

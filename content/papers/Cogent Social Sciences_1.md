@@ -3,9 +3,6 @@ source_file: "research_docs/P178.pdf"
 type: "paper"
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 
 doi: "10.1080/23311886.2025.2476737"
 
@@ -24,8 +21,6 @@ abstract: "Abstract not yet found — search by title or check source PDF"
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
 
 ## Summary
 This paper examines how generative AI is reshaping employee roles in organizations through a multi-criteria decision-making (MCDM) analysis of co-creation dynamics, proposing an optimization framework for role allocation in AI-integrated work environments. Published in Cogent Social Sciences, the paper addresses the managerial challenge of deciding which tasks and roles should be assigned to humans, AI, or human-AI co-creation teams, using quantitative MCDM methods to identify optimal configurations.

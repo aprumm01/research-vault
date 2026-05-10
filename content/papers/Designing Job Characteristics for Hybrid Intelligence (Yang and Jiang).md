@@ -3,9 +3,6 @@ source_file: "research_docs/P56.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Designing Job Characteristics for Hybrid Intelligence (Yang and Jiang)
@@ -45,5 +42,3 @@ Relates to [[The Future of Work is Blended Not Hybrid (Constantinides et al.)]] 
 - [[Job Characteristics Theory]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

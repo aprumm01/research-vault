@@ -4,9 +4,7 @@ source_file: "research_docs/P199.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - TrainingMagazine
 venue: "Training Magazine"
 year: "2000"
 ---
@@ -19,5 +17,3 @@ year: "2000"
 - [[Instructional Design Theory]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
 - [[Zemke]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

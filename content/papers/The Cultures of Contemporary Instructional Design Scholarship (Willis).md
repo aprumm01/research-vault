@@ -3,9 +3,6 @@ source_file: "research_docs/P142.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
 ---
 
 # The Cultures of Contemporary Instructional Design Scholarship (Willis)
@@ -45,5 +42,3 @@ Part One of a series; this installment covers only behavioral and cognitive trad
 
 ## Connections
 - [[Instructional Design Theory]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

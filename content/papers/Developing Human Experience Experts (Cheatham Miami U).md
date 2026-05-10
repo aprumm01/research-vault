@@ -3,9 +3,6 @@ source_file: "research_docs/P23.pdf"
 type: paper
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Developing Human Experience Experts (Cheatham Miami U)
@@ -47,5 +44,3 @@ Relates to [[Educating for Design Character (Boling Gray Smith)]] on character-c
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[User-Centered Design]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy

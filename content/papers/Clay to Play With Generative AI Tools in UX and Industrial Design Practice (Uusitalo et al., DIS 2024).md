@@ -6,9 +6,7 @@ venue: "DIS 2024"
 year: 2024
 doi: "10.1145/3643834.3661624"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
+  - DIS
 ---
 
 # Clay to Play With: Generative AI Tools in UX and Industrial Design Practice (Uusitalo et al., DIS 2024)
@@ -43,5 +41,3 @@ Small sample (n=10) from a specific organizational context (Nokia/Aalto collabor
 - [[Human-AI Creative Collaboration]] - `` [EXTRACTED]
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

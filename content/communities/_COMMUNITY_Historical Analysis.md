@@ -49,7 +49,7 @@ members: 37
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/Historical_Analysis
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

@@ -3,9 +3,6 @@ source_file: "research_docs/P14.pdf"
 type: paper
 community: "Semi-Structured Interviews"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Semi-Structured_Interviews
 ---
 
 # Vibe Coding for Product Design (Li et al.)
@@ -41,5 +38,3 @@ Sample skews toward tech-forward contexts; vibe coding is an emerging practice a
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
 - [[Vibe Coding]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

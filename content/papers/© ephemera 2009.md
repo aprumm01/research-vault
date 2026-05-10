@@ -3,9 +3,6 @@ source_file: "research_docs/P145.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
 
 doi: "[Missing]"
 
@@ -47,5 +44,3 @@ Single organizational context limits generalizability; the critical management p
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Studio Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

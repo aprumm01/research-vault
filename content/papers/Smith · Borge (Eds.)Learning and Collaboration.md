@@ -3,9 +3,6 @@ source_file: "research_docs/P264.pdf"
 type: "paper"
 community: "Problem-Based Learning"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Problem-Based_Learning
 
 doi: "10.1007/978-3-031-93746-0_28"
 
@@ -49,5 +46,3 @@ As an edited volume, coherence across chapters depends on editorial framing; col
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
 - [[Problem-Based Learning]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Problem-Based_Learning

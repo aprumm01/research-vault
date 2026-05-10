@@ -3,9 +3,6 @@ source_file: "research_docs/P245.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 abstract: "Integration of Artificial Intelligence (AI) in the design process is a growing area of research interest. Three years after its public launch in 2022, AI has already established itself as the most disruptive tool revolutionizing how designers conceptualize, iterate and innovate. As AI technologies continue to evolve, it is pertinent that design students are acquainted with the potential of the technology and how it can be integrated in their professional practice. The objective of this paper is "
 
@@ -50,5 +47,3 @@ Case study design limits generalizability; the homogenization risk may be tool-s
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[Design Thinking]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

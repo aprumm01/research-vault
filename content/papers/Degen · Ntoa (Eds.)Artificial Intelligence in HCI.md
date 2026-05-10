@@ -3,9 +3,6 @@ source_file: "research_docs/P144.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
 
 doi: "[Missing]"
 
@@ -45,5 +42,3 @@ Conference proceedings format means individual contributions vary in scope and r
 
 ## Connections
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

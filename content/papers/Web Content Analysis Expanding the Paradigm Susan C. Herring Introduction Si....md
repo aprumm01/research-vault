@@ -3,9 +3,6 @@ source_file: "research_docs/P368.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Web Content Analysis: Expanding the Paradigm Susan C. Herring Introduction Si...
@@ -21,5 +18,3 @@ Content analysis; web content analysis; coding scheme; unit of analysis; compute
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

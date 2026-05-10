@@ -3,14 +3,9 @@ source_file: ""
 type: framework
 community: "Studio Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Studio_Pedagogy
 ---
 
 # Organizational Learning Theory
-
-#graphify/document #graphify/EXTRACTED #community/Studio_Pedagogy
 
 ## Overview
 Organizational Learning Theory examines how organizations acquire, interpret, and retain knowledge over time. March's exploration/exploitation tension describes the tradeoff between refining existing knowledge and searching for new; Argyris & Schön's double-loop learning distinguishes correcting errors within existing norms from questioning the norms themselves.

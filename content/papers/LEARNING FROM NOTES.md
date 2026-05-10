@@ -3,9 +3,6 @@ source_file: "research_docs/P179.pdf"
 type: "paper"
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 
 abstract: "This paper explores the introduction of groupware into an organization to understand the changes in work practices and social interaction facilitated by the technology. The results suggest that people’s mental models and organizations’ structure and culture significantly influence how groupware is implemented and used. Specifically, in the absence of mental models that stressed its collaborative nature, groupwae was interpreted in terms of familiar personal, stand-alone technologies such as spre"
 
@@ -49,5 +46,3 @@ Single case study limits generalizability; the professional services firm contex
 ## Connections
 - [[Studio Pedagogy]] - `` [EXTRACTED]
 - [[Workplace Learning and AI]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work

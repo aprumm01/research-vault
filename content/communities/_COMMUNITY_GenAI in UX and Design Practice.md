@@ -102,7 +102,7 @@ members: 90
 ## Live Query (requires Dataview plugin)
 
 ```dataview
-TABLE source_file, type FROM #community/GenAI_in_UX_and_Design_Practice
+TABLE source_file, type FROM
 SORT file.name ASC
 ```
 

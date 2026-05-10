@@ -3,9 +3,6 @@ source_file: "research_docs/P231.pdf"
 type: "paper"
 community: "AI in Design Education"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_in_Design_Education
 
 doi: "10.1007/s10798-025-10045-8"
 
@@ -49,5 +46,3 @@ Laboratory-like protocol study may not capture real design studio practice; stud
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Theory and Cognition]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/AI_in_Design_Education

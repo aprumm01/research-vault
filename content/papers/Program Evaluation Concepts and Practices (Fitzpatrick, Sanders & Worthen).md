@@ -3,9 +3,6 @@ source_file: "research_docs/P98.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Program Evaluation: Concepts and Practices (Fitzpatrick, Sanders & Worthen)
@@ -45,5 +42,3 @@ Introductory textbook chapter providing conceptual grounding rather than theoret
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice

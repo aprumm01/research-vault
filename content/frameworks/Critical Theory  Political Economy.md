@@ -3,14 +3,9 @@ source_file: ""
 type: framework
 community: "AI and Future of Work"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/AI_and_Future_of_Work
 ---
 
 # Critical Theory / Political Economy
-
-#graphify/document #graphify/EXTRACTED #community/AI_and_Future_of_Work
 
 ## Overview
 Critical Theory examines how power, capital, and ideology shape technology development and its social effects. Habermas distinguishes communicative from instrumental rationality; Feenberg's critical theory of technology analyzes the social choices embedded in design; political economists trace how platform capitalism and surveillance reshape labor.

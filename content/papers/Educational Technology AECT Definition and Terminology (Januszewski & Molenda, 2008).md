@@ -4,9 +4,7 @@ source_file: "research_docs/P255.pdf"
 type: paper
 community: "Instructional Design Theory"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Instructional_Design_Theory
+  - book-chapter
 venue: "Lawrence Erlbaum Associates"
 year: "2008"
 ---
@@ -17,5 +15,3 @@ year: "2008"
 - [[Constructivism]] - `` [EXTRACTED]
 - [[Januszewski]] - `` [EXTRACTED]
 - [[Molenda]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Instructional_Design_Theory

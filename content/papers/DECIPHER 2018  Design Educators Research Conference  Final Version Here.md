@@ -3,9 +3,6 @@ source_file: "research_docs/P260.pdf"
 type: "paper"
 community: "HCI Education and Pedagogy"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/HCI_Education_and_Pedagogy
 
 doi: "[Missing]"
 
@@ -47,5 +44,3 @@ Single-course case study limits generalizability; student population at a single
 - [[AI in Design Education]] - `` [EXTRACTED]
 - [[Design Judgment]] - `` [EXTRACTED]
 - [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/HCI_Education_and_Pedagogy

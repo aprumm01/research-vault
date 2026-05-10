@@ -3,9 +3,6 @@ source_file: "research_docs/P110.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
 tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/GenAI_in_UX_and_Design_Practice
 ---
 
 # Multimedia Instruction (Mayer, 2014)
@@ -38,5 +35,3 @@ Review and synthesis of empirical research on multimedia instruction; meta-analy
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Mayer]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/GenAI_in_UX_and_Design_Practice
