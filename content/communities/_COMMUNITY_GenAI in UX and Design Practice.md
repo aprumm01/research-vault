@@ -21,7 +21,7 @@ members: 90
 - [[A Method to Evaluate the UX of Systems Integrating AI (Springer, 2024)]] - research_docs/P168.pdf
 - [[AI Rivalry as a Craft Writing Professionals (Varanasi et al. NYU)]] - research_docs/P16.pdf
 - [[Beyond Replacement or Enhancement How AI Transforms Work Through Simultaneous Automation and Augmentation]] - research_docs/P229.pdf
-- [[Clay to Play With GenAI in UX Practice (Uusitalo et al. Aalto)]] - research_docs/P11.pdf
+- [[Clay to Play With Generative AI Tools in UX and Industrial Design Practice (Uusitalo et al., DIS 2024)]] - research_docs/P11.pdf
 - [[Cognitive Offloading and De-skilling]]
 - [[Collaboration with Conversational AI Assistants for UX Evaluation Questions and How to Ask Them]] - research_docs/P253.pdf
 - [[Collaboration with Conversational AI for UX Evaluation (Kuang et al.)]] - research_docs/P37.pdf

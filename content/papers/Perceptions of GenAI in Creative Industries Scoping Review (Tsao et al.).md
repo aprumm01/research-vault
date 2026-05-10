@@ -37,7 +37,7 @@ Systematic scoping review; database searches across multiple disciplines; inclus
 - Publication bias toward English-language, Western creative industries contexts
 
 ## Connections
-Relates to [[AI Rivalry as a Craft Writing Professionals (Varanasi et al. NYU)]] on creative professional responses to GenAI; links to [[Clay to Play With GenAI in UX Practice (Uusitalo et al. Aalto)]] on design professional adoption; connects to [[Evolving Roles of Creative Practitioners in GenAI Age (Palani and Ramos)]] on creative role transformation.
+Relates to [[AI Rivalry as a Craft Writing Professionals (Varanasi et al. NYU)]] on creative professional responses to GenAI; links to [[Clay to Play With Generative AI Tools in UX and Industrial Design Practice (Uusitalo et al., DIS 2024)]] on design professional adoption; connects to [[Evolving Roles of Creative Practitioners in GenAI Age (Palani and Ramos)]] on creative role transformation.
 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]

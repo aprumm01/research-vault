@@ -11,7 +11,7 @@ members: 11
 - [[AI Has Not Fixed Teamwork (Xiao et al. CMU)]] - research_docs/P13.pdf
 - [[AI Rivalry as a Craft Writing Professionals (Varanasi et al. NYU)]] - research_docs/P16.pdf
 - [[Beyond Automation Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)]] - research_docs/P1.pdf
-- [[Clay to Play With GenAI in UX Practice (Uusitalo et al. Aalto)]] - research_docs/P11.pdf
+- [[Clay to Play With Generative AI Tools in UX and Industrial Design Practice (Uusitalo et al., DIS 2024)]] - research_docs/P11.pdf
 - [[Designer Experiences and Perspectives on the Role of Generative AI in Industrial Design (SÃ¼ner-Pla-CerdÃ  et al., AI & Society 2025)]] - research_docs/P234.pdf
 - [[GenAI in UX Research Industry Study (Takafoli et al. Waterloo)]] - research_docs/P15.pdf
 - [[Human-AI Creative Collaboration]]
