@@ -10,6 +10,9 @@ tags:
 
 # Methodology, Legend, and Rhetoric: The Constructions of AI by Academia and Industry (Eynon & Young, 2020)
 
+## Summary
+Uses Social Construction of Technology (SCOT) theory to analyze how academic researchers, commercial sector actors, and policymakers construct AI differently in the context of lifelong learning, drawing on 34 in-depth interviews and document analysis. Finds three distinct technological frames and argues that commercial sector practices currently wield the most power in shaping AI-for-learning design.
+
 ## Connections
 - [[Eynon]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
