@@ -2,13 +2,16 @@
 source_file: "research_docs/P11.pdf"
 type: paper
 community: "GenAI in UX and Design Practice"
+venue: "DIS 2024"
+year: 2024
+doi: "10.1145/3643834.3661624"
 tags:
   - graphify/document
   - graphify/EXTRACTED
   - community/GenAI_in_UX_and_Design_Practice
 ---
 
-# Clay to Play With: GenAI in UX Practice (Uusitalo et al. Aalto)
+# Clay to Play With: Generative AI Tools in UX and Industrial Design Practice (Uusitalo et al., DIS 2024)
 
 ## Summary
 Uusitalo et al. report an interview study with 10 UX and industrial designers at Nokia/Aalto exploring GenAI adoption and appropriation in professional design practice, finding wide variation in attitudes from threat-oriented negativity to empowerment — differences explained primarily by sense of agency and perceived control. Using the Coping Model of User Adaptation as their analytical lens, they show that metacognitive skills (self-awareness about one's own design process) are the key differentiator between designers who find GenAI empowering versus threatening. The title metaphor — "clay to play with" — captures GenAI's ambiguous, malleable potential.
