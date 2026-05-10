@@ -45,7 +45,7 @@ Misalignment accumulates at every transition in this cycle.
 ## Wave 1: The Universal Machine (1943–1966)
 
 ### The Imaginary
-**"Intelligence is information processing. Machines will think — and thinking is a universal, computable process."**
+**"Intelligence is information processing. Machines will think — and thinking is a universal, computable process."** *(Prumm, 2025 — synthesis of dominant discourse)*
 
 This imaginary was constructed almost entirely by scientists and mathematicians, largely working under military funding during and after WWII. Its core claim: that the brain is a machine, that machines can be brains, and that this equivalence would unlock control over any complex system — organisms, economies, societies.
 
@@ -80,7 +80,7 @@ Automation of manufacturing was the industrial imaginary in this period — not 
 ## Wave 2: The Expert and the Factory (1966–1987)
 
 ### The Imaginary
-**"AI will encode human expertise. Blue-collar and routine work will be automated first. Knowledge workers — especially professionals — are safe."**
+**"AI will encode human expertise. Blue-collar and routine work will be automated first. Knowledge workers — especially professionals — are safe."** *(Prumm, 2025 — synthesis of dominant discourse)*
 
 This wave split into two simultaneous imaginaries that rarely acknowledged each other: the *AI researcher's imaginary* (expert systems encoding professional knowledge) and the *industrial imaginary* (factory automation eliminating manufacturing labor). Pop culture fused them into something darker — the machine that turns against its maker.
 
@@ -119,7 +119,7 @@ The deindustrialization of American and British manufacturing — the Rust Belt 
 ## Wave 3: The Safe Knowledge Worker (1987–2010)
 
 ### The Imaginary
-**"The Information Age rewards cognitive, creative, and social skills. Knowledge workers are the new middle class. AI optimizes systems but cannot replace judgment, creativity, or human relationship."**
+**"The Information Age rewards cognitive, creative, and social skills. Knowledge workers are the new middle class. AI optimizes systems but cannot replace judgment, creativity, or human relationship."** *(Prumm, 2025 — synthesis of dominant discourse)*
 
 This was the dominant cultural and economic imaginary of the internet era — and it proved remarkably durable even as evidence against it accumulated. The phrase "knowledge economy" (Drucker) became the implicit reassurance: automation would continue displacing manual and routine work, but humans who could think, communicate, and create would always be needed.
 
@@ -156,7 +156,7 @@ Management theory embraced "knowledge work" as the new dominant labor category (
 ## Wave 4: The Automation Panic (2010–2019)
 
 ### The Imaginary
-**"Now everything is at risk. White-collar work, creative work, professional judgment — all automatable within a decade. Either adapt or be replaced."**
+**"Now everything is at risk. White-collar work, creative work, professional judgment — all automatable within a decade. Either adapt or be replaced."** *(Prumm, 2025 — synthesis of dominant discourse)*
 
 This wave reversed the safe-knowledge-worker assumption with remarkable speed. The triggering events were technical (deep learning, Watson, AlphaGo) but the imaginary spread through media and consultancy reports far beyond what technical reality supported.
 
