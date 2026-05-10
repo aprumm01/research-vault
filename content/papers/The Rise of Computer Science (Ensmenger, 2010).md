@@ -3,9 +3,12 @@ source_file: "research_docs/P92.pdf"
 type: paper
 community: "AI and Future of Work"
 tags:
+  - book-chapter
+venue: "The Computer Boys Take Over (MIT Press, 2010)"
+year: 2010
 ---
 
-# Ensmenger - The Rise of Computer Science
+# The Rise of Computer Science (Ensmenger, 2010)
 
 ## Summary
 Ensmenger's chapter traces the disciplinary formation of computer science from the late 1940s–1960s, when programming was done primarily by female "human computers" and clerical workers, through its transformation into a credentialed, predominantly male academic discipline. The chapter reveals how professionalization of CS involved deliberate boundary work—constructing aptitude tests, establishing degree programs, and cultivating a "programmer personality" stereotype—that systematically excluded women and working-class practitioners who had built computing from the ground up.
@@ -33,12 +36,7 @@ Historical analysis using primary sources: memoirs, professional society documen
 Focus on U.S. context; international computing history may show different patterns. Emphasis on exclusionary dynamics may underweight genuine technical contributions of CS as a discipline.
 
 ## Connections
-- Relates to [[How to Be Universal Some Cybernetic Strategies, 1943-70]] on the formation of adjacent computational disciplines
-- Connects to broader STS frameworks in [[Orlikowski - Using Technology and Constituting Structures]]
-- Situates historical context for contemporary debates on AI bias and representation
-
-## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Historical Analysis]] - `` [EXTRACTED]
-- [[Science and Technology Studies (STS)]] - `` [EXTRACTED]
-- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
+- [[How to Be Universal Some Cybernetic Strategies, 1943-70]] — adjacent history of how cybernetics established itself as a legitimate computational discipline in the same era
+- [[AI and Future of Work]] — situates historical exclusionary dynamics as precursors to contemporary AI bias and representation debates
+- [[Historical Analysis]]
+- [[Science and Technology Studies (STS)]]
