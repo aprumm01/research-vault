@@ -7,6 +7,9 @@ tags:
 
 # Human-AI Creative Collaboration
 
+## Overview
+The study of how humans and AI systems co-create in design, art, writing, music, and other creative domains. Research examines different collaboration models—AI as tool, assistant, co-creator, or partner—and investigates how creative agency, authorship, and expertise are distributed across human-AI dyads. A central tension is whether AI collaboration enhances human creativity or gradually supplants the creative process.
+
 ## Related Papers
 
 - [[papers/Beyond Automation Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)|Beyond Automation: Designers Perceive AI as Creative Partner (Khan et al. CHI 2025)]]

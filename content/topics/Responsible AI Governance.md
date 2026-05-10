@@ -7,6 +7,9 @@ tags:
 
 # Responsible AI Governance
 
+## Overview
+The policy, institutional, and technical frameworks for ensuring that AI systems are developed and deployed in ways that are accountable, transparent, fair, and aligned with human values. Governance mechanisms range from organizational ethics boards and voluntary principles to binding national regulations and international standards. Ongoing debates center on who governs AI, for whose benefit, with what enforcement authority, and how to balance innovation with precaution.
+
 ## Related Papers
 
 - [[papers/Making the Right Thing HCI and Responsible AI (Jung et al. CMU)|Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)]]

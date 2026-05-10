@@ -7,6 +7,12 @@ tags:
 
 # Problem-Based Learning
 
+## Overview
+A student-centered pedagogy in which learners work collaboratively on complex, ill-structured real-world problems as the primary vehicle for knowledge acquisition. Originally developed for medical education by Howard Barrows at McMaster University, PBL emphasizes self-directed inquiry, collaborative sense-making, and the integration of knowledge across domains. It has since spread widely across professional and higher education contexts.
+
+## Key Thinkers
+- Howard Barrows
+
 ## Related Papers
 
 - [[papers/Problem-Based Learning A Constructivist Approach (Barrows 1993)|Problem-Based Learning: A Constructivist Approach (Barrows, 1993)]]

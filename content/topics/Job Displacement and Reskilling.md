@@ -7,6 +7,9 @@ tags:
 
 # Job Displacement and Reskilling
 
+## Overview
+The study of how automation and AI eliminate, transform, and create occupational roles, and the policy and organizational responses designed to support workforce transitions. Research spans labor economics, workforce development, and human resource development, with ongoing debate over the pace, scale, and equity of AI-driven job disruption and the effectiveness of reskilling programs.
+
 ## Related Papers
 
 - [[papers/Poets Over Quants Automation Increases Value of Creativity|Poets Over Quants: Automation Increases Value of Creativity]]

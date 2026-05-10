@@ -9,6 +9,13 @@ tags:
 
 Human Performance Technology (HPT) is a systematic, evidence-based approach to improving human performance in organizational settings. Rooted in behavioral psychology and systems thinking, HPT diagnoses performance gaps through structured analysis — organizational, environmental, and causal — then designs targeted interventions to close those gaps. It is distinguished from traditional instructional design by its performance-first orientation: training is one possible intervention among many, deployed only when a knowledge or skill gap is the verified root cause.
 
+## Overview
+A systematic, evidence-based approach to improving human and organizational performance, developed within the International Society for Performance Improvement (ISPI). HPT diagnoses performance gaps, analyzes root causes across environmental and individual factors, and designs multi-pronged interventions—of which training is only one option. It draws on behavioral science, systems thinking, and instructional design, prioritizing measurable performance outcomes.
+
+## Key Thinkers
+- Thomas Gilbert
+- Joe Harless
+
 ## Related Papers
 
 - [[papers/Human Performance Technology Models Overview (Wilmoth, Prigmore & Bray)|Human Performance Technology Models Overview (Wilmoth, Prigmore & Bray)]]

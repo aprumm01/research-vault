@@ -7,6 +7,9 @@ tags:
 
 # Studio Pedagogy
 
+## Overview
+A mode of design education centered on the shared studio space—a making environment where students develop projects under practitioner guidance, engage in public critique, and cultivate professional identity through iterative doing. Studio pedagogy emphasizes learning through making, peer review, and the gradual development of design judgment. The critique (or 'crit') is its defining assessment form, and its conventions are being renegotiated as AI tools alter what students make and how they make it.
+
 ## Related Papers
 
 - [[papers/Educating for Design Character (Boling Gray Smith)|Educating for Design Character (Boling Gray Smith)]]

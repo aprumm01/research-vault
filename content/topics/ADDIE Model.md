@@ -7,6 +7,9 @@ tags:
 
 # ADDIE Model
 
+## Overview
+A foundational instructional systems design framework organized around five phases: Analysis, Design, Development, Implementation, and Evaluation. Though often taught as a linear process, ADDIE is more accurately a descriptive model of ISD practice—originally synthesized from U.S. military training programs in the 1970s. Its systematic logic underpins most formal learning design work, even when practitioners follow iterative or agile variants.
+
 ## Related Papers
 
 - [[papers/Optimizing Design Education Using Artificial Intelligence Joint Application of OBE Teaching, Intelligent Color Platform,|Optimizing Design Education Using Artificial Intelligence: Joint Application of OBE Teaching, Intelligent Color Platform, and BP Neural Network]]

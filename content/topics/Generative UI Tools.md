@@ -7,6 +7,9 @@ tags:
 
 # Generative UI Tools
 
+## Overview
+AI systems capable of generating visual interfaces, design components, and interactive prototypes from natural language descriptions, sketches, or design specifications. These tools are rapidly reshaping UX/UI workflows by enabling fast exploration of design variations and lowering barriers to prototyping—raising questions about the changing nature of design skill, authorship, and the evaluation of AI-generated aesthetics.
+
 ## Related Papers
 
 - [[papers/Formative Study on GenUI Tools (Chen et al. Google DeepMind)|Formative Study on GenUI Tools (Chen et al. Google DeepMind)]]

@@ -7,6 +7,9 @@ tags:
 
 # Prompt Engineering
 
+## Overview
+The practice of designing effective inputs for large language models and other generative AI systems to elicit high-quality, contextually appropriate outputs. Techniques include zero-shot and few-shot prompting, chain-of-thought reasoning, role framing, and iterative refinement. Prompt engineering is increasingly treated as a transferable professional skill, with debate about whether it constitutes a durable expertise or a transitional practice before models become more instruction-following.
+
 ## Related Papers
 
 - [[papers/Thinking through Prompting Cognitive Mediation (Dalsgaard)|Thinking through Prompting: Cognitive Mediation (Dalsgaard)]]

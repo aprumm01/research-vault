@@ -7,6 +7,13 @@ tags:
 
 # Constructivism
 
+## Overview
+A theory of knowledge and learning holding that understanding is actively constructed by learners in relation to prior knowledge, social interaction, and material engagement—rather than passively received. Piaget's individual constructivism and Vygotsky's social constructivism provide distinct but complementary accounts. Constructivism underpins learner-centered, inquiry-based, and problem-based approaches to instruction.
+
+## Key Thinkers
+- Jean Piaget
+- Lev Vygotsky
+
 ## Related Papers
 
 - [[papers/Integrating Unplugged and Plugged for Holistic AI Education (Dai)|Integrating Unplugged and Plugged for Holistic AI Education (Dai)]]

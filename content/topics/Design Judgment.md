@@ -7,6 +7,9 @@ tags:
 
 # Design Judgment
 
+## Overview
+The capacity of designers to evaluate quality, recognize fitness-for-purpose, and make trade-off decisions within situated constraints. Design judgment is tacit and cultivated through sustained practice and critique rather than explicit rule-following. It is central to how design educators assess student development, how practitioners claim expertise, and how AI assistance raises questions about whose judgment is being displaced.
+
 ## Related Papers
 
 - [[papers/De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)|De-skilling Cognitive Offloading and Misplaced Responsibilities (Shukla et al. Purdue)]]

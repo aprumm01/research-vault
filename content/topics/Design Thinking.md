@@ -7,6 +7,14 @@ tags:
 
 # Design Thinking
 
+## Overview
+A human-centered, iterative approach to problem-solving popularized by IDEO and the Stanford d.school. The canonical five-stage model—Empathize, Define, Ideate, Prototype, Test—has been widely adopted in business, public sector, and education contexts. Critics note that Design Thinking can oversimplify complex social problems and that its repackaging of design practice elides its origins in professional design education.
+
+## Key Thinkers
+- Herbert Simon
+- Tim Brown
+- David Kelley
+
 ## Related Papers
 
 - [[papers/Co-Designing with Transformers GenAI in Design Education (Sandhaus et al. Cornell)|Co-Designing with Transformers: GenAI in Design Education (Sandhaus et al. Cornell)]]

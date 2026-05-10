@@ -7,6 +7,9 @@ tags:
 
 # AI Literacy
 
+## Overview
+A multi-dimensional competency framework for understanding, using, and critically evaluating AI systems. Definitions span technical fluency, ethical awareness, and the capacity to assess AI's social and professional implications. Research increasingly focuses on domain-specific AI literacy—what designers, educators, librarians, and knowledge workers need to engage productively and critically with AI tools in practice.
+
 ## Related Papers
 
 - [[papers/AI Literacy in Design Education Comparative Study (Schauer et al. HTW Berlin)|AI Literacy in Design Education: Comparative Study (Schauer et al. HTW Berlin)]]

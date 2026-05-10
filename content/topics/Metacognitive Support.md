@@ -7,6 +7,12 @@ tags:
 
 # Metacognitive Support
 
+## Overview
+Instructional scaffolding designed to develop learners' awareness and regulation of their own cognitive processes—including planning, self-monitoring, and evaluating learning outcomes. In AI-assisted design education, metacognitive support addresses the risk that AI-generated outputs reduce learners' reflective engagement with their own thinking. Metacognitive interventions aim to keep learners as active agents in the learning process.
+
+## Key Thinkers
+- John Flavell
+
 ## Related Papers
 
 - [[papers/Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)|Metacognitive Support Agents for Human-AI Co-Creation (Gmeiner et al. CMU)]]
