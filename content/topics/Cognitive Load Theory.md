@@ -1,19 +1,15 @@
 ---
-source_file: ""
-type: framework
-community: "Instructional Design Theory"
+title: "Cognitive Load Theory"
+type: "concept"
+community: ""
 tags:
 ---
 
 # Cognitive Load Theory
 
-## Overview
-Cognitive Load Theory holds that working memory is severely limited in capacity and duration. Sweller identified intrinsic (task complexity), extraneous (poor design), and germane (schema construction) loads. It has major implications for instructional design, multimedia learning, and interface design.
+## Related Papers
 
-## Key Thinkers
-- John Sweller
-- Alan Baddeley
-- Richard Mayer
+- [[papers/Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)|Behaviorism Cognitivism Constructivism Compared (Ertmer and Newby)]]
+- [[papers/Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)|Nine Ways to Reduce Cognitive Load in Multimedia (Mayer and Moreno)]]
+- [[papers/Why Minimal Guidance During Instruction Does Not Work (Kirschner Sweller Clark)|Why Minimal Guidance During Instruction Does Not Work (Kirschner, Sweller & Clark)]]
 
-## Connections
-- [[Instructional Design Theory]] - `` [EXTRACTED]

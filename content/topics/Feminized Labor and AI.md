@@ -1,12 +1,13 @@
 ---
-source_file: ""
-type: paper
-community: "AI and Future of Work"
+title: "Feminized Labor and AI"
+type: "concept"
+community: ""
 tags:
 ---
 
 # Feminized Labor and AI
 
-## Connections
-- [[AI and Future of Work]] - `` [EXTRACTED]
-- [[Responsible AI and Ethics]] - `` [EXTRACTED]
+## Related Papers
+
+- [[papers/AI Failure Loops in Devalued Work (Kawakami et al.)|AI Failure Loops in Devalued Work (Kawakami et al.)]]
+

@@ -3,7 +3,6 @@ title: "Designerly Ways of Knowing"
 type: "concept"
 community: ""
 tags:
-  - concept
 ---
 
 # Designerly Ways of Knowing
