@@ -25,6 +25,7 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import PageTypeBadge from "./PageTypeBadge"
 import CitationBlock from "./CitationBlock"
+import VaultQuery from "./VaultQuery"
 
 export {
   ArticleTitle,
@@ -54,4 +55,5 @@ export {
   ConditionalRender,
   PageTypeBadge,
   CitationBlock,
+  VaultQuery,
 }

@@ -1,0 +1,231 @@
+#vault-query-root {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 1000;
+  font-family: var(--bodyFont);
+}
+
+#vq-trigger {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.55rem 1rem;
+  background: var(--secondary);
+  color: var(--light);
+  border: none;
+  border-radius: 2rem;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+  transition: background 0.15s, transform 0.1s;
+
+  &:hover {
+    background: var(--tertiary);
+    transform: translateY(-1px);
+  }
+
+  svg {
+    flex-shrink: 0;
+  }
+}
+
+#vq-panel {
+  display: none;
+  flex-direction: column;
+  position: fixed;
+  bottom: 5rem;
+  right: 1.5rem;
+  width: 420px;
+  max-width: calc(100vw - 2rem);
+  max-height: 70vh;
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 0.75rem;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.15);
+  overflow: hidden;
+  z-index: 1000;
+
+  &.open {
+    display: flex;
+  }
+}
+
+#vq-header {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-bottom: 1px solid var(--lightgray);
+  background: var(--light);
+}
+
+#vq-title {
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--dark);
+}
+
+#vq-context-label {
+  flex: 1;
+  font-size: 0.72rem;
+  color: var(--gray);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+#vq-close {
+  background: none;
+  border: none;
+  color: var(--gray);
+  cursor: pointer;
+  font-size: 1rem;
+  padding: 0 0.2rem;
+  line-height: 1;
+
+  &:hover {
+    color: var(--dark);
+  }
+}
+
+#vq-response-area {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1rem;
+  font-size: 0.85rem;
+  line-height: 1.6;
+  color: var(--darkgray);
+  min-height: 120px;
+}
+
+#vq-placeholder {
+  color: var(--gray);
+  font-style: italic;
+  margin: 0;
+}
+
+#vq-response-text {
+  white-space: pre-wrap;
+  color: var(--darkgray);
+}
+
+#vq-response-text.loading::after {
+  content: "▋";
+  animation: blink 0.8s step-end infinite;
+}
+
+@keyframes blink {
+  50% { opacity: 0; }
+}
+
+#vq-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.4rem 1rem;
+  border-top: 1px solid var(--lightgray);
+  background: var(--light);
+
+  button {
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    padding: 0.25rem 0.6rem;
+    font-size: 0.75rem;
+    background: var(--lightgray);
+    border: none;
+    border-radius: 0.4rem;
+    color: var(--darkgray);
+    cursor: pointer;
+    transition: background 0.1s;
+
+    &:hover {
+      background: var(--gray);
+      color: var(--light);
+    }
+  }
+
+  #vq-copy-success {
+    font-size: 0.72rem;
+    color: var(--secondary);
+  }
+}
+
+#vq-sources-label {
+  margin-left: auto;
+  font-size: 0.72rem;
+  color: var(--gray);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  max-width: 180px;
+}
+
+#vq-input-row {
+  display: flex;
+  gap: 0.5rem;
+  padding: 0.75rem 1rem;
+  border-top: 1px solid var(--lightgray);
+  background: var(--light);
+
+  textarea {
+    flex: 1;
+    resize: none;
+    border: 1px solid var(--lightgray);
+    border-radius: 0.5rem;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.85rem;
+    font-family: var(--bodyFont);
+    color: var(--darkgray);
+    background: var(--light);
+    line-height: 1.4;
+
+    &:focus {
+      outline: 2px solid var(--secondary);
+      outline-offset: -1px;
+      border-color: transparent;
+    }
+
+    &::placeholder {
+      color: var(--gray);
+    }
+  }
+
+  button {
+    align-self: flex-end;
+    padding: 0.5rem 1rem;
+    background: var(--secondary);
+    color: var(--light);
+    border: none;
+    border-radius: 0.5rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: background 0.15s;
+    white-space: nowrap;
+
+    &:hover:not(:disabled) {
+      background: var(--tertiary);
+    }
+
+    &:disabled {
+      opacity: 0.5;
+      cursor: not-allowed;
+    }
+  }
+}
+
+@media (max-width: 600px) {
+  #vault-query-root {
+    bottom: 1rem;
+    right: 1rem;
+  }
+
+  #vq-panel {
+    right: 1rem;
+    width: calc(100vw - 2rem);
+    bottom: 4.5rem;
+  }
+}
