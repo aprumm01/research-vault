@@ -11,6 +11,7 @@ Adam Prumm is a PhD student in the Luddy School of Informatics, Computing, and E
 
 ## Papers in This Corpus
 - [[AI Imaginaries, Design Education, and the Transformation of Design Practice (Prumm, 2025)]]
+- [[When The Design Process Is Dead Is a Sales Pitch (Prumm, 2026)]]
 
 ## Research Area
 - [[AI in Design Education]]
