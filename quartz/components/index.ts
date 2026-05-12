@@ -26,6 +26,7 @@ import ConditionalRender from "./ConditionalRender"
 import PageTypeBadge from "./PageTypeBadge"
 import CitationBlock from "./CitationBlock"
 import VaultQuery from "./VaultQuery"
+import ExtractedStrip from "./ExtractedStrip"
 
 export {
   ArticleTitle,
@@ -56,4 +57,5 @@ export {
   PageTypeBadge,
   CitationBlock,
   VaultQuery,
+  ExtractedStrip,
 }

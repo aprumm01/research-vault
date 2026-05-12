@@ -5,7 +5,7 @@ import * as Component from "./quartz/components"
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [Component.VaultQuery()],
+  afterBody: [Component.VaultQuery(), Component.ExtractedStrip()],
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/aprumm01/research-vault",
