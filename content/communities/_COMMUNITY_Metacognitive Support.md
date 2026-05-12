@@ -9,7 +9,7 @@ members: 29
 
 ## Members
 - [[A Formative Study to Explore the Design of Generative UI Tools]] - research_docs/P167.pdf
-- [[AI Imaginaries Design Education and the Transformation of Design Practice (Literature Review)]] - research_docs/P366.pdf
+- [[AI Imaginaries, Design Education, and the Transformation of Design Practice (Prumm, 2025)]] - research_docs/P366.pdf
 - [[Barrows]] - research_docs/AU345.pdf
 - [[Competences for the Modern Designer Systematic Literature Review (2026)]] - research_docs/P232.pdf
 - [[Diary Study]]

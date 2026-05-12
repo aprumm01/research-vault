@@ -19,7 +19,7 @@ members: 37
 - [[Cybernetics]]
 - [[Education, Automation and AI A Genealogy]] - research_docs/P311.pdf
 - [[Electronic copy available at httpsssrn.comabstract=3078224]] - research_docs/P342.pdf
-- [[Ensmenger - The Rise of Computer Science]] - research_docs/P92.pdf
+- [[The Rise of Computer Science (Ensmenger, 2010)]] - research_docs/P92.pdf
 - [[Expert Systems Commercializing Artificial Intelligence (IEEE Annals, 1993)]] - research_docs/P312.pdf
 - [[Eynon]] - research_docs/AU357.pdf
 - [[Genealogical  Policy Analysis]]
