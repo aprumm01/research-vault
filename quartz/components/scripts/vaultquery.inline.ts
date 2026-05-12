@@ -1,5 +1,44 @@
 const API_URL = "https://vault-query-umber.vercel.app/api/query"
 
+function renderMarkdown(text: string): string {
+  const escaped = text
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+
+  function inline(s: string): string {
+    return s
+      .replace(/\*\*(.+?)\*\*/g, "<strong>$1</strong>")
+      .replace(/\*(.+?)\*/g, "<em>$1</em>")
+      .replace(/`(.+?)`/g, "<code>$1</code>")
+  }
+
+  const lines = escaped.split("\n")
+  const out: string[] = []
+  let inList = false
+
+  for (const line of lines) {
+    if (line.startsWith("### ")) {
+      if (inList) { out.push("</ul>"); inList = false }
+      out.push(`<h3>${inline(line.slice(4))}</h3>`)
+    } else if (line.match(/^#{1,2} /)) {
+      if (inList) { out.push("</ul>"); inList = false }
+      out.push(`<h2>${inline(line.replace(/^#{1,2} /, ""))}</h2>`)
+    } else if (line.match(/^[-*] /)) {
+      if (!inList) { out.push("<ul>"); inList = true }
+      out.push(`<li>${inline(line.slice(2))}</li>`)
+    } else if (line.trim() === "") {
+      if (inList) { out.push("</ul>"); inList = false }
+    } else {
+      if (inList) { out.push("</ul>"); inList = false }
+      out.push(`<p>${inline(line)}</p>`)
+    }
+  }
+
+  if (inList) out.push("</ul>")
+  return out.join("")
+}
+
 function getPageContext(): { title: string; content: string } {
   const title = document.querySelector("h1.article-title")?.textContent?.trim() ?? document.title
   const articleEl = document.querySelector("article") ?? document.querySelector(".popover-hint")
@@ -106,6 +145,7 @@ function setupVaultQuery() {
       }
 
       responseText.classList.remove("loading")
+      responseText.innerHTML = renderMarkdown(currentResponse)
       actions.style.display = "flex"
       sourcesLabel.textContent = sources.length ? `${sources.length} source${sources.length > 1 ? "s" : ""}` : ""
       sourcesLabel.title = sources.join("\n")
