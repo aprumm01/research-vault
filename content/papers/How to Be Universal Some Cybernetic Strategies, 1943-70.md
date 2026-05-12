@@ -33,7 +33,7 @@ Historical analysis of cybernetics' formation using primary sources from Macy Co
 STS analysis may underweight the genuine intellectual contributions of cybernetics. Historical focus on 1943–1970 does not address cybernetics' later decline and transformation into systems theory and complexity science.
 
 ## Connections
-- Relates to [[Ensmenger - The Rise of Computer Science]] on discipline formation and boundary work in computing
+- Relates to [[The Rise of Computer Science (Ensmenger, 2010)]] on discipline formation and boundary work in computing
 - Situates historical context for AI's current universalizing ambitions
 - Connects to [[Orlikowski - Using Technology and Constituting Structures]] on technology as social construction
 

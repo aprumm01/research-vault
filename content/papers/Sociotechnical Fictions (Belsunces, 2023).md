@@ -8,7 +8,7 @@ venue: "Science & Technology Studies"
 year: 2023
 ---
 
-# Sociotechnical Fictions: The Performative Agencies of Fiction in Technological Development (Belsunces, 2023)
+# Sociotechnical Fictions (Belsunces, 2023)
 
 ## Summary
 Coins and develops the notion of 'sociotechnical fiction' — a type of fiction distinct from literary or cinematic forms that operates within the technosciences to materialize non-existent entities through the production of new technological assemblages. Drawing on actor-network theory and a performative approach, the paper argues that sociotechnical fictions are deeply entangled with rational and instrumental practices, connecting the anticipatory dimension of technology with its material legitimation.

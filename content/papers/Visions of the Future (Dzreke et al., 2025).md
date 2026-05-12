@@ -8,7 +8,7 @@ venue: "Global Journal of Engineering and Technology Advances"
 year: 2025
 ---
 
-# Visions of the Future: A Critical Discourse Analysis of Tech CEO Predictions on AI and the Labor Market (Dzreke et al., 2025)
+# Visions of the Future (Dzreke et al., 2025)
 
 ## Summary
 Critical discourse analysis of tech CEO predictions about AI and the labor market, arguing that CEOs construct futures rather than merely predict them. Examines how CEO discourse about automation and job displacement shapes institutional, policy, and worker responses to AI, finding that CEO predictions systematically frame AI transformation as beneficial for innovation and competitiveness while displacing risk and disruption onto workers and labor markets.

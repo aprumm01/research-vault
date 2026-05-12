@@ -8,7 +8,7 @@ venue: "CSCW 2023"
 year: 2023
 ---
 
-# Powerful Futures: How a Big Tech Company Envisions Humans and Technologies in the Workplace of the Future (Cheon, 2023)
+# Powerful Futures (Cheon, 2023)
 
 ## Summary
 Analyzes Amazon's patent portfolio for fulfillment center technologies to examine how a major tech company imagines and materializes the future of work. Finds that Amazon's patents configure humans as residual operators who 'step in' to serve automated systems rather than the reverse — revealing a sociotechnical imaginary of human-as-exception within automated labor that is embedded in intellectual property before any workplace is built.

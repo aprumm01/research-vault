@@ -35,7 +35,7 @@ Philosophical framework based on Vickers may be unfamiliar to engineering educat
 ## Connections
 - Connects to [[Instructional Design and Creativity A Response to the Criticized]] and [[Instructional Design and Creativity A Response to the Critics]] on design as a judgment-intensive activity
 - Relates to [[Design Research Society Design Research Society]] on design philosophy
-- Pairs with [[Ensmenger - The Rise of Computer Science]] on how technical training can displace broader professional judgment
+- Pairs with [[The Rise of Computer Science (Ensmenger, 2010)]] on how technical training can displace broader professional judgment
 
 ## Connections
 - [[AI in Design Education]] - `` [EXTRACTED]
