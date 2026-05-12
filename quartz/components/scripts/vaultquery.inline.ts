@@ -1,4 +1,5 @@
 const API_URL = "https://vault-query-umber.vercel.app/api/query"
+const QUARTZ_BASE = "https://aprumm01.github.io/research-vault"
 
 function renderMarkdown(text: string): string {
   const escaped = text
@@ -39,6 +40,11 @@ function renderMarkdown(text: string): string {
   return out.join("")
 }
 
+function noteUrl(path: string): string {
+  const slug = path.replace(/\.md$/, "").split("/").map(encodeURIComponent).join("/")
+  return `${QUARTZ_BASE}/${slug}`
+}
+
 function getPageContext(): { title: string; content: string } {
   const title = document.querySelector("h1.article-title")?.textContent?.trim() ?? document.title
   const articleEl = document.querySelector("article") ?? document.querySelector(".popover-hint")
@@ -53,6 +59,7 @@ function setupVaultQuery() {
   const input = document.getElementById("vq-input") as HTMLTextAreaElement
   const submitBtn = document.getElementById("vq-submit") as HTMLButtonElement
   const responseText = document.getElementById("vq-response-text") as HTMLElement
+  const sourcesList = document.getElementById("vq-sources-list") as HTMLElement
   const placeholder = document.getElementById("vq-placeholder") as HTMLElement
   const actions = document.getElementById("vq-actions") as HTMLElement
   const copyBtn = document.getElementById("vq-copy") as HTMLButtonElement
@@ -83,12 +90,10 @@ function setupVaultQuery() {
   trigger.addEventListener("click", () => (isOpen ? close() : open()))
   closeBtn?.addEventListener("click", close)
 
-  // Close on Escape
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && isOpen) close()
   })
 
-  // Submit on Ctrl/Cmd+Enter
   input?.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key === "Enter") {
       e.preventDefault()
@@ -106,8 +111,9 @@ function setupVaultQuery() {
     submitBtn.textContent = "…"
     placeholder.style.display = "none"
     actions.style.display = "none"
-    responseText.textContent = ""
+    responseText.innerHTML = ""
     responseText.classList.add("loading")
+    sourcesList.innerHTML = ""
     currentResponse = ""
 
     try {
@@ -122,7 +128,7 @@ function setupVaultQuery() {
       const reader = res.body!.getReader()
       const decoder = new TextDecoder()
       let buffer = ""
-      let sources: string[] = []
+      let sources: { title: string; path: string }[] = []
 
       while (true) {
         const { done, value } = await reader.read()
@@ -146,9 +152,31 @@ function setupVaultQuery() {
 
       responseText.classList.remove("loading")
       responseText.innerHTML = renderMarkdown(currentResponse)
+
+      if (sources.length) {
+        const heading = document.createElement("p")
+        heading.className = "vq-sources-heading"
+        heading.textContent = `Sources (${sources.length})`
+        sourcesList.appendChild(heading)
+
+        const ul = document.createElement("ul")
+        for (const src of sources) {
+          const li = document.createElement("li")
+          const a = document.createElement("a")
+          a.href = noteUrl(src.path)
+          a.textContent = src.title
+          a.target = "_blank"
+          a.rel = "noopener noreferrer"
+          li.appendChild(a)
+          ul.appendChild(li)
+        }
+        sourcesList.appendChild(ul)
+        sourcesLabel.textContent = `${sources.length} source${sources.length > 1 ? "s" : ""}`
+      } else {
+        sourcesLabel.textContent = ""
+      }
+
       actions.style.display = "flex"
-      sourcesLabel.textContent = sources.length ? `${sources.length} source${sources.length > 1 ? "s" : ""}` : ""
-      sourcesLabel.title = sources.join("\n")
     } catch (err) {
       responseText.classList.remove("loading")
       responseText.textContent = "Something went wrong. Please try again."

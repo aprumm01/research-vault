@@ -25,6 +25,7 @@ const VaultQuery: QuartzComponent = () => {
         <div id="vq-response-area" aria-live="polite">
           <p id="vq-placeholder">Ask a question about your research. Claude will search your vault notes for relevant context.</p>
           <div id="vq-response-text"></div>
+          <div id="vq-sources-list"></div>
         </div>
 
         <div id="vq-actions" style="display:none">
