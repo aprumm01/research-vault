@@ -113,7 +113,7 @@ function setupVaultQuery() {
     actions.style.display = "none"
     responseText.innerHTML = ""
     responseText.classList.add("loading")
-    sourcesList.innerHTML = ""
+    if (sourcesList) sourcesList.innerHTML = ""
     currentResponse = ""
 
     try {
