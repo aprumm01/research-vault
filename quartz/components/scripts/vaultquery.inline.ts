@@ -53,6 +53,8 @@ function getPageContext(): { title: string; content: string } {
   return { title, content }
 }
 
+let vqController: AbortController | null = null
+
 function setupVaultQuery() {
   const trigger = document.getElementById("vq-trigger")
   const panel = document.getElementById("vq-panel")
@@ -69,6 +71,11 @@ function setupVaultQuery() {
   const contextLabel = document.getElementById("vq-context-label") as HTMLElement
 
   if (!trigger || !panel) return
+
+  // Abort any listeners from a previous nav so we don't accumulate duplicates
+  vqController?.abort()
+  vqController = new AbortController()
+  const { signal } = vqController
 
   let currentResponse = ""
   let isOpen = false
@@ -88,19 +95,19 @@ function setupVaultQuery() {
     panel!.setAttribute("aria-hidden", "true")
   }
 
-  trigger.addEventListener("click", () => (isOpen ? close() : open()))
-  closeBtn?.addEventListener("click", close)
+  trigger.addEventListener("click", () => (isOpen ? close() : open()), { signal })
+  closeBtn?.addEventListener("click", close, { signal })
 
   document.addEventListener("keydown", (e) => {
     if (e.key === "Escape" && isOpen) close()
-  })
+  }, { signal })
 
   input?.addEventListener("keydown", (e) => {
     if ((e.ctrlKey || e.metaKey) && e.key === "Enter") {
       e.preventDefault()
       submitBtn.click()
     }
-  })
+  }, { signal })
 
   async function submit() {
     const query = input.value.trim()
@@ -188,7 +195,7 @@ function setupVaultQuery() {
     }
   }
 
-  submitBtn?.addEventListener("click", submit)
+  submitBtn?.addEventListener("click", submit, { signal })
 
   copyBtn?.addEventListener("click", () => {
     if (!currentResponse) return
@@ -198,7 +205,7 @@ function setupVaultQuery() {
         copyBtn.innerHTML = `<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg> Copy`
       }, 1500)
     })
-  })
+  }, { signal })
 
   downloadBtn?.addEventListener("click", () => {
     if (!currentResponse) return
@@ -211,7 +218,7 @@ function setupVaultQuery() {
     a.download = filename
     a.click()
     URL.revokeObjectURL(url)
-  })
+  }, { signal })
 }
 
 document.addEventListener("nav", setupVaultQuery)
