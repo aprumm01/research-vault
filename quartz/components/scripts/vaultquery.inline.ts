@@ -113,8 +113,6 @@ function setupVaultQuery() {
     const query = input.value.trim()
     if (!query) return
 
-    const { content: pageContent, title: pageTitle } = getPageContext()
-
     submitBtn.disabled = true
     submitBtn.textContent = "…"
     placeholder.style.display = "none"
@@ -128,7 +126,7 @@ function setupVaultQuery() {
       const res = await fetch(API_URL, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ query, pageContent, pageTitle }),
+        body: JSON.stringify({ query }),
       })
 
       if (!res.ok) throw new Error(`API error ${res.status}`)
