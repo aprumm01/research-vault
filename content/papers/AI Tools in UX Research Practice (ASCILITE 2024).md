@@ -1,37 +1,47 @@
 ---
 source_file: "research_docs/P96.pdf"
-type: paper
-community: "AI in Design Education"
+type: ""
+community: "AI Literacy"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/AI_Literacy
 ---
 
 # AI Tools in UX Research Practice (ASCILITE 2024)
 
-
 ## Summary
-
-## Summary
-This ASCILITE 2024 conference paper explores the role of AI tools in UX research practice, examining how UX researchers are integrating AI into their workflows and what implications this has for research quality, efficiency, and professional competency. The paper documents emerging patterns of AI use in UX research contexts and raises questions about the impact of AI assistance on research rigor and practitioner skill development.
+Zhang, Atiq, and Chow (2024) examine the current and potential role of AI in UX research through in-depth interviews with UX researchers at the University of Melbourne, presented at ASCILITE 2024. They find that AI is presently confined to routine, low-stakes tasks — primarily text conversion work like transcription and survey preparation — while its potential as a collaborative partner for idea generation and insight synthesis remains largely untapped. The authors argue this gap stems from insufficient AI literacy among HCI practitioners and students, and that HCI curricula have been slow to integrate meaningful AI education. The paper assesses UX researchers' readiness to adopt AI tools more broadly and concludes with recommendations for curriculum reform.
 
 ## Key Concepts
-- AI tools in UX research workflows
-- UX research practice and AI integration
-- Research quality and AI assistance
-- Professional competency in AI-assisted UX research
+- AI literacy in UX and HCI education
+- Routine-task automation vs. collaborative AI partnership
+- Practitioner readiness for AI tool adoption
+- HCI curriculum reform
 
 ## Theoretical Framework
-Practice-based research framework examining how professional UX researchers are adapting their methods and workflows in response to AI tool availability.
+Practitioner-readiness and technology adoption lens; situates the problem within broader AI literacy discourse in higher education.
 
 ## Methods
-Empirical study or survey of UX research practitioners; ASCILITE 2024 conference paper (5 pages); focuses on how AI is being used in UX research contexts.
+In-depth interviews with UX researchers; qualitative analysis of adoption patterns and perceived barriers. Venue: ASCILITE 2024 (5-page conference paper).
 
 ## Main Arguments
-- AI tools are being actively integrated into UX research workflows by practitioners
-- AI integration raises questions about research quality and the development of core UX research competencies
-- The field needs guidelines for appropriate AI use in UX research that preserve research rigor
-- UX researchers' professional identity is being renegotiated in response to AI tool availability
+- AI in UX research is currently used only for mundane tasks (transcription, data prep), not for higher-order analysis or ideation
+- Limited AI education among UX practitioners explains the underutilization
+- HCI curricula lag behind industry needs in preparing students to work with AI tools
+- Closing the AI literacy gap requires curricular intervention, not just tool availability
+
+## Limitations & Critiques
+Small qualitative sample at a single institution; findings may not generalize across UX research contexts or regions. Published as a short conference paper (5 pages), limiting depth of analysis.
+
+## Connections
+- [[AI Literacy]] - core gap this paper diagnoses
+- [[HCI Education and Pedagogy]] - curricular implications
+- [[GenAI in UX and Design Practice]] - practitioner adoption context
 
 ## Connections
 - [[AI Literacy]] - `` [EXTRACTED]
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Responsible AI Governance]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/AI_Literacy

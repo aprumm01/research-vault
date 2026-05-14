@@ -1,41 +1,43 @@
 ---
 source_file: "research_docs/P133.pdf"
-type: paper
+type: ""
 community: "Semi-Structured Interviews"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Semi-Structured_Interviews
 ---
 
 # Transforming Software Development with Generative AI
 
 ## Summary
-Ulfsnes, Moe, Stray, and Skarpen (SINTEF and University of Oslo) present empirical findings from interviews with 13 data scientists, managers, developers, designers, and frontend developers on how generative AI tools (primarily ChatGPT and GitHub Copilot) are transforming software development workflows and collaboration. The study finds that ChatGPT represents a paradigm shift for individual developer productivity but that its effects on team-level collaboration are more complex and uneven. AI tools are primarily used for code generation, debugging, and documentation—but rarely for coordination or planning tasks.
+Ulfsnes, Moe, Stray, and Skarpen (SINTEF/University of Oslo/NTNU, ~2023–2024) conduct an empirical interview study with 13 knowledge workers — data scientists, managers, developers, designers, and frontend developers — examining how GenAI tools, specifically ChatGPT and GitHub Copilot, have transformed software development workflows and team collaboration. They find that ChatGPT represents a paradigm shift in how software developers solve problems, and document new patterns of collaboration enabled by these tools. The study spans multiple roles to capture how GenAI affects the full sociotechnical stack of a development team, not just individual coders.
 
 ## Key Concepts
-- **GenAI as individual productivity amplifier**: AI tools dramatically accelerate coding, documentation, and problem-solving for individual developers
-- **Team-level effects**: GenAI's impact on collaboration, coordination, and knowledge sharing within development teams is more limited and nuanced
-- **Tool integration patterns**: How ChatGPT and Copilot are embedded in developer workflows and IDE environments
-- **Skill and role reconfiguration**: GenAI changes what skills matter (prompting, output evaluation, integration) relative to traditional coding
-- **Paradigm shift metaphor**: Study participants described ChatGPT as a fundamental change in how software development feels and works
+- ChatGPT and Copilot in software development workflows
+- Workflow paradigm shift
+- Cross-role GenAI adoption (developers, designers, managers)
+- Collaboration transformation via AI tools
 
 ## Theoretical Framework
-Empirical software engineering and CSCW traditions, drawing on sociotechnical systems theory. The interview method captures practitioners' experiential accounts of AI adoption in real organizational contexts.
+Sociotechnical systems theory applied to software development teams; interviews situate tool use in organizational and collaborative context.
 
 ## Methods
-Qualitative interview study with 13 participants across roles (data scientists, managers, developers, designers, frontend developers) at Norwegian technology organizations. Thematic analysis of interview transcripts.
+13 semi-structured interviews with participants spanning five professional roles at software development organizations; qualitative thematic analysis. Published as a 15-page conference paper (likely XP or Agile conference).
 
 ## Main Arguments
-1. GenAI tools fundamentally change the workflow of individual software developers, reducing time on routine coding and documentation tasks
-2. Team-level collaboration effects are more complex: AI may create new knowledge-sharing asymmetries and communication challenges
-3. The value of AI tools depends heavily on the quality of the prompt and the practitioner's ability to critically evaluate AI outputs
-4. Organizations adopting GenAI in software development need to address governance, quality assurance, and skill development, not just tool access
+- ChatGPT constitutes a paradigm shift in software developer workflow, not merely an incremental efficiency gain
+- GenAI tools affect collaboration patterns, not just individual productivity — team communication and task division change
+- Different roles (designers, developers, managers) experience GenAI's effects differently, requiring role-specific adoption strategies
+- Copilot and ChatGPT play complementary roles — one for code completion, one for broader knowledge work
 
-## Limitations
-Small qualitative sample (N=13); Norwegian software organization context may not generalize broadly. Rapid evolution of GenAI tools means findings may become outdated. Self-report interview data cannot verify actual productivity improvements.
+## Limitations & Critiques
+Small sample (n=13) from a specific organizational context; qualitative data captures perceptions and experiences rather than objective workflow metrics. May over-represent early adopters.
 
 ## Connections
-- Connects to [[AI Hasnt Fixed Teamwork Longitudinal Study (CMU MIT Stanford Emory)]] on longitudinal effects of AI on software team collaboration
-- Relates to [[Fr om code to collaboration]] on IT professionals' perceptions of AI workforce impacts
-- Pairs with [[UX Designers Pushing AI in the Enterprise - Adaptive UIs (2)]] on AI in professional design and development practice
+- [[AI and Future of Work]] - team-level workflow transformation
+- [[GenAI in UX and Design Practice]] - designer role in software teams
+- [[Human-AI Creative Collaboration]] - collaboration reconfiguration
 
 ## Connections
 - [[AI and Future of Work]] - `` [EXTRACTED]
@@ -43,3 +45,5 @@ Small qualitative sample (N=13); Norwegian software organization context may not
 - [[Semi-Structured Interviews]] - `` [EXTRACTED]
 - [[Sociotechnical Systems Theory]] - `` [EXTRACTED]
 - [[Thematic Analysis]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Semi-Structured_Interviews

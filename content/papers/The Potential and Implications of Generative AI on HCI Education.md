@@ -1,41 +1,43 @@
 ---
 source_file: "research_docs/P131.pdf"
-type: paper
-community: "Survey / Questionnaire Study"
+type: ""
+community: "Quantitative / Statistical Analysis"
 tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Quantitative_/_Statistical_Analysis
 ---
 
 # The Potential and Implications of Generative AI on HCI Education
 
 ## Summary
-Kharrufa and Johnson (Open Lab, Newcastle University) report on pedagogical insights from integrating generative AI into a 10-week undergraduate HCI module. The module deliberately incorporated GenAI into design briefs and practical sessions, encouraging students to experiment with AI models as creative partners. Survey findings reveal that students found AI valuable for generating initial ideas and creating project resources, but struggled with AI's limitations for nuanced user understanding and ethical reasoning. The paper provides practical recommendations for HCI educators navigating GenAI integration.
+Kharrufa and Johnson (Newcastle University) report pedagogical insights from integrating generative AI into a 10-week undergraduate HCI module, surveying students after completion. They designed the module to encourage active experimentation with GAI models as part of design brief requirements, with planned practical sessions and structured discussion. Key findings for HCI educators include the effective use of AI as a "persona" to help students develop project ideas and generate resources, though the abstract does not detail all outcomes. The paper addresses a gap in empirical accounts of how to meaningfully incorporate GenAI into HCI teaching practice.
 
 ## Key Concepts
-- **GenAI as design persona**: Using AI models to simulate user perspectives and generate design ideas during early ideation phases
-- **AI-assisted resource creation**: Using GenAI to rapidly produce design artifacts, prototypes, and research stimuli
-- **GenAI's HCI-specific limitations**: AI struggles with nuanced contextual user understanding, cultural sensitivity, and ethical design judgment
-- **Experimental pedagogy**: Designing coursework to actively explore GenAI's affordances rather than treating AI as a given tool
-- **Student perceptions of GenAI**: Generally positive for productivity, but skeptical about AI's adequacy for deep human understanding
+- GAI as pedagogical "persona" in design education
+- Student experimentation with AI in design briefs
+- HCI educator competencies for AI integration
+- Undergraduate module design with GenAI
 
 ## Theoretical Framework
-HCI education research drawing on design pedagogy and technology-enhanced learning. The study uses a reflective practitioner approach—the instructors designed, implemented, and analyzed their own pedagogical intervention.
+Constructivist pedagogy; students learn by doing through direct experimentation with AI tools embedded in authentic design tasks.
 
 ## Methods
-Single-module case study at Newcastle University; survey administered to students after completing the module. Qualitative and quantitative analysis of student responses about AI use and learning outcomes.
+Post-module survey of undergraduate students following a 10-week HCI course with integrated GAI components; qualitative and/or quantitative analysis of student responses. Published as an 8-page conference/journal paper.
 
 ## Main Arguments
-1. GenAI can be productively integrated into HCI education as a design partner for early-stage ideation and resource generation
-2. HCI students need explicit instruction in AI's limitations for understanding human context, not just its capabilities
-3. Treating GenAI as a site of critical inquiry—not just a productivity tool—better prepares HCI students for ethical AI practice
-4. Module design should build in structured reflection on when and why AI assistance is (and is not) appropriate
+- GenAI can function productively as a "persona" in design projects — giving students a responsive audience to test ideas against
+- Structured experimentation (required in design briefs) produces more insight than optional AI use
+- HCI educators need practical guidance for designing AI-integrated modules, not just theoretical frameworks
+- Student perceptions of GenAI's potential and limitations are shaped by how it is introduced pedagogically
 
-## Limitations
-Single institution, single module, single instructor perspective. Survey-based self-report may not capture actual learning outcomes. Rapid GenAI development means insights about specific tools may have short shelf-life.
+## Limitations & Critiques
+Survey-based data captures self-reported perceptions rather than learning outcomes; single-course context at one UK university limits transferability. AI tools used are not specified by name.
 
 ## Connections
-- Connects to [[ASCILITE 2024]] on AI literacy needs in HCI and UX education
-- Relates to [[Using Generative AI to Support UX Design Students in Web Dev]] on AI in design education
-- Pairs with [[The Impact of Generative AI on the CSCW Landscape Insights]] on GenAI's impact on HCI scholarship and education
+- [[HCI Education and Pedagogy]] - primary venue and concern
+- [[AI in Design Education]] - pedagogical design implications
+- [[GenAI in UX and Design Practice]] - student preparation for professional context
 
 ## Connections
 - [[Case Study]] - `` [EXTRACTED]
@@ -44,3 +46,5 @@ Single institution, single module, single instructor perspective. Survey-based s
 - [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
 - [[Reflective Practice]] - `` [EXTRACTED]
 - [[Survey  Questionnaire Study]] - `` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
