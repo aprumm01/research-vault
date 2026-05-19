@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P527.pdf"
 type: paper
@@ -38,5 +38,6 @@ Small user study (n=8) limits statistical power; all participants were UX profes
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Heuristic Evaluation]] - `` [EXTRACTED]
 - [[UXAgent A System for Simulating Usability Testing of Web Design with LLM Agents (Lu et al., 2025)]] - parallel system for LLM-based usability testing
 - [[Avenir-UX Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding (Tan et al., 2026)]] - concurrent system using visual grounding approach

@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P461.pdf"
 type: paper
@@ -40,4 +40,5 @@ Only two apps evaluated, limiting generalizability; master set of issues constru
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Heuristic Evaluation]] - `` [EXTRACTED]
 - [[Synthetic Cognitive Walkthrough Aligning LLM Performance with Human CW (Zhong et al., 2026)]] - companion paper extending this work to cognitive walkthrough method

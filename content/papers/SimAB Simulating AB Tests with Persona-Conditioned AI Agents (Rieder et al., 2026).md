@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P458.pdf"
 type: paper
@@ -39,5 +39,6 @@ No systematic validation against real A/B test outcomes; the persona generator i
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[A/B Testing]] - `` [EXTRACTED]
 - [[Agent AB Automated and Scalable AB Testing on Live Websites with LLM Agents (Lu et al., 2025)]] - parallel system for LLM-based A/B simulation
 - [[PersonaCite VoC-Grounded Interviewable Agentic Synthetic AI Personas (Truss, 2026)]] - companion paper from same Adobe research team

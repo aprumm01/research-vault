@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P524.pdf"
 type: paper
@@ -38,5 +38,6 @@ The paper presents a case study rather than a controlled comparative study, so t
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Think Aloud Protocol]] - `` [EXTRACTED]
 - [[UXAgent A System for Simulating Usability Testing of Web Design with LLM Agents (Lu et al., 2025)]] - prior DOM-based system that Avenir-UX addresses
 - [[UXCascade Scalable Usability Testing with Simulated User Agents (Holter et al., 2026)]] - concurrent system for simulation-based usability testing at scale

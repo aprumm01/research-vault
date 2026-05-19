@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P443.pdf"
 type: paper
@@ -39,4 +39,6 @@ Only one live case study on one platform (Amazon.com); directional alignment is 
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[A/B Testing]] - `` [EXTRACTED]
+- [[Behavioral Trace Analysis]] - `` [EXTRACTED]
 - [[UXAgent A System for Simulating Usability Testing of Web Design with LLM Agents (Lu et al., 2025)]] - related system by overlapping author team

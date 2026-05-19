@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P463.pdf"
 type: paper
@@ -39,5 +39,7 @@ No systematic validation against real human usability testing outcomes; heuristi
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Heuristic Evaluation]] - `` [EXTRACTED]
+- [[Behavioral Trace Analysis]] - `` [EXTRACTED]
 - [[Agent AB Automated and Scalable AB Testing on Live Websites with LLM Agents (Lu et al., 2025)]] - companion system from overlapping author team
 - [[Evaluating Trustworthiness of AI Personas in Paired Usability Testing (Huang, 2025)]] - empirical validation study citing this system

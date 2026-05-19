@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P456.pdf"
 type: paper
@@ -39,4 +39,5 @@ Only retail tasks from tau-Bench tested; human participants are self-selected th
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Behavioral Trace Analysis]] - `` [EXTRACTED]
 - [[Lost in Simulation LLM-Simulated Users are Unreliable Proxies for Human Users (Seshadri et al., 2026)]] - concurrent complementary study

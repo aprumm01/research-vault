@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P453.pdf"
 type: paper
@@ -39,5 +39,6 @@ Single shopping context ($250 decision) limits generalizability; the shopping as
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Behavioral Trace Analysis]] - `` [EXTRACTED]
 - [[Digital Twins]] - `` [EXTRACTED]
 - [[Agent AB Automated and Scalable AB Testing on Live Websites with LLM Agents (Lu et al., 2025)]] - overlapping author team, related evaluation context

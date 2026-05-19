@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P460.pdf"
 type: paper
@@ -39,4 +39,5 @@ Limited to two LLM systems (GPT-4 and Gemini 2.5 Pro); the specific interfaces a
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Cognitive Walkthrough]] - `` [EXTRACTED]
 - [[Synthetic Heuristic Evaluation AI vs Human-Powered Usability (Zhong et al., 2025)]] - companion paper from same research group

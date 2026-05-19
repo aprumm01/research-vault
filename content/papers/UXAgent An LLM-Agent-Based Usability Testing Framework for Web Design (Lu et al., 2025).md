@@ -1,4 +1,4 @@
----
+﻿---
 
 source_file: "research_docs/P464.pdf"
 type: paper
@@ -36,4 +36,6 @@ Short conference paper format limits detail; five-researcher evaluation is too s
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Heuristic Evaluation]] - `` [EXTRACTED]
+- [[Behavioral Trace Analysis]] - `` [EXTRACTED]
 - [[UXAgent A System for Simulating Usability Testing of Web Design with LLM Agents (Lu et al., 2025)]] - full extended version of this paper
