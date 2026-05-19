@@ -38,5 +38,6 @@ Tested only on a single product category (soft drinks) with a US sample, limitin
 ## Connections
 - [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
 - [[Synthetic Users and AI Personas]] - `` [EXTRACTED]
+- [[Digital Twins]] - `` [EXTRACTED]
 - [[Persona-Based Simulation of Human Opinion at Population Scale (Li et al., 2026)]] - extends population-level simulation with richer persona grounding
 - [[Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents (Morocho et al., 2026)]] - concurrent critique of persona-based survey simulation
