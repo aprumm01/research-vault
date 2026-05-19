@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Tan, Lim, Durgad, Obegi, and Li"
 ---
 
 # Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding (Tan et al., 2026)

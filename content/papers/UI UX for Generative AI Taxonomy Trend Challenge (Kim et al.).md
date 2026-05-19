@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P63.pdf"
 type: paper
+authors: "Kim et al."
 community: "Survey / Questionnaire Study"
 tags:
 ---

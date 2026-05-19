@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P27.pdf"
 type: paper
+authors: "Cross"
 community: "AI in Design Education"
 tags:
 ---

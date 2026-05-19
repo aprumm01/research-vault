@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P236.pdf"
 type: "paper"
+authors: "Caramiaux et al."
 community: "AI and Future of Work"
 tags:
 

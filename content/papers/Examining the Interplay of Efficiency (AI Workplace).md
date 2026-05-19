@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P94.pdf"
 type: paper
+authors: "Akpan and Adebayo"
 community: "AI and Future of Work"
 tags:
 ---

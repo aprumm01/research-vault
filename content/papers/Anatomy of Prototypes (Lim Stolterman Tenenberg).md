@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P28.pdf"
 type: paper
+authors: "Lim, Stolterman, and Tenenberg"
 community: "AI in Design Education"
 tags:
 ---

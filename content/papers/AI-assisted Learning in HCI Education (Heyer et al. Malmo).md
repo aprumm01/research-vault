@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P57.pdf"
 type: paper
+authors: "Heyer, Nilsson, and Pedersen"
 community: "Survey / Questionnaire Study"
 tags:
 ---

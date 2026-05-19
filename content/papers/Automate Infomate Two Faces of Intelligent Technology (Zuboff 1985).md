@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P30.pdf"
 type: paper
+authors: "Zuboff"
 community: "AI and Future of Work"
 tags:
 ---

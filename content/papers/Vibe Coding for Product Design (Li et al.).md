@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P14.pdf"
 type: paper
+authors: "Li et al."
 community: "Semi-Structured Interviews"
 tags:
 ---

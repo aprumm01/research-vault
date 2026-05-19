@@ -6,6 +6,7 @@ tags:
   - conference-paper
 venue: "CSCW 2023"
 year: 2023
+authors: "Cheon"
 ---
 
 # Powerful Futures (Cheon, 2023)

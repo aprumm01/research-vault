@@ -6,6 +6,7 @@ tags:
   - journal
 venue: "Global Journal of Engineering and Technology Advances"
 year: 2025
+authors: "Dzreke et al"
 ---
 
 # Visions of the Future (Dzreke et al., 2025)

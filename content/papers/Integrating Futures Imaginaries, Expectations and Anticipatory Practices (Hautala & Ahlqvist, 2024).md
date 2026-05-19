@@ -7,6 +7,7 @@ tags:
   - journal
 venue: "Technology Analysis & Strategic Management"
 year: 2024
+authors: "Hautala & Ahlqvist"
 ---
 
 # Integrating Futures Imaginaries, Expectations and Anticipatory Practices: Practitioners of Artificial Intelligence Between Now and Future (Hautala & Ahlqvist, 2024)

@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Lu et al."
 ---
 
 # Agent A/B: Automated and Scalable A/B Testing on Live Websites with LLM Agents (Lu et al., 2025)

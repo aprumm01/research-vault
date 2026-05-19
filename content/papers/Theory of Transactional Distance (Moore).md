@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P111.pdf"
 type: paper
+authors: "Moore"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

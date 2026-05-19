@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P35.pdf"
 type: paper
+authors: "Ramaul, Ritala, Kostis, and Aaltonen"
 community: "AI and Future of Work"
 tags:
 ---

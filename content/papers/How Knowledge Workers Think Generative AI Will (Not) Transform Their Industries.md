@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P158.pdf"
 type: ""
+authors: "Woodruff et al."
 community: "Workplace Learning and AI"
 tags:
   - graphify/document

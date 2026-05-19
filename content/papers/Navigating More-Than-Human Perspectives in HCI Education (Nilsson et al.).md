@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P58.pdf"
 type: paper
+authors: "Nilsson et al."
 community: "AI in Design Education"
 tags:
 ---

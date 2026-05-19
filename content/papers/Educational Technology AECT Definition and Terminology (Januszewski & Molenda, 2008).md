@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "Lawrence Erlbaum Associates"
 year: "2008"
+authors: "Januszewski & Molenda"
 ---
 
 # Educational Technology: AECT Definition and Terminology (Januszewski & Molenda, 2008)

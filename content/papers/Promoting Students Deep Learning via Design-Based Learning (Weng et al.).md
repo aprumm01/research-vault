@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P68.pdf"
 type: paper
+authors: "Weng, Chen, and Ai"
 community: "Survey / Questionnaire Study"
 tags:
 ---

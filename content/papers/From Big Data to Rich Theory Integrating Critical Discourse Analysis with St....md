@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P300.pdf"
 type: paper
+authors: "Aranda et al."
 community: "Studio Pedagogy"
 tags:
 ---

@@ -7,6 +7,7 @@ tags:
   - IJTIM
 venue: "IJTIM"
 year: "2023"
+authors: "AL-Sa'di and Miller"
 ---
 
 # Exploring the Impact of AI Language Model ChatGPT on User Experience (IJTIM)

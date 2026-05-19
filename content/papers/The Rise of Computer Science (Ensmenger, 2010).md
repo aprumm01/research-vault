@@ -6,6 +6,7 @@ tags:
   - book-chapter
 venue: "The Computer Boys Take Over (MIT Press, 2010)"
 year: 2010
+authors: "Ensmenger"
 ---
 
 # The Rise of Computer Science (Ensmenger, 2010)

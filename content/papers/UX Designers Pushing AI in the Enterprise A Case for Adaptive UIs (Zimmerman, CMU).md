@@ -7,6 +7,7 @@ tags:
   - CHI
 venue: "CHI 2025"
 year: "2025"
+authors: "Zimmerman"
 ---
 
 # UX Designers Pushing AI in the Enterprise: A Case for Adaptive UIs (Zimmerman, CMU)

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P15.pdf"
 type: paper
+authors: "Takafoli, Li, and Mäkelä at the University of Waterloo"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

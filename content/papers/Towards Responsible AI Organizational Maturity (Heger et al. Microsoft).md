@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P18.pdf"
 type: paper
+authors: "Heger et al."
 community: "Semi-Structured Interviews"
 tags:
 ---

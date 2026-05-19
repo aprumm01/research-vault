@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "Lawrence Erlbaum Associates"
 year: "1996"
+authors: "Jonassen et al"
 ---
 
 # Handbook of Research on Educational Communications and Technology (Jonassen et al., 1996)

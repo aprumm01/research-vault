@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Li, Chen, Namkoong, and Peng"
 ---
 
 # LLM Generated Persona is a Promise with a Catch (Li et al., 2025)

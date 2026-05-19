@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Holter, Koh, Dogan, and Chan"
 ---
 
 # UXCascade: Scalable Usability Testing with Simulated User Agents (Holter et al., 2026)

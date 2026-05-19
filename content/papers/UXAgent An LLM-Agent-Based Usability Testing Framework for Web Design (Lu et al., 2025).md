@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Lu et al"
 ---
 
 # UXAgent: An LLM-Agent-Based Usability Testing Framework for Web Design (Lu et al., 2025)

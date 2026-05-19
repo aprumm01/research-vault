@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P4.pdf"
 type: paper
+authors: "Chen, Knearem, and Li"
 community: "Metacognitive Support"
 tags:
 ---

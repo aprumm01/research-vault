@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P49.pdf"
 type: paper
+authors: "Lebovitz, Lifshitz-Assaf, and Levina"
 community: "Studio Pedagogy"
 tags:
 ---

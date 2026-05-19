@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P181.pdf"
 type: paper
+authors: "Ertmer and Newby"
 community: "Instructional Design Theory"
 tags:
 ---

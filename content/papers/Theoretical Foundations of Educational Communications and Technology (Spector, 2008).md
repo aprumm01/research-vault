@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P122.pdf"
 type: paper
+authors: "Spector"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

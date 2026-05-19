@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Taday Morocho, Cima, Fagni, Avvenuti, and Cresci"
 ---
 
 # Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents (Morocho et al., 2026)

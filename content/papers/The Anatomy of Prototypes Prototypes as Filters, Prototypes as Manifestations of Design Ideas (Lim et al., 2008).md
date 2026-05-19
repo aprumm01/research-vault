@@ -7,6 +7,7 @@ tags:
   - CHI
 venue: "ACM TOCHI"
 year: "2008"
+authors: "Lim, Stolterman, and Tenenberg"
 doi: "10.1145/1375761.1375762"
 ---
 

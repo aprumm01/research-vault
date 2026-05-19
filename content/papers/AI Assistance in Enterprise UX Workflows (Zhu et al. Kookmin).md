@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P36.pdf"
 type: paper
+authors: "Zhu, Lee, Pan, and Cai"
 community: "Survey / Questionnaire Study"
 tags:
 ---

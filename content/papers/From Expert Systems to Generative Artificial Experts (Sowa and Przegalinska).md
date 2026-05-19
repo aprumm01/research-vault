@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P34.pdf"
 type: paper
+authors: "Sowa and Przegalinska"
 community: "AI and Future of Work"
 tags:
 ---

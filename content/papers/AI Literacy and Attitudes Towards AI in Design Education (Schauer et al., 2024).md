@@ -6,6 +6,7 @@ tags:
   - conference-paper
 venue: "CSEDU 2024"
 year: 2024
+authors: "Schauer et al"
 ---
 
 # AI Literacy and Attitudes Towards AI in Design Education (Schauer et al., 2024)

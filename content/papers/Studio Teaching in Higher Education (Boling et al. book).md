@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P52.pdf"
 type: paper
+authors: "Boling, Smith, and Gray"
 community: "Survey / Questionnaire Study"
 tags:
 ---

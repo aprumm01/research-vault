@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P101.pdf"
 type: "paper"
+authors: "Gagné, Briggs, and Wager"
 community: "GenAI in UX and Design Practice"
 tags:
 

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P5.pdf"
 type: paper
+authors: "Gmeiner et al."
 community: "GenAI in UX and Design Practice"
 tags:
 ---

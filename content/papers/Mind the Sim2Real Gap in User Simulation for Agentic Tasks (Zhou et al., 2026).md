@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Zhou et al"
 ---
 
 # Mind the Sim2Real Gap in User Simulation for Agentic Tasks (Zhou et al., 2026)

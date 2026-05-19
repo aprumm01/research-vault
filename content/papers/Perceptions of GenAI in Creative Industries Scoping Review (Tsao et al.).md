@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P54.pdf"
 type: paper
+authors: "Tsao et al."
 community: "GenAI in UX and Design Practice"
 tags:
 ---

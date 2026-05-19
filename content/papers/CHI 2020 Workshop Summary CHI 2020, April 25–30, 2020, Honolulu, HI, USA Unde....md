@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P228.pdf"
 type: "paper"
+authors: "Muller and Fiesler"
 community: "GenAI in UX and Design Practice"
 tags:
 

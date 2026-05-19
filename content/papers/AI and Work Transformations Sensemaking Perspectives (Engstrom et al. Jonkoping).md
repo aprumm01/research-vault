@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P65.pdf"
 type: paper
+authors: "Engström et al."
 community: "Studio Pedagogy"
 tags:
 ---

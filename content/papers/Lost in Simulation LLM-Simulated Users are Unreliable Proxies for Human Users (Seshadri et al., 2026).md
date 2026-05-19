@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Seshadri, Cahyawijaya, Odumakinde, Singh, and Goldfarb-Tarrant"
 ---
 
 # Lost in Simulation: LLM-Simulated Users are Unreliable Proxies for Human Users in Agentic Evaluations (Seshadri et al., 2026)

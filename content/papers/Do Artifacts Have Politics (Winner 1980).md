@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P31.pdf"
 type: paper
+authors: "Winner"
 community: "AI and Future of Work"
 tags:
 ---

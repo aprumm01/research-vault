@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P69.pdf"
 type: paper
+authors: "Cao, Ma, and Meng"
 community: "Survey / Questionnaire Study"
 tags:
 ---

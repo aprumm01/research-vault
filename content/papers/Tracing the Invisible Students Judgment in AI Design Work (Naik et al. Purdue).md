@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P24.pdf"
 type: paper
+authors: "Naik et al."
 community: "AI in Design Education"
 tags:
 ---

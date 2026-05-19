@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P315.pdf"
 type: paper
+authors: "Perrolle"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

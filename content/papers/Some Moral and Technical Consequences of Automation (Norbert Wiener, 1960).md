@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P319.pdf"
 type: paper
+authors: "Norbert Wiener"
 community: "Metacognitive Support"
 tags:
 ---

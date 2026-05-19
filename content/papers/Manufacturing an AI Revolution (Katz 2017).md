@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P47.pdf"
 type: paper
+authors: "Katz"
 community: "AI and Future of Work"
 tags:
 ---

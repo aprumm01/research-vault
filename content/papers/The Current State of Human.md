@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P82.pdf"
 type: paper
+authors: "Cho, Jo, Park, Kang, and Chen"
 community: "Instructional Design Theory"
 tags:
 ---

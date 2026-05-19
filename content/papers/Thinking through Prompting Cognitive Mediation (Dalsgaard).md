@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P9.pdf"
 type: paper
+authors: "Dalsgaard"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

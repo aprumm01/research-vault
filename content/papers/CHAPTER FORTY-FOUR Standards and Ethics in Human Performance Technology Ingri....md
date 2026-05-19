@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P219.pdf"
 type: "paper"
+authors: "Guerra"
 community: "Instructional Design Theory"
 tags:
 

@@ -6,6 +6,7 @@ tags:
   - blog-post
 venue: "The Quiet Displacement (Substack)"
 year: 2026
+authors: "Prumm"
 ---
 
 # When "The Design Process Is Dead" Is a Sales Pitch (Prumm, 2026)

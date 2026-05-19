@@ -7,6 +7,7 @@ tags:
   - OrganizationScience
 venue: "Organization Science"
 year: "2002"
+authors: "Orlikowski"
 ---
 
 # Learning from Notes: Organizational Issues in Groupware Implementation (Orlikowski, 2002)

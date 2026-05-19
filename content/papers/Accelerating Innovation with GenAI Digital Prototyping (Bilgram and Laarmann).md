@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P61.pdf"
 type: paper
+authors: "Bilgram and Laarmann"
 community: "Survey / Questionnaire Study"
 tags:
 ---

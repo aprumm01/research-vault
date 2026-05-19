@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P202.pdf"
 type: paper
+authors: "Nelson & Stolterman"
 community: "AI in Design Education"
 tags:
 ---

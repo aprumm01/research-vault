@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P46.pdf"
 type: paper
+authors: "Constantinides, Verma, Sadeghian, and El Ali"
 community: "Survey / Questionnaire Study"
 tags:
 ---

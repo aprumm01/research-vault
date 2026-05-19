@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P7.pdf"
 type: paper
+authors: "Shukla et al."
 community: "GenAI in UX and Design Practice"
 tags:
 ---

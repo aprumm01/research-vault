@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P42.pdf"
 type: paper
+authors: "Clark"
 community: "Instructional Design Theory"
 tags:
 ---

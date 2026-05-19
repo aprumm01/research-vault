@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P110.pdf"
 type: paper
+authors: "Mayer"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

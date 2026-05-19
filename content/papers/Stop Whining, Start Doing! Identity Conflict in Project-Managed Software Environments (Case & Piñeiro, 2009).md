@@ -7,6 +7,7 @@ tags:
   - ephemera
 venue: "ephemera"
 year: "2009"
+authors: "Case & Piñeiro"
 ---
 
 # Stop Whining, Start Doing! Identity Conflict in Project-Managed Software Environments (Case & PiÃ±eiro, 2009)

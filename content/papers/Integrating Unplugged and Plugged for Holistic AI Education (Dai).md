@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P40.pdf"
 type: paper
+authors: "Dai"
 community: "Survey / Questionnaire Study"
 tags:
 ---

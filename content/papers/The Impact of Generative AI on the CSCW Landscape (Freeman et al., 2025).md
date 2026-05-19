@@ -6,6 +6,7 @@ tags:
   - conference-paper
 venue: "CSCW Companion 2025"
 year: 2025
+authors: "Freeman et al"
 ---
 
 # The Impact of Generative AI on the CSCW Landscape (Freeman et al., 2025)

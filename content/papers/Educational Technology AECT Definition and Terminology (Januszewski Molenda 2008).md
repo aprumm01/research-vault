@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P255.pdf"
 type: "paper"
+authors: "Januszewski and Molenda"
 community: "Instructional Design Theory"
 tags:
 

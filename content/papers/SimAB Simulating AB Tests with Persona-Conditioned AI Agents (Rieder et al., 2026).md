@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Rieder et al"
 ---
 
 # SimAB: Simulating A/B Tests with Persona-Conditioned AI Agents for Rapid Design Evaluation (Rieder et al., 2026)

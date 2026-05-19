@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P220.pdf"
 type: "paper"
+authors: "Smaldino, Donaldson, and Herring"
 community: "Instructional Design Theory"
 tags:
 

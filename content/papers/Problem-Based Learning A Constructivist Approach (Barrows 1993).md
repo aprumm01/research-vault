@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P115.pdf"
 type: "paper"
+authors: "Barrows"
 community: "Problem-Based Learning"
 tags:
 

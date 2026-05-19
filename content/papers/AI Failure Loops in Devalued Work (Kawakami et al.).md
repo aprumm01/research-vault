@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P2.pdf"
 type: paper
+authors: "Kawakami et al."
 community: "AI and Future of Work"
 tags:
 ---

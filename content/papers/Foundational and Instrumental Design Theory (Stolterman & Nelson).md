@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "MIT Press / Book"
 year: "2012"
+authors: "Stolterman & Nelson"
 ---
 
 # Foundational and Instrumental Design Theory (Stolterman & Nelson)

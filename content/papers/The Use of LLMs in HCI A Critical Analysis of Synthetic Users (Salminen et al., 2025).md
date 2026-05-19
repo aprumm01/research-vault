@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Salminen, Amin, Jung, and Jansen"
 ---
 
 # The Use of Large Language Models in HCI: A Critical Analysis of Synthetic Users (Salminen et al., 2025)

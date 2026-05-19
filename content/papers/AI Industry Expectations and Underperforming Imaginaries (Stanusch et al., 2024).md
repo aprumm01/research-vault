@@ -7,6 +7,7 @@ tags:
   - conference-paper
 venue: "AoIR 2024"
 year: 2024
+authors: "Stanusch et al"
 ---
 
 # AI Industry Expectations and Underperforming Imaginaries (Stanusch et al., 2024)

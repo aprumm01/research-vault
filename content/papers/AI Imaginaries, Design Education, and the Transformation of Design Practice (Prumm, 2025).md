@@ -6,6 +6,7 @@ tags:
   - book-chapter
 venue: "Unpublished literature review"
 year: 2025
+authors: "Prumm"
 ---
 
 # AI Imaginaries, Design Education, and the Transformation of Design Practice (Prumm, 2025)

@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Zhong, McDonald, and Hsieh"
 ---
 
 # Synthetic Heuristic Evaluation: A Comparison between AI- and Human-Powered Usability Evaluation (Zhong et al., 2025)

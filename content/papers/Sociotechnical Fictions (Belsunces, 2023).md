@@ -6,6 +6,7 @@ tags:
   - journal
 venue: "Science & Technology Studies"
 year: 2023
+authors: "Belsunces"
 ---
 
 # Sociotechnical Fictions (Belsunces, 2023)

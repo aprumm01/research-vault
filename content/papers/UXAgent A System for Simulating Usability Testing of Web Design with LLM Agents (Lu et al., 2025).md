@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Lu et al"
 ---
 
 # UXAgent: A System for Simulating Usability Testing of Web Design with LLM Agents (Lu et al., 2025)

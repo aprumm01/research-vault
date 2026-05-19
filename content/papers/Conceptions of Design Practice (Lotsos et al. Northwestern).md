@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P25.pdf"
 type: paper
+authors: "Lotsos, Wang, and Horn"
 community: "AI in Design Education"
 tags:
 ---

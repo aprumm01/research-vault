@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P322.pdf"
 type: paper
+authors: "Int'l J. of AI"
 community: "AI and Future of Work"
 tags:
 ---

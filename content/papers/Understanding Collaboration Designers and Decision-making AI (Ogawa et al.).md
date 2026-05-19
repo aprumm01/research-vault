@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P55.pdf"
 type: paper
+authors: "Ogawa et al."
 community: "Semi-Structured Interviews"
 tags:
 ---

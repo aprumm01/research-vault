@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P67.pdf"
 type: paper
+authors: "Xiao et al."
 community: "Semi-Structured Interviews"
 tags:
 ---

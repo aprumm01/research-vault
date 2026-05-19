@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P29.pdf"
 type: paper
+authors: "Bailey and Barley"
 community: "AI and Future of Work"
 tags:
 ---

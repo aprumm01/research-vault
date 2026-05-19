@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P259.pdf"
 type: "paper"
+authors: "Silber and Foshay"
 community: "Instructional Design Theory"
 tags:
 

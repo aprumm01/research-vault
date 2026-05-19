@@ -6,6 +6,7 @@ community: "GenAI in UX and Design Practice"
 tags:
 venue: "Journal of Information Technology & Politics"
 year: "2017"
+authors: "Marquette"
 ---
 
 # Comparing Grounded Theory and Topic Modeling: Extreme Divergence or Complementary Tools? (Marquette, 2017)

@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2018"
+authors: "Seok et al"
 ---
 
 # Computer-Mediated Intersensory Learning Model for Students with Learning Disabilities (Seok et al.)

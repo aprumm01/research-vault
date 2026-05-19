@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P270.pdf"
 type: "paper"
+authors: "Stolterman and Nelson present theoretical"
 community: "AI in Design Education"
 tags:
 

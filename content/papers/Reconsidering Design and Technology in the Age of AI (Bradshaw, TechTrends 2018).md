@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P218.pdf"
 type: paper
+authors: "Bradshaw, TechTrends"
 community: "Instructional Design Theory"
 tags:
 ---

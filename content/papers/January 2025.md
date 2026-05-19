@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P194.pdf"
 type: "paper"
+authors: "January"
 community: "AI and Future of Work"
 tags:
 

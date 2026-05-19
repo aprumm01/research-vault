@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P70.pdf"
 type: paper
+authors: "Lin and Dai"
 community: "Survey / Questionnaire Study"
 tags:
 ---

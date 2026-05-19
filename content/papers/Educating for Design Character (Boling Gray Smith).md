@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P26.pdf"
 type: paper
+authors: "Boling, Gray, and Smith"
 community: "Studio Pedagogy"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P56.pdf"
 type: paper
+authors: "Yang and Jiang"
 community: "Semi-Structured Interviews"
 tags:
 ---

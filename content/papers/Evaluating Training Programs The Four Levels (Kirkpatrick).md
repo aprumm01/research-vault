@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P107.pdf"
 type: paper
+authors: "Kirkpatrick"
 community: "Instructional Design Theory"
 tags:
 ---

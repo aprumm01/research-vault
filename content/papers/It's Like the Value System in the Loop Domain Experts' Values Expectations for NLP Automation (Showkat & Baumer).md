@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P227.pdf"
 type: paper
+authors: "Showkat and Baumer"
 community: "Semi-Structured Interviews"
 tags:
 ---

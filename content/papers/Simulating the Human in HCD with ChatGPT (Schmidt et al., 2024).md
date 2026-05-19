@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2024"
+authors: "Schmidt, Elagroudy, Draxler, Kreuter, and Welsch"
 ---
 
 # Simulating the Human in HCD with ChatGPT: Redesigning Interaction Design with AI (Schmidt et al., 2024)

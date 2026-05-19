@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Huang"
 ---
 
 # Evaluating the Trustworthiness of AI Personas in Paired Usability Testing: A Mixed-Methods Study with Looma.ai (Huang, 2025)

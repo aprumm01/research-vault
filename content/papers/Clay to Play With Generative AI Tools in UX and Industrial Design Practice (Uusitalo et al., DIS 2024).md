@@ -4,6 +4,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 venue: "DIS 2024"
 year: 2024
+authors: "Uusitalo et al."
 doi: "10.1145/3643834.3661624"
 tags:
   - DIS

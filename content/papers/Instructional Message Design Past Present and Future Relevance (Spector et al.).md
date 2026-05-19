@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P275.pdf"
 type: "paper"
+authors: "Bishop"
 community: "Instructional Design Theory"
 tags:
 

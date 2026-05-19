@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P142.pdf"
 type: paper
+authors: "Willis"
 community: "Instructional Design Theory"
 tags:
 ---

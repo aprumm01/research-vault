@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P53.pdf"
 type: paper
+authors: "Cash et al"
 community: "AI in Design Education"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P51.pdf"
 type: paper
+authors: "Naing et al."
 community: "AI in Design Education"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P317.pdf"
 type: paper
+authors: "Brock"
 community: "AI and Future of Work"
 tags:
 ---

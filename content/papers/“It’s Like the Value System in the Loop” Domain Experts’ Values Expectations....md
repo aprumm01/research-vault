@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P301.pdf"
 type: paper
+authors: "Showkat and Baumer"
 community: "AI and Future of Work"
 tags:
 ---

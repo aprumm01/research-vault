@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P140.pdf"
 type: paper
+authors: "Kirschner, Sweller & Clark"
 community: "Instructional Design Theory"
 tags:
 ---

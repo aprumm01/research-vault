@@ -7,6 +7,7 @@ tags:
   - DECIPHER
 venue: "DECIPHER 2018"
 year: "2018"
+authors: "MurdochKitt et al., DECIPHER"
 ---
 
 # Developing Students' Instrumental Design Judgment (MurdochKitt et al., DECIPHER 2018)

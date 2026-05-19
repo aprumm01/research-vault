@@ -7,6 +7,7 @@ tags:
   - journal
 venue: "Emerging Media"
 year: 2024
+authors: "Brause et al"
 ---
 
 # News Media Imaginaries of Artificial Intelligence in Healthcare: A Qualitative Analysis Across China, Germany, and the United States (Brause et al., 2024)

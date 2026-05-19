@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P320.pdf"
 type: paper
+authors: "Kristal"
 community: "AI and Future of Work"
 tags:
 ---

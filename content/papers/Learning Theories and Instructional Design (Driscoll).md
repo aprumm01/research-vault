@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "Book Chapter"
 year: "2005"
+authors: "Driscoll"
 ---
 
 # Learning Theories and Instructional Design (Driscoll)

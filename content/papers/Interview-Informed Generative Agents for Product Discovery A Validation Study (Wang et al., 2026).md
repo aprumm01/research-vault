@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Wang et al"
 ---
 
 # Interview-Informed Generative Agents for Product Discovery: A Validation Study (Wang et al., 2026)

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P109.pdf"
 type: paper
+authors: "Lowenthal and Wilson"
 community: "Survey / Questionnaire Study"
 tags:
 ---

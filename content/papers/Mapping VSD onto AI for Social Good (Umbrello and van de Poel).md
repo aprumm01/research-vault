@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P19.pdf"
 type: paper
+authors: "Umbrello and van de Poel"
 community: "AI and Future of Work"
 tags:
 ---

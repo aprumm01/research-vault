@@ -7,6 +7,7 @@ tags:
   - preprint
 venue: "SSRN Working Paper"
 year: "2017"
+authors: "Katz"
 ---
 
 # Manufacturing an Artificial Intelligence Revolution (Katz, 2017)

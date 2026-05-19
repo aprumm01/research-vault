@@ -6,6 +6,7 @@ tags:
   - conference-paper
 venue: "eCAADe 2022"
 year: 2022
+authors: "Kavakoglu"
 ---
 
 # AI Driven Creativity in Early Design Education (Kavakoglu, 2022)

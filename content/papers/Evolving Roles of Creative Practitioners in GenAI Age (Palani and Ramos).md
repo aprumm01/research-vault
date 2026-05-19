@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P12.pdf"
 type: paper
+authors: "Palani and Ramos"
 community: "AI and Future of Work"
 tags:
 ---

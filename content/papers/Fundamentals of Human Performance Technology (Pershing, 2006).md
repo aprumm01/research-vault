@@ -7,6 +7,7 @@ tags:
   - ISPI
 venue: "ISPI Handbook"
 year: "2006"
+authors: "Pershing"
 ---
 
 # Fundamentals of Human Performance Technology (Pershing, 2006)

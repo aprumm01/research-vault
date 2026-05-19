@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P38.pdf"
 type: paper
+authors: "Schauer et al."
 community: "Survey / Questionnaire Study"
 tags:
 ---

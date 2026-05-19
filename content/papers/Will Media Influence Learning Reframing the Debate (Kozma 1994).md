@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P43.pdf"
 type: paper
+authors: "Kozma"
 community: "Instructional Design Theory"
 tags:
 ---

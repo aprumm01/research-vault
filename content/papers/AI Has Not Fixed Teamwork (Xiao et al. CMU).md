@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P13.pdf"
 type: paper
+authors: "Xiao et al."
 community: "Survey / Questionnaire Study"
 tags:
 ---

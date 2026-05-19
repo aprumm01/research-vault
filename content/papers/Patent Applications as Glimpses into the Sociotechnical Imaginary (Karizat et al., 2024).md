@@ -6,6 +6,7 @@ tags:
   - conference-paper
 venue: "CSCW 2024"
 year: 2024
+authors: "Karizat et al"
 ---
 
 # Patent Applications as Glimpses into the Sociotechnical Imaginary (Karizat et al., 2024)

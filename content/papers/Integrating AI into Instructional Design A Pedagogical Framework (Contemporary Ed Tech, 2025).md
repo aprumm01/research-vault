@@ -7,6 +7,7 @@ tags:
   - ContemporaryEdTech
 venue: "Contemporary Educational Technology"
 year: "2025"
+authors: "Contemporary Ed Tech"
 ---
 
 # Integrating AI into Instructional Design: A Pedagogical Framework (Contemporary Ed Tech, 2025)

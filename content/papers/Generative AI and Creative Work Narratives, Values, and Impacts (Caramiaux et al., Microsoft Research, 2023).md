@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P236.pdf"
 type: paper
+authors: "Caramiaux et al., Microsoft Research"
 community: "AI and Future of Work"
 tags:
 ---

@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Amin, Salminen, Ahmed, Tervola, Sethi, and Jansen"
 ---
 
 # Creating and Evaluating Personas Using Generative AI: A Scoping Review of 81 Articles (Amin et al., 2026)

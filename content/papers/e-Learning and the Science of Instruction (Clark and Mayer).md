@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P83.pdf"
 type: "paper"
+authors: "Clark and Mayer"
 community: "GenAI in UX and Design Practice"
 tags:
 

@@ -7,6 +7,7 @@ tags:
   - journal
 venue: "New Media & Society"
 year: 2021
+authors: "Mager & Katzenbach"
 ---
 
 # Future Imaginaries in the Making and Governing of Digital Technology: Multiple, Contested, Commodified (Mager & Katzenbach, 2021)

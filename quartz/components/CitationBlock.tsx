@@ -11,12 +11,14 @@ const CitationBlock: QuartzComponent = ({ fileData }: QuartzComponentProps) => {
   const venue = fm.venue as string | undefined
   const doi = fm.doi as string | undefined
   const apa = fm.apa as string | undefined
+  const authors = fm.authors as string | undefined
 
   // Nothing to show yet
-  if (!year && !venue && !doi && !apa) return null
+  if (!year && !venue && !doi && !apa && !authors) return null
 
   return (
     <div class="citation-block">
+      {authors && <div class="citation-authors">{authors}</div>}
       {(year || venue) && (
         <div class="citation-meta">
           {year && <span class="citation-year">{year}</span>}

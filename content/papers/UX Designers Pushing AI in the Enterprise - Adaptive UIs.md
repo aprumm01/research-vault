@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P137.pdf"
 type: paper
+authors: "Zimmerman, Oh, Yildirim, Kass, Tung, and Forlizzi"
 community: "AI in Design Education"
 tags:
 ---

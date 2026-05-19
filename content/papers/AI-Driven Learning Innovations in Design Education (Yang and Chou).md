@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P22.pdf"
 type: paper
+authors: "Yang and Chou"
 community: "Survey / Questionnaire Study"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P50.pdf"
 type: paper
+authors: "Nokhiz, Haim, and colleagues at Cornell"
 community: "AI and Future of Work"
 tags:
 ---

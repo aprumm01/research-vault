@@ -7,6 +7,7 @@ tags:
   - TrainingMagazine
 venue: "Training Magazine"
 year: "2000"
+authors: "Gordon and Zemke"
 ---
 
 # The Attack on ISD (Gordon & Zemke, 2000)

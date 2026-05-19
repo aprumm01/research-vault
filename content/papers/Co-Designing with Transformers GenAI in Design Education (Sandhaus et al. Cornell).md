@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P10.pdf"
 type: paper
+authors: "Sandhaus, Hegde, and colleagues"
 community: "Survey / Questionnaire Study"
 tags:
 ---

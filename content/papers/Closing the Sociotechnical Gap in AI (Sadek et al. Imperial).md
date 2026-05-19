@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P20.pdf"
 type: paper
+authors: "Sadek, Calvo, and Mougenot"
 community: "AI and Future of Work"
 tags:
 ---

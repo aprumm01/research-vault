@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P16.pdf"
 type: paper
+authors: "Varanasi, Wiesenfeld, and Nov"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

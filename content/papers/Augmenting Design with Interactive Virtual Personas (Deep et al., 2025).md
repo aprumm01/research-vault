@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Deep, Bharadhidasan, and Kocaballi"
 ---
 
 # "She Was Useful, but a Bit Too Optimistic": Augmenting Design with Interactive Virtual Personas (Deep et al., 2025)

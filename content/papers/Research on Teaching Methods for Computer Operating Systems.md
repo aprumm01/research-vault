@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P118.pdf"
 type: paper
+authors: "Wei et al."
 community: "Survey / Questionnaire Study"
 tags:
 ---

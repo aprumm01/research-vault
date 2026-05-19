@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Liu, Sabour, Wang, and Mihalcea"
 ---
 
 # Free Lunch for User Experience: Crowdsourcing Agents for Scalable User Studies (Liu et al., 2025)

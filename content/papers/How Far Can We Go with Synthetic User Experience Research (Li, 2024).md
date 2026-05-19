@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2024"
+authors: "Li"
 ---
 
 # How Far Can We Go with Synthetic User Experience Research? (Li, 2024)

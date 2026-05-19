@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P45.pdf"
 type: paper
+authors: "Martin et al."
 community: "Instructional Design Theory"
 tags:
 ---

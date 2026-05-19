@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Zhong, McDonald, and Hsieh"
 ---
 
 # Synthetic Cognitive Walkthrough: Aligning Large Language Model's Performance with Human Cognitive Walkthrough (Zhong et al., 2026)

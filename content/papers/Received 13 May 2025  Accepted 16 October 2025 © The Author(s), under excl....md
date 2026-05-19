@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P231.pdf"
 type: "paper"
+authors: "Chen et al."
 community: "AI in Design Education"
 tags:
 

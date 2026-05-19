@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Sun, Fu, Yao, Lu, Li, Gu, Gesi, Huang, Wang, and Luo"
 ---
 
 # LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-Based Shopping Assistants? (Sun et al., 2025)

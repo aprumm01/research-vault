@@ -6,6 +6,7 @@ tags:
   - preprint
 venue: "preprint (University of Cambridge)"
 year: 2025
+authors: "Pérez-Urbina"
 ---
 
 # Tracing the Techno-Supremacy Doctrine (Pérez-Urbina, 2025)

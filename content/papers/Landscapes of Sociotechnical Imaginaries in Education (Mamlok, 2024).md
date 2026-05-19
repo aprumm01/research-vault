@@ -6,6 +6,7 @@ tags:
   - journal
 venue: "Foundations of Science"
 year: 2024
+authors: "Mamlok"
 ---
 
 # Landscapes of Sociotechnical Imaginaries in Education (Mamlok, 2024)

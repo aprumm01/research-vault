@@ -7,6 +7,7 @@ tags:
   - AI-Society
 venue: "AI & Society"
 year: "2023"
+authors: "Süner-Pla-Cerda et al"
 ---
 
 # Industrial Designers in UX Practice: Motivations, Professionalization, and Designer Identity (SÃ¼ner-Pla-CerdÃ  et al., 2023)

@@ -6,6 +6,7 @@ tags:
   - conference-paper
 venue: "Springer LNCS"
 year: 2025
+authors: "Huang"
 ---
 
 # Integrating User Experience in User Interface Design Education (Huang, 2025)

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P269.pdf"
 type: "paper"
+authors: "Fitzpatrick, Sanders, and Worthen"
 community: "GenAI in UX and Design Practice"
 tags:
 

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P145.pdf"
 type: "paper"
+authors: "Case and Piñeiro"
 community: "HCI Education and Pedagogy"
 tags:
 

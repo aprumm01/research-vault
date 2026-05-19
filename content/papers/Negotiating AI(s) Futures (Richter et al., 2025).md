@@ -7,6 +7,7 @@ tags:
   - journal
 venue: "JCOM: Journal of Science Communication"
 year: 2025
+authors: "Richter et al"
 ---
 
 # Negotiating AI(s) Futures: Competing Imaginaries of AI by Stakeholders in the U.S., China, and Germany (Richter et al., 2025)

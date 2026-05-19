@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "Book Chapter"
 year: "2008"
+authors: "Bishop"
 ---
 
 # Instructional Message Design (Bishop)

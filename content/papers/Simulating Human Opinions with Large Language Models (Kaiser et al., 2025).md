@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Kaiser, Kaiser, Manewitsch, Rau, and Schallner"
 ---
 
 # Simulating Human Opinions with Large Language Models: Opportunities and Challenges for Personalized Survey Data Modeling (Kaiser et al., 2025)

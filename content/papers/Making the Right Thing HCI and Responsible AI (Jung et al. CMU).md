@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P17.pdf"
 type: paper
+authors: "Jung et al."
 community: "Metacognitive Support"
 tags:
 ---

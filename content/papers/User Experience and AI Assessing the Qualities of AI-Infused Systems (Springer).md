@@ -7,6 +7,7 @@ tags:
   - Springer
 venue: "Springer LNCS"
 year: "2024"
+authors: "Spallazzo, Sciannamè, and Ceconello"
 ---
 
 # User Experience and AI: Assessing the Qualities of AI-Infused Systems (Springer)

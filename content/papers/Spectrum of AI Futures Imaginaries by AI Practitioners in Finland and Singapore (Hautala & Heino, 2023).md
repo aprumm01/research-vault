@@ -7,6 +7,7 @@ tags:
   - journal
 venue: "Futures"
 year: 2023
+authors: "Hautala & Heino"
 ---
 
 # Spectrum of AI Futures Imaginaries by AI Practitioners in Finland and Singapore: The Unimagined Speed of AI Progress (Hautala & Heino, 2023)

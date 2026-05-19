@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P318.pdf"
 type: paper
+authors: "Eynon & Young"
 community: "AI and Future of Work"
 tags:
 ---

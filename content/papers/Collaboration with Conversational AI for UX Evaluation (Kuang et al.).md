@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P37.pdf"
 type: paper
+authors: "Kuang et al."
 community: "GenAI in UX and Design Practice"
 tags:
 ---

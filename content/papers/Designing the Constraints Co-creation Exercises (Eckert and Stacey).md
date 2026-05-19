@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P64.pdf"
 type: paper
+authors: "Eckert and Stacey"
 community: "Semi-Structured Interviews"
 tags:
 ---

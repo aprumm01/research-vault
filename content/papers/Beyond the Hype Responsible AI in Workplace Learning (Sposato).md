@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P66.pdf"
 type: paper
+authors: "Sposato"
 community: "Studio Pedagogy"
 tags:
 ---

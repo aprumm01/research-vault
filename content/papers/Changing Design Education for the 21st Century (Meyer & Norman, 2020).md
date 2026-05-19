@@ -6,6 +6,7 @@ tags:
   - journal
 venue: "She Ji: The Journal of Design, Economics, and Innovation"
 year: 2020
+authors: "Meyer & Norman"
 ---
 
 # Changing Design Education for the 21st Century (Meyer & Norman, 2020)

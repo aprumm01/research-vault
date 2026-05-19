@@ -6,6 +6,7 @@ tags:
   - journal
 venue: "AI & Society"
 year: 2025
+authors: "Tsao et al"
 ---
 
 # Perceptions and Integration of Generative AI in Creative Practices and Industries (Tsao et al., 2025)

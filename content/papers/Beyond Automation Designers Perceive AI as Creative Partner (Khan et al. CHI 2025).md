@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P1.pdf"
 type: paper
+authors: "Khan et al."
 community: "Semi-Structured Interviews"
 tags:
 ---

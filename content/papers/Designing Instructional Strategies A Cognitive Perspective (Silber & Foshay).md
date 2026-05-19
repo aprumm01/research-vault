@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "Handbook Chapter"
 year: "2010"
+authors: "Silber & Foshay"
 ---
 
 # Designing Instructional Strategies: A Cognitive Perspective (Silber & Foshay)

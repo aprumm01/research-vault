@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P60.pdf"
 type: paper
+authors: "Penn"
 community: "AI and Future of Work"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P289.pdf"
 type: paper
+authors: "Seok et al."
 community: "GenAI in UX and Design Practice"
 tags:
 ---

@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2025"
+authors: "Amin, Salminen, Jansen, Shin, and Kim systematically analyze twenty challenges of using generative AI in persona development, organized by Shneiderman"
 ---
 
 # Generative AI Personas Considered Harmful? Twenty Challenges of Algorithmic User Representation in HCI (Amin et al., 2025)

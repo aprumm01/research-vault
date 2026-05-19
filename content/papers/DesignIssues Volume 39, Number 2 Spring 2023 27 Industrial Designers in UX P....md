@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P159.pdf"
 type: "paper"
+authors: "Süner-Pla-Cerdà, Bohemia, et al."
 community: "AI in Design Education"
 tags:
 

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P33.pdf"
 type: paper
+authors: "Martinez Marroquin and Senadji"
 community: "Studio Pedagogy"
 tags:
 ---

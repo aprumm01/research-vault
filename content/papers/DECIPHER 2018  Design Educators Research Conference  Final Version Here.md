@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P260.pdf"
 type: "paper"
+authors: "MurdochKitt, Culén, and Mainsah"
 community: "HCI Education and Pedagogy"
 tags:
 

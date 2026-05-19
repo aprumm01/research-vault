@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P44.pdf"
 type: paper
+authors: "Mayer and Moreno"
 community: "Instructional Design Theory"
 tags:
 ---

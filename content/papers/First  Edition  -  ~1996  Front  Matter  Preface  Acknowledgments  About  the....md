@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P274.pdf"
 type: "paper"
+authors: "Jonassen, Driscoll, et al"
 community: "Instructional Design Theory"
 tags:
 

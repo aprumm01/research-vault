@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P48.pdf"
 type: paper
+authors: "Orlikowski"
 community: "Studio Pedagogy"
 tags:
 ---

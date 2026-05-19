@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Hullman et al"
 ---
 
 # Validating LLM Simulations as Behavioral Evidence (Hullman et al., 2026)

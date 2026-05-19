@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P264.pdf"
 type: "paper"
+authors: "Smith and Borge"
 community: "Problem-Based Learning"
 tags:
 

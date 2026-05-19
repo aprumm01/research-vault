@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2026"
+authors: "Li and Conrad"
 ---
 
 # Persona-Based Simulation of Human Opinion at Population Scale (Li et al., 2026)

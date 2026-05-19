@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P93.pdf"
 type: paper
+authors: "Dedijer et al."
 community: "Studio Pedagogy"
 tags:
 ---

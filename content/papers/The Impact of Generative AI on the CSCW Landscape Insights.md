@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P128.pdf"
 type: ""
+authors: "Freeman et al."
 community: "Studio Pedagogy"
 tags:
   - graphify/document

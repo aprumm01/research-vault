@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2023"
+authors: "Hamalainen, Tavast, and Kunnari"
 ---
 
 # Evaluating Large Language Models in Generating Synthetic HCI Research Data: A Case Study (Hamalainen et al., 2023)

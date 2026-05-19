@@ -5,6 +5,7 @@ type: paper
 community: "Metacognitive Support"
 tags:
 year: "2026"
+authors: "Silver and Ruokamo"
 ---
 
 # Competences for the Modern Designer: Systematic Literature Review (2026)

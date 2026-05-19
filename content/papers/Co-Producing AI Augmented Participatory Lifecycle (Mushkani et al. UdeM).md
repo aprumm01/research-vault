@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P21.pdf"
 type: paper
+authors: "Mushkani et al."
 community: "AI and Future of Work"
 tags:
 ---

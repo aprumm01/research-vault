@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2024"
+authors: "de Wit"
 ---
 
 # Leveraging Large Language Models as Simulated Users for Initial, Low-Cost Evaluations of Designed Conversations (de Wit, 2024)

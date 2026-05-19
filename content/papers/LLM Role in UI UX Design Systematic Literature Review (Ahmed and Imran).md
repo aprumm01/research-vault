@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P62.pdf"
 type: paper
+authors: "Ahmed and Imran"
 community: "Studio Pedagogy"
 tags:
 ---

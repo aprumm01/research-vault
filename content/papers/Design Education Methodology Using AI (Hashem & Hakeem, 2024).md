@@ -6,6 +6,7 @@ tags:
   - journal
 venue: "Journal of Art, Design and Music"
 year: 2024
+authors: "Hashem & Hakeem"
 ---
 
 # Design Education Methodology Using AI (Hashem & Hakeem, 2024)
