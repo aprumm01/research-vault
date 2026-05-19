@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P203.pdf"
 type: paper
+authors: "Lloyd P. Rieber"
 community: "AI in Design Education"
 tags:
 ---

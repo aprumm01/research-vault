@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P368.pdf"
 type: paper
+authors: "Susan C. Herring"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

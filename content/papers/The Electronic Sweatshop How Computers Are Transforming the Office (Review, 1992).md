@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P321.pdf"
 type: paper
+authors: "Dominick A. Pisano"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

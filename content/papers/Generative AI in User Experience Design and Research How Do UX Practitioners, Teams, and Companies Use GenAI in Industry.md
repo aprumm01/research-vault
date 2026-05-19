@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P217.pdf"
 type: ""
+authors: "Macy Takafoli Sijia Li Ville Mäkelä"
 community: "AI and Future of Work"
 tags:
   - graphify/document

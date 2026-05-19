@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P245.pdf"
 type: paper
+authors: "Miroslava Petrova and Claas Kuhnen"
 community: "Survey / Questionnaire Study"
 tags:
 ---

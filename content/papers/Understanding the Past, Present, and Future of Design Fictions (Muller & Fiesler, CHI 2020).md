@@ -7,6 +7,7 @@ tags:
   - CHI
 venue: "CHI 2020"
 year: "2020"
+authors: "Muller & Fiesler"
 ---
 
 # Understanding the Past, Present, and Future of Design Fictions (Muller & Fiesler, CHI 2020)

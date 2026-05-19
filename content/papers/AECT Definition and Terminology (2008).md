@@ -1,6 +1,7 @@
----
+﻿---
 source_file: "research_docs/P84.pdf"
 type: paper
+authors: "AECT Definition and Terminology Committee"
 community: "Instructional Design Theory"
 tags:
 ---

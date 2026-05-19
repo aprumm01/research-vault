@@ -7,6 +7,7 @@ tags:
   - CHI
 venue: "CHI 2025"
 year: "2025"
+authors: "Alexandros Nikolaos Lotsos, Yizhu Wang, and Michael Stephen Horn"
 ---
 
 # Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education

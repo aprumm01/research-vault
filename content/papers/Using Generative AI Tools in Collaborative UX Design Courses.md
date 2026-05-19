@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2024"
+authors: "Felix Buendia-Garcia"
 ---
 
 # Using Generative AI Tools in Collaborative UX Design Courses

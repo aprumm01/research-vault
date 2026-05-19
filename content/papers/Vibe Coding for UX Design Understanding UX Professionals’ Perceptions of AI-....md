@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P373.pdf"
 type: paper
+authors: "Jie Li, Youyang Hou, Laura Lin, Ruihao Zhu, Hancheng Cao, and Abdallah Elali"
 community: "AI in Design Education"
 tags:
 ---

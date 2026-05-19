@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P248.pdf"
 type: paper
+authors: "Thomas A. Brush"
 community: "AI and Future of Work"
 tags:
 ---

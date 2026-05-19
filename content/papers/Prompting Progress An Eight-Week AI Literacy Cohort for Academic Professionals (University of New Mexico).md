@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P186.pdf"
 type: paper
+authors: "Leo S. Lo"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

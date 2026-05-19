@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2017"
+authors: "Colin M. Gray and Elizabeth Boling"
 ---
 
 # Designers Articulation of Design Judgements in Cross-Cultural User Research

@@ -7,6 +7,7 @@ tags:
   - DRS
 venue: "DRS"
 year: "2022"
+authors: "Durrant et al"
 ---
 
 # Design Research Society Research Perspectives (Durrant et al.)

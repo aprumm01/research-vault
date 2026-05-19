@@ -4,6 +4,7 @@ title: "arXiv:2502.08854v2 [cs.HC] 22 Jun 2025 Generative AI & Changing Work: Sy
 type: paper
 community: ""
 year: ""
+authors: "Law & Varanasi"
 venue: "ching understanding of common worker-driven patterns around"
 institution: "485âˆ’6663] 1 Denison University, Granville OH, USA 2 New York"
 source_file: "Law25.pdf"

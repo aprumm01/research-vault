@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P340.pdf"
 type: paper
+authors: "Shalini Rastogi and Deepika Pandita"
 community: "Instructional Design Theory"
 tags:
 ---

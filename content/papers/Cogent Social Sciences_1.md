@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P178.pdf"
 type: "paper"
+authors: "Alpana Agarwal"
 community: "GenAI in UX and Design Practice"
 tags:
 

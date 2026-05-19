@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P77.pdf"
 type: paper
+authors: "Gordon Rowland"
 community: "AI and Future of Work"
 tags:
 ---

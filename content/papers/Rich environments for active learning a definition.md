@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P190.pdf"
 type: paper
+authors: "R. Scott Grabinger and Joanna C. Dunlap"
 community: "Instructional Design Theory"
 tags:
 ---

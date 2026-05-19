@@ -1,6 +1,7 @@
----
+﻿---
 source_file: "research_docs/P127.pdf"
 type: paper
+authors: "Roger Holt"
 community: "AI in Design Education"
 tags:
 ---

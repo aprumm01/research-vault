@@ -5,6 +5,7 @@ type: paper
 community: "AI in Design Education"
 tags:
 year: "2024"
+authors: "Congying Chen"
 ---
 
 # Promoting Students' Deep Learning Through Design-Based Learning: A Pedagogical Study

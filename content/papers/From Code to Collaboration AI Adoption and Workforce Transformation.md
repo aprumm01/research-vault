@@ -5,6 +5,7 @@ type: paper
 community: "Instructional Design Theory"
 tags:
 year: "2025"
+authors: "Rastogi and Pandita"
 ---
 
 # From Code to Collaboration: AI Adoption and Workforce Transformation

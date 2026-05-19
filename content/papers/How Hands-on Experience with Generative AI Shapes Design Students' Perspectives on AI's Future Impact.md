@@ -5,6 +5,7 @@ type: paper
 community: "AI in Design Education"
 tags:
 year: "2024"
+authors: "Ching-I Chen"
 ---
 
 # How Hands-on Experience with Generative AI Shapes Design Students' Perspectives on AI's Future Impact

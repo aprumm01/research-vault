@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P246.pdf"
 type: paper
+authors: "Sunday Oladele, Peace Tomi, and Fiyin Iwa"
 community: "AI and Future of Work"
 tags:
 ---

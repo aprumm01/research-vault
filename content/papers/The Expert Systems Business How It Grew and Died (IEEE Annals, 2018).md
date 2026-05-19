@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P325.pdf"
 type: paper
+authors: "Paul Harmon"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

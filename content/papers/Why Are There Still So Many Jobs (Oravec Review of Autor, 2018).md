@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P326.pdf"
 type: paper
+authors: "David H. Autor"
 community: "AI and Future of Work"
 tags:
 ---

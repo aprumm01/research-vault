@@ -7,6 +7,7 @@ tags:
   - EuropeanManagementReview
 venue: "European Management Review"
 year: "2021"
+authors: "Ana M. Aranda, Kathrin Sele, Helen Etchanchu, Jenny Y. Guyt, and Eero Vaara"
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling

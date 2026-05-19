@@ -1,6 +1,7 @@
----
+﻿---
 source_file: "research_docs/P295.pdf"
 type: paper
+authors: "John Zimmerman"
 community: "Metacognitive Support"
 tags:
 ---

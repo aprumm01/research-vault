@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P247.pdf"
 type: paper
+authors: "Martin Sposato"
 community: "Studio Pedagogy"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P250.pdf"
 type: paper
+authors: "Liwia Delinska and Zuzanna Minga"
 community: "Survey / Questionnaire Study"
 tags:
 ---

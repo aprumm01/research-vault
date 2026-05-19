@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P104.pdf"
 type: paper
+authors: "Geof Bowker"
 community: "AI and Future of Work"
 tags:
 ---

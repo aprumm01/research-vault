@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P136.pdf"
 type: ""
+authors: "Felix Buendia-Garcia and Javier Piris-Ruano"
 community: "AI in Design Education"
 tags:
   - graphify/document

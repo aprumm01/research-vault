@@ -7,6 +7,7 @@ tags:
   - EducationalPsychologist
 venue: "Educational Psychologist"
 year: "2004"
+authors: "Paul A. Kirschner and Jeroen J.G. van Merrienboer"
 ---
 
 # Do Learners Really Know Best Urban Legends in Education

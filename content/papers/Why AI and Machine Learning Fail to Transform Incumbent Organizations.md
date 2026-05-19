@@ -2,6 +2,7 @@
 title: "Why AI and Machine Learning Fail to Transform Incumbent Organizations"
 source_file: "research_docs/P156.pdf"
 type: "paper"
+authors: "Sangeet Paul Choudary"
 community: "Responsible AI Governance"
 tags:
 

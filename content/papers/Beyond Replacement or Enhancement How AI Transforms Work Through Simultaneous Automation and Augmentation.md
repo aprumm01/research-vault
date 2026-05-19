@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P229.pdf"
 type: ""
+authors: "Michael F. Clarke and Michael Joffe"
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document

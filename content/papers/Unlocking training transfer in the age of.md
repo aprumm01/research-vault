@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P134.pdf"
 type: paper
+authors: "Jennifer Jihae Park"
 community: "AI and Future of Work"
 tags:
 ---

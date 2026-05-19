@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P323.pdf"
 type: paper
+authors: "Daniel Tröhler"
 community: "Survey / Questionnaire Study"
 tags:
 ---

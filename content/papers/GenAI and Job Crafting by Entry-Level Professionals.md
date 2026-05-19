@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P157.pdf"
 type: paper
+authors: "Anne-Sophie Mayer, Reza M. Baygi, and Reinout Buwalda"
 community: "Studio Pedagogy"
 tags:
 ---

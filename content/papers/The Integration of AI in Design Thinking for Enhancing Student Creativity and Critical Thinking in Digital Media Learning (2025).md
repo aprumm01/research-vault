@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P201.pdf"
 type: paper
+authors: "Nur Safinas Albakry, Mohd Ekram Alhafis Hashim, and Mohd Farizal Puandi"
 community: "Studio Pedagogy"
 tags:
 ---

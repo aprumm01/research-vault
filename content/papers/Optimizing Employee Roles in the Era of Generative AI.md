@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2024"
+authors: "Alpana Agarwal"
 ---
 
 # Optimizing Employee Roles in the Era of Generative AI

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P252.pdf"
 type: paper
+authors: "HaukeSandhaus QiuquanGu MariaTeresaParreira WendyJu"
 community: "Semi-Structured Interviews"
 tags:
 ---

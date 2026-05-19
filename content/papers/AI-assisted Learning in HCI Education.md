@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P221.pdf"
 type: paper
+authors: "Clint Heyer, Elisabet M. Nilsson, and Jens Pedersen"
 community: "AI in Design Education"
 tags:
 ---

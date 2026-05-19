@@ -5,153 +5,51 @@
 ._2.md
 ._3.md
 A Comparative Analysis.md
-A Formative Study to Explore the Design of Generative UI Tools.md
-A Method to Evaluate the UX of Systems Integrating AI (Springer, 2024).md
 A Model in Instructional Design Dick, Carey and Carey (Turkish).md
-A Review of Human-Centric AI in Industry 5.0.md
 AECT Definition and Terminology (2008).md
-AI Hasn’t Fixed Teamwork, But It Shifted Collaborative.md
 AI Impact on Diversity and Job Displacement in ICT (Brown dissertation).md
-AI Literacy and Attitudes Towards AI in Design Education A.md
-AI Tools in UX Research Practice (ASCILITE 2024).md
-AI-Driven Learning Approaches in the Era of Artificial.md
 AI-Driven User Experience Design Exploring Innovations and Challenges in Delivering Tailored User Experiences.md
-AI-assisted Learning in HCI Education.md
 ARTICLE.md
-Accelerating Innovation With.md
-Art Education in the Era of Artificial Intelligence (iJET, 2025).md
 Article Arts and Humanities in Higher Education 2026, Vol. 25(1) 27 –46 © The....md
-Artificial Intelligence A Promising Technology (AI & Society, 2024).md
-Artificial Intelligence and Work Transformations Integrating Sensemaking and Workplace Learning Perspectives.md
-Artificial Intelligence as a Tool for Creativity (2024).md
-Artificial Intelligence as a Tool for Individual and Collaborative Creativity in Design Education.md
 Artificial Intelligence in HCI 6th International Conference, AI-HCI 2025 (Degen & Ntoa, Eds.).md
-Automating Teacher Work A History of the Politics.md
-Beyond Replacement or Enhancement How AI Transforms Work Through Simultaneous Automation and Augmentation.md
-Beyond the hype evidence-based.md
-Catalyst for Creativity or a Hollow Trend A Cross-Level Perspective on The Role of Generative AI in Design.md
 Characteristics and Evolution of Foundational Instructional.md
-ChatGPT as a Tool in Higher Education Analysis of Student Utilization and Perception.md
-Closing the Sociotechnical Gap in AI Measuring Practitioners' Attitudes and Perceptions.md
-Co-Designing with Transformers Unpacking the Complex Role.md
 Cogent Social Sciences_1.md
-Collaboration with Conversational AI Assistants for UX Evaluation Questions and How to Ask Them.md
-Computing the Nordic Way The Swedish Labour Movement and Technology Policy.md
-Conceptions of Design Practice From Academy to Industry Implications for HCI and Design Education.md
 Constrained Design Space Explorations Utilizing Generative AI.md
 Contemporary Educational Technology, 2025, 17(3), ep583.md
 Contemporary Educational Technology, 2025, 17(3), ep583_2.md
-Creative Work and Artificial Intelligence Imaginaries, Assemblages and Portfolios.md
 Degen · Ntoa (Eds.)Artificial Intelligence in HCI LNAI 15821 Helmut Degen Sta....md
 Degen · Ntoa (Eds.)Artificial Intelligence in HCI.md
-Design Thinking and Agile Design.md
-Design Thinking and AgileDesign.md
-Designers Articulation of Design Judgements in Cross-Cultural User Research.md
-Developing Human Experience Experts (Cheatham Miami U).md
-Do Learners Really Know Best Urban Legends in Education.md
-Does Ai Development Polarized Job Market Evidence from Dynamic Panel Analysis.md
-Education and Technological Unemployment in the Fourth Industrial Revolution.md
-Education, Automation and AI A Genealogy.md
-Embedding Cooperative Learning into the.md
 Employment Shopping An AI-Driven Universal Job Allocation Model for Inclusive.md
 Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI.md
-Experimenting with Generative AI Tools and their Implications Insights from High School UX Educators.md
-Expert Systems Commercializing Artificial Intelligence (IEEE Annals, 1993).md
-Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools.md
 Forum for Education Studies 2024, 2(2), 1242..md
 Fostering Epistemic Insights into AI Ethics through a Constructionist Pedagogy An Interdisciplinary Approach to AI Literacy.md
-Fr om code to collaboration.md
-From Big Data to Rich Theory Integrating Critical Discourse Analysis with Structural Topic Modeling.md
-From Disruptions to Discussions How GenAI Impacts Human Interactions in Software Development.md
-GenAI and Job Crafting by Entry-Level Professionals.md
-Generative AI Integrated Educational Model for User-Centered.md
-Generative AI and the Automating of Academia (Postdigital Science, 2024).md
-Generative AI in User Experience Design and Research How Do UX Practitioners, Teams, and Companies Use GenAI in Industry.md
 Helmut Degen.md
 Highlights.md
-How Hands-on Experience with Generative AI Shapes Design Students' Perspectives on AI's Future Impact.md
-How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries (CHI 2025).md
-How to Be Universal Some Cybernetic Strategies, 1943-70.md
 INTRODUCTION TO PART 5.md
-Instructional Design and Creativity A Response to the Criticized.md
-Instructional Design and Creativity A Response to the Critics.md
 Integrating  AI  Into  The  Design  Process.md
-Integrating AI in Literacy Lessons for Elementary Classrooms A Co-Design Approach.md
 Integrating AI into the Design Process.md
 Integrating User Experience in User Interface.md
 International Journal on Technology, Innovation, and Management  (IJTIM) 3(1)....md
-Inventing Ourselves Out of Jobs America's Debate over Technological Unemployment (Review, 2001).md
 JOURNAL OF XXXXX , VOL. XXX, NO. XXX, XXXXXXX 1.md
-Januszewski and Molenda - Educational Technology Definition (2008).md
 John Zimmerman, Carnegie Mellon University.md
 Journal of Economics, Finance and Accounting Studies.md
-Kirkpatrick Plus Evaluation and Continuous.md
 LEARNING FROM NOTES.md
-Mapping Value Sensitive Design onto AI for Social Good Principles.md
 Marquette University Marquette University e-Publications@Marquette e-Publicat....md
 May 16, 2025 1559 Journal – IJHSES 2540617 page 1.md
-Method in their madness Explaining how.md
 Motivation, Volition, and Performamce.md
-Navigating a New Direction in HCI Education Challenges of.md
-Optimizing Design Education Using Artificial Intelligence (IJHSES, 2025).md
-Optimizing Design Education Using Artificial Intelligence Joint Application of OBE Teaching, Intelligent Color Platform, and BP Neural Network.md
-Optimizing Employee Roles in the Era of Generative AI.md
 PART ONE.md
-Perceptions and Integration of Generative AI in Creative Practices and Industries.md
-Poets Over Quants Automation Increases Value of Creativity.md
-Points of Contact Where Learning Sciences and Educational Technology Meet.md
-Prioritizing Human Creativity A Sequential.md
 Problem-Based Learning.md
 Profound Learning for Human Flourishing.md
-Promoting Students' Deep Learning Through Design-Based Learning A Pedagogical Study.md
-Prompting Progress An Eight-Week AI Literacy Cohort for Academic Professionals (University of New Mexico).md
-Re-evaluating Creative Labor in the Age of Artificial Intelligence (AI & Society, 2025).md
-Reconciling ADDIE and Agile Instructional Design Models A Case Study.md
-Reconsidering Design and Technology in the Age of AI (Bradshaw TechTrends 2018).md
-Reflecting on the Integration of Generative AI in Design Education (Voces y Silencios, 2024).md
-Reiser (2018)--Chapter 1 What field.md
-Rethinking How We Theorize AI in Organization and Management (Ramaul et al., Journal of Management Studies, 2025).md
-Rich environments for active learning a definition.md
 S I L E S I A N U N I V E R S I T Y OF  T E C H N O L O G Y P U B L I S H I N....md
 Semarak International Journal of Creative Art and Design 4, Issue 1 (2025) 24-37.md
-Shaping Human Capital Standards Exploring the Intersections of the Future of Work and AI (2025).md
-State of AI Literacy in Academic Libraries (Lo UNM).md
-Steering Blind Algorithms Exploring the Impact of Generative AI on the Role of Designers.md
-Stolovitch Beresford 2012--evoluation of HPT (1).md
 Strategic Interventions for Mitigating AI-Induced Job Loss at the.md
-Teaching to Fail (Before It Happens) Premortem as a Pedagogical.md
 The Application of Generative AI in Design-Based Elementary Education.md
 The Dick and Carey Model.md
-The Electronic Sweatshop How Computers Are Transforming the Office (Review, 1992).md
-The Expert Systems Business How It Grew and Died (IEEE Annals, 2018).md
 The Future of Work Balancing Automation and Human.md
-The GenUI Study Exploring the Design of Generative UI Tools to.md
-The Impact of AI Development on the Future of Work.md
-The Integration of AI in Design Thinking for Enhancing Student Creativity and Critical Thinking in Digital Media Learning (2025).md
-The Potential and Implications of Generative AI on HCI Education.md
-The Proper Way to Become an Instructional.md
-The Role of Large Language Models in UIUX Design A Systematic Review.md
-The Role of Student Motivation in Integrating AI into Web Design Education (2024).md
-The Technocratic Momentum after 1945 The Development of Teaching Machines.md
 The designer's judgement.md
-Transforming Academic Librarianship through AI Reskilling (Lo UNM).md
-Transforming Software Development with Generative AI.md
-UX Education in Transition Aligning Academic Pedagogy with.md
 Understanding How AI-Driven Innovations Reshape Human Resource Management and Organizational Effectiveness.md
 University of New Mexico University of New Mexico.md
-Unlocking training transfer in the age of.md
-User Experience Design Professionals' Perceptions of Generative Artificial Intelligence.md
-User Experience Design Professionals' Perceptions of Generative Artificial Intelligence_1.md
-Using Generative AI Tools in Collaborative UX Design Courses.md
-Using Generative AI to Support UX Design Students in Web Dev.md
-Utilizing Generative AI in Design Education.md
-Van Tiem et al. 2004--performance tech defined.md
-Vibe Coding for UX Design Understanding UX Professionals’ Perceptions of AI-....md
 Voces y Silencios Revista Latinoamericana de Educación, v. 16 n. 2, pp. 169-191.md
-Web Content Analysis Expanding the Paradigm Susan C. Herring Introduction Si....md
 Why AI and Machine Learning Fail to Transform Incumbent Organizations.md
-Why Are There Still So Many Jobs (Oravec Review of Autor, 2018).md
-Why Minimal Guidance During Instruction Does Not Work (Kirschner Sweller Clark).md
-Why New Technologies Do Not Transform Incumbents (Choudary, HBR).md
 www.prosoc.eu.md
 ğ.md

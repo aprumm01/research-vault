@@ -7,6 +7,7 @@ tags:
   - HBR
 venue: "Harvard Business Review"
 year: "2024"
+authors: "Sangeet Paul Choudary"
 ---
 
 # Why New Technologies Do Not Transform Incumbents (Choudary, HBR)

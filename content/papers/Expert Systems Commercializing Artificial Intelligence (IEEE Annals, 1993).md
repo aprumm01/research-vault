@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P312.pdf"
 type: paper
+authors: "David C. Brock and Burton Grad"
 community: "AI and Future of Work"
 tags:
 ---

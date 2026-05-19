@@ -7,6 +7,7 @@ tags:
   - PIQ
 venue: "Performance Improvement Quarterly"
 year: "2004"
+authors: "Van Tiem et al"
 ---
 
 # Performance Technology: Foundation and Field Overview (Van Tiem et al., 2004)

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P235.pdf"
 type: ""
+authors: "Frederic Gmeiner, Humphrey Yang, Lining Yao, Kenneth Holstein, and Nikolas Martelaro"
 community: "AI in Design Education"
 tags:
   - graphify/document

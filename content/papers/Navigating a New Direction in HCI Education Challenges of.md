@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P176.pdf"
 type: paper
+authors: "Elisabet M. Nilsson, Wolmet Barendregt, Rikke Hagensby Jensen, Anne-Marie Hansen, Daisy Yoo, and Eva Eriksson"
 community: "Semi-Structured Interviews"
 tags:
 ---

@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P143.pdf"
 type: paper
+authors: "Wilmoth, Prigmore & Bray"
 community: "Instructional Design Theory"
 tags:
 ---

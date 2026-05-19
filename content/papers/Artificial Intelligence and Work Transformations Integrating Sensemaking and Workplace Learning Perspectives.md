@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "Beyond the Hype (Chapter)"
 year: "2025"
+authors: "Alice Mohlin, Anette Johansson and Nina Edh Mirzaei"
 ---
 
 # Artificial Intelligence and Work Transformations Integrating Sensemaking and Workplace Learning Perspectives

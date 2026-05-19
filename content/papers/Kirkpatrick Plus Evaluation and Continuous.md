@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P108.pdf"
 type: paper
+authors: "Ryan Watkins, Doug Leigh, Rob Foshay, and Roger Kaufman"
 community: "Instructional Design Theory"
 tags:
 ---

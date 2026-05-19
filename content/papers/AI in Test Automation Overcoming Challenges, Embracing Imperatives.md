@@ -5,6 +5,7 @@ type: paper
 community: "Studio Pedagogy"
 tags:
 year: "2024"
+authors: "Tenakwah and Watson"
 ---
 
 # AI in Test Automation: Overcoming Challenges, Embracing Imperatives

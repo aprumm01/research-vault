@@ -11,7 +11,12 @@ PAPERS_DIR = os.path.join(os.path.dirname(__file__), "content", "papers")
 # Sentence starters that indicate a summary fragment, not author names
 BAD_STARTS = re.compile(
     r'^(This |The |A |An |Uses |Proposes |Reviews |Argues |Scoping |Theoretical '
-    r'|Advocates |Based |Building |Drawing |Published |Presents |Report|Survey|Case study)',
+    r'|Advocates |Based |Building |Drawing |Published |Presents |Report|Survey|Case study'
+    r'|Founding Editor|Series Editor|Editorial Board|Computing Systems|Science and Engineering'
+    r'|New Industry|Development Courses|Entry-Level|Educational Technology Publications'
+    r'|Study Dissertation|Empirical Research Paper|Interaction Design|claiming that'
+    r'|Intelligent Color Platform|SchoolofArts|UCLAHCIResearch|United States'
+    r'|AI-AssistedDesign|User Experiences)',
     re.IGNORECASE
 )
 
@@ -34,7 +39,11 @@ NON_AUTHOR_WORDS = {
     "Foundational and Instrumental", "Performance Technology Foundation",
     "Kirschner Sweller Clark",
     # Single-word non-name identifiers
-    "Review", "IJHSES",
+    "Review", "IJHSES", "Indiana", "Informa",
+    "Computing Systems", "Science and Engineering",
+    "New Industry Needs", "Development Courses",
+    "Entry-Level Professionals", "Empirical Research Paper",
+    "Interaction Design", "United States",
 }
 
 def is_bad_authors(value):
@@ -56,6 +65,25 @@ def is_bad_authors(value):
 
     # Single known bad word
     if v in NON_AUTHOR_WORDS:
+        return True
+
+    # Partial word (ends with hyphen)
+    if v.endswith('-'):
+        return True
+
+    # Repository/doubled-characters artifacts (e.g., "UUNNMM DDiiggiittaall")
+    if 'repository' in v.lower() or 'rreeppoossiittoorryy' in v.lower():
+        return True
+
+    # Values that are only institution names (contain these words but no comma or "and")
+    if re.search(r'\b(University|Institute|Department|College|School|Lab\b|Center|Centre|Faculty|Research|LLC|Inc\.|Corp\b|Expertise Center)\b', v, re.IGNORECASE):
+        if not re.search(r',|\band\b', v, re.IGNORECASE):
+            return True
+
+    # Contains lab/org names mixed with people (TIDALLab, HCIInstitute repeated, etc.)
+    if re.search(r'(?:Lab|Institute|Research|Dept|Group){2,}', v, re.IGNORECASE):
+        return True
+    if re.search(r'\b(TIDALLab|HCIInstitute|GoogleDeepMind|UCLAHCIResearch)\b', v):
         return True
 
     return False

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P213.pdf"
 type: "paper"
+authors: "Paul A. Kirschner, John Sweller, and Richard E. Clark"
 community: "Instructional Design Theory"
 tags:
 

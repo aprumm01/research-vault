@@ -7,6 +7,7 @@ tags:
   - TechTrends
 venue: "TechTrends"
 year: "2018"
+authors: "Reiser"
 ---
 
 # What Field Did You Say You Were In? Defining and Naming Our Discipline (Reiser, 2018)

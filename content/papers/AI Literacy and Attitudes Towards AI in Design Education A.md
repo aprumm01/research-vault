@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P224.pdf"
 type: paper
+authors: "Sophie Schauer, Katharina Simbeck, and Niels Pinkwart"
 community: "Semi-Structured Interviews"
 tags:
 ---

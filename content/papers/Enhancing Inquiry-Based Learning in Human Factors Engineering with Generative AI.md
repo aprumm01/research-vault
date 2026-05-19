@@ -7,6 +7,7 @@ tags:
   - HumanFactors
 venue: "Human Factors"
 year: "2025"
+authors: "Tzu-No Tseng, Tung-Ming Lee, and Jo-Yu Kuo"
 ---
 
 # Enhancing Inquiry-Based Learning in Human Factors Engineering with Generative AI

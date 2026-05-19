@@ -7,6 +7,7 @@ tags:
   - JournalLearningSciences
 venue: "Journal of the Learning Sciences"
 year: "1993"
+authors: "Andrew Gibbons"
 ---
 
 # Points of Contact: Where Learning Sciences and Educational Technology Meet

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P251.pdf"
 type: ""
+authors: "Céline Mougenot"
 community: "Instructional Design Theory"
 tags:
   - graphify/document

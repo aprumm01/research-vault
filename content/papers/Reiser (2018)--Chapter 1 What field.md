@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P287.pdf"
 type: paper
+authors: "Robert A. Reiser"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

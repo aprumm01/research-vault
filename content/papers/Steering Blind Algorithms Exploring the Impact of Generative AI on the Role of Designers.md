@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P164.pdf"
 type: paper
+authors: "Jasmin El Kordy"
 community: "Semi-Structured Interviews"
 tags:
 ---

@@ -7,6 +7,7 @@ tags:
   - EducationalPsychologist
 venue: "Educational Psychologist"
 year: "2007"
+authors: "Hmelo-Silver et al"
 ---
 
 # Scaffolding and Achievement in Problem-Based and Inquiry Learning (Hmelo-Silver et al.)

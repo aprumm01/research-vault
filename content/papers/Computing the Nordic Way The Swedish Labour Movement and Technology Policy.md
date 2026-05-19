@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P309.pdf"
 type: paper
+authors: "Lina Rahm"
 community: "AI and Future of Work"
 tags:
 ---

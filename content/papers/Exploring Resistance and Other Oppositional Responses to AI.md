@@ -7,6 +7,7 @@ tags:
   - ACM
 venue: "ACM"
 year: "2023"
+authors: "Baumer et al"
 ---
 
 # Exploring Resistance and Other Oppositional Responses to AI

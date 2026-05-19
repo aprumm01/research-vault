@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P316.pdf"
 type: paper
+authors: "Amy Sue Bix"
 community: "AI and Future of Work"
 tags:
 ---

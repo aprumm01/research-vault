@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P296.pdf"
 type: paper
+authors: "Darlene Van Tiem, James Moseley, and Joan Dessinger"
 community: "Instructional Design Theory"
 tags:
 ---

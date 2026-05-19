@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P200.pdf"
 type: paper
+authors: "Xiang Chen, Tiffany Knearem, and Yang Li"
 community: "Metacognitive Support"
 tags:
 ---

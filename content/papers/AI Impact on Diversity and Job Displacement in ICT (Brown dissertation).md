@@ -1,6 +1,7 @@
----
+﻿---
 source_file: "research_docs/P32.pdf"
 type: paper
+authors: "Brown"
 community: "Semi-Structured Interviews"
 tags:
 ---

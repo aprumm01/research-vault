@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P96.pdf"
 type: ""
+authors: "Zhang, Atiq, and Chow"
 community: "AI Literacy"
 tags:
   - graphify/document

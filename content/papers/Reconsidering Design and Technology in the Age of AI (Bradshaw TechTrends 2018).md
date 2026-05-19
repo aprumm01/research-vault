@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P218.pdf"
 type: "paper"
+authors: "Amy C. Bradshaw"
 community: "Instructional Design Theory"
 tags:
 

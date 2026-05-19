@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P72.pdf"
 type: paper
+authors: "Leo S. Lo"
 community: "Studio Pedagogy"
 tags:
 ---

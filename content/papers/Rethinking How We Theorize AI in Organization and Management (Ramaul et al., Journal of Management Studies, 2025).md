@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P187.pdf"
 type: paper
+authors: "Laavanya Ramaul, Paavo Ritala, Angelos Kostis, and Paivi Aaltonen"
 community: "Studio Pedagogy"
 tags:
 ---

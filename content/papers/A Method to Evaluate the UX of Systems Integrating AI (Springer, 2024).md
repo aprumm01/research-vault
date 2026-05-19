@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P168.pdf"
 type: ""
+authors: "Davide Spallazzo, Martina Scianname, and Mauro Ceconello"
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document

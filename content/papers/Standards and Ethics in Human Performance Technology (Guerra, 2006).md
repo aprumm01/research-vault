@@ -7,6 +7,7 @@ tags:
   - ISPI
 venue: "ISPI Handbook"
 year: "2006"
+authors: "Guerra"
 ---
 
 # Standards and Ethics in Human Performance Technology (Guerra, 2006)

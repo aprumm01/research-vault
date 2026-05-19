@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P223.pdf"
 type: "paper"
+authors: "Qing Xiao, Xinlan Emily Hu, and Mark E. Whiting"
 community: "HCI Education and Pedagogy"
 tags:
 

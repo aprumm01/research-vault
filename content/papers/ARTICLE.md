@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P209.pdf"
 type: "paper"
+authors: "Felix Buendia-Garcia"
 community: "GenAI in UX and Design Practice"
 tags:
 

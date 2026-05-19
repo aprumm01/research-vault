@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P196.pdf"
 type: paper
+authors: "PaulC.Parsons AustinL.Toombs"
 community: "Studio Pedagogy"
 tags:
 ---

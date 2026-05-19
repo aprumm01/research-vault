@@ -1,6 +1,7 @@
----
+﻿---
 source_file: "research_docs/P297.pdf"
 type: paper
+authors: "Walter Dick"
 community: "Instructional Design Theory"
 tags:
 ---

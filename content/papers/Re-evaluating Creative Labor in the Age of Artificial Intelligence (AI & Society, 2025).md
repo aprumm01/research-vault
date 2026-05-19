@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P241.pdf"
 type: paper
+authors: "Yunus Emre Oztas and Balca Arda"
 community: "Studio Pedagogy"
 tags:
 ---

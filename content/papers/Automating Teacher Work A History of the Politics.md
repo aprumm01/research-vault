@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P308.pdf"
 type: paper
+authors: "Annika Bergviken Rensfeldt"
 community: "AI and Future of Work"
 tags:
 ---

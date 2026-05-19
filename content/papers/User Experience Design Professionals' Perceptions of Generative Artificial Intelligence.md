@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P208.pdf"
 type: paper
+authors: "Generative Artificial Intelligence Jie Li Hancheng Cao Laura Lin"
 community: "Semi-Structured Interviews"
 tags:
 ---

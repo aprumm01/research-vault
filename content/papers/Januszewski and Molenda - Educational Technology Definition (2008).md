@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P106.pdf"
 type: paper
+authors: "Alan Januszewski and Michael Molenda"
 community: "Instructional Design Theory"
 tags:
 ---

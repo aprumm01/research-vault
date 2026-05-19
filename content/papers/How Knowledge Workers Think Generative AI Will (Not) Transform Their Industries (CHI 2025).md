@@ -2,6 +2,7 @@
 title: "How Knowledge Workers Think Generative AI Will (Not) Transform Their Industries (CHI 2025)"
 source_file: "research_docs/P238.pdf"
 type: "paper"
+authors: "Allison Woodruff, Renee Shelby, and Patrick Gage Kelley"
 community: "AI and Future of Work"
 tags:
 

@@ -5,6 +5,7 @@ type: paper
 community: "AI in Design Education"
 tags:
 year: "2025"
+authors: "Chen et al"
 ---
 
 # Comparing Student Designers' Metacognition and Design Processes With and Without Generative AI (Chen et al., 2025)

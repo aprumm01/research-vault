@@ -7,6 +7,7 @@ tags:
   - TechTrends
 venue: "TechTrends"
 year: "2013"
+authors: "Malgorzata Gawlik-Kobylinska"
 ---
 
 # Reconciling ADDIE and Agile Instructional Design Models: A Case Study

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P189.pdf"
 type: "paper"
+authors: "Fabio Andres Tellez"
 community: "Instructional Design Theory"
 tags:
 

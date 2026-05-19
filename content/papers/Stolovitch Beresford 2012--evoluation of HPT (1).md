@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P290.pdf"
 type: paper
+authors: "Harold D. Stolovitch and Erica Beresford"
 community: "AI and Future of Work"
 tags:
 ---

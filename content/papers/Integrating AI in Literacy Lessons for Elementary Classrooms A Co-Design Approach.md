@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P279.pdf"
 type: paper
+authors: "Panagiotis Kosmas, Efi A. Nisiforou, Evgenia Kounnapi, Spyros Sophocleous, and Giannis Theophanous"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

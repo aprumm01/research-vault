@@ -5,6 +5,7 @@ type: paper
 community: "AI and Future of Work"
 tags:
 year: "2025"
+authors: "Tania Saba"
 ---
 
 # Shaping Human Capital Standards: Exploring the Intersections of the Future of Work and AI (2025)

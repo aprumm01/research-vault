@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P278.pdf"
 type: "paper"
+authors: "Betül Yıldızhan Bora and Cansu Şahin Kölemen"
 community: "AI in Design Education"
 tags:
 

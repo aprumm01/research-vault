@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P242.pdf"
 type: ""
+authors: "Generative Artificial Intelligence Jie Li Hancheng Cao Laura Lin"
 community: "GenAI in UX and Design Practice"
 tags:
   - graphify/document

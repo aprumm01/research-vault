@@ -5,6 +5,7 @@ type: paper
 community: "AI in Design Education"
 tags:
 year: "2024"
+authors: "Jie Ling, Jiaxin Chen, Cuiyan Zhong, Huafang Zhang, Zhuohong Ma, Nahua Huang, and Li Ou-yang"
 ---
 
 # The Application of Generative AI in Design-Based Elementary Education

@@ -1,6 +1,7 @@
----
+﻿---
 source_file: "research_docs/P179.pdf"
 type: "paper"
+authors: "Wanda Orlikowski"
 community: "AI and Future of Work"
 tags:
 

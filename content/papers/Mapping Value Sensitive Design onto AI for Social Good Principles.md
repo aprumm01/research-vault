@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P174.pdf"
 type: paper
+authors: "Steven Umbrello and Ibo van de Poel"
 community: "AI and Future of Work"
 tags:
 ---

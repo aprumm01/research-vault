@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P280.pdf"
 type: paper
+authors: "Chieh-Ju Huang"
 community: "Metacognitive Support"
 tags:
 ---

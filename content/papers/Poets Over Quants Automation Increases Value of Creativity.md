@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P71.pdf"
 type: paper
+authors: "Monica Gamez-Djokic, Adam Waytz, and Maryam Kouchaki"
 community: "AI and Future of Work"
 tags:
 ---

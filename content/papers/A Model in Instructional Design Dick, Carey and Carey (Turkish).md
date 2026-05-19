@@ -5,6 +5,7 @@ type: paper
 community: "Survey / Questionnaire Study"
 tags:
 year: "2014"
+authors: "Walter Dick, Lou Carey, and James O. Carey"
 ---
 
 # A Model in Instructional Design: Dick, Carey and Carey (Turkish)

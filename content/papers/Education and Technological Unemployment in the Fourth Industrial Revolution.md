@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P310.pdf"
 type: paper
+authors: "Michael A. Peters and Petar Jandric"
 community: "AI and Future of Work"
 tags:
 ---

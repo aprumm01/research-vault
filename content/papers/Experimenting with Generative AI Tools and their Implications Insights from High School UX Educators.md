@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P265.pdf"
 type: ""
+authors: "JoshuaWeinberg MonicaChan"
 community: "Instructional Design Theory"
 tags:
   - graphify/document

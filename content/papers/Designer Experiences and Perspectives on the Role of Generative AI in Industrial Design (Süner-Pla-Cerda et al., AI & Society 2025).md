@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P234.pdf"
 type: paper
+authors: "Süner-Pla-Cerda et al"
 community: "GenAI in UX and Design Practice"
 tags:
 ---

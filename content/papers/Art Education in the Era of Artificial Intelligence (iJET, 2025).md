@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P243.pdf"
 type: paper
+authors: "Cheng Shuai and Peng Hong"
 community: "AI and Future of Work"
 tags:
 ---

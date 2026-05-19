@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P175.pdf"
 type: paper
+authors: "Philip Cash, Milene Goncalves, and Kees Dorst"
 community: "Studio Pedagogy"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P205.pdf"
 type: paper
+authors: "Jason Lively and James Hutson"
 community: "Survey / Questionnaire Study"
 tags:
 ---

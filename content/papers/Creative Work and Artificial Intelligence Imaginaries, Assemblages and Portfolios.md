@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P233.pdf"
 type: paper
+authors: "Daniel Ashton"
 community: "AI and Future of Work"
 tags:
 ---

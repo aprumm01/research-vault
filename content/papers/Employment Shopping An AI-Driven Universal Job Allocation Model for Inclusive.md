@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P78.pdf"
 type: paper
+authors: "Chakrabarti"
 community: "AI and Future of Work"
 tags:
 ---

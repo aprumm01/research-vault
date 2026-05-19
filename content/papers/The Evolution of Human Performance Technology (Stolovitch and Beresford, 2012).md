@@ -7,6 +7,7 @@ tags:
   - ISPI
 venue: "ISPI Handbook"
 year: "2012"
+authors: "Stolovitch and Beresford"
 ---
 
 # The Evolution of Human Performance Technology (Stolovitch and Beresford, 2012)

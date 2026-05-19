@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P230.pdf"
 type: ""
+authors: "Syeda Masooma Naqvi, Ruichen He, and Harmanpreet Kaur"
 community: "Instructional Design Theory"
 tags:
   - graphify/document

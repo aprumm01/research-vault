@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P131.pdf"
 type: ""
+authors: "AhmedKharrufa IanG.Johnson"
 community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document

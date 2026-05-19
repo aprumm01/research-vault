@@ -7,6 +7,7 @@ tags:
   - CHI
 venue: "New Directions for Teaching and Learning"
 year: "1993"
+authors: "Barrows"
 ---
 
 # Problem-Based Learning: A Constructivist Approach (Barrows, 1993)

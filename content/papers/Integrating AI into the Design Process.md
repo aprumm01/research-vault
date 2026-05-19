@@ -5,6 +5,7 @@ type: paper
 community: "AI in Design Education"
 tags:
 year: "2024"
+authors: "Betül Yıldızhan Bora and Cansu Şahin Kölemen"
 ---
 
 # Integrating AI into the Design Process

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P87.pdf"
 type: paper
+authors: "Walter Dick"
 community: "Studio Pedagogy"
 tags:
 ---

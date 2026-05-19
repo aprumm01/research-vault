@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P133.pdf"
 type: ""
+authors: "Rasmus Ulfsnes, Nils Brede Moe, Viktoria Stray, and Marianne Skarpen"
 community: "Semi-Structured Interviews"
 tags:
   - graphify/document

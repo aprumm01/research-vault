@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P212.pdf"
 type: paper
+authors: "Philip B. Gallagher and Sushil K. Oswal"
 community: "Semi-Structured Interviews"
 tags:
 ---

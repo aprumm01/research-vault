@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P23.pdf"
 type: paper
+authors: "Dennis Cheatham"
 community: "Studio Pedagogy"
 tags:
 ---

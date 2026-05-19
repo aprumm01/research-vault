@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P163.pdf"
 type: paper
+authors: "Jiaozi Pu"
 community: "Instructional Design Theory"
 tags:
 ---

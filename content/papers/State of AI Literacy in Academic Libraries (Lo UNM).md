@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P73.pdf"
 type: paper
+authors: "Leo S. Lo"
 community: "Survey / Questionnaire Study"
 tags:
 ---

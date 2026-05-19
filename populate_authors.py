@@ -202,7 +202,7 @@ def process_papers():
 
     for fname in sorted(files):
         fpath = os.path.join(PAPERS_DIR, fname)
-        with open(fpath, "r", encoding="utf-8") as f:
+        with open(fpath, "r", encoding="utf-8-sig") as f:
             text = f.read()
 
         fm_raw_block, body = parse_frontmatter_raw(text)
@@ -239,7 +239,7 @@ def process_papers():
                 continue
             # Insert authors field after 'year' line or after 'type' line
             new_text = insert_authors_field(text, authors)
-            with open(fpath, "w", encoding="utf-8") as f:
+            with open(fpath, "w", encoding="utf-8-sig") as f:
                 f.write(new_text)
             safe = fname[:70].encode('ascii', errors='replace').decode('ascii')
             print(f"  [OK] {safe}")

@@ -7,6 +7,7 @@ tags:
   - CHI
 venue: "CHI 2025"
 year: "2025"
+authors: "Marie Salomon, Ekaterina Koshchenko, Agnia Sergeyuk, Reid Holmes, and Gail C. Murphy"
 ---
 
 # From Disruptions to Discussions: How GenAI Impacts Human Interactions in Software Development

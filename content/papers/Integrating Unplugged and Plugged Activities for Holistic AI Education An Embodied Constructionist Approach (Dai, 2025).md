@@ -5,6 +5,7 @@ type: paper
 community: "AI in Design Education"
 tags:
 year: "2025"
+authors: "Dai"
 ---
 
 # Integrating Unplugged and Plugged Activities for Holistic AI Education: An Embodied Constructionist Approach (Dai, 2025)

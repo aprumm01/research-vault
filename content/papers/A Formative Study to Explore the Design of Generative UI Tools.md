@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P167.pdf"
 type: ""
+authors: "Xiang Chen, Tiffany Knearem, and Yang Li"
 community: "Generative UI Tools"
 tags:
   - graphify/document

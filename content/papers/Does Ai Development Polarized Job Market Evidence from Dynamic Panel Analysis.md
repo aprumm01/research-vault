@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P89.pdf"
 type: paper
+authors: "Issa Hamadou, Amadou Gissay, Teguh Yudo Wicaksono, and Luthfi Hamidi"
 community: "AI and Future of Work"
 tags:
 ---

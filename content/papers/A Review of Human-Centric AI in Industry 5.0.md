@@ -7,6 +7,7 @@ tags:
   - Frontiers
 venue: "Frontiers in Artificial Intelligence"
 year: "2024"
+authors: "Manambedu Vijayakumar Raja, Himanshu Thaker, Subba Rao Katragadda, and Supriya Kadam"
 ---
 
 # A Review of Human-Centric AI in Industry 5.0

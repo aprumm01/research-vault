@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P305.pdf"
 type: paper
+authors: "Hartmut Hirsch-Kreinsen"
 community: "Semi-Structured Interviews"
 tags:
 ---

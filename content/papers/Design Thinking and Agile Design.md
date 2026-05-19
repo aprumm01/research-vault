@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P256.pdf"
 type: paper
+authors: "V. Svihla"
 community: "AI in Design Education"
 tags:
 ---

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P129.pdf"
 type: paper
+authors: "Lusine Petrosyan"
 community: "AI and Future of Work"
 tags:
 ---

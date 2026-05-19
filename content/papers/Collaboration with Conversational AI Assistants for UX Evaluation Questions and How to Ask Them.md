@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P253.pdf"
 type: ""
+authors: "Emily Kuang and Ehsan Jahangir"
 community: "Quantitative / Statistical Analysis"
 tags:
   - graphify/document

@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P277.pdf"
 type: "paper"
+authors: "Betül Yıldızhan Bora and Cansu Şahin Kölemen"
 community: "Instructional Design Theory"
 tags:
 

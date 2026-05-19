@@ -5,6 +5,7 @@ type: paper
 community: "GenAI in UX and Design Practice"
 tags:
 year: "2024"
+authors: "Jack Tsao, Cindy Xinyi Liang, Collier Nogues, and Alice Wong"
 ---
 
 # Perceptions and Integration of Generative AI in Creative Practices and Industries

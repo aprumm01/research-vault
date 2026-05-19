@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P172.pdf"
 type: paper
+authors: "Volker Bilgram"
 community: "AI in Design Education"
 tags:
 ---

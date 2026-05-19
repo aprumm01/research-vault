@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P313.pdf"
 type: paper
+authors: "Richard Watermeyer, Lawrie Phipps, Donna Lanclos, and Cathryn Knight"
 community: "Survey / Questionnaire Study"
 tags:
 ---

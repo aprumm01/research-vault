@@ -1,6 +1,7 @@
 ---
 source_file: "research_docs/P102.pdf"
 type: paper
+authors: "YananWu XiaopingZeng QibeiLin"
 community: "Survey / Questionnaire Study"
 tags:
 ---

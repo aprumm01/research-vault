@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P240.pdf"
 type: paper
+authors: "Law & Varanasi"
 community: "AI and Future of Work"
 tags:
 ---

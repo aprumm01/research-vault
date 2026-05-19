@@ -1,6 +1,7 @@
 ﻿---
 source_file: "research_docs/P263.pdf"
 type: paper
+authors: "MurdochKitt et al"
 community: "AI in Design Education"
 tags:
 ---

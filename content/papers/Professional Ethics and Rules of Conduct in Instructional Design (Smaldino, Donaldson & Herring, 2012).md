@@ -7,6 +7,7 @@ tags:
   - book-chapter
 venue: "Book Chapter"
 year: "2012"
+authors: "Smaldino, Donaldson & Herring"
 ---
 
 # Professional Ethics and Rules of Conduct in Instructional Design (Smaldino, Donaldson & Herring, 2012)
