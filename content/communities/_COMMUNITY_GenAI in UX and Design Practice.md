@@ -82,7 +82,7 @@ members: 137
 - [[Industrial Designers in UX Practice Motivations, Professionalization, and Designer Identity (SÃ¼ner-Pla-CerdÃ  et al., 2023)]] - research_docs/P159.pdf
 - [[Integrating AI in Literacy Lessons for Elementary Classrooms A Co-Design Approach]] - research_docs/P279.pdf
 - [[Kapidzic]] - research_docs/AU412.pdf
-- [[LLM Agent Meets Agentic AI Can LLM Agents Simulate Customers to Evaluate Age...]] - research_docs/P453.pdf
+- [[LLM Agent Meets Agentic AI Simulating Customers to Evaluate Agentic Shopping Assistants (Sun et al., 2025)]] - research_docs/synth users/LLM Agent Meets Agentic AI Can LLM Agents Simulate Customers - Sun et al - 2025.pdf
 - [[Marquette]] - research_docs/AU420.pdf
 - [[Mayer]] - research_docs/AU421.pdf
 - [[Mind the Sim2Real Gap in User Simulation for Agentic Tasks Xuhui Zhou1 Weiwe...]] - research_docs/P456.pdf

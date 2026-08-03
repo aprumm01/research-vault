@@ -23,7 +23,7 @@ Synthetic users are LLM-generated agent entities designed to simulate human beha
 - [[How Far Can We Go with Synthetic User Experience Research (Li, 2024)]]
 - [[Interview-Informed Generative Agents for Product Discovery A Validation Study (Wang et al., 2026)]]
 - [[Leveraging LLMs as Simulated Users for Initial Low-Cost Evaluations of Designed Conversations (de Wit, 2024)]]
-- [[LLM Agent Meets Agentic AI Can LLM Agents Simulate Customers (Sun et al., 2025)]]
+- [[LLM Agent Meets Agentic AI Simulating Customers to Evaluate Agentic Shopping Assistants (Sun et al., 2025)]]
 - [[LLM Generated Persona is a Promise with a Catch (Li et al., 2025)]]
 - [[Lost in Simulation LLM-Simulated Users are Unreliable Proxies for Human Users (Seshadri et al., 2026)]]
 - [[Mind the Sim2Real Gap in User Simulation for Agentic Tasks (Zhou et al., 2026)]]
