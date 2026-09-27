@@ -47,6 +47,26 @@ This topic encompasses research on the environmental impacts of computing infras
 - [[papers/Keeping a lower profile - Reducing digital carbon footprints]]
 - [[papers/Understanding and Mitigating Effects of Device and Cloud Service Design]]
 
+## Sub-Topics (Conceptual Threads)
+
+### Carbon and Energy Accounting
+- [[topics/Embodied vs Operational Carbon]] - Manufacturing vs usage emissions (6 papers)
+- [[topics/Location vs Market-Based Carbon Accounting]] - Grid reality vs renewable claims (4 papers)
+- [[topics/Training vs Inference Energy]] - Where AI energy actually goes (4 papers)
+
+### Water and Multi-Dimensional Impact
+- [[topics/Water-Energy Nexus]] - Interdependence of water and energy (5 papers)
+- [[topics/Multi-Criteria Environmental Assessment]] - Beyond "carbon tunnel vision" (3 papers)
+
+### Data Accumulation and Behavior
+- [[topics/Dark Data and Data Minimization]] - 55-90% of data never used (5 papers)
+- [[topics/Barriers to Data Deletion]] - Why people don't delete (4 papers)
+- [[topics/Design Defaults as Sustainability Lever]] - How defaults shape impact (3 papers)
+
+### Systemic Dynamics
+- [[topics/Jevons Paradox in Computing]] - Efficiency enables more use (4 papers)
+- [[topics/Hidden Costs of AI Productivity]] - Technical debt and effort redistribution (3 papers)
+
 ## Related Topics
 - [[topics/AI]]
 - [[topics/Design Ethics]]
