@@ -1,38 +1,54 @@
 ---
 type: community
-members: 38
+name: "HCI Education and Pedagogy"
+paper_count: 36
 ---
 
 # HCI Education and Pedagogy
 
-*This community focuses on the pedagogical conditions through which HCI and design students develop professional judgment and expertise. The papers cluster around how studio critique, reflective practice, premortem exercises, and character-building pedagogy cultivate the situated, judgment-based expertise that defines expert practice — and what happens to those conditions when AI tools enter the learning environment. The community has a persistent concern with cognitive offloading and de-skilling as risks to developing designers.*
+## Overview
+This research community encompasses 36 papers in the vault.
 
-## Topics
+## Papers in This Community
+- [[papers/A pedagogical study on promoting students deep learning through design-based lea]]
+- [[papers/AI-assisted Learning in HCI Education Opportunities and Dilemmas from a Student ]]
+- [[papers/Art Education in the Era of Artificial Intelligence]]
+- [[papers/Brush1998 Article EmbeddingCooperativeLearningIn]]
+- [[papers/Clark1994 Article MediaWillNeverInfluenceLearnin]]
+- [[papers/Co-Designing with Transformers Unpacking the Complex Role of GenAI in Interactiv]]
+- [[papers/Designing Instructional Strategies A Cog]]
+- [[papers/Developing Students Instrumental Judgment MurdochKitt Gray Parsons Toombs Louw V]]
+- [[papers/Do Learners Really Know Best Urban Legends in Education]]
+- [[papers/Educating for design character in higher education Challenges in]]
+- [[papers/Exploring the Role of AI in UX Research]]
+- [[papers/Gagne etal Principles of ID Ch10]]
+- [[papers/Generative AI Integrated Educational Model for User-Centered Design]]
+- [[papers/How Hands-on Experience with Generative AI Shapes Design Students Perspectives o]]
+- [[papers/Integrating AI into instructional design]]
+- [[papers/Integrating artificial intelligence in literacy lessons for elementary classroom]]
+- [[papers/Kozma1994 Article WillMediaInfluenceLearningRefr]]
+- [[papers/Landscapes of Sociotechnical Imaginaries in Education-A Theoretical Examination ]]
+- [[papers/Learning from Artificial Intelligences Previous Awakenings The History of Expert]]
+- [[papers/Mayer2014 Chapter MultimediaInstruction]]
+- [[papers/Navigating a New Direction in HCI Education Challenges of Teaching More-Than-Hum]]
+- [[papers/Optimizing Design Education Using ArtiﬁcialIntelligence]]
+- [[papers/Prompting Progress An Eight-Week AI Literacy Cohort for Academic]]
+- [[papers/Research on Teaching Methods for Computer Operating Systems Integrating AI and S]]
+- [[papers/Rich environments for active learning a definition]]
+- [[papers/Scaffolding and Achievement in Problem-Based and Inquiry Learning]]
+- [[papers/Seok et al]]
+- [[papers/Spector 2008 Theoretical Foundations Ed Commun and Tech]]
+- [[papers/Teaching to Fail Before It Happens Premortem as a Pedagogical Strategy in HCI Ed]]
+- [[papers/The Integration of AI in Design Thinking for Enhancing Student Creativity and Cr]]
+- [[papers/The Proper Way to Become an Instructional Technologist]]
+- [[papers/The Technocratic Momentum after 1945-jemms]]
+- [[papers/The potential and implications of generative AI on HCI education]]
+- [[papers/Why Minimal Guidance During Instruction Does Not - Kirschner]]
+- [[papers/integrating-ai-into-instructional-design-a-case-study-on-digital-photography-edu]]
+- [[papers/s10639-024-13043-w]]
 
-- [[topics/Design Judgment|Design Judgment]] *(central)*
-- [[topics/Studio Pedagogy|Studio Pedagogy]] *(central)*
+## Key Questions
+[To be identified from thematic analysis]
 
-## Connections to other communities
-
-- 17 edges to [[communities/AI in Design Education|AI in Design Education]]
-- 10 edges to [[communities/GenAI in UX and Design Practice|GenAI in UX and Design Practice]]
-- 5 edges to [[communities/AI and Future of Work|AI and Future of Work]]
-- 4 edges to [[communities/Instructional Design Theory|Instructional Design Theory]]
-- 4 edges to [[communities/Responsible AI Governance|Responsible AI Governance]]
-- 4 edges to [[communities/Problem-Based Learning|Problem-Based Learning]]
-- 2 edges to [[communities/Responsible AI and Ethics|Responsible AI and Ethics]]
-- 1 edge to [[communities/Generative UI Tools|Generative UI Tools]]
-- 1 edge to [[communities/AI Literacy|AI Literacy]]
-
-## Authors
-
-- [[authors/Colin M. Gray|Colin M. Gray]]
-- [[authors/Elizabeth Boling|Elizabeth Boling]]
-- [[authors/Hauke Sandhaus|Hauke Sandhaus]]
-- [[authors/Jodi Forlizzi|Jodi Forlizzi]]
-- [[authors/John Zimmerman|John Zimmerman]]
-- [[authors/Kenneth Holstein|Kenneth Holstein]]
-- [[authors/Nikolas Martelaro|Nikolas Martelaro]]
-- [[authors/Paul Parsons|Paul Parsons]]
-- [[authors/Wendy Ju|Wendy Ju]]
-- [[authors/Xiang Anthony Chen|Xiang Anthony Chen]]
+## Related Communities
+[To be identified]
