@@ -1,8 +1,36 @@
 ---
-source_file: "Januszewski_Molenda_2008--Ed Tech Book Chapter 1 Definition of ed tech.pdf"
+source_file: Januszewski_Molenda_2008--Ed Tech Book Chapter 1 Definition of ed tech.pdf
 type: paper
-authors: "Alan Januszewski, Michael Molenda"
+authors: Alan Januszewski, Michael Molenda
 year: 2008
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Educational technology shifts from designer control to learner-centered facilitation,
+  emphasizing 'facilitating' rather than 'causing' or 'controlling' learning
+- Ethics is positioned as central to the field's identity rather than peripheral,
+  with ethical practice being a core component of the definition
+- Technology encompasses systematic methods and processes, not just devices and tools,
+  representing a shift from media-focused to process-focused understanding
+- Appropriateness is context-dependent, with fitness for purpose determined by specific
+  learners, goals, and settings rather than universal best practices
+- 'Educational technology integrates three interconnected practices: creating, using,
+  and managing technological processes and resources'
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Professional definition development by the Association for Educational Communications
+  and Technology (AECT)
+study_type: theoretical
 ---
 # Educational Technology: A Definition with Commentary (Chapter 1)
 

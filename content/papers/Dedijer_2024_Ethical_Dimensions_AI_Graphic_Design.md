@@ -1,11 +1,40 @@
 ---
-source_file: "Ethical dimensions of artificial intelligence in graphic design.pdf"
-type: "conference paper"
+source_file: Ethical dimensions of artificial intelligence in graphic design.pdf
+type: conference paper
 authors:
-  - "Sandra Dedijer"
-  - "Nemanja Kašiković"
-  - "et al."
+- Sandra Dedijer
+- Nemanja Kašiković
+- et al.
 year: 2024
+builds_on:
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques: []
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Ownership Ambiguity]]'
+key_claims:
+- AI tools in graphic design perpetuate and amplify visual stereotypes through training
+  data biases that affect generated content
+- 'AI integration creates six key ethical dimensions requiring frameworks specific
+  to creative industries: bias and fairness, intellectual property rights, environmental
+  impact, homogenization risk, privacy concerns, and accountability issues'
+- AI design tools pose significant environmental sustainability concerns through energy
+  consumption and carbon footprint that are often overlooked in adoption discussions
+- AI-generated designs create unclear responsibility chains and professional liability
+  questions, leaving accountability for design outcomes ambiguous
+- Training AI models on copyrighted work raises unresolved legal and ethical questions
+  about intellectual property ownership in AI-generated designs
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: AI design tools and graphic design practice
+study_type: theoretical
 ---
 
 # Ethical Dimensions of Artificial Intelligence in Graphic Design

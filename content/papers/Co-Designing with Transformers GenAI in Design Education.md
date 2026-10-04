@@ -1,12 +1,48 @@
 ---
-source_file: Co-Designing with Transformers_Unpacking the Complex Role of GenAI in Interactive System Design Education.pdf
+source_file: Co-Designing with Transformers_Unpacking the Complex Role of GenAI in
+  Interactive System Design Education.pdf
 type: empirical_study
 authors:
-  - Hauke Sandhaus
-  - Qiuquan Gu
-  - Maria Teresa Parreira
-  - Wendy Ju
+- Hauke Sandhaus
+- Qiuquan Gu
+- Maria Teresa Parreira
+- Wendy Ju
 year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Double Diamond Model]]'
+critiques: []
+tensions_with:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Epistemic Agency]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Surface-Level Processing]]'
+key_claims:
+- All students used GenAI tools despite no instructor encouragement, with most using
+  it for prototyping and code generation during the Develop phase of the Double Diamond
+- 'Four GenAI usage patterns emerged: Benchmark (comparison), Booster (assistance),
+  Executor (delegation), and Amplifier (beyond capability), with Executor and Amplifier
+  patterns creating highest risk for bypassing learning and critical reflection'
+- GenAI showed execution-phase dominance with greatest benefit during Develop phase
+  but limited utility for Discovery and Reflection phases, revealing a mismatch with
+  early-stage divergent thinking needs
+- Students demonstrated attribution challenges and struggled to accurately recall
+  their GenAI use, suggesting potential for illusion of competence and reduced metacognitive
+  awareness
+- Financial accessibility emerged as equity concern, with subscription costs (e.g.,
+  ChatGPT Plus at $20/month) creating barriers that may advantage students with greater
+  financial resources
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 17
+sample_type: graduate HCI students
+context: Cornell Tech Interactive Device Design course, Fall 2023
+study_type: empirical
 ---
 
 # Co-Designing with Transformers: GenAI in Interactive System Design Education

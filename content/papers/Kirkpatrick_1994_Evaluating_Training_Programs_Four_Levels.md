@@ -1,9 +1,30 @@
 ---
-source_file: "Kirkpatrick_evaluating_training_programs copy.pdf"
-type: "book"
+source_file: Kirkpatrick_evaluating_training_programs copy.pdf
+type: book
 authors:
-  - "Donald L. Kirkpatrick"
+- Donald L. Kirkpatrick
 year: 1994
+builds_on: []
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- 'Training evaluation should be systematic and comprehensive across four hierarchical
+  levels: reaction, learning, behavior, and results'
+- Most organizations over-rely on reaction measures (Level 1) and fail to assess higher-level
+  outcomes
+- Higher levels of evaluation provide more meaningful outcomes but are harder to measure,
+  with Level 4 (organizational results) justifying training investments to stakeholders
+- Positive reactions facilitate learning, learning is necessary for behavior change,
+  and behavior change leads to organizational results in a hierarchical causation
+  model
+- Evaluation should be planned before training begins to ensure proper alignment between
+  training objectives and assessment methods
+methodology: null
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Evaluating Training Programs: The Four Levels

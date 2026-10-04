@@ -1,8 +1,31 @@
 ---
-source_file: "Motivation, Volition, and Performamce.pdf"
+source_file: Motivation, Volition, and Performamce.pdf
 type: paper
-authors: "John M. Keller, Markus Deimann"
-year: 2022
+authors: John M. Keller, Markus Deimann
+year: null
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Metacognitive Laziness]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- Motivation is promoted when learners' curiosity is aroused by perceived gaps in
+  knowledge
+- Motivation is promoted when knowledge is perceived as meaningfully related to goals
+- Motivation is promoted when learners believe they can succeed in mastering tasks
+  (self-efficacy)
+- Volition research has not been fully integrated into instructional design practice,
+  despite being essential for sustaining persistence through learning
+- Instructional designers can predictably influence motivation and volition through
+  systematic design using the ARCS model (Attention, Relevance, Confidence, Satisfaction)
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: instructional design theory and practice
+study_type: theoretical
 ---
 
 # Motivation, Volition, and Performance

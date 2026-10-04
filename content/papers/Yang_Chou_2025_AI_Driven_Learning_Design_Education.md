@@ -1,10 +1,43 @@
 ---
-source_file: "AI-Driven Learning Approaches in the Era of Artificial Intelligence - Innovations in Design Education.pdf"
-type: "conference paper"
+source_file: AI-Driven Learning Approaches in the Era of Artificial Intelligence -
+  Innovations in Design Education.pdf
+type: conference paper
 authors:
-  - "Hsi-Hsun Yang"
-  - "Wei-Ting Chou"
+- Hsi-Hsun Yang
+- Wei-Ting Chou
 year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Generative UI Models]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- 'Five major themes characterize AI applications in design learning: art and design
+  education, visual communication, AI integration, design thinking, and generative
+  AI'
+- Balance is needed between AI assistance and human creativity to preserve essential
+  creative and critical thinking skills in design education
+- Design thinking remains essential despite AI automation capabilities in design processes
+- AI is transforming design education across multiple dimensions requiring curriculum
+  evolution to prepare students for AI-augmented design practice
+- Current integration efforts focus on AI as both creative tool and pedagogical medium
+  while supporting ideation and problem-solving
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: academic papers on AI in design education
+context: systematic review of design education literature across major academic repositories
+study_type: review
 ---
 
 # AI-Driven Learning Approaches in the Era of Artificial Intelligence: Innovations in Design Education

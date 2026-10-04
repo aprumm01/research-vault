@@ -1,9 +1,43 @@
 ---
-source_file: "Computing the Nordic Way The Swedish Labour.pdf"
+source_file: Computing the Nordic Way The Swedish Labour.pdf
 type: journal article
 authors:
-  - Lina Rahm
-year: 2021
+- Lina Rahm
+year: 2024
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Technological Anxiety]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Education was consistently positioned as the solution to technology 'problems' across
+  five decades, serving both emancipatory and control functions simultaneously
+- 'The Swedish labour movement exhibited a fundamental paradox: promoting automation
+  for economic progress while attempting to protect workers from its consequences
+  through education rather than resistance'
+- The 1980s marked a shift toward massive computer literacy campaigns with the goal
+  to train all citizens to prevent a 'lost generation', framing computers as essential
+  for national competitiveness
+- By the 1990s, the problematization shifted from education about computers to access
+  to computers, culminating in the 'PC reform' providing tax subsidies for home computers
+- Educational imaginaries revealed a persistent tension between adapting people to
+  machines versus adapting machines to people, with the former consistently dominating
+  policy discourse
+methodology: '[[methods/Content Analysis]]'
+sample_size: 79
+sample_type: policy texts, speeches, newspapers/magazines, and course materials from
+  Swedish Social Democratic Party, Trade Union Confederation, and Workers' Educational
+  Association
+context: Swedish labour movement organizations, 1950s-1990s
+study_type: theoretical
 ---
 
 # Computing the Nordic Way: The Swedish Labour Movement, Computers and Educational Imaginaries

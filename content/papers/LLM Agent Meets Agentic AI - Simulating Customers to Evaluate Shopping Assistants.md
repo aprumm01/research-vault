@@ -1,8 +1,41 @@
 ---
-source_file: "LLM Agent Meets Agentic AI Can LLM Agents Simulate Customers - Sun et al - 2025.pdf"
+source_file: LLM Agent Meets Agentic AI Can LLM Agents Simulate Customers - Sun et
+  al - 2025.pdf
 type: paper
-authors: "Lu Sun, Shihan Fu, Bingsheng Yao, Yuxuan Lu, Wenbo Li, Hansu Gu, Jiri Gesi, Jing Huang, Chen Luo, Dakuo Wang"
-year: 2025
+authors: Lu Sun, Shihan Fu, Bingsheng Yao, Yuxuan Lu, Wenbo Li, Hansu Gu, Jiri Gesi,
+  Jing Huang, Chen Luo, Dakuo Wang
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- LLM agents achieved F1 score of 0.9 on task completion alignment with humans and
+  matched humans on structural behavioral measures like turn counts, demonstrating
+  potential for scalable early-stage evaluation of agentic AI systems
+- Only approximately 2% of agent-human pairs selected the exact same product, revealing
+  that while agents can simulate interaction patterns, they diverge significantly
+  on specific outcome choices
+- Agents favor breadth-first exploration strategies (clicking more recommendations,
+  using longer queries) while humans employ more selective, goal-directed constraint
+  narrowing in shopping interactions
+- LLM agents systematically overestimated their own satisfaction compared to human
+  self-reports on identical products, indicating agents cannot fully capture affective
+  and subjective dimensions of user experience
+- Opening queries from agents showed meaningful alignment with humans' first queries
+  (similarity > 0.4), but behavioral traces diverged over multi-turn interactions,
+  suggesting agent-human alignment degrades with interaction depth
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 40
+sample_type: online participants from Prolific paired with persona-grounded LLM agents
+context: Amazon Rufus conversational shopping assistant with utilitarian and hedonic
+  product categories
+study_type: empirical
 ---
 
 # LLM Agent Meets Agentic AI: Can LLM Agents Simulate Customers to Evaluate Agentic-AI-based Shopping Assistants?

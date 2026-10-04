@@ -1,8 +1,40 @@
 ---
-source_file: "Educating for design character in higher education_ Challenges in.pdf"
+source_file: Educating for design character in higher education_ Challenges in.pdf
 type: paper
-authors: "Elizabeth Boling, Colin M. Gray, Kennon M. Smith"
+authors: Elizabeth Boling, Colin M. Gray, Kennon M. Smith
 year: 2020
+builds_on:
+- '[[concepts/Studio Pedagogy]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/Cognitive Tension]]'
+key_claims:
+- Design character development requires cultivating judgment, values, ethics, and
+  professional identity beyond technical skills and conceptual knowledge
+- Students often resist the ambiguity required for developing design judgment, wanting
+  clear procedures instead of navigating uncertain problem spaces
+- 'Four challenge contexts constrain character development in studio pedagogy: tensions
+  with students who resist discomfort, colleagues who prioritize measurable outcomes,
+  curriculum structures that limit mentoring relationships, and educators'' own uncertainty
+  about effectiveness'
+- Formal assessment requirements and time pressures in curriculum structures conflict
+  with the developmental goals of deep mentoring relationships necessary for character
+  formation
+- The emotional labor of attending to whole student development creates significant
+  burden on educators navigating tensions between personal values and institutional
+  demands
+methodology: '[[methods/Ethnography]]'
+sample_size: 3
+sample_type: design educators
+context: Indiana University design program studio courses
+study_type: empirical
 ---
 # Educating for Design Character in Higher Education: Challenges in Studio Pedagogy
 

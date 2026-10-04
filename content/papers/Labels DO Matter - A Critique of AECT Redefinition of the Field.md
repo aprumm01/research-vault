@@ -1,8 +1,34 @@
 ---
-source_file: "Labels DO Matter_lowenthal_and_wilson.pdf"
+source_file: Labels DO Matter_lowenthal_and_wilson.pdf
 type: paper
-authors: "Patrick Lowenthal, Brent G. Wilson"
+authors: Patrick Lowenthal, Brent G. Wilson
 year: 2010
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Frame Analysis]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Job postings show 'instructional technology' used 3x more often than 'educational
+  technology,' while 'instructional design' is the most common job title among 327
+  postings analyzed
+- Among 134 academic programs, 51 use 'Instructional Technology,' 34 use 'Educational
+  Technology,' and 13 use 'Instructional Design' in their names, demonstrating field
+  fragmentation
+- Professional field labels function as brands that shape external perception and
+  practitioner identity, making label changes consequential rather than merely semantic
+- AECT's 2008 reversion to 'educational technology' from 'instructional technology'
+  lacked sufficient rationale and transparent participatory process
+- Listserv discussions reveal practitioners associate 'educational technology' with
+  K-12 settings while 'instructional technology' connotes broader training and workplace
+  learning contexts
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 327
+sample_type: job postings from higher education and professional boards, plus 134
+  academic degree programs
+context: US higher education and professional job market, AECT professional organization
+study_type: empirical
 ---
 
 # Labels DO Matter! A Critique of AECT's Redefinition of the Field

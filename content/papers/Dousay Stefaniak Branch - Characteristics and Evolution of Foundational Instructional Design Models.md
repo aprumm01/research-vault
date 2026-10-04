@@ -1,8 +1,36 @@
 ---
-source_file: "Characteristics and Evolution of Foundational Instructional Design Models.pdf"
+source_file: Characteristics and Evolution of Foundational Instructional Design Models.pdf
 type: paper
-authors: "Tiffany A. Dousay, Jill E. Stefaniak, Robert Maribe Branch"
-year: 2022
+authors: Tiffany A. Dousay, Jill E. Stefaniak, Robert Maribe Branch
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Process-centric Education]]'
+- '[[frameworks/Design Thinking]]'
+key_claims:
+- 'Instructional design has seven defining characteristics: learner-centered, goal-oriented,
+  focused on meaningful performance, measurable outcomes, empirically-based, self-correcting,
+  and team-based'
+- ADDIE represents a foundational framework that has influenced most subsequent instructional
+  design models
+- Systems theory provides the conceptual foundation for understanding how instructional
+  components interact within interconnected environments where changes to one component
+  affect others
+- Visual representations of ID models serve both conceptual purposes (helping practitioners
+  understand relationships between components) and procedural purposes (guiding systematic
+  practice)
+- ID models have evolved from linear, behaviorist approaches toward more iterative,
+  cognitive, and constructivist orientations, though actual design practice rarely
+  follows strictly linear paths
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical and theoretical analysis of instructional design models
+study_type: theoretical
 ---
 
 # Characteristics and Evolution of Foundational Instructional Design Models

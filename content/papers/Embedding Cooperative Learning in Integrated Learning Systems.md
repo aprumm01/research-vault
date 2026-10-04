@@ -2,8 +2,36 @@
 source_file: Brush1998_Article_EmbeddingCooperativeLearningIn.pdf
 type: article
 authors:
-  - Thomas A. Brush
+- Thomas A. Brush
 year: 1998
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Peer Learning Erosion]]'
+critiques:
+- '[[concepts/Social Isolation (AI-induced)]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/Social Isolation (AI-induced)]]'
+key_claims:
+- Long-term individualized ILS use leads to anxiety, helplessness, isolation, and
+  negative attitudes toward learning despite academic gains
+- ILS help high and low achievers but often fail students in the middle, creating
+  a gap in educational support for average performers
+- The 'turnkey' approach of ILS reduces teacher involvement and eliminates crucial
+  student support systems, leading to student isolation
+- Embedding positive interdependence, individual accountability, and collaborative
+  skills into ILS courseware can improve affective outcomes and social growth while
+  maintaining academic achievement
+- Group-based ILS implementation with cooperative learning strategies improves motivation,
+  attendance, self-esteem, and social skills compared to isolated individual use
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: K-12 schools using Integrated Learning Systems in the 1990s
+study_type: review
 ---
 
 # Embedding Cooperative Learning into the Design of Integrated Learning Systems

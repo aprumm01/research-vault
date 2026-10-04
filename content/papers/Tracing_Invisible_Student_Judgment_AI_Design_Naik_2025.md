@@ -1,12 +1,45 @@
 ---
-source_file: "Naik _Obi_Tracing the invisible-Understanding students judgment in AI-supported design work (2025).pdf"
+source_file: Naik _Obi_Tracing the invisible-Understanding students judgment in AI-supported
+  design work (2025).pdf
 type: conference paper
 authors:
-  - Aadarsh Naik
-  - Obianuju Obi
-  - Colin M. Gray
-  - Austin Toombs
-year: 2025
+- Aadarsh Naik
+- Obianuju Obi
+- Colin M. Gray
+- Austin Toombs
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Design Thinking]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI-managerial Labor]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- 'Six distinct categories of design judgment emerged when students integrated AI
+  into workflows: reliability, appropriateness, output quality, calibration/refinement,
+  ethical/epistemic, and agency distribution judgments'
+- The apparent 'ease' of AI generation masks substantial invisible intellectual labor
+  required to effectively evaluate, refine, and integrate AI outputs into design work
+- Effective use of AI tools in design requires significant human judgment rather than
+  simply replacing human creativity, positioning judgment as critical mediator between
+  AI capabilities and design quality
+- Students developed sophisticated strategies for evaluating AI outputs including
+  assessing hallucinations, iteratively adjusting prompts, and maintaining creative
+  ownership through agency distribution decisions
+methodology: '[[methods/Qualitative Research]]'
+sample_size: 175
+sample_type: graduate design students organized in 35 teams
+context: Graduate design course with AI integration component
+study_type: empirical
 ---
 
 # Tracing the Invisible: Understanding Students' Judgment in AI-Supported Design Work

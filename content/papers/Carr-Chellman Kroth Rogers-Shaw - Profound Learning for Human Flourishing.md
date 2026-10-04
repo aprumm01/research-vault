@@ -1,8 +1,34 @@
 ---
-source_file: "Profound Learning for Human Flourishing.pdf"
+source_file: Profound Learning for Human Flourishing.pdf
 type: paper
-authors: "Davin J. Carr-Chellman, Michael Kroth, Carol Rogers-Shaw"
-year: 2022
+authors: Davin J. Carr-Chellman, Michael Kroth, Carol Rogers-Shaw
+year: null
+builds_on:
+- '[[frameworks/Universal Design for Learning]]'
+- '[[concepts/Deep Learning (Educational)]]'
+critiques: []
+tensions_with:
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- Learning design should never abstract instructional events from the ultimate purpose
+  of human flourishing
+- 'Profound Learning operationalizes through five processes: Identity Formation, Transformation,
+  Deformation, Reformation, and Intentionality'
+- There is infinite knowledge and learning is never-ending; instructional practices
+  must seek to open up and continuously reveal rather than close down
+- 'Instructional designers should design for three levels of impact: organizational
+  effectiveness, individual skill development, and personal change/flourishing'
+- Traditional instructional design has become overly technical and mechanistic, treating
+  learners like machines to be programmed rather than humans seeking meaning and purpose
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Instructional design and educational philosophy
+study_type: theoretical
 ---
 
 # Profound Learning for Human Flourishing

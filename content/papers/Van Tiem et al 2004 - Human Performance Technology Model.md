@@ -1,8 +1,36 @@
 ---
-source_file: "Van_Tiem_et_al._2004--performance tech defined.pdf"
+source_file: Van_Tiem_et_al._2004--performance tech defined.pdf
 type: paper
-authors: "Darlene Van Tiem, James L. Moseley, Joan C. Dessinger"
-year: 2004
+authors: Darlene Van Tiem, James L. Moseley, Joan C. Dessinger
+year: null
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Wicked Problems]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Problem Framing]]'
+- '[[frameworks/Design Thinking]]'
+key_claims:
+- Environmental factors (information, resources, incentives) are typically more powerful
+  determinants of performance than individual factors (knowledge, skills, motivation)
+- Worthy performance is defined as valued accomplishments that justify their costs,
+  calculated as the ratio of accomplishment to behavior (P = A/B)
+- Training alone is rarely sufficient to address performance problems; interventions
+  must address root causes identified through systematic analysis
+- HPT requires analysis at multiple organizational levels (organizational, process,
+  job/performer) to understand and improve performance effectively
+- Most performance problems are caused by environmental factors rather than individual
+  deficiencies, requiring systemic rather than individual-level interventions
+methodology: null
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Fundamentals of Performance Technology: The Human Performance Technology Model

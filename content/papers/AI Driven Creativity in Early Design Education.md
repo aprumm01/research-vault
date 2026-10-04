@@ -1,8 +1,43 @@
 ---
-source_file: "AI Driven Creativity in Early Design Education - A pedagogical approach in the age of Industry 5.0.pdf"
+source_file: AI Driven Creativity in Early Design Education - A pedagogical approach
+  in the age of Industry 5.0.pdf
 type: paper
-authors: "Kavakoglu, Merve; Cagdas, Gulen; Gorgul, Emine"
-year: 2022
+authors: Kavakoglu, Merve; Cagdas, Gulen; Gorgul, Emine
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Design Ideation]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Divergent Thinking]]'
+key_claims:
+- AI-generated variations using StyleGAN2-ADA help students see beyond literal copies
+  of precedents toward novel interpretations in architectural design education
+- GANs can be made accessible to design students without extensive programming knowledge,
+  democratizing advanced computational design tools
+- Students retain creative control and human agency over final design decisions while
+  benefiting from AI-generated inspiration as a cognitive partner
+- The five-stage learning process (precedent analysis, feature extraction, facade
+  composition, AI training, and design integration) successfully integrates AI as
+  a generative tool that expands rather than constrains creative possibilities
+- Industry 5.0 pedagogical approaches emphasizing human-AI collaboration rather than
+  automation prepare architecture students for future workplaces where human-machine
+  partnership is standard
+methodology: '[[methods/Mixed Methods Research]]'
+sample_size: 120
+sample_type: undergraduate architecture students
+context: Istanbul Technical University architectural design education course focusing
+  on Ottoman-era facades
+study_type: empirical
 ---
 # AI Driven Creativity in Early Design Education: A Pedagogical Approach in the Age of Industry 5.0
 

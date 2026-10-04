@@ -1,15 +1,46 @@
 ---
-source_file: "Making the Right Thing - Bridging HCI and Responsible AI in Early-Stage AI Concept Selection.pdf"
-type: "conference paper"
+source_file: Making the Right Thing - Bridging HCI and Responsible AI in Early-Stage
+  AI Concept Selection.pdf
+type: conference paper
 authors:
-  - "Ji-Youn Jung"
-  - "Devansh Saxena"
-  - "Minjung Park"
-  - "Jini Kim"
-  - "Jodi Forlizzi"
-  - "Ken Holstein"
-  - "John Zimmerman"
+- Ji-Youn Jung
+- Devansh Saxena
+- Minjung Park
+- Jini Kim
+- Jodi Forlizzi
+- Ken Holstein
+- John Zimmerman
 year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[methods/Participatory Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Current RAI practices engage too late in the design process, missing the critical
+  intervention point of early-stage concept selection where fundamental ethical decisions
+  are made
+- Early concept selection is a critical but neglected intervention point where structured
+  tools can help teams surface ethical considerations before significant resources
+  are committed
+- Both individual and collective assessment mechanisms are necessary for effective
+  ethical evaluation of AI concepts, as individual ratings alone do not capture team
+  dynamics and shared understanding
+- Bridging HCI and RAI requires practical, usable methods that integrate seamlessly
+  into existing design workflows rather than adding separate ethical review stages
+- Structured tools including Concept Cards, Individual Rating Sheets, Team Response
+  Overviews, and Risk-Benefit Matrices enable systematic consideration of ethical
+  implications during concept selection
+methodology: '[[methods/Participatory Design]]'
+sample_size: null
+sample_type: industry AI/UX design practitioners
+context: industry AI product development teams
+study_type: design
 ---
 
 # Making the Right Thing: Bridging HCI and Responsible AI in Early-Stage AI Concept Selection

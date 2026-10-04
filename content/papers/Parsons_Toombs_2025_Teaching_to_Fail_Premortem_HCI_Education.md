@@ -1,10 +1,39 @@
 ---
-source_file: "Teaching to Fail_Before It Happens_Premortem as a Pedagogical Strategy in HCI Education.pdf"
-type: "conference paper"
+source_file: Teaching to Fail_Before It Happens_Premortem as a Pedagogical Strategy
+  in HCI Education.pdf
+type: conference paper
 authors:
-  - "Paul C. Parsons"
-  - "Austin L. Toombs"
+- Paul C. Parsons
+- Austin L. Toombs
 year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Problem Framing]]'
+critiques: []
+tensions_with:
+- '[[concepts/Complacency Risk]]'
+supports:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- Students often focus on success scenarios and neglect potential failures in design
+  processes
+- Premortem technique makes failure consideration systematic and structured by having
+  students imagine a project has already failed and work backward to identify causes
+- Imagining failure is psychologically easier when framed as already happened rather
+  than as a possibility
+- The premortem method develops critical evaluation skills that are transferable beyond
+  specific projects
+- Premortems should be conducted after concept development but before detailed design
+  to maximize effectiveness
+methodology: '[[methods/Design-Based Research]]'
+sample_size: null
+sample_type: HCI students at Purdue and Indiana University
+context: HCI courses at two US universities
+study_type: design
 ---
 
 # Teaching to Fail: Premortem as a Pedagogical Strategy in HCI Education

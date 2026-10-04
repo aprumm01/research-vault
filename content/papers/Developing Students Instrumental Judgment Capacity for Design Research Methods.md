@@ -1,56 +1,79 @@
 ---
-source_file: "Developing Students Instrumental Judgment_MurdochKitt_Gray_Parsons_Toombs_Louw_VanGent.pdf"
+source_file: Developing Students Instrumental Judgment_MurdochKitt_Gray_Parsons_Toombs_Louw_VanGent.pdf
 type: paper
-authors: "Kelly Murdoch-Kitt, Colin M. Gray, Paul Parsons, Austin L. Toombs, Marti Louw, Elona Van Gent"
+authors: Kelly Murdoch-Kitt, Colin M. Gray, Paul Parsons, Austin L. Toombs, Marti
+  Louw, Elona Van Gent
 year: 2018
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Abductive Reasoning]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Process-centric Education]]'
+key_claims:
+- Instrumental judgment—the capacity to choose appropriate approaches to design problems
+  or create new ones when needed—requires going beyond teaching methods as prescriptive
+  procedures to cultivate understanding of method interconnections and contextual
+  appropriateness
+- UX practitioners view methods as 'more of a mindset than a method' rather than as
+  fixed procedures, requiring design education to develop students' character, identity,
+  and sense of competence rather than just procedural knowledge
+- An integrated studio model with spiraling curriculum across five semesters enables
+  students to continuously deepen their instrumental judgment through repeated exposure
+  and application in increasingly complex contexts combining learning studios (structured
+  skill development) and experience studios (authentic industry projects)
+- Students need substantial space for experimentation and failure to develop instrumental
+  judgment, and program-level continuity between courses is essential particularly
+  when instructors hold different views on methods
+- The unique rigor of design lies in the designer's character, identity, and sense
+  of competence rather than in borrowing credibility from sciences, suggesting educators
+  should articulate designers' unique judgment capacities
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: design educators and undergraduate UX design students
+context: Purdue University undergraduate UX Design program and DECIPHER 2018 conference
+  workshop
+study_type: theoretical
 ---
 
 # Developing Students' Instrumental Judgment Capacity for Design Research Methods
 
 ## Summary
+This conference paper from DECIPHER 2018 addresses a critical challenge in design education: how to develop students' instrumental judgment—the capacity to choose appropriate research approaches, decide among established methods, or create new ones for specific design contexts. The authors argue that owning a design methods book does not teach students judgment; rather, educators must create opportunities for students to understand why certain methods are useful in specific contexts, what connects various methods, and where new methods or combinations might be needed.
 
-This conference paper from DECIPHER 2018 (Design Educators Research Conference) addresses the challenge of teaching design research methods in ways that develop students' instrumental judgment—the capacity to choose appropriate approaches to design problems, decide from established options, or create new approaches when needed. The authors argue that design educators must go beyond teaching methods as prescriptive procedures and instead cultivate students' ability to develop a mindset toward methods that allows them to understand connections between methods, recognize contextual appropriateness, and know when to adapt or invent approaches.
+The paper presents a case study of Purdue University's undergraduate UX Design program, which implements an "integrated studio" approach to systematically develop instrumental judgment. In this model, students learn across multiple strands of content in each course session, practicing design activities while blending research, history, ethics, and psychology in a reflexive, "spiraling" way. Students progress through five semesters of Learning Studios (covering fundamentals, screen design, cross-channel, strategy, and specialization) while simultaneously working in Experience Studios on industry projects with cross-cohort teams.
 
-The paper presents a case study from Purdue University's undergraduate UX Design program, which uses an "integrated studio" model where students learn research and analysis methods across five cascading semesters, practicing skills both in learning studios (structured course environments) and experience studios (industry-sponsored projects). This spiraling approach enables students to continuously deepen their instrumental judgment through repeated exposure and application in increasingly complex contexts.
-
-The paper also reports outcomes from a workshop session where design educators reflected on four dimensions of instrumental judgment: mindset/design character (how you approach work), knowledge set/design thinking (what you know), skill set/design praxis (what you can do), and tool set/design action (what you can facilitate).
+The authors also present outcomes from a workshop session where participants explored what contributes to cultivating instrumental judgment. Using a framework adapted from Nelson and Stolterman (2012), participants reflected on four questions: How do you approach your work? (mindset/design character), What do you know? (knowledge set/design thinking), What are you able to do? (skill set/design praxis), and What are you able to facilitate? (tool set/design action).
 
 ## Key Concepts
-
-- **Instrumental Judgment**: The capacity to choose appropriate approaches to design problems from established options or create new ones when needed; a form of professional competence that enables designers to move beyond rote method application
-- **Integrated Studio Model**: An educational approach where students learn across multiple strands of content (design activities, critique, research, history, ethics, psychology) simultaneously within each course session, rather than in isolated courses
-- **Spiraling Curriculum**: Progressive deepening of skills across semesters, where methods are introduced, practiced, and refined at increasing levels of sophistication
-- **Learning Studios vs. Experience Studios**: Dual-track system where learning studios provide structured skill development while experience studios offer authentic industry project contexts
+- **Instrumental Judgment**: The capacity to choose appropriate design research approaches, decide among established options, or create new approaches for specific contexts; includes knowing when something isn't working and when a different approach would serve better
+- **Integrated Studio**: A pedagogical model where students learn across multiple content strands in each session, blending design activities with research, history, ethics, and psychology in a reflexive manner
+- **Spiraling Curriculum**: A structure where students progressively deepen skills across multiple semesters, revisiting and building upon research and analysis methods over time
+- **Mindset/Design Character**: How designers approach their work—framing context, engaging processes, understanding values, and relating to stakeholders
+- **Research/Practice Divide**: The tension between academic conceptions of rigor and design practitioners' needs for applicable methods
 
 ## Theoretical Framework
-
-The paper draws on Nelson and Stolterman's (2012) "The Design Way" framework, which distinguishes four quadrants of design competence along personal-organizational and abstract-concrete dimensions:
-1. **Mindset/Design Character** (Personal-Abstract): How you approach your work
-2. **Knowledge Set/Design Thinking** (Organizational-Abstract): What you know
-3. **Skill Set/Design Praxis** (Personal-Concrete): What you are able to do
-4. **Tool Set/Design Action** (Organizational-Concrete): What you are able to facilitate
-
-It also builds on Gray's (2016) research showing that UX practitioners view methods as "more of a mindset than a method."
+The paper draws on Nelson and Stolterman's (2012) "The Design Way" framework, which distinguishes between mindset/design character, knowledge set/design thinking, skill set/design praxis, and tool set/design action. The authors also reference Gray's (2016) work on developing a mindset toward methods and Vorvoreanu et al.'s (2017) model for integrated studio pedagogy. The theoretical orientation emphasizes that methods should not be taught prescriptively but rather through creating space for experimentation, failure, and reflection.
 
 ## Methods
-
-The paper combines:
-1. **Curricular case study**: Description of the integrated studio model at Purdue's UX Design program, including a table mapping research methods across five studio courses
-2. **Workshop activity**: Design educators participated in a session where they reflected on what contributes to instrumental judgment development, using worksheets structured around Nelson and Stolterman's four quadrants
-3. **Synthesis of participant responses**: Cross-sectional analysis of categorized responses to four reflection questions
+- **Activity Session**: Workshop at DECIPHER 2018 conference where participants collected and shared 3-5 examples of materials related to teaching design research
+- **Participant Reflection**: Pairs worked through worksheets addressing four questions about approaching work, knowledge, abilities, and facilitation capacities
+- **Data Synthesis**: Facilitators categorized participant responses into themed groups across the four quadrants
+- **Case Presentation**: Description of Purdue's integrated studio approach including curriculum structure and sample methods by course level
 
 ## Main Arguments
-
-- Owning a design methods book does not teach students judgment; educators must create opportunities for students to understand method interconnections and contextual appropriateness
-- Students need substantial space for experimentation and failure to develop instrumental judgment
-- Methods are often weakly taught as prescriptive procedures without commitment to the "unique rigor of design" that lies in the designer's character, identity, and sense of competence
-- Designers sometimes fall back on adding "sciences" to their work to seem credible, when the discipline would be better served by articulating designers' unique judgment capacities
-- Program-level continuity and interconnections between courses are essential for developing instrumental judgment, particularly when instructors hold different views on methods
+- Instrumental judgment is a critical duty of design educators that goes beyond teaching specific methods
+- Simply selecting methods from a book and asking students to apply them is insufficient for developing judgment
+- Educators must create opportunities for students to step back and see connections between methods, contexts, and purposes
+- Students need substantial space for experimentation and failure to develop a mindset toward methods
+- The integrated studio model provides one approach to systematically developing instrumental judgment across a curriculum
+- Designers' unique skill sets involve more than methods—they include descriptive, exploratory, and generative approaches valuing lived experience
+- Design education risks students falling back on adding "sciences" to their work to seem credible when they should instead articulate design's unique contributions
 
 ## Limitations & Critiques
-
-- The paper is primarily descriptive of one program's approach rather than providing empirical evidence of instrumental judgment development
-- Workshop outcomes are preliminary syntheses rather than systematic research findings
-- The concept of instrumental judgment, while compelling, lacks clear assessment criteria or developmental milestones
-- Limited attention to how to address students who resist moving beyond prescriptive method application
-- Does not address tension between industry expectations for specific method competencies versus the broader judgment the authors advocate
+The paper acknowledges that establishing a baseline understanding of instrumental judgment among workshop participants took more time than anticipated. The case study presents one institutional approach (Purdue's UX Design program) and may not generalize to other contexts or educational levels (K-12, graduate). The workshop outcomes represent initial synthesis rather than systematic research findings. The paper focuses on educator perspectives and curriculum structure rather than empirical assessment of student learning outcomes. The tension between acknowledging diverse worldviews in design education and maintaining program coherence remains unresolved.

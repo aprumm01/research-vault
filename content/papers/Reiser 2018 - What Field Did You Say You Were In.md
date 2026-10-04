@@ -1,8 +1,35 @@
 ---
-source_file: "Reiser (2018)--Chapter 1 What field.pdf"
+source_file: Reiser (2018)--Chapter 1 What field.pdf
 type: paper
-authors: "Robert A. Reiser"
-year: 2018
+authors: Robert A. Reiser
+year: 2012
+builds_on:
+- '[[frameworks/Systems Theory]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- The field's definition evolved from media-centric (1963 focus on films, TV, computers)
+  to process-centric views emphasizing systematic design procedures
+- 'The 1970 Commission on Instructional Technology produced dual definitions: one
+  media-focused (''the media born of the communications revolution'') and one process-focused
+  (''a systematic way of designing, carrying out, and evaluating the total process
+  of learning and teaching'')'
+- The 2008 AECT definition represents a shift from controlling instruction to facilitating
+  learning and from focusing solely on instruction to addressing broader performance
+  improvement
+- The term 'instructional design and technology' best captures the field by encompassing
+  both systematic design processes and technological resources
+- Human Performance Technology (HPT) represents a growing influence on the field by
+  expanding focus beyond instructional interventions to include non-instructional
+  workplace performance solutions
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of professional definitions in instructional design and
+  technology field
+study_type: theoretical
 ---
 
 # What Field Did You Say You Were In? Defining and Naming Our Field

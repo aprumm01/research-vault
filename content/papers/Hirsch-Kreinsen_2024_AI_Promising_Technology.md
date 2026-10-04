@@ -1,9 +1,41 @@
 ---
-source_file: "Artificial intelligence a promising technology.pdf"
-type: "journal article"
+source_file: Artificial intelligence a promising technology.pdf
+type: journal article
 authors:
-  - "Hartmut Hirsch-Kreinsen"
+- Hartmut Hirsch-Kreinsen
 year: 2024
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/AI Winter]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- AI has persistently operated as a 'promising technology' sustained by ambitious
+  promises rather than immediate practical results, with this pattern remaining consistent
+  since the 1970s
+- The gap between AI promises and delivered reality has remained remarkably consistent
+  over multiple decades and hype cycles
+- Technological promises serve important social functions in mobilizing resources
+  and attention, actively shaping the trajectory of AI development independent of
+  technical capabilities
+- AI development cycles follow a pattern of expectation, disappointment (AI Winter),
+  and renewed optimism driven by sociotechnical imaginaries rather than technical
+  breakthroughs alone
+- Critical assessment of AI requires understanding its promissory character and how
+  expectations are socially and politically embedded rather than purely technical
+  evaluations
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: Historical documents, policy papers, funding proposals, and media coverage
+  of AI in Germany
+context: German AI development and policy from 1970s to present
+study_type: theoretical
 ---
 
 # Artificial Intelligence: A Promising Technology

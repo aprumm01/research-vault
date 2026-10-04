@@ -1,8 +1,33 @@
 ---
-source_file: "Computer-Mediated Discourse Analysis-An Approach to Researching Online Behavior.pdf"
+source_file: Computer-Mediated Discourse Analysis-An Approach to Researching Online
+  Behavior.pdf
 type: paper
-authors: "Susan C. Herring"
+authors: Susan C. Herring
 year: 2004
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- CMC should be studied primarily through analysis of the discourse it produces, not
+  solely through surveys or experimental manipulations, as language-focused analysis
+  can reveal social phenomena that users themselves may not be consciously aware of
+- The four domains of language (structure, meaning, interaction, and social behavior)
+  provide a systematic framework for addressing different types of research questions
+  about online behavior
+- Abstract social concepts like 'virtual community' can be empirically investigated
+  by operationalizing their defining features as observable discourse behaviors through
+  CMDA
+- CMDA can be combined with other methods (surveys, experiments, ethnography) for
+  richer understanding of computer-mediated communication
+- Observable linguistic behavior in computer-mediated environments can be used to
+  make inferences about communication processes, social identity, and group dynamics
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: null
+context: Computer-mediated communication environments
+study_type: theoretical
 ---
 
 # Computer-Mediated Discourse Analysis: An Approach to Researching Online Behavior

@@ -1,8 +1,47 @@
 ---
-source_file: "AI Rivalry as a Craft.pdf"
+source_file: AI Rivalry as a Craft.pdf
 type: paper
-authors: "Varanasi, Roli; Vashistha, Aditya; Agarwal, Neha; Gupta, Aakriti"
-year: 2025
+authors: Varanasi, Roli; Vashistha, Aditya; Agarwal, Neha; Gupta, Aakriti
+year: 2024
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/AI-managerial Labor]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- AI rivalry emerges as novel phenomenon where writers proactively compete against
+  GAI capabilities to demonstrate human superiority, mirroring patterns historically
+  observed only in human professional competition
+- Human-driven (resisting) strategies enable dual crafting of identity and practices
+  by emphasizing visible human labor and carving exclusive human-driven niches, while
+  GAI-driven (embracing) strategies craft only practices without identity transformation
+- GAI adoption introduces significant invisible AI-managerial labor including prompt
+  engineering, output verification, error troubleshooting, and workflow reconfiguration
+  that productivity metrics fail to capture, creating hidden costs offsetting efficiency
+  gains
+- Productivity and efficiency metrics are insufficient for holistic assessment as
+  they privilege embracing strategies' quantifiable outputs over resisting strategies'
+  qualitative contributions to professional standards, credibility preservation, and
+  human skill development
+- Platform-mediated creative labor dynamics are amplified by GAI as algorithmic oversight
+  makes worker identities increasingly precarious and requires new forms of articulation
+  work
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 25
+sample_type: U.S.-based writing professionals with average 17.8 years experience and
+  15.84 months GAI exposure
+context: Professional writing across journalism, legal, entertainment, business, tech,
+  and fiction domains
+study_type: empirical
 ---
 # AI Rivalry as a Craft: Writing Professionals' Job Crafting in Response to Generative AI
 

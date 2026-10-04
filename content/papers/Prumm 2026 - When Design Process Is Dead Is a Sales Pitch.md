@@ -1,8 +1,41 @@
 ---
-source_file: "when-design-is-dead-is-a-sales-pitch.pdf"
+source_file: when-design-is-dead-is-a-sales-pitch.pdf
 type: paper
-authors: "Adam Prumm"
-year: 2026
+authors: Adam Prumm
+year: 2024
+builds_on:
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/Democratization of Design]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/AI-managerial Labor]]'
+key_claims:
+- Definitional capture redefines broad, multidisciplinary design practice as narrow
+  execution-focused work through authoritative framing, erasing user research, ethics,
+  accessibility, and advocacy by omission rather than explicit argument
+- When incomplete framing of design-as-execution reaches executives and product managers
+  rather than designers, it shapes purchasing and hiring decisions that disproportionately
+  harm marginalized users who depend on research and advocacy functions
+- Structural conflict of interest occurs when speakers' professional incentives align
+  with employer business interests in ways that shape public messaging, even without
+  deliberate manipulation or ulterior motives
+- AI cannot replicate the human judgment, empathy, and ethical reasoning central to
+  UX research, making the reduction of design to AI-executable tasks dangerous for
+  users
+- 'Audience mismatch creates compounding risk: professional advice delivered to designers
+  is heard by executives as permission to cut research teams and capacity'
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: null
+context: Tech industry podcast episode featuring Head of Design at major AI company
+study_type: theoretical
 ---
 
 # When "The Design Process Is Dead" Is a Sales Pitch

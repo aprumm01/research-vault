@@ -1,9 +1,43 @@
 ---
-source_file: "An AI-Driven Universal Job Allocation Model for Inclusive Workforce Integration.pdf"
+source_file: An AI-Driven Universal Job Allocation Model for Inclusive Workforce Integration.pdf
 type: journal article
 authors:
-  - Chakrabarti (primary author)
-year: 2025
+- Chakrabarti (primary author)
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Explainable AI]]'
+key_claims:
+- AI employment systems cannot solve systemic exclusion without institutional innovation,
+  requiring hybrid physical-digital infrastructure to bridge the digital divide
+- Mobile Employment Buses combined with AI-powered job matching can achieve 20% improvement
+  in job placement rates and 30% increase in job-seeking efficiency for marginalized
+  populations
+- Inclusive AI employment systems require fairness-aware algorithms, diverse training
+  datasets, and explainable recommendation systems to mitigate algorithmic bias in
+  hiring
+- Four-component model integrating mobile hubs, AI allocation systems, population-tailored
+  pathways, and government-AI collaboration can overcome dual labor market segmentation
+  for ex-offenders, disabled workers, and rural populations
+- Hybrid open-source LLMs with proprietary algorithms can extract skills from non-traditional
+  indicators while maintaining transparency through user feedback loops
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Conceptual framework for AI-driven employment system targeting marginalized
+  populations across urban and rural areas
+study_type: theoretical
 ---
 
 # Employment Shopping: An AI-Driven Universal Job Allocation Model for Inclusive Workforce Integration

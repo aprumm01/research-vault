@@ -1,8 +1,39 @@
 ---
-source_file: "Case and Piñeiro 2009 - Stop whining, start doing! Identity conflict in project managed software environments.pdf"
+source_file: Case and Piñeiro 2009 - Stop whining, start doing! Identity conflict
+  in project managed software environments.pdf
 type: paper
-authors: "Peter Case, Erik Piñeiro"
-year: 2009
+authors: Peter Case, Erik Piñeiro
+year: null
+builds_on:
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Value System Rift]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Programmer-manager conflict in IT settings reflects a unique power dynamic where
+  workers often exceed managers in educational credentials and technical expertise,
+  inverting traditional organizational hierarchies
+- Both programmers and project managers construct oppositional identities through
+  parallel discourses that 'talk past' each other rather than engaging in direct debate
+- Programmers position themselves as technically knowledgeable artisans whose aesthetic
+  concerns about code quality are compromised by ignorant managers who prioritize
+  performativity over craftsmanship
+- Project managers frame programmer concerns as 'whining' that impedes practical delivery,
+  positioning themselves as action-oriented professionals who understand business
+  imperatives that programmers ignore
+- The conflict reflects incompatible aesthetics between programmers' contemplative
+  ideals of elegant code and managers' performative imperatives of efficient delivery,
+  despite both parties sharing organizational goals
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: several hundred participants in Slashdot online discussion forum threads
+context: Slashdot.org technology-focused bulletin board forum discussions on code
+  aesthetics and project management
+study_type: empirical
 ---
 
 # Stop Whining, Start Doing! Identity Conflict in Project-Managed Software Production

@@ -1,13 +1,40 @@
 ---
-source_file: "European Management Review - 2021 - Aranda - From Big Data to Rich Theory  Integrating Critical Discourse Analysis with.pdf"
+source_file: European Management Review - 2021 - Aranda - From Big Data to Rich Theory  Integrating
+  Critical Discourse Analysis with.pdf
 type: journal article
 authors:
-  - Ana M. Aranda
-  - Katharina Sele
-  - Emmanuelle Etchanchu
-  - Joeri Guyt
-  - Eero Vaara
-year: 2021
+- Ana M. Aranda
+- Katharina Sele
+- Emmanuelle Etchanchu
+- Joeri Guyt
+- Eero Vaara
+year: 2024
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/Abductive Reasoning]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Abductive Reasoning]]'
+- '[[methods/Mixed Methods]]'
+key_claims:
+- CDA and STM address each other's limitations through methodological complementarity
+  - CDA provides theoretical depth while STM enables systematic breadth across large
+  datasets
+- Researchers can analyze 'big data' (8,000+ documents) while maintaining interpretive
+  rigor through strategic sampling guided by computational topic modeling
+- The 8-step integrated framework supports abductive reasoning through iterative movement
+  between computational pattern detection and close qualitative reading, enabling
+  theory development
+- STM's ability to model topic prevalence over time reveals temporal discursive shifts
+  (1995-2016) that are invisible to traditional purely qualitative analysis
+- Unlike purely computational approaches, the integrated framework maintains CDA's
+  critical attention to power, ideology, and social consequences while achieving scalability
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 8000
+sample_type: US tobacco industry documents (press releases, reports, legal documents)
+context: US tobacco industry discourse analysis, 1995-2016
+study_type: empirical
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling

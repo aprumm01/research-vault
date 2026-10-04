@@ -1,8 +1,42 @@
 ---
-source_file: "Integrating artificial intelligence in literacy lessons for elementary classrooms_a co-design approach.pdf"
+source_file: Integrating artificial intelligence in literacy lessons for elementary
+  classrooms_a co-design approach.pdf
 type: paper
-authors: "Panagiotis Kosmas, Efi A. Nisiforou, Evgenia Kounnapi, Spyros Sophocleous, Giannis Theophanous"
-year: 2025
+authors: Panagiotis Kosmas, Efi A. Nisiforou, Evgenia Kounnapi, Spyros Sophocleous,
+  Giannis Theophanous
+year: 2024
+builds_on:
+- '[[methods/Participatory Design]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- 'Co-design workshops with 25 teachers revealed four key benefits: interaction with
+  colleagues and experts, sense of ownership over materials, professional development
+  opportunities, and high-quality collaborative outcomes'
+- 71% of elementary students (42% very enjoyable, 29% somewhat enjoyable) reported
+  positive engagement with AI-integrated literacy lessons, with image generation activities
+  being most popular (31 of 62 students selected this as favorite)
+- 45% of students found Greek language class 'very interesting' when AI tools were
+  integrated into instruction, suggesting enhanced engagement with traditional literacy
+  content
+- Teacher involvement in co-designing AI-integrated materials is essential for creating
+  practical, classroom-ready resources that are both innovative and tailored to specific
+  classroom needs
+- Early introduction to AI tools (ChatGPT, Gemini, Copilot, Ideogram, Muse.ai, VideoGen,
+  Fliki, Invideo AI) in elementary grades can help students develop AI literacy skills
+  alongside traditional literacy competencies
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 87
+sample_type: 25 in-service elementary teachers and 62 elementary students (grades
+  1-6)
+context: Elementary literacy education in Cyprus, Greek language curriculum
+study_type: empirical
 ---
 
 # Integrating Artificial Intelligence in Literacy Lessons for Elementary Classrooms: A Co-Design Approach

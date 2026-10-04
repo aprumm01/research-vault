@@ -1,8 +1,40 @@
 ---
-source_file: "Generative AI Personas Considered Harmful - Amin et al - 2025.pdf"
+source_file: Generative AI Personas Considered Harmful - Amin et al - 2025.pdf
 type: paper
-authors: "Danial Amin, Joni Salminen, Bernard J. Jansen, Joongi Shin, Dae Hyun Kim"
-year: 2025
+authors: Danial Amin, Joni Salminen, Bernard J. Jansen, Joongi Shin, Dae Hyun Kim
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Synthetic Users]]'
+- '[[methods/Persona Development]]'
+critiques: []
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- 12 of 20 GenAIP challenges were rated by experts (n=17) as more problematic for
+  generative AI personas than conventional data-driven personas
+- GenAIPs transform rather than eliminate traditional persona challenges, introducing
+  new risks around transparency (hallucinations appearing credible), fairness (over-sanitization
+  producing unrealistically positive portrayals), and reliability (superficiality
+  and inconsistency)
+- GenAIPs exhibit systematic over-sanitization, generating unrealistically positive
+  portrayals that obscure important user constraints and edge cases
+- 'Lack of validation remains the primary challenge for GenAIPs: unlike data-driven
+  personas, their outputs cannot be verified against actual user data, making hallucinations
+  indistinguishable from accurate representations'
+- Over-reliance on GenAI for persona creation risks deskilling designers and reducing
+  manual resource intensiveness persists despite automation promises
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 17
+sample_type: persona researchers and practitioners
+context: Literature review combined with expert survey on GenAIP implementations in
+  HCI design
+study_type: review
 ---
 # Generative AI Personas Considered Harmful? Putting Forth Twenty Challenges of Algorithmic User Representation in Human-Computer Interaction
 

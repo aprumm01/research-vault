@@ -1,8 +1,37 @@
 ---
-source_file: "Stolovitch_Beresford_2012--evoluation of HPT (1).pdf"
+source_file: Stolovitch_Beresford_2012--evoluation of HPT (1).pdf
 type: paper
-authors: "Harold D. Stolovitch, Bonnie Beresford"
-year: 2012
+authors: Harold D. Stolovitch, Bonnie Beresford
+year: 2000
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Problem Framing]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Performance is defined as the ratio of valued accomplishment to costly behavior
+  (P = A/B), where worthy performance has accomplishment value exceeding behavior
+  cost
+- Simple solutions for closing performance gaps are almost always ineffective; systemic
+  analysis is required
+- Human capital yields higher rates of return than physical capital, justifying investment
+  in performance improvement
+- 'The Behavior Engineering Model examines six cells of performance factors: three
+  environmental (information, resources, incentives) and three individual (knowledge,
+  capacity, motives)'
+- HPT has not yet generated a firm theoretical foundation of its own, relying instead
+  on principles borrowed from cybernetics, behavioral psychology, systems theory,
+  management science, cognitive sciences, and neuroscience
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical review of Human Performance Improvement field development from
+  1960s-2000s
+study_type: review
 ---
 
 # The Development and Evolution of Human Performance Improvement

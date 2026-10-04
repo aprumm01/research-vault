@@ -1,11 +1,37 @@
 ---
-source_file: "fitzpatrick_program_evaluation_ch1.pdf"
+source_file: fitzpatrick_program_evaluation_ch1.pdf
 type: book chapter
 authors:
-  - Jody L. Fitzpatrick
-  - James R. Sanders
-  - Blaine R. Worthen
+- Jody L. Fitzpatrick
+- James R. Sanders
+- Blaine R. Worthen
 year: 2004
+builds_on: []
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Evaluative Judgment]]'
+key_claims:
+- 'Program evaluation is fundamentally distinct from research: evaluation determines
+  worth or merit using defensible criteria to serve stakeholder decisions, while research
+  seeks generalizable knowledge and theory development'
+- Formative evaluation ('when the cook tastes the soup') focuses on program improvement
+  during development, while summative evaluation ('when the guest tastes the soup')
+  focuses on judging overall worth for continuation or adoption decisions
+- 'Quality criteria for evaluation differ from research: evaluation prioritizes utility,
+  accuracy, feasibility, and propriety over traditional research criteria like internal
+  validity and generalizability'
+- Internal evaluators provide greater program knowledge and access but risk bias,
+  while external evaluators offer objectivity and credibility but less contextual
+  understanding—choice depends on evaluation purpose and stakeholder needs
+- Evaluation serves multiple distinct purposes including merit/worth determination,
+  program improvement, oversight and compliance, and knowledge development, requiring
+  stakeholder-centered approaches rather than discipline-driven inquiry
+methodology: null
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Program Evaluation: Alternative Approaches and Practical Guidelines (Chapter 1)

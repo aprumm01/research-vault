@@ -2,9 +2,46 @@
 source_file: Integrating AI into instructional design.pdf
 type: case_study
 authors:
-  - Betul Yildizhan Bora
-  - Cansu Sahin Kolemen
+- Betul Yildizhan Bora
+- Cansu Sahin Kolemen
 year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- AI integration requires sound pedagogical framework rather than unstructured implementation,
+  with TPACK Framework and MRK Instructional Design Model providing necessary structure
+  for effective outcomes
+- AI enables individualized learning facilitation through personalized content adaptation,
+  real-time feedback on composition and technical parameters, and adaptive learning
+  pathways tailored to individual pacing
+- Overreliance on AI creates learner passivity risk that may diminish student agency,
+  reducing active participation and independent analysis in creative practice
+- AI tools mitigate socioeconomic access barriers by providing virtual alternatives
+  to expensive specialized photography equipment, democratizing learning opportunities
+- 92% of students had minimal prior AI experience, yet AI-powered immediate feedback
+  mechanisms helped students develop critical evaluation abilities and professional
+  terminology rather than accepting outputs uncritically
+methodology: '[[methods/Case Study]]'
+sample_size: 39
+sample_type: 1 instructor and 38 university students in digital photography course
+context: Digital Photography in Nature course at Turkish university
+study_type: empirical
 ---
 
 # Integrating AI into Instructional Design for Higher Education

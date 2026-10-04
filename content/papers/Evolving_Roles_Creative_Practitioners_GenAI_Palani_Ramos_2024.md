@@ -1,10 +1,49 @@
 ---
-source_file: "Evolving Roles and Workflows of Creative Practitioners in the Age of Generative AI.pdf"
+source_file: Evolving Roles and Workflows of Creative Practitioners in the Age of
+  Generative AI.pdf
 type: conference paper
 authors:
-  - Srishti Palani
-  - Gonzalo A. Ramos
-year: 2024
+- Srishti Palani
+- Gonzalo A. Ramos
+year: 2023
+builds_on:
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Double Diamond Model]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/AI-managerial Labor]]'
+key_claims:
+- Creative practitioners conceptualize themselves as 'project managers' orchestrating
+  GenAI tools (14/27 sources), rather than traditional creator roles, managing information
+  and context across fragmented AI models and sessions
+- 'Practitioners operate at two distinct orchestration levels: project-level (gathering
+  information, learning capabilities, defining goals, planning, specifying context)
+  and artifact-level (diverge, transform, reflect, critique, converge)'
+- 'Three major challenges emerge: articulating creative goals in specialized vocabulary
+  (C1), lack of memory across fragmented workflows/models (C2), and aligning stochastic
+  outputs with intentions (C3)'
+- 'GenAI provides three key benefits: helps with cold start and goal development (B1),
+  streamlines process through automation (B2), and accelerates alternative generation
+  (B3)'
+- Practitioners view AI both as tool (12/27 sources - high-variance search device)
+  and collaborator (10/27 sources - partnership dynamic), reflecting dual conceptualizations
+  of GenAI agency
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 58
+sample_type: Creative professionals across 19 domains including UI/UX design, architecture,
+  writing, video production with 3-27 years experience
+context: Professional creative practice using GenAI tools (Midjourney, ChatGPT, Codex,
+  Stable Diffusion, Dall-E)
+study_type: empirical
 ---
 
 # Evolving Roles, Workflows and Design Opportunities: A Study of Creative Practitioners Interacting with and Orchestrating Generative AI

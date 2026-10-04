@@ -1,8 +1,34 @@
 ---
-source_file: "Herring 2010 - Web Content Analysis - Expanding the Paradigm.pdf"
+source_file: Herring 2010 - Web Content Analysis - Expanding the Paradigm.pdf
 type: paper
-authors: "Susan C. Herring"
-year: 2010
+authors: Susan C. Herring
+year: null
+builds_on:
+- '[[methods/Content Analysis]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Traditional content analysis methods must be adapted rather than simply applied
+  to web content due to unique features like hyperlinks, multimedia, and interactivity
+  that require new analytical categories
+- Web content combines features of multiple media types and introduces elements like
+  hyperlinks, interactivity, and user-generated content that standard content analysis
+  techniques developed for print and broadcast media cannot adequately address
+- The dynamic nature of web content presents sampling and replicability challenges
+  that require researchers to develop new strategies for ensuring methodological rigor
+- WebCA should combine quantitative and qualitative approaches, attending to both
+  manifest (surface) and latent (underlying) content while recognizing that web content
+  cannot be analyzed in isolation from its platform and community context
+- Unit of analysis considerations for web research must account for multiple levels
+  including page, site, thread, post, and link structures that do not exist in traditional
+  media
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: null
+context: Methodological framework for analyzing web-based content and online discourse
+study_type: theoretical
 ---
 # Web Content Analysis: Expanding the Paradigm
 

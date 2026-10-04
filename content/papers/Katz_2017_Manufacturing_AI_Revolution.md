@@ -1,9 +1,44 @@
 ---
-source_file: "Katz 2017 - Manufacturing an artificial intelligence revolution.pdf"
-type: "working paper"
+source_file: Katz 2017 - Manufacturing an artificial intelligence revolution.pdf
+type: working paper
 authors:
-  - "Yarden Katz"
+- Yarden Katz
 year: 2017
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Explainable AI]]'
+- '[[frameworks/Human-Centered AI]]'
+tensions_with:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Democratization of Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+supports:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Complacency Risk]]'
+key_claims:
+- The contemporary AI 'revolution' has been largely manufactured by major technology
+  corporations through strategic rebranding of existing technologies, specifically
+  relabeling big data and machine learning as 'artificial intelligence'
+- Current AI systems rely on behaviorist assumptions that define intelligence through
+  input-output relationships while ignoring cognition, making them fundamentally incompatible
+  with human intelligence
+- AI's claim to objective, context-free intelligence (the 'view from nowhere') masks
+  that it embodies particular perspectives rooted in white, male, Western viewpoints
+- Focus on algorithmic accountability and bias correction obscures deeper structural
+  inequalities and institutional power relations that AI systems reinforce
+- AI enables neoliberal governance by numbers, promoting a society that delegates
+  thinking to machines and results in collective 'thoughtlessness'
+methodology: '[[methods/Case Analysis]]'
+sample_size: null
+sample_type: null
+context: Historical and contemporary analysis of AI industry and policy
+study_type: theoretical
 ---
 
 # Manufacturing an Artificial Intelligence Revolution

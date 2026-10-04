@@ -1,12 +1,41 @@
 ---
-source_file: "Utilizing AI for Instructional Design - Choi 2024.pdf"
-type: "journal article"
+source_file: Utilizing AI for Instructional Design - Choi 2024.pdf
+type: journal article
 authors:
-  - "Gi Woong Choi"
-  - "Soo Hyeon Kim"
-  - "Daeyeoul Lee"
-  - "Jewoong Moon"
+- Gi Woong Choi
+- Soo Hyeon Kim
+- Daeyeoul Lee
+- Jewoong Moon
 year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Prompt Engineering]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- ChatGPT enables rapid generation of learning objectives, activities, and assessments
+  for instructional design using backward design principles
+- AI-generated instructional content requires significant human review and revision,
+  often producing generic or superficial outputs without specific contextual understanding
+- Generative AI democratizes access to instructional design support and frees designers
+  for higher-order work, but risks over-reliance that may deskill practitioners
+- AI-assisted instructional design presents both opportunities for scaffolding novice
+  designers and threats regarding quality concerns and ethical issues around attribution
+  and academic integrity
+methodology: '[[methods/Case Study]]'
+sample_size: 1
+sample_type: undergraduate makerspace course design process
+context: AI-assisted instructional design for undergraduate makerspace course using
+  backward design framework
+study_type: empirical
 ---
 
 # Utilizing Generative AI for Instructional Design: A SWOT Analysis

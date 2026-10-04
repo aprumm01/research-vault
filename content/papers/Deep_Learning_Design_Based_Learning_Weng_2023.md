@@ -1,11 +1,45 @@
 ---
-source_file: "A pedagogical study on promoting students_ deep learning through design-based learning.pdf"
+source_file: A pedagogical study on promoting students_ deep learning through design-based
+  learning.pdf
 type: journal article
 authors:
-  - Xiaoli Weng
-  - Gaowei Chen
-  - Boyan Ai
-year: 2023
+- Xiaoli Weng
+- Gaowei Chen
+- Boyan Ai
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Deep Learning (Educational)]]'
+critiques:
+- '[[concepts/Surface-Level Processing]]'
+tensions_with: []
+supports:
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Problem Framing]]'
+key_claims:
+- Design-Based Learning (DBL) significantly enhanced students' deep learning outcomes
+  compared to traditional instruction (p < .05), including higher-order thinking,
+  knowledge transfer, and metacognition
+- The 3-stage DBL model (situation creation, design scheme, evaluation/reflection)
+  promotes deep learning through authentic problem-solving and iterative design processes
+- DBL students demonstrated significantly greater transfer ability, applying learned
+  concepts to novel problems better than control group receiving traditional teacher-centered
+  instruction
+- DBL increased student motivation and active participation while developing stronger
+  metacognitive awareness of learning processes compared to traditional instruction
+  over 8 weeks
+- Students in the DBL experimental group (n=56) showed significantly better analysis,
+  synthesis, and evaluation skills than control group (n=49) after completing a STEM
+  unit on structures/bridges
+methodology: '[[methods/Quasi-Experimental]]'
+sample_size: 105
+sample_type: Chinese primary school students
+context: Chinese primary school STEM education
+study_type: empirical
 ---
 
 # Deep Learning Through Design-Based Learning: A Pedagogical Study

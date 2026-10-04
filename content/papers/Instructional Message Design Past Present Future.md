@@ -1,8 +1,40 @@
 ---
-source_file: "Instructional Message Design_Bishop_Mess_Des.pdf"
+source_file: Instructional Message Design_Bishop_Mess_Des.pdf
 type: paper
-authors: "M.J. Bishop"
-year: 2014
+authors: M.J. Bishop
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[frameworks/Cognitive Load]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Reciprocal Learning Partnership]]'
+key_claims:
+- Despite decades of critique and rhetorical shifts toward learner-centered paradigms,
+  most instructional design remains implicitly transmission-oriented, treating learning
+  as information transfer rather than meaning-making
+- Communication models derived from Shannon-Weaver information theory, designed for
+  electronic signal transmission, are fundamentally inappropriate for conceptualizing
+  human learning processes
+- Cognitivism modified but did not abandon transmission assumptions, representing
+  an incomplete break from behaviorist information transfer models
+- Constructivist rhetoric in instructional design often masks continued instructivist
+  practices, with transmission thinking persisting even in ostensibly constructivist
+  approaches
+- Conversation theory provides a more appropriate framework for instructional design
+  by reconceptualizing learning as mutual understanding through dialogue rather than
+  unidirectional knowledge transfer
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Instructional message design field across behaviorist, cognitivist, and constructivist
+  eras
+study_type: theoretical
 ---
 # Instructional Message Design: Past, Present, and Future Relevance
 

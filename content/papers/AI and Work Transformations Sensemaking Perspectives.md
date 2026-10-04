@@ -1,8 +1,38 @@
 ---
-source_file: "Artificial intelligence and work transformations - integrating sensemaking and workplace learning perspectives.pdf"
+source_file: Artificial intelligence and work transformations - integrating sensemaking
+  and workplace learning perspectives.pdf
 type: paper
-authors: "Engstrom, Annika; Hakansson Lindqvist, Marcia; Raven, Arjen"
-year: 2024
+authors: Engstrom, Annika; Hakansson Lindqvist, Marcia; Raven, Arjen
+year: null
+builds_on:
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Activity Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Cognitive Tension]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- AI introduction creates ambiguity and uncertainty that activates sensemaking processes
+  in workers, requiring them to reconstruct meaning about their roles and competencies
+- Workers must simultaneously exploit existing knowledge while exploring new AI-related
+  competencies, creating dual learning demands
+- AI adoption requires workers to reconstruct professional identities when core competencies
+  are automated, engaging in identity work
+- Understanding AI is not purely individual but occurs through social interactions
+  and shared interpretations in organizational contexts
+- Organizational culture, leadership, and resources shape how workers make sense of
+  and learn from AI, with sensemaking evolving over time as workers gain experience
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Workplace AI adoption across organizational settings
+study_type: theoretical
 ---
 # Artificial Intelligence and Work Transformations: Integrating Sensemaking and Workplace Learning Perspectives
 

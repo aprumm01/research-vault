@@ -1,9 +1,42 @@
 ---
-source_file: Beyond the hype Evidence-based approaches to responsible AI integration in workplace learning.pdf
+source_file: Beyond the hype Evidence-based approaches to responsible AI integration
+  in workplace learning.pdf
 type: literature_review
 authors:
-  - Martin Sposato
+- Martin Sposato
 year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Explainable AI]]'
+key_claims:
+- 'AI personalization in workplace learning creates a paradox: while it can deeply
+  customize individual learning paths, it risks fragmenting organizational knowledge
+  and undermining shared competency development'
+- AI implementation approach determines whether learner self-efficacy is enhanced
+  or diminished, with transparency and explainability being critical mediating factors
+- Learners require understanding of AI recommendation logic to develop metacognitive
+  skills in AI-mediated learning environments
+- Responsible AI integration requires balancing organizational efficiency gains with
+  human development considerations and establishing clear ethical boundaries on surveillance
+  and behavioral prediction
+- Organizations must address the tension between AI's personalization capabilities
+  and the need for standardized competency development through deliberate framework
+  design
+methodology: '[[methods/Literature Review]]'
+sample_size: 180
+sample_type: academic papers on AI integration in workplace learning
+context: workplace learning and organizational contexts (2018-2025)
+study_type: review
 ---
 
 # Beyond the Hype: Responsible AI in Workplace Learning

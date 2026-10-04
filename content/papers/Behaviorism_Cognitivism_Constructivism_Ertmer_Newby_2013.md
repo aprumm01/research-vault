@@ -1,10 +1,41 @@
 ---
-source_file: "Performance Improve Qtrly - 2013 - Ertmer - Behaviorism  Cognitivism  Constructivism  Comparing Critical Features.pdf"
+source_file: Performance Improve Qtrly - 2013 - Ertmer - Behaviorism  Cognitivism  Constructivism  Comparing
+  Critical Features.pdf
 type: journal article
 authors:
-  - Peggy A. Ertmer
-  - Timothy J. Newby
+- Peggy A. Ertmer
+- Timothy J. Newby
 year: 2013
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Technological Determinism]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[frameworks/Situated Cognition]]'
+key_claims:
+- 'Different learning theories are suited to different types of learning tasks: behaviorism
+  best for rote learning and procedural skills, cognitivism for concepts and problem-solving
+  procedures, and constructivism for complex, ill-defined problems requiring transfer'
+- The three major learning theories should be viewed as complementary resources rather
+  than competing ideologies, with effective instructional design drawing from all
+  three depending on context
+- 'Learner expertise level determines appropriate theoretical approach: novices benefit
+  from more behaviorist/cognitivist approaches with explicit structure, while experts
+  benefit from constructivist approaches allowing self-direction'
+- 'Each learning theory has fundamentally different models of memory: behaviorism
+  treats memory as hardwired stimulus-response connections, cognitivism as encoding-storage-retrieval
+  processes, and constructivism as constructed understanding that is always evolving'
+- Transfer of knowledge operates differently across theories, with significant implications
+  for how knowledge applies to new contexts and the design of instruction
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Instructional design theory and practice
+study_type: theoretical
 ---
 
 # Behaviorism, Cognitivism, Constructivism: Comparing Critical Features From an Instructional Design Perspective

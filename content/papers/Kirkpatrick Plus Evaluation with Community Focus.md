@@ -1,8 +1,33 @@
 ---
-source_file: "Kirkpatrick Plus Evaluation and Continuous Improvement with a Community Focus_ Watkins et al..pdf"
+source_file: Kirkpatrick Plus Evaluation and Continuous Improvement with a Community
+  Focus_ Watkins et al..pdf
 type: paper
-authors: "Ryan Watkins, Doug Leigh, Rob Foshay, Roger Kaufman"
+authors: Ryan Watkins, Doug Leigh, Rob Foshay, Roger Kaufman
 year: 1998
+builds_on:
+- '[[frameworks/Frame Analysis]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Evaluative Judgment]]'
+key_claims:
+- Only 2% of organizations evaluate training at Kirkpatrick's Level 4 (Results), indicating
+  the need for better evaluation frameworks
+- Training evaluation must extend beyond organizational results to include a fifth
+  level examining value-added to external stakeholders and society (Mega Results)
+- Evaluation should be proactive rather than reactive, beginning with desired societal
+  outcomes and working backward to design training interventions
+- Kirkpatrick's Level 1 should be separated into process evaluation (acceptability
+  of training) and resource evaluation (quality and availability of training materials)
+- Costs-consequences analysis can be integrated at any evaluation level by connecting
+  Kirkpatrick's framework with Kaufman's Organizational Elements Model to create continuous
+  improvement cycles
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Corporate training and organizational development
+study_type: theoretical
 ---
 # Kirkpatrick Plus: Evaluation and Continuous Improvement with a Community Focus
 

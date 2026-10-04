@@ -1,10 +1,41 @@
 ---
-source_file: "Designers' articulation and activation of instrumental design judgements in cross-cultural user research (2017).pdf"
+source_file: Designers' articulation and activation of instrumental design judgements
+  in cross-cultural user research (2017).pdf
 type: journal article
 authors:
-  - Colin M. Gray
-  - Elizabeth Boling
-year: 2017
+- Colin M. Gray
+- Elizabeth Boling
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Tacit Knowledge]]'
+- '[[frameworks/Activity Theory]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Design team's instrumental judgements shifted from totalizing cultural stereotypes
+  in planning phases to nuanced, mediated understanding during debrief sessions when
+  engaging with cross-cultural complexity
+- Translators served critical role as cultural brokers who 'nuanced' cultural meanings
+  beyond literal translation, helping designers refine their cultural understanding
+  and instrumental judgements
+- Designers employed 'making familiar' strategy by mapping unfamiliar cultural concerns
+  to analogous concepts within their own cultural experience when navigating cross-cultural
+  design challenges
+- Design methods function as inherently underspecified tools requiring instrumental
+  judgement and designer interpretation rather than prescriptive procedures
+- Cross-cultural design contexts make visible the cultural assumptions always present
+  in design work, which are simply heightened when cultural boundaries are explicitly
+  traversed
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 3
+sample_type: UX designers on cross-cultural design team
+context: Scandinavian design team conducting co-creation workshop with Chinese consumers
+  over 3-month period
+study_type: empirical
 ---
 
 # Designers' Articulation and Activation of Instrumental Design Judgements in Cross-Cultural User Research

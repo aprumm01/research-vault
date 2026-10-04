@@ -1,9 +1,7 @@
 ---
-source_file: EDU-AI/6th International Conference AI-HCI 2025.pdf
+source_file: 6th International Conference AI-HCI 2025.pdf
 type: paper
-authors: Helmut Degen
-community: Design Theory and Cognition
-tags: null
+authors: Helmut Degen, Stavroula Ntoa (Eds.)
 year: 2025
 builds_on:
 - '[[frameworks/Human-Centered AI]]'
@@ -41,53 +39,39 @@ context: Conference proceedings across HCI, design education, cultural heritage,
 study_type: review
 ---
 
-# 6th International Conference AI-HCI 2025
+# Artificial Intelligence in HCI: 6th International Conference, AI-HCI 2025
 
 ## Summary
-LNAI 15821 Helmut Degen Stavroula Ntoa (Eds ) Artificial Intelligence in HCI 6th International Conference, AI-HCI 2025 Held as Part of the 27th HCI International Conference, HCII 2025 Gothenburg, Sweden, June 22–27, 2025 Proceedings, Part III 123 Lecture Notes in Computer Science Lecture Notes in Artificial Intelligence Founding Editor Jörg Siekmann Series Editors.
+This edited volume comprises the proceedings from the 6th International Conference on Artificial Intelligence in HCI (AI-HCI 2025), held as part of HCI International 2025 in Gothenburg, Sweden. The conference brought together academics, practitioners, and students from 92 countries to exchange research on the use of AI technologies to enhance human-computer interaction. The proceedings represent Part III of four volumes, focusing specifically on Generative AI in HCI, Human-LLM Interactions and UX Considerations, and Everyday AI applications.
+
+The papers address critical themes including trust and explainability in human-AI interaction, user perceptions and acceptance of AI-empowered systems, bias mitigation and ethical considerations, human-AI collaboration and teaming, and the integration of AI into diverse contexts from urban living to cultural experiences. The collection reflects the growing importance of weaving AI into everyday experiences while ensuring ethical, explainable, and user-friendly implementations. Contributions span theoretical explorations to practical applications, demonstrating how HCI research is shaping AI deployment across industries.
+
+The conference emphasizes human-centered AI and machine learning technologies that prioritize user needs while addressing the complex dimensions of AI deployment. Papers underwent a rigorous single-blind review process, ensuring high scientific quality across the diverse range of topics covered.
 
 ## Key Concepts
-- Generative AI applications in HCI contexts
-- AI-human interaction design and user experience
-- Context-aware AI systems and adaptive interfaces
-- LLM-based interactions and conversational agents
-- Emotional AI and affective computing
-- AI ethics, transparency, and explainability in human-centered design
-- Embodied AI and multimodal interaction systems
-- AI in cultural heritage, education, and everyday living contexts
+- **Generative AI in HCI**: The application of large language models and generative systems to enhance user interactions, creative processes, and design workflows
+- **Human-LLM Interactions**: Research examining how users perceive, engage with, and are affected by large language model-based systems
+- **Explainable AI (XAI)**: Methods and approaches for making AI systems transparent and understandable to users
+- **AI Ethics**: Considerations around bias mitigation, fairness, privacy, and responsible AI deployment
+- **Human-AI Collaboration**: Frameworks for effective teaming between humans and AI systems
 
 ## Theoretical Framework
-- Framing theory applied to AI media discourse and public perception
-- Human-centered AI design principles
-- Embodied cognition theory in AI-enhanced museum experiences
-- User experience (UX) evaluation frameworks for AI systems
+The proceedings draw from multiple theoretical traditions including human-computer interaction, cognitive psychology, AI/ML research, and sociotechnical systems theory. The overarching framework positions AI as a participant in human activities rather than merely a tool, necessitating research into trust, transparency, collaboration dynamics, and ethical implementation.
 
 ## Methods
-Conference proceedings compilation; individual papers employ diverse methodologies including:
-- Experimental studies with simulated environments
-- Text analysis and topic modeling (LDA)
-- User experience questionnaires and subjective feedback
-- Comparative studies across AI conditions
-- Survey-based acceptance research
+As a conference proceedings volume, the papers employ diverse methodologies including:
+- Quantitative user studies and surveys
+- Qualitative interviews and case studies
+- Design research and prototyping
+- Experimental evaluations of AI systems
+- Content analysis and systematic reviews
 
 ## Main Arguments
-- Context-aware AI systems significantly enhance user performance, memory, and emotional well-being in navigation and spatial tasks
-- Partisan media framing of generative AI influences public engagement differently, with conservative media using more positive/trusting language than liberal outlets
-- AI-generated content (music, visual art) can effectively support emotional recall and reduce cognitive load when dynamically adapted to context
-- LLM-based systems require careful UX considerations around hallucination, privacy, and user acceptance across domains
-- Generative AI tools can enhance creative workflows and design education when properly integrated with hands-on learning
-- AI's integration into everyday contexts (health, traffic, cultural heritage) demands human-centered approaches balancing innovation with ethical considerations
+- AI integration into HCI requires careful attention to trust, explainability, and user acceptance
+- Generative AI and LLMs present both opportunities and challenges for human-computer interaction
+- Ethical considerations must be central to AI system design and deployment
+- Human-AI collaboration requires new frameworks that account for AI as an active participant
+- Everyday AI applications must balance technological capability with user needs and cultural contexts
 
 ## Limitations & Critiques
-- Individual study limitations vary; common concerns include limited sample sizes in experimental studies
-- Generalizability questions for context-specific AI applications (e.g., cultural-specific systems)
-- Need for longitudinal research on sustained AI interaction effects
-- Privacy and security concerns in LLM-based enterprise applications require ongoing attention
-- Challenge of balancing AI-driven engagement optimization with responsible, unbiased reporting
-- Gap between AI hype and practical limitations in real-world deployment contexts
-- Limited cross-cultural validation for AI interaction design principles
-- Ongoing challenges in detecting AI-generated content and preventing misuse
-- Ethical considerations around AI transparency and explainability remain underexplored in some application domains
-
-## Connections
-- [[communities/Design Theory and Cognition]] - Research community
+As a conference proceedings, the collection represents work-in-progress and emerging research rather than comprehensive longitudinal studies. The diversity of methodologies and contexts, while valuable for breadth, means individual papers may have limited generalizability. The rapid evolution of AI technologies also means some findings may quickly become outdated.

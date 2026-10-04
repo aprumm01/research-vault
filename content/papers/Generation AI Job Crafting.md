@@ -1,11 +1,44 @@
 ---
-source_file: Generation AI Job Crafting by Entry-Level Professionals in the Age of Generative AI.pdf
+source_file: Generation AI Job Crafting by Entry-Level Professionals in the Age of
+  Generative AI.pdf
 type: qualitative_study
 authors:
-  - Anne-Sophie Mayer
-  - Reza M. Baygi
-  - Reinout Buwalda
-year: 2025
+- Anne-Sophie Mayer
+- Reza M. Baygi
+- Reinout Buwalda
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[concepts/Epistemic Agency]]'
+critiques: []
+tensions_with:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Intellectual Independence]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- Entry-level professionals engage in 'signal crafting' - a novel dimension of job
+  crafting involving strategic decisions about disclosing or concealing GenAI use
+  based on context (full disclosure, selective disclosure, or concealment)
+- GenAI use creates a learning tension where entry-level professionals worry about
+  skill development when GenAI handles foundational tasks that traditionally build
+  expertise
+- Task crafting with GenAI enables entry-level professionals to shift time from routine
+  tasks (drafting, research, coding, analysis) to higher-value activities, fundamentally
+  changing work allocation
+- Relational crafting occurs as GenAI changes interaction patterns with supervisors
+  and peers, with some entry-level professionals reducing help-seeking behavior due
+  to GenAI availability
+- Being 'Generation AI' shapes professional identity formation for entry-level workers,
+  creating new tensions between efficiency gains and traditional skill-building pathways
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: 25
+sample_type: entry-level professionals (analysts and associates)
+context: global consulting firm
+study_type: empirical
 ---
 
 # Generation AI: Job Crafting by Entry-Level Professionals

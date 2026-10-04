@@ -2,8 +2,43 @@
 source_file: The Technocratic Momentum after 1945-jemms.pdf
 type: historical_analysis
 authors:
-  - Daniel Trohler
-year: 2013
+- Daniel Trohler
+year: 2020
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-Centered Design]]'
+supports:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Technological Anxiety]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- Teaching machines emerged from post-WWII anxieties about national survival and Cold
+  War competition, establishing patterns of technological solutionism still visible
+  in contemporary EdTech
+- Despite ideological opposition, both Soviet and American educational systems pursued
+  remarkably similar technocratic and technological solutions to education reform
+- The OECD served as a key international actor promoting technocratic educational
+  reforms across borders, transcending Cold War divisions
+- Skinner's behaviorist operant conditioning provided scientific legitimacy for programmed
+  instruction, framing education as a technical problem solvable through mechanical
+  intervention
+- The teaching machines movement raised enduring concerns about technology displacing
+  human educators, anxieties that persist in contemporary debates about AI in education
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: Historical documents, policy papers, scientific publications, and popular
+  media from post-WWII era
+context: Post-World War II educational reform in United States and Europe during Cold
+  War period
+study_type: theoretical
 ---
 
 # The Technocratic Momentum after 1945: Teaching Machines

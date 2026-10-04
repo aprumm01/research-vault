@@ -1,9 +1,37 @@
 ---
-source_file: "Willis-CulturesContemporaryInstructional-2011.pdf"
-type: "journal article"
+source_file: Willis-CulturesContemporaryInstructional-2011.pdf
+type: journal article
 authors:
-  - "Jerry Willis"
-year: 2011
+- Jerry Willis
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[frameworks/Cognitive Dissonance]]'
+tensions_with: []
+supports:
+- '[[methods/Design-Based Research]]'
+- '[[concepts/Problem-Solution Co-evolution]]'
+key_claims:
+- 'The instructional design field has evolved from a unified behavioral foundation
+  to multiple competing paradigms, with four distinct cultures emerging: Traditional
+  ISD, Design-Based Research, Constructivist-ID, and Critical Theory ID'
+- Traditional ISD approaches are too rigid and linear for complex learning contexts,
+  oversimplifying learning processes and ignoring contextual factors and individual
+  differences
+- Design-Based Research integrates design and research in authentic settings through
+  iterative processes, but faces challenges with generalizability, scalability, and
+  time-intensive implementation
+- The shift from behavioral to cognitive science foundations represents a fundamental
+  paradigm change in how instructional design scholarship conceptualizes learning
+  and design processes
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Instructional design scholarship and theory development
+study_type: theoretical
 ---
 
 # The Cultures of Contemporary Instructional Design Scholarship, Part One: Developments Based on Behavioral and Cognitive Science Foundations

@@ -1,8 +1,38 @@
 ---
-source_file: "Bradshaw, Amy - Reconsidering Design and Tech_TechTrends_2018.pdf"
+source_file: Bradshaw, Amy - Reconsidering Design and Tech_TechTrends_2018.pdf
 type: paper
-authors: "Amy C. Bradshaw"
-year: 2018
+authors: Amy C. Bradshaw
+year: 2021
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Constructivism]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- Standard IDT timelines present events in isolation from social context, creating
+  false neutrality and reinforcing epistemologies of ignorance about systemic injustice
+- The field's canon consists almost entirely of white men whose foundational work
+  developed during periods of explicit racial segregation and civil rights struggles,
+  yet these contexts are entirely absent from field narratives
+- IDT's military origins (Gagné, WWII training) coincided with institutional racism
+  (Executive Order 9066, segregated military), revealing the field's unexamined complicity
+  in oppressive structures
+- Not knowing about social context is not innocent but actively produced through field
+  socialization, creating structural ignorance that perpetuates injustice in instructional
+  systems
+- The AECT definition's inclusion of 'ethical practice' cannot be realized without
+  engaging social justice issues, as a field that ignores systemic injustice will
+  produce instructional systems that perpetuate it
+methodology: '[[methods/Narrative]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of Instructional Design and Technology field development
+  in United States
+study_type: theoretical
 ---
 # Reconsidering the Instructional Design and Technology Timeline Through a Lens of Social Justice
 

@@ -1,8 +1,31 @@
 ---
-source_file: "The Attack on ISD -Gordon _ Zemke _2000_.pdf"
+source_file: The Attack on ISD -Gordon _ Zemke _2000_.pdf
 type: paper
-authors: "Jack Gordon, Ron Zemke"
+authors: Jack Gordon, Ron Zemke
 year: 2000
+builds_on: []
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- ISD is criticized for being too slow for rapidly changing business environments,
+  with extensive front-end analysis viewed as unnecessary and wasteful
+- Critics argue the linear ADDIE model doesn't match how learning actually happens
+  and produces sterile, boring training that fails to engage learners
+- Defenders contend that poor implementations shouldn't condemn the methodology itself,
+  and that skipping analysis leads to training that doesn't address real performance
+  gaps
+- Critics often propose alternatives that reinvent ISD principles under new names,
+  suggesting the debate is partly about rebranding rather than fundamental methodological
+  differences
+- The debate reflects tensions between behaviorist foundations of ISD and emerging
+  constructivist and situated learning perspectives that emphasize context-dependent,
+  learner-centered approaches
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: ISD practitioners, critics, and thought leaders in corporate training
+context: Corporate training contexts at the turn of the millennium
+study_type: review
 ---
 # The Attack on ISD
 

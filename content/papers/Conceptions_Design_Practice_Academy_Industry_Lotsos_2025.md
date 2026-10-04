@@ -1,11 +1,41 @@
 ---
-source_file: "Conceptions of Design Practice From Academy to Industry.pdf"
+source_file: Conceptions of Design Practice From Academy to Industry.pdf
 type: conference paper
 authors:
-  - Alexandros Nikolaos Lotsos
-  - Yizhu Wang
-  - Michael Stephen Horn
-year: 2025
+- Alexandros Nikolaos Lotsos
+- Yizhu Wang
+- Michael Stephen Horn
+year: null
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Problem Framing]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[frameworks/Studio Pedagogy]]'
+key_claims:
+- 'Three conceptions of design practice emerge developmentally: Artifact-Centered
+  (design as craft skill), Human-Centered (design for user needs), and Cross-Functional
+  (design within organizational constraints), with professionals integrating rather
+  than replacing earlier conceptions'
+- Students holding only Artifact-Centered conception often self-select out of design,
+  perceiving themselves as either craft-oriented or research-oriented but not suited
+  for design practice
+- The transition from Human-Centered to Cross-Functional conception involves difficult
+  'keystone moments' where user research gets rejected for business reasons, creating
+  significant professional dissonance
+- Professionals working in Artifact-Centered organizational contexts while holding
+  Human-Centered values experience substantial job dissatisfaction and workplace tension
+- Design education programs should expose students to all three conceptions to develop
+  realistic expectations about practice complexity and the competing demands designers
+  navigate in professional settings
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 21
+sample_type: HCI/design students, educators, and practitioners from US programs
+context: US HCI and design education programs and professional practice settings
+study_type: empirical
 ---
 
 # Conceptions of Design Practice From Academy to Industry: Implications for HCI and Design Education

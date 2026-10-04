@@ -1,8 +1,42 @@
 ---
-source_file: "Kozma1994_Article_WillMediaInfluenceLearningRefr.pdf"
+source_file: Kozma1994_Article_WillMediaInfluenceLearningRefr.pdf
 type: paper
-authors: "Robert B. Kozma"
+authors: Robert B. Kozma
 year: 1994
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Cognitive Load]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Human-AI Augmentation]]'
+- '[[frameworks/Human-Centered Design]]'
+key_claims:
+- Media should be analyzed in terms of their cognitively relevant capabilities—technology
+  (physical features), symbol systems (symbolic expressions), and processing capabilities
+  (operations on symbols)—and how these interact with cognitive and social processes
+  of knowledge construction
+- Educational technology is a design science rather than a natural science; if no
+  relationship between media and learning has been found, it may be because researchers
+  have not yet made one
+- Learning with media occurs through complementary processes where representations
+  are constructed and procedures performed sometimes by the learner, sometimes by
+  the medium, requiring an interactionist framework rather than behavioral paradigm
+- ThinkerTools succeeded because computer capabilities (dynamic symbols, processing
+  input according to physics laws) helped 6th grade novice learners build expert-like
+  mental models of Newtonian mechanics
+- For design sciences, theories should focus on sufficient conditions (what will work)
+  rather than necessary conditions (what must be present), shifting from 'Do media
+  influence learning?' to 'Will media influence learning?'
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: null
+context: Two computer-based learning environments (ThinkerTools for physics, Jasper
+  Woodbury Series for mathematics)
+study_type: theoretical
 ---
 
 # Will Media Influence Learning? Reframing the Debate

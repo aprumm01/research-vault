@@ -2,8 +2,32 @@
 source_file: Clark1994_Article_MediaWillNeverInfluenceLearnin.pdf
 type: article
 authors:
-  - Richard E. Clark
-year: 1994
+- Richard E. Clark
+year: 1983
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports: []
+key_claims:
+- Media are mere vehicles that deliver instruction but do not influence student achievement
+  any more than the truck that delivers our groceries causes changes in our nutrition
+- When instructional method is controlled, no medium produces better learning than
+  another - the replaceability challenge demonstrates media cannot be the causal agent
+- Past research confounded instructional methods with delivery media, leading to false
+  conclusions about media effects on learning
+- Media choices should be based on cost-effectiveness and accessibility, not learning
+  outcomes, as media is necessary but never sufficient to cause learning
+- Educational technology research should focus on instructional methods and learner
+  cognition rather than media comparisons
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: meta-analysis of historical media comparison studies in educational technology
+  research
+study_type: review
 ---
 
 # Media Will Never Influence Learning

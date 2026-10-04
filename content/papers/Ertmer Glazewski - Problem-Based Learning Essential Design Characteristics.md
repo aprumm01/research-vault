@@ -1,8 +1,42 @@
 ---
-source_file: "Problem-based Learning.pdf"
+source_file: Problem-based Learning.pdf
 type: paper
-authors: "Peggy A. Ertmer, Krista D. Glazewski"
-year: 2019
+authors: Peggy A. Ertmer, Krista D. Glazewski
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+key_claims:
+- PBL differs fundamentally from other problem-centered approaches in that problems
+  are presented before any instruction occurs, which drives the learner inquiry process
+- 'Effective PBL requires five essential components: authentic ill-structured problems,
+  student-directed learning, instructor scaffolding through tutoring, small group
+  collaboration, and authentic assessment of both process and products'
+- The instructor's role in PBL must shift from lecturer to tutor/facilitator who provides
+  dynamic scaffolding (soft scaffolds) based on student needs rather than static embedded
+  supports alone
+- Scaffolding in PBL must be carefully calibrated to support learning without removing
+  productive struggle, as removing appropriate challenge can undermine the development
+  of problem-solving skills
+- Research on PBL effectiveness shows mixed results, with stronger evidence for developing
+  problem-solving skills compared to knowledge acquisition outcomes
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Cross-disciplinary review of PBL implementation from medical education origins
+  through K-12, engineering, business, and teacher education
+study_type: review
 ---
 
 # Problem-Based Learning: Essential Design Characteristics

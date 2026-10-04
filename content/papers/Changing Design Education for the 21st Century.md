@@ -1,8 +1,42 @@
 ---
-source_file: "Changing Design Education for the 21st Century.pdf"
+source_file: Changing Design Education for the 21st Century.pdf
 type: paper
-authors: "Michael W. Meyer, Don Norman"
-year: 2020
+authors: Michael W. Meyer, Don Norman
+year: 2019
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Design Thinking]]'
+critiques:
+- '[[concepts/Surface-Level Processing]]'
+- '[[frameworks/Studio Pedagogy]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Problem Framing]]'
+- '[[frameworks/Value Sensitive Design]]'
+key_claims:
+- Design-driven companies outperform S&P 500 by 228% according to DMI studies, yet
+  only 2-4% of Fortune 500 companies have chief design officers
+- 'Current design education addresses primarily Performance Challenges while future
+  practice demands capabilities across four cumulative challenge groups: Performance,
+  Systemic, Contextual, and Global'
+- Most valuable elements of designer's perspective and process are seldom taught explicitly,
+  relying instead on inefficient tacit knowledge transfer mechanisms
+- Different from medicine, law, and business, design lacks robust educational infrastructure
+  and requires deliberate professionalization effort including study groups and curriculum
+  reform
+- Design education teaches technical skills related to 'processes and working methods
+  of an age that has ended' while designers grow beyond education accidentally through
+  industry experience
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Design education comparative analysis across disciplines
+study_type: theoretical
 ---
 # Changing Design Education for the 21st Century
 

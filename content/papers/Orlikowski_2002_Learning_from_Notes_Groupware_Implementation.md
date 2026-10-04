@@ -1,9 +1,36 @@
 ---
-source_file: "Orlikowski 2002 - Learning from Notes - Organizational Issues in Groupware Implementation.pdf"
-type: "journal article"
+source_file: Orlikowski 2002 - Learning from Notes - Organizational Issues in Groupware
+  Implementation.pdf
+type: journal article
 authors:
-  - "Wanda J. Orlikowski"
+- Wanda J. Orlikowski
 year: 1992
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Human-Centered Design]]'
+key_claims:
+- Technology implementation cannot be separated from organizational context; misalignment
+  between technology assumptions and organizational reward systems leads to underutilization
+- Competitive organizational cultures can inhibit collaborative technology adoption,
+  requiring changes to both technical and social systems for successful groupware
+  implementation
+- Users develop different technological frames based on their positions and experiences,
+  shaping how they understand and interact with collaborative technologies
+- Technology meaning is socially constructed and both shapes and is shaped by organizational
+  practices through structural elements like reward systems, policies, and culture
+methodology: '[[methods/Ethnography]]'
+sample_size: null
+sample_type: consultants and managers at large consulting firm
+context: Alpha Corporation groupware implementation
+study_type: empirical
 ---
 
 # Learning from Notes: Organizational Issues in Groupware Implementation

@@ -2,9 +2,33 @@
 source_file: Mapping value sensitive design onto AI for social good principles.pdf
 type: theoretical
 authors:
-  - Steven Umbrello
-  - Ibo van de Poel
-year: 2021
+- Steven Umbrello
+- Ibo van de Poel
+year: 2024
+builds_on:
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Human-Centered AI]]'
+key_claims:
+- AI ethics principles are often too abstract and VSD provides a rigorous operationalization
+  pathway for translating them into concrete design practices
+- VSD's tripartite methodology (conceptual, empirical, and technical investigations)
+  can systematically address specific AI for Social Good concerns
+- VSD provides practical tools for navigating inevitable value conflicts in AI design,
+  particularly tensions between competing values like privacy versus public health
+- The integration of VSD's stakeholder analysis approach with AI4SG inclusion principles
+  enables genuine engagement with all parties affected by AI systems
+- The proposed VSD-AI4SG mapping requires iterative design and ongoing reflection
+  throughout development to ensure AI systems genuinely serve social good
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Theoretical framework development for AI ethics and design
+study_type: theoretical
 ---
 
 # Mapping Value Sensitive Design onto AI for Social Good Principles

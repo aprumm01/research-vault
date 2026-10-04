@@ -2,9 +2,38 @@
 source_file: 6th International Conference AI-HCI 2025.pdf
 type: conference_proceedings
 authors:
-  - Helmut Degen (editor)
-  - Stavroula Ntoa (editor)
+- Helmut Degen (editor)
+- Stavroula Ntoa (editor)
 year: 2025
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- AI-HCI research as of 2025 emphasizes the intersection of artificial intelligence
+  techniques with human-computer interaction design, spanning from AI-powered user
+  interfaces to ethical considerations in AI systems
+- Current research prioritizes trust and transparency in AI systems as critical factors
+  for user acceptance and effective human-AI collaboration
+- Multimodal AI interaction (voice, gesture, and other modalities) represents an emerging
+  area of focus within AI-HCI research
+- Accessible AI design for diverse user populations is gaining prominence as a key
+  concern in the field
+- AI applications in creative tools and educational technologies are central themes
+  in contemporary AI-HCI research
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: conference proceedings containing multiple studies across various populations
+context: International AI-HCI Conference 2025, Gothenburg, Sweden
+study_type: review
 ---
 
 # Artificial Intelligence in HCI: 6th International Conference AI-HCI 2025

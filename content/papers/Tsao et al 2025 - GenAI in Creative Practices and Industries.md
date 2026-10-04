@@ -1,8 +1,51 @@
 ---
-source_file: "Perceptions and integration of generative artificial intelligence in creative practices and industries.pdf"
+source_file: Perceptions and integration of generative artificial intelligence in
+  creative practices and industries.pdf
 type: paper
-authors: "Jack Tsao, Cindy Xinyi Liang, Collier Nogues, Alice Wong"
+authors: Jack Tsao, Cindy Xinyi Liang, Collier Nogues, Alice Wong
 year: 2025
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Epistemic Substitution]]'
+key_claims:
+- 'Career stage dramatically shapes attitudes toward GenAI: entry-level professionals
+  demonstrate enthusiasm and view GenAI as a natural extension of digital tools, while
+  senior practitioners express skepticism about expertise devaluation'
+- All creative fields position GenAI in early-stage conceptualization (divergent phases)
+  rather than final production, preserving human judgment for convergent creative
+  phases
+- 'Integration levels follow an inverse relationship with traditional notions of ''pure''
+  creativity: fields prioritizing embodied practice and cultural authenticity (fine
+  arts, literary fiction, classical music) show the most significant resistance, while
+  commercially oriented domains embrace higher adoption'
+- Creative fields are experiencing fundamental shifts from creation to curation/meta-creation,
+  from mechanical skill to ideation proficiency, and emergence of new literacies like
+  prompt engineering
+- Practitioners across all creative domains express universal patterns of ambivalence,
+  developing hybrid methodologies to resist standardization while leveraging AI capabilities
+  for efficiency gains
+methodology: '[[methods/Literature Review]]'
+sample_size: 57
+sample_type: empirical papers examining professional creative practitioners' experiences
+  with generative AI across visual art, design, writing, performing arts, and spatial
+  design
+context: Scoping review of creative professional practices across four domains (2022-2025)
+study_type: review
 ---
 
 # Perceptions and Integration of Generative Artificial Intelligence in Creative Practices and Industries: A Scoping Review and Conceptual Model

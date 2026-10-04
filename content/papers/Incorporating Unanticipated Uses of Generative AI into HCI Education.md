@@ -2,8 +2,6 @@
 source_file: Incorporating Unanticipated Uses of Generative AI into HCI Education.pdf
 type: paper
 authors: Monica Maceli, Nancy Smith, Gatha Bhakta
-community: HCI Education and Pedagogy
-tags: null
 year: 2024
 builds_on:
 - '[[frameworks/Design Thinking]]'
@@ -45,38 +43,34 @@ study_type: theoretical
 # Incorporating Unanticipated Uses of Generative AI into HCI Education
 
 ## Summary
-This position paper, presented at EduCHI 2024, examines how generative AI tools are being creatively repurposed by students and educators in HCI and UX design education beyond their intended functions. The authors survey the landscape of available GenAI tools, highlight emerging unanticipated uses in design and research processes drawn from classroom observations and literature, and raise open questions for HCI educators about how to weave these possibilities into curricula ethically and effectively.
+This position paper from EduCHI 2024 examines how generative AI tools are being creatively repurposed by students in HCI education contexts, often in ways that go beyond the tools' intended purposes. The authors, faculty at Pratt Institute's School of Information, share observations from their classrooms where students have autonomously incorporated GenAI tools like MidJourney, ChatGPT, and DALL-E into design assignments—even when not explicitly required. The paper aims to raise questions for HCI educators about how to incorporate these unanticipated uses while addressing ethical concerns.
+
+The authors provide an overview of existing GenAI tools and their functions in UX contexts, including ChatGPT (research, ideation, programming), Midjourney/DALL-E (image generation), and various specialized tools for prototyping, branding, and presentations. They then present classroom examples where students used AI in creative ways: generating images for speculative design "future catalogs," creating fictional timelines combining AI and real imagery, and using ChatGPT to brainstorm associated imagery for book cover redesigns.
+
+The paper raises seven pedagogical provocations: Should we limit or prohibit GenAI use? What is our role in teaching these tools? How can students connect AI use to other skills they're learning? How much should students alter AI-generated content? How do we address ethical and environmental issues inherent in these systems? When does AI hinder creativity, and when does it amplify it? The authors argue educators must be active in experimenting with and disseminating knowledge about unanticipated but useful applications.
 
 ## Key Concepts
-- **Unanticipated uses**: The creative repurposing of GenAI tools (e.g., using ChatGPT for user persona generation, DALL·E for wireframing) beyond their intended commercial purposes
-- **Design thinking integration**: The five-phase design process (empathize, define, ideate, prototype, test) as a structure for locating where GenAI tools can meaningfully intervene
-- **GenAI as creativity support**: The positioning of tools like ChatGPT, Midjourney, and DALL·E as creativity support tools (CSTs) within HCI's existing theoretical tradition
-- **Hallucination and bias risks**: The known failure modes of LLMs — generating plausible but incorrect or biased outputs — as particular concerns for user research artifacts like personas and interview scripts
-- **Academic honesty in design education**: The challenge of distinguishing student originality from AI-generated output in a discipline where creative output is the assessed artifact
-- **HCI educator as co-investigator**: The positioning of educators and students as collectively writing the "missing handbook" on GenAI's role in UX practice
+- **Unanticipated Uses**: Creative applications of GenAI tools that go beyond their documented or intended purposes, emerging through student experimentation
+- **Speculative Design with AI**: Using AI-generated images to create "future catalogs" imagining products and inventions that don't yet exist
+- **AI as Brainstorming Tool**: Using ChatGPT not to generate full designs but to uncover associated imagery and concepts that spark human creativity
+- **Process Transparency**: Requiring students to explain how they used AI in assignments, promoting awareness and critical reflection
+- **AI Sustainability Paradox**: The tension between using GenAI for sustainable interaction design while acknowledging these tools themselves consume significant energy and resources
 
 ## Theoretical Framework
-The paper draws on HCI's established tradition of creativity support tools (CSTs) research and design thinking pedagogy as its theoretical anchors. It uses the five-phase design thinking model as an organizing structure to map GenAI tool affordances to specific phases of the design process. The authors also invoke the human-centered design (HCD) tradition to foreground the tension between AI's potential to represent broader user needs (via training data) and the foundational principle that design should center actual human users.
-
-The paper is explicitly a position/provocation paper rather than a theory-building contribution. Its theoretical contribution is primarily conceptual: introducing the notion of "unanticipated uses" as a distinct analytical category that differs from both intended tool uses and outright misuse, requiring new pedagogical frameworks.
+The paper situates GenAI tools within the design thinking process, noting that practitioners follow five non-linear steps: empathize, define, ideate, prototype, and test. The authors engage with emerging HCI literature on GenAI in design education, referencing York's (2023) evaluation of ChatGPT for design assistance, Schmidt et al.'s (2024) work on simulating users with ChatGPT, and Desai et al.'s (2023) experiments incorporating ChatGPT into HCI research workflows.
 
 ## Methods
-This is a position paper combining (1) a brief literature review of published HCI and design research on GenAI tools, (2) a survey of available GenAI tools and their intended vs. actual uses in design contexts (presented as Table 1), and (3) selected classroom examples from the authors' experience teaching at Pratt Institute's School of Information. The methodology is reflective and discursive rather than systematic or empirical.
+This is a position paper drawing on classroom observations and examples of student work from graduate speculative design and visual design classes at Pratt Institute. The authors present specific student projects including: "Giant Wheat" (speculative food futures), "NanoCharm Enigma" (future fashion/self-defense jewelry), "Medicall" (future museum catalog), and "CoralGuardian/SeaSculptor" (sustainable interaction design concepts). These examples illustrate unanticipated AI uses without constituting formal empirical research.
 
 ## Main Arguments
-- **GenAI tools are being creatively repurposed in HCI education beyond their intended functions**: Students are using tools like ChatGPT for tasks such as generating user stories, creating interview scripts, developing personas, and producing high-fidelity prototypes — uses that emerged organically rather than from explicit instruction.
-- **ChatGPT can serve as an effective design assistant for novice students in early design phases**: York's work (cited) found it useful for brainstorming, user persona creation, card-sorting, information architecture, and wireflow creation — suggesting potential as an educational scaffold.
-- **LLMs may represent broader user needs than small study samples**: Schmidt et al. (cited) propose that the vast training data of LLMs could allow them to represent a wider diversity of user perspectives than typical user study participants, though this claim remains contested.
-- **Known failure modes create inherent risks for user research artifacts**: Hallucinations and biases in GenAI output mean that AI-generated interview scripts, personas, or requirements documents may be subtly flawed in ways that are difficult for novice students to detect.
-- **Educators must ask whether GenAI use reflects authentic student learning**: The core pedagogical challenge is whether AI-generated artifacts represent genuine understanding or merely competent tool use — a distinction that matters both for assessment and for preparing ethical practitioners.
-- **Ethical and equity questions demand explicit curriculum attention**: Issues of data privacy, labor exploitation in AI training, environmental cost, and differential access to premium tools require direct discussion rather than assumption in HCI courses.
+- GenAI tools are being creatively repurposed by students in ways that contribute to user experience design and research in novel, unexpected ways
+- Students gravitated toward image creation and iteration with MidJourney even without explicit assignment requirements
+- Only a handful of students experimented with truly novel uses, such as reverse-engineering terminology to images for brainstorming
+- AI-generated images can be eye-catching and useful for quickly generating novel concepts, but often lack the detail, functionality, and personality of human-created work
+- There is no solid, shared understanding yet of how GenAI can meaningfully contribute to design and research activities in education
+- Educators must actively experiment and disseminate knowledge about unanticipated but useful AI applications
+- Banning GenAI is one option but students will likely use tools regardless; education about appropriate use may be more effective
+- The ethical implications (copyright, plagiarism, bias, environmental damage) must be explicitly addressed in curricula
 
 ## Limitations & Critiques
-As a position paper, the work offers provocations and questions rather than empirical evidence or actionable guidelines. The classroom examples are anecdotal and not systematically analyzed. The literature review is selective and brief, making it difficult to assess the completeness of the tool survey or the representativeness of cited studies. The paper does not provide concrete pedagogical frameworks or assessment rubrics for educators seeking to act on its recommendations.
-
-The tension the paper identifies — between embracing unanticipated uses and maintaining academic integrity — is real, but the paper stops short of resolving it, leaving educators with questions but few answers. This is partly the nature of the genre (position paper) but may frustrate practitioners seeking guidance.
-
-## Connections
-- [[communities/HCI_Education_and_Pedagogy]] - Research community
-- [[methods/Position_Paper_Literature_Review]] - if applicable
-- [[frameworks/Design_Thinking]] - if applicable
+The paper presents observations and examples rather than systematic research findings. The focus on one institution (Pratt) limits generalizability. The rapid evolution of GenAI tools means specific observations may quickly become outdated. The paper raises questions but provides few definitive answers about best practices. The examples focus primarily on visual design applications and may not represent GenAI use in other HCI contexts. The tension between encouraging AI use and developing students' foundational design skills remains unresolved.

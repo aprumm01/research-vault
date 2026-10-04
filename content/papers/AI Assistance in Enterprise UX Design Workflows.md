@@ -1,8 +1,40 @@
 ---
-source_file: "AI assistance in enterprise UX design workflows enhancing design brief creation for designers.pdf"
+source_file: AI assistance in enterprise UX design workflows enhancing design brief
+  creation for designers.pdf
 type: paper
-authors: "Zijian Zhu, Hyemin Lee, Younghwan Pan, Pengyu Cai"
+authors: Zijian Zhu, Hyemin Lee, Younghwan Pan, Pengyu Cai
 year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- AI assistance reduced design brief creation time by 49% (from 1.2 hours to 0.6 hours)
+  while improving understandability by 4.76% and operability by 4.44%
+- AI assistance decreased accuracy by 4.17% as AI-generated content sometimes contained
+  distorted information requiring verification
+- 100% of senior UX designers (n=8) used AI tools in daily work, with the designer
+  role shifting from 'executors' to 'clients' directing AI 'contractors'
+- AI tools are most valuable for information retrieval, verification, analysis, communication,
+  and decision-making support, but designers must maintain critical oversight of AI
+  outputs
+- Key pain points with AI include content distortion with extensive project data,
+  mechanical/uniform outputs lacking personalization, and poor priority judgment in
+  complex tasks
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 8
+sample_type: senior UX designers with 5-11 years experience from diverse industries
+context: Enterprise UX design workflows in corporate settings across automotive, gaming,
+  e-commerce, social media, and augmented reality industries
+study_type: empirical
 ---
 
 # AI Assistance in Enterprise UX Design Workflows: Enhancing Design Brief Creation for Designers

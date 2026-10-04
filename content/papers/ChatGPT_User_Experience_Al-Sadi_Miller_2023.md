@@ -1,10 +1,39 @@
 ---
-source_file: "Exploring the Impact of Artificial Intelligence language model ChatGPT on the User Experience.pdf"
+source_file: Exploring the Impact of Artificial Intelligence language model ChatGPT
+  on the User Experience.pdf
 type: journal article
 authors:
-  - Zaina Al-Sa'di
-  - Keith Miller
+- Zaina Al-Sa'di
+- Keith Miller
 year: 2023
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- ChatGPT is most beneficial in the Define and Ideate stages of Design Thinking, particularly
+  for synthesizing user research data, creating personas, and developing user journey
+  maps
+- AI functions best as a 'thought partner' that augments rather than replaces designer
+  expertise, with human skills remaining essential for Empathize and Test stages requiring
+  emotional intelligence
+- ChatGPT accelerates brainstorming by generating numerous design alternatives and
+  feature suggestions quickly during the Ideate stage
+- AI outputs require careful validation and refinement by human designers to ensure
+  accuracy and relevance, indicating quality concerns with direct AI-generated content
+- UX designers with 1-10 years experience perceive AI as a collaborative tool for
+  UX research synthesis rather than a replacement for design judgment
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 5
+sample_type: UX designers with varying experience levels (1-10 years)
+context: Professional UX design practice, video conferencing interviews
+study_type: empirical
 ---
 
 # Exploring the Impact of AI Language Model ChatGPT on User Experience

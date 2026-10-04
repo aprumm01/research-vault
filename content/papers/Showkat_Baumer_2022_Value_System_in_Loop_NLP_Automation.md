@@ -1,10 +1,38 @@
 ---
-source_file: "It's Like the Value System in the Loop.pdf"
-type: "conference paper"
+source_file: It's Like the Value System in the Loop.pdf
+type: conference paper
 authors:
-  - "Dilruba Showkat"
-  - "Eric P. S. Baumer"
+- Dilruba Showkat
+- Eric P. S. Baumer
 year: 2022
+builds_on:
+- '[[frameworks/Value Sensitive Design]]'
+- '[[methods/Participatory Design]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Value System Rift]]'
+key_claims:
+- 'Domain experts identify five key values for NLP automation: autonomy, freedom from
+  biases, privacy, trust, and human welfare'
+- Design fiction effectively elicits 'not-to-design' implications, revealing features
+  that should not be implemented despite technical feasibility
+- Tensions exist between automation benefits and professional values, with experts
+  concerned about systems that might replace human judgment in ethically sensitive
+  domains
+- Non-technical domain experts should be included early in NLP system design conversations
+  to align technical capabilities with professional values
+- Participants across both journalism and legal domains rejected automation of core
+  professional judgments, prioritizing human decision-making in high-stakes contexts
+methodology: '[[methods/Participatory Design]]'
+sample_size: 8
+sample_type: investigative journalists and legal professionals from non-profit organizations
+context: participatory design fiction workshops with domain experts in journalism
+  and legal research
+study_type: empirical
 ---
 
 # "It's Like the Value System in the Loop": Domain Experts' Values Expectations for NLP Automation

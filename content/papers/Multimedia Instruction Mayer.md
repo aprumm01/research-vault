@@ -2,8 +2,35 @@
 source_file: Mayer2014_Chapter_MultimediaInstruction.pdf
 type: handbook_chapter
 authors:
-  - Richard E. Mayer
+- Richard E. Mayer
 year: 2014
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Deep Learning (Educational)]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- 'The multimedia principle: People learn more deeply from words and pictures combined
+  than from words alone, supported by decades of experimental evidence'
+- Working memory has dual channels with limited capacity - separate processing for
+  verbal and pictorial information constrains simultaneous learning
+- 'Extraneous processing can be reduced through six evidence-based principles: coherence,
+  signaling, spatial contiguity, temporal contiguity, redundancy, and expectation'
+- Essential processing should be managed through segmenting complex lessons, pretraining
+  key concepts, and using modality principle (graphics with spoken rather than printed
+  text)
+- Generative processing is fostered through multimedia presentation, personalization
+  with conversational style, and human voice rather than machine voice
+methodology: '[[methods/Meta-Analysis]]'
+sample_size: null
+sample_type: Synthesis across multiple controlled experiments, primarily with explanatory
+  STEM content
+context: Laboratory studies of multimedia learning, primarily from UC Santa Barbara
+study_type: review
 ---
 
 # Multimedia Instruction

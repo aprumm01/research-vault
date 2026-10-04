@@ -1,11 +1,46 @@
 ---
-source_file: "Poets Over Quants Automation and AI Threats Increase the Value People Place on Creativity.pdf"
+source_file: Poets Over Quants Automation and AI Threats Increase the Value People
+  Place on Creativity.pdf
 type: journal article
 authors:
-  - Marko Gamez-Djokic
-  - Adam Waytz
-  - Maryam Kouchaki
-year: 2025
+- Marko Gamez-Djokic
+- Adam Waytz
+- Maryam Kouchaki
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Dissonance]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Technological Anxiety]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Divergent Thinking]]'
+key_claims:
+- When people perceive automation and AI as threats to employment, they increase the
+  value they place on creative skills relative to analytical/quantitative skills across
+  nine studies (N=2,320)
+- 'The valuation shift occurs through a dual mechanism: people perceive creativity
+  as having low substitutability (hard for AI to replace) and high complementarity
+  (works well alongside automation) with AI'
+- Automation threat produces behavioral consequences beyond attitudes, translating
+  to actual choices in creativity-focused education, career path selections favoring
+  creative roles, and investment in developing creative skills
+- 'The effect is asymmetric: automation threat specifically elevates creativity valuation
+  rather than simply devaluing analytical skills absolutely'
+- Skill revaluation represents an adaptive strategic response to technological change
+  where people seek to maintain labor market value by investing in perceived 'automation-proof'
+  skills
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 2320
+sample_type: diverse samples across demographics, occupations, and countries (primarily
+  US)
+context: labor market perceptions and educational/career choices in context of AI
+  automation
+study_type: empirical
 ---
 
 # Poets Over Quants: Automation and AI Threats Increase the Value People Place on Creativity
