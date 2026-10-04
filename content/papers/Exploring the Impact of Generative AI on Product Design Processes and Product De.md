@@ -1,9 +1,51 @@
 ---
-source_file: "hiring and org practice/Exploring the Impact of Generative AI on Product Design Processes and Product Designers.pdf"
+source_file: hiring and org practice/Exploring the Impact of Generative AI on Product
+  Design Processes and Product Designers.pdf
 type: paper
-authors: "Constantine Stephanidis"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Constantine Stephanidis
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Generative AI dramatically accelerates ideation and concept exploration phases,
+  enabling designers to generate dozens of design alternatives in minutes rather than
+  days, but AI contributions decline sharply in later refinement phases requiring
+  detailed specification and technical feasibility assessment
+- Prompt engineering emerges as critical new design competency with substantial performance
+  variations between designers based on proficiency—expert users achieve significantly
+  higher quality outputs faster than novices
+- Designers experience creative identity tensions with questions of creative ownership
+  when substantial design elements originate from AI systems, with some reporting
+  diminished satisfaction despite productivity gains while others embrace curatorial
+  role as 'AI-augmented designers'
+- Organizational readiness—including leadership support, workflow redesign willingness,
+  training investment, and experimentation culture—is stronger predictor of successful
+  AI adoption than individual designer attitudes or tool capabilities
+- Quality control and brand consistency concerns create hesitancy in client-facing
+  work due to lack of mature evaluation frameworks for AI-generated design elements
+  including anatomical inaccuracies, perspective inconsistencies, and style drift
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: product designers across multiple organizations at different AI maturity
+  stages
+context: professional product design practice with generative AI tools (DALL-E, Midjourney,
+  ChatGPT)
+study_type: empirical
 ---
 
 # Exploring the Impact of Generative AI on Product Design Processes and Product Designers

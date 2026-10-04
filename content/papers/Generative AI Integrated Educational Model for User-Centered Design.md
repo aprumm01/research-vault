@@ -1,9 +1,51 @@
 ---
-source_file: "ACM/Generative AI Integrated Educational Model for User-Centered Design.pdf"
+source_file: ACM/Generative AI Integrated Educational Model for User-Centered Design.pdf
 type: paper
-authors: "Yanan Wu∗"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Yanan Wu∗
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/User-Centered Design]]'
+- '[[concepts/Double Diamond Model]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+key_claims:
+- AI-integrated curriculum resulted in 4.03 point higher average scores (86.15 vs
+  82.12, p < 0.001) compared to traditional methods, indicating measurable enhancement
+  of learning outcomes
+- ChatGPT demonstrated significantly higher usability (SUS score 78.975) compared
+  to Midjourney (SUS score 68.4), reflecting different interaction models and learning
+  curves between language-based and visual generation tools
+- Generative AI significantly increases divergent phase breadth through rapid multifaceted
+  idea generation and increases convergent phase efficiency through quick refinement,
+  enabling expanded exploration and accelerated iteration cycles
+- Students maintain dominant decision-making position with AI as complementary tool,
+  requiring continuous critical evaluation of AI-generated content which can be predictable,
+  stereotypical, or contain inaccurate information
+- Traditional empathy-based methods (focus groups, in-depth interviews, on-site observation)
+  remain essential for authentic user insights that AI cannot replicate, requiring
+  balanced both/and approach rather than replacement
+methodology: '[[methods/Mixed Methods Research]]'
+sample_size: 48
+sample_type: third-year Visual Communication design students
+context: User Interface Design curriculum at Jimei University (Chengyi College), China,
+  June-July 2024
+study_type: empirical
 ---
 
 # Generative AI Integrated Educational Model for User-Centered Design

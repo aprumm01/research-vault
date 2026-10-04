@@ -1,16 +1,52 @@
 ---
-title: "From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling"
-authors: "Ana M. Aranda, Kathrin Sele, Helen Etchanchu, Jonne Y. Guyt, Eero Vaara"
+title: 'From Big Data to Rich Theory: Integrating Critical Discourse Analysis with
+  Structural Topic Modeling'
+authors: Ana M. Aranda, Kathrin Sele, Helen Etchanchu, Jonne Y. Guyt, Eero Vaara
 year: 2021
 type: paper
 tags:
-  - paper
-  - methods
-  - critical-discourse-analysis
-  - topic-modeling
-  - mixed-methods
-source_file: "European Management Review - 2021 - Aranda - From Big Data to Rich Theory  Integrating Critical Discourse Analysis with.pdf"
-community: "GenAI in UX and Design Practice"
+- paper
+- methods
+- critical-discourse-analysis
+- topic-modeling
+- mixed-methods
+source_file: European Management Review - 2021 - Aranda - From Big Data to Rich Theory  Integrating
+  Critical Discourse Analysis with.pdf
+community: GenAI in UX and Design Practice
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[methods/Mixed Methods Research]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Reflexive Delegation]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- Integrating Critical Discourse Analysis with Structural Topic Modeling creates a
+  powerful mixed-methods approach that enables scholars to analyze large textual datasets
+  while maintaining depth, contextualization, and critical stance
+- Neither the researcher nor the actual technique performs analysis in isolation;
+  in CDA the researcher guides and is guided by analytical methods, while in STM choices
+  made by the researcher shape outcomes and vice versa, creating a mutually constitutive
+  process
+- 'The combination of CDA and STM overcomes individual method limitations through
+  complementarity: STM provides systematic, replicable topic identification in large
+  corpora, while CDA provides deep qualitative interpretation of power dynamics and
+  legitimation strategies'
+- An explanatory transformative mixed-methods design that moves from quantitative
+  to qualitative analysis (but remains iterative) ensures the critical ideological
+  stance inherent to CDA is maintained throughout computational analysis
+- Analysis of 3,688 tobacco industry articles (1986-2016) demonstrates that the integrated
+  approach reveals complex discursive dynamics invisible to either method alone, showing
+  anti-smoking groups mainly draw on health discourse while legal discourse is shared
+  between government and industry
+methodology: '[[methods/Mixed Methods Research]]'
+sample_size: 3688
+sample_type: newspaper articles from The New York Times
+context: US tobacco industry discourse 1986-2016
+study_type: empirical
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling

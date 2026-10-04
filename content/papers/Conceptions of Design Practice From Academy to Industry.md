@@ -1,9 +1,39 @@
 ---
-source_file: "ACM/Conceptions of Design Practice From Academy to Industry.pdf"
+source_file: ACM/Conceptions of Design Practice From Academy to Industry.pdf
 type: paper
-authors: "Alexandros Nikolaos Lotsos"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Alexandros Nikolaos Lotsos
+community: GenAI in UX and Design Practice
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Problem Framing]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Design-Based Learning]]'
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- Design students enter industry with academic conceptions emphasizing user research,
+  systematic process, and ethical considerations that don't always align with business-driven
+  industry priorities
+- New professionals quickly learn industry design practice emphasizes speed, stakeholder
+  management, and business outcomes over thorough research or critical reflection
+- Different contexts legitimately require different design practice models and success
+  criteria, rather than academic views being 'wrong' and industry 'right'
+- HCI/design programs training both researchers/scholars and practitioners face tensions
+  between critical academic values and vocational industry preparation
+- Much professional design practice knowledge (navigating politics, managing constraints,
+  making pragmatic tradeoffs) is learned on the job rather than in the academy
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: designers at various career stages including recent graduates and mid-career
+  professionals
+context: academy-to-industry transition for UX, Product, and Interaction designers
+study_type: empirical
 ---
 
 # Conceptions of Design Practice From Academy to Industry

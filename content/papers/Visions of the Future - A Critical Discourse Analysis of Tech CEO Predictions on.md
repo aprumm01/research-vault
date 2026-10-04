@@ -1,9 +1,45 @@
 ---
-source_file: "EDU/lit review documents/Visions of the Future - A Critical Discourse Analysis of Tech CEO Predictions on AI and the Labor Market.pdf"
+source_file: EDU/lit review documents/Visions of the Future - A Critical Discourse
+  Analysis of Tech CEO Predictions on AI and the Labor Market.pdf
 type: paper
-authors: "the Labor Market"
-community: "AI and Future of Work"
-tags:
+authors: the Labor Market
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+key_claims:
+- CEO narratives command immense authority over how society imagines automation, actively
+  legitimating political-economic outcomes while concealing asymmetries of power and
+  social trade-offs embedded in AI rollout
+- 'Four dominant narrative frames perform ideological work: technological determinism
+  (progress as irresistible force), frictionless transition (minimal worker dislocation),
+  corporate beneficence (companies as guardians of worker welfare), and regulatory
+  obstruction (regulation as destroyer of innovation)'
+- 'Corporate discourse uses three mechanisms to perpetuate power: legitimation (justifying
+  displacement as progress), reification (converting contingent processes into natural
+  forces), and problematization (framing regulation as anti-innovation)'
+- CEO discourse directly maps onto material corporate actions, with language patterns
+  corresponding to fierce lobbying against AI regulation and labor protections
+- Universal Basic Income advocacy by tech CEOs like Altman exemplifies discursive
+  alchemy that normalizes potential inequalities while presenting corporate-led solutions
+  as inevitable rather than democratic alternatives
+methodology: '[[methods/Content Analysis]]'
+sample_size: 450
+sample_type: CEO statements from earnings calls, Senate testimonies, media appearances,
+  and op-eds
+context: Tech industry CEO public communications regarding AI and labor market impacts
+study_type: empirical
 ---
 
 # Visions of the Future - A Critical Discourse Analysis of Tech CEO Predictions on AI and the Labor Market

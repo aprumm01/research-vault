@@ -1,9 +1,48 @@
 ---
-source_file: "hiring and org practice/Designer experiences and perspectives on the role of generative AI in industrial design.pdf"
+source_file: hiring and org practice/Designer experiences and perspectives on the
+  role of generative AI in industrial design.pdf
 type: paper
-authors: "AI & SOCIETY"
-community: "Design Theory and Cognition"
-tags:
+authors: AI & SOCIETY
+community: Design Theory and Cognition
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Prompt Engineering]]'
+key_claims:
+- GenAI models lack understanding of human factors and produce low-feasibility content
+  that inaccurately conveys functionality, creating unique challenges for industrial
+  designers distinct from other creative fields
+- Industrial design involves unique feasibility concerns (human factors, use flow,
+  context, manufacturability) that distinguish it from art/design fields with fewer
+  constraints, necessitating domain-specific examination of GenAI adoption
+- Factors influencing GenAI adoption involve interplay of communication (prompt engineering,
+  conveying intent), automation (efficiency, handling laborious tasks), and autonomy
+  (creative control, professional identity)
+- Existing research concentrates on concept development and front-end phases while
+  embodiment, detailing, and presentation phases remain underexplored despite their
+  importance to industrial design workflows
+- Product designers face significant challenges converging inspiring AI-generated
+  content into user-friendly, functioning physical products due to AI's lack of understanding
+  of manufacturability and ergonomic constraints
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 32
+sample_type: industrial designers and design students
+context: Five workshops with hands-on AI image generator use (Midjourney, Stable Diffusion)
+  and focus group discussions
+study_type: empirical
 ---
 
 # Designer experiences and perspectives on the role of generative AI in industrial design

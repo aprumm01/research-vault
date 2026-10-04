@@ -1,9 +1,44 @@
 ---
-source_file: "2026/i609-sustainability/Xia25.pdf"
+source_file: 2026/i609-sustainability/Xia25.pdf
 type: paper
-authors: "Tianqi Xiao, Francesco Fuso Nerini, H. Damon Matthews, Massimo Tavoni, Fengqi You"
-community: "Sustainable Computing"
-tags: [sustainability, i609, artificial-intelligence, net-zero, water-footprint, carbon-emissions, energy-policy]
+authors: Tianqi Xiao, Francesco Fuso Nerini, H. Damon Matthews, Massimo Tavoni, Fengqi
+  You
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- artificial-intelligence
+- net-zero
+- water-footprint
+- carbon-emissions
+- energy-policy
+year: 2025
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- AI servers in the United States could generate an annual water footprint ranging
+  from 731 to 1,125 million m³ and additional annual carbon emissions from 24 to 44
+  Mt CO2-equivalent between 2024 and 2030
+- Indirect water footprint contributes 71% of total water use, with direct cooling
+  use at only 29%, highlighting that grid electricity generation dominates water consumption
+- The AI server industry is unlikely to meet its net-zero aspirations by 2030 without
+  substantial reliance on highly uncertain carbon offset and water restoration mechanisms
+- Combined best practices cut residual emissions and water footprints by 73% and 86%,
+  respectively, but achieving net-zero requires 28 GW of wind or 43 GW of solar additions
+  beyond current plans
+- Texas, Montana, Nebraska, and South Dakota emerge as optimal candidates for AI server
+  installation, considering both water scarcity concerns and future decarbonization
+  efforts
+methodology: '[[methods/Scenario Building]]'
+sample_size: null
+sample_type: null
+context: United States AI server deployment projections 2024-2030
+study_type: theoretical
 ---
 
 # Environmental Impact and Net-Zero Pathways for Sustainable Artificial Intelligence Servers in the USA

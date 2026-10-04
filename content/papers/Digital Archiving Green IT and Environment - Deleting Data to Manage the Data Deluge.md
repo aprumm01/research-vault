@@ -1,9 +1,43 @@
 ---
-source_file: "2026/i609-sustainability/Digital archiving, green IT and environment.pdf"
+source_file: 2026/i609-sustainability/Digital archiving, green IT and environment.pdf
 type: paper
-authors: "Geert-Jan van Bussel, Nikki Smit, John van de Pas"
-community: "Sustainable Computing"
-tags: [sustainability, i609, green-IT, digital-archiving, data-deluge, energy-consumption, e-waste]
+authors: Geert-Jan van Bussel, Nikki Smit, John van de Pas
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- green-IT
+- digital-archiving
+- data-deluge
+- energy-consumption
+- e-waste
+year: 2015
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Storage reduction of 45% achievable through value-based data disposal using Archival
+  Retention Level (ARL) checklists and retention schedules
+- Electricity cost reduction of 35% calculated from storage capacity reduction in
+  organizational data centers
+- 75% of all organizational data and records can be permanently deleted over time
+  based on retention schedule analysis, with only 5% requiring retention longer than
+  20 years
+- In 2008, storage networks were responsible for 15% of total ICT energy costs, doubling
+  to approximately 30% by 2011, with electricity costs approaching 50% of overall
+  organizational energy costs
+- 37% of organizational data storage capacity consumed by duplicate files addressable
+  through deduplication techniques
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 3
+sample_type: case studies within international trade corporation subsidiaries (European,
+  Asian, South American)
+context: International trade corporation with 45 TB global data storage capacity across
+  multiple geographic regions
+study_type: empirical
 ---
 
 # Digital Archiving, Green IT and Environment: Deleting Data to Manage Critical Effects of the Data Deluge

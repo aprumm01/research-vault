@@ -1,4 +1,42 @@
-# Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding
+---
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[methods/Think-Aloud Protocol]]'
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+critiques: []
+tensions_with:
+- '[[concepts/Fauxtomation]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Synthetic Users]]'
+key_claims:
+- Visual grounding is essential for authentic UX evaluation; automation operating
+  only on DOM representations misses usability issues that human users encounter,
+  such as visual clutter, layout ambiguity, and insufficient contrast
+- Think Aloud reasoning elevates automation from testing to research by providing
+  explanatory qualitative data about the 'why' behind usability frictions, errors
+  or delays, not just aggregate scores
+- Step-wise SEQ evaluation reveals friction gradients that aggregate metrics obscure;
+  Recreation.gov evaluation showed initial navigation succeeded (SEQ 7) but date selection
+  immediately dropped to SEQ 1-2, enabling precise identification of problem areas
+- Avenir-UX generated a SUS score of 55/100 (Grade D) for Recreation.gov with detailed
+  friction mapping, demonstrating capability to produce industry-standard usability
+  metrics through automated agent interaction
+- Experience-Imitation Planning enables context-aware evaluation by incorporating
+  external knowledge sources, making agent behavior representative of informed users
+  rather than naive exploration
+methodology: '[[methods/Case Study]]'
+sample_size: 1
+sample_type: recreational website (Recreation.gov permit booking system)
+context: Automated UX evaluation of web interface using multimodal LLM agent with
+  visual grounding
+study_type: design
+---# Avenir-UX: Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding
 
 **Authors:** Wee Joe Tan, Zi Rui Lucas Lim, Shashank Durgad, Karim Obegi, Aiden Yiliu Li  
 **Affiliation:** University College London  

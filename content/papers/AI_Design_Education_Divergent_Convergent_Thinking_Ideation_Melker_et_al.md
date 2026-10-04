@@ -1,9 +1,52 @@
 ---
-source_file: "Mel25b.pdf"
+source_file: Mel25b.pdf
 type: paper
-authors: "Susanne Melker, Emma Gabrils, Victor Villavicencio, Montathar Faraon, Kari Rönkkö"
-community: "AI in Design Education"
-tags:
+authors: Susanne Melker, Emma Gabrils, Victor Villavicencio, Montathar Faraon, Kari
+  Rönkkö
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+key_claims:
+- Current Creativity Support Tools predominantly support divergent thinking while
+  neglecting convergent thinking—the refinement phase involving evaluation, decision-making,
+  and systematic refinement
+- AI is most appropriately conceptualized as a facilitator rather than a content generator
+  in design education contexts, with a motivational role prompting exploration in
+  divergent phases and a cooperative role providing structured guidance in convergent
+  phases
+- 'Students require four key features in AI-enhanced CSTs: clarity and comprehension
+  (transparent AI reasoning), visualization of user journeys (process trajectory visibility),
+  appropriate AI role definition (neither too directive nor too passive), and balance
+  between predictable structured guidance and unpredictable creative prompts'
+- Unpredictable AI outputs stimulate creative exploration while predictable structured
+  guidance supports convergent refinement—effective AI facilitation requires dynamic
+  modulation between these modes
+- The framework extends existing CST design theory by providing explicit conceptual
+  grounding for AI integration that addresses the cognitive structure of creative
+  design work, not just interface convenience
+methodology: '[[methods/Interview]]'
+sample_size: 10
+sample_type: design students in higher education
+context: design higher education ideation processes
+study_type: design
 ---
 
 # Artificial Intelligence for Design Education: A Conceptual Approach to Enhance Students' Divergent and Convergent Thinking in Ideation Processes

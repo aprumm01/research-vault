@@ -1,9 +1,44 @@
 ---
-source_file: "2026/i609-sustainability/3326920.pdf"
+source_file: 2026/i609-sustainability/3326920.pdf
 type: paper
-authors: "Tova Milo"
-community: "Sustainable Computing"
-tags: [sustainability, i609, data-management, data-disposal, GDPR, big-data]
+authors: Tova Milo
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- data-management
+- data-disposal
+- GDPR
+- big-data
+year: 2019
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- By 2020, demand for storage will outstrip production by six zettabytes—nearly double
+  the available storage capacity, necessitating systematic data disposal frameworks
+  rather than continued accumulation
+- Current data disposal approaches are ad hoc and application-specific, lacking solid
+  scientific foundations for Web-scale data disposal that encompasses formal models,
+  reasoning capabilities, and efficient query evaluation over partial data
+- GDPR and similar regulations mandate data minimization and retention limits, transforming
+  data disposal from optional optimization into legal requirement requiring 'dispose
+  by design' frameworks
+- Smaller data sets often require smaller processing resources and less sophisticated
+  tools, providing economic benefits beyond storage savings through reduced computational
+  costs
+- Effective data disposal must retain the knowledge hidden in the data while respecting
+  storage, processing, and regulatory constraints, requiring intelligent summarization
+  rather than simple deletion
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Database management and data governance in context of exponential data growth
+  and GDPR compliance
+study_type: theoretical
 ---
 
 # Getting Rid of Data

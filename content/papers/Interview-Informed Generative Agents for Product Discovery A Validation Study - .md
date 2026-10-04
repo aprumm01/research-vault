@@ -1,9 +1,38 @@
 ---
-source_file: "synth users/Interview-Informed Generative Agents for Product Discovery A Validation Study - Wang et al - 2026.pdf"
+source_file: synth users/Interview-Informed Generative Agents for Product Discovery
+  A Validation Study - Wang et al - 2026.pdf
 type: paper
-authors: "Validation Study"
-community: "AI and Future of Work"
-tags:
+authors: Validation Study
+community: AI and Future of Work
+tags: null
+year: 2026
+builds_on:
+- '[[concepts/Synthetic Users]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+key_claims:
+- LLMs show strong performance on standardized social science instruments but their
+  value for product discovery in concept testing scenarios remains unclear
+- Interview-informed generative agents personalized from user workflow interviews
+  can simulate user responses in concept testing, providing a potential alternative
+  to traditional user research methods
+- Validation against actual participant responses is essential for establishing agent
+  utility in product discovery, as performance on standardized instruments does not
+  directly translate to product evaluation tasks
+- Personalization from in-depth workflow interviews with knowledge workers may improve
+  agent fidelity over generic LLM responses in representing authentic user perspectives
+- Product discovery requires different validation frameworks than social science instrument
+  performance, with comparison between agent and participant evaluations revealing
+  boundary conditions for synthetic user research methods
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: knowledge workers
+context: product discovery and concept testing for novel AI concepts
+study_type: empirical
 ---
 
 # Interview-Informed Generative Agents for Product Discovery A Validation Study - Wang et al - 2026

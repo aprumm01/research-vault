@@ -1,9 +1,34 @@
 ---
-source_file: "EDU/r511/Reconciling-ADDIE-and-Agile-instructional-design-models-case-study.pdf"
+source_file: EDU/r511/Reconciling-ADDIE-and-Agile-instructional-design-models-case-study.pdf
 type: paper
-authors: "New Trends and Issues"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: New Trends and Issues
+community: GenAI in UX and Design Practice
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Design Thinking]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- ADDIE model's linear cooperation assumptions become limiting in dynamic complex
+  environments, requiring adaptation to more flexible approaches
+- Hybrid approaches combining ADDIE structure with Agile principles successfully accommodate
+  multinational project constraints including small team size and geographic dispersion
+- Communication skills and personal qualities emerge as more critical success factors
+  than strict process adherence for atypical instructional design projects
+- Context-specific project characteristics should drive instructional design model
+  selection rather than universal model preference, with pure models inadequate for
+  complex situations
+- Successful reconciliation involves maintaining ADDIE's systematic analysis rigor
+  while incorporating Agile's iterative cycles and people-oriented communication over
+  role-based handoffs
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: e-learning development team for cultural awareness training project
+context: geographically dispersed multinational small team developing e-learning course
+study_type: empirical
 ---
 
 # Reconciling-ADDIE-and-Agile-instructional-design-models-case-study

@@ -1,9 +1,41 @@
 ---
-source_file: "synth users/LLM Generated Persona is a Promise with a Catch - Li et al - 2025.pdf"
+source_file: synth users/LLM Generated Persona is a Promise with a Catch - Li et al
+  - 2025.pdf
 type: paper
-authors: "Ang Li"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Ang Li
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Synthetic Users]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/Persona Development]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Fauxtomation]]'
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- LLM-generated personas offer promise for transforming disciplines that rely on population-level
+  feedback, including social science, economic analysis, marketing research, and business
+  operations
+- Traditional methods to collect realistic persona data face significant challenges
+  that LLMs can address through cost and time efficiency advantages
+- LLM personas present a 'catch' - validity concerns and potential biases embedded
+  in training data temper their promise and require careful validation
+- Not all persona applications are equally suitable for LLM generation, requiring
+  critical evaluation of when LLM personas are appropriate
+- LLM-generated personas risk perpetuating stereotypes, missing marginalized populations,
+  and may have limited ability to capture cultural and demographic diversity
+methodology: '[[methods/Survey]]'
+sample_size: null
+sample_type: Comparative analysis of LLM-generated versus human-generated personas
+context: Cross-domain applications in social science, marketing, economics, and business
+  operations
+study_type: empirical
 ---
 
 # LLM Generated Persona is a Promise with a Catch - Li et al - 2025

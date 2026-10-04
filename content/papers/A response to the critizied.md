@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/r511/A response to the critizied.pdf"
+source_file: EDU/r511/A response to the critizied.pdf
 type: paper
-authors: "Author(s): Gordon Rowland"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Author(s): Gordon Rowland'
+community: GenAI in UX and Design Practice
+tags: null
+year: 1995
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Frame Analysis]]'
+critiques:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+tensions_with:
+- '[[concepts/Surface-Level Processing]]'
+- '[[frameworks/Predictive Processing]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Problem-Solution Co-evolution]]'
+key_claims:
+- ISD methods assume objectivist epistemology and well-defined problems, which may
+  not fit most authentic design situations requiring reflective skepticism and transformative
+  approaches
+- Effectiveness and efficiency as design criteria are biased toward transmissive models
+  of knowledge and are inappropriate for constructivist approaches to learning
+- Creativity better applies to design process activities like problem-setting and
+  inventing forms rather than to product features or 'creative instruction'
+- Following systematic procedures does not guarantee quality or creativity when problems
+  are ill-defined, complex, and context-dependent
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Instructional design field debate on systematic design methods
+study_type: theoretical
 ---
 
 # A response to the critizied

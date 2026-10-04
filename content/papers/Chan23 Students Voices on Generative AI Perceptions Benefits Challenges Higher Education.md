@@ -1,9 +1,51 @@
 ---
-source_file: "Cha23.pdf"
+source_file: Cha23.pdf
 type: paper
-authors: "Cecilia Ka Yuk Chan, Wenjie Hu"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Cecilia Ka Yuk Chan, Wenjie Hu
+community: HCI Education and Pedagogy
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- University students hold generally positive attitudes toward GenAI in teaching and
+  learning, primarily valuing personalized support, writing assistance, and research
+  acceleration, suggesting student readiness for AI integration that institutional
+  policies often lag behind
+- Students demonstrate nuanced awareness of both benefits and risks, recognizing GenAI's
+  learning support potential while expressing substantive concerns about accuracy,
+  privacy, academic integrity, and erosion of their own skill development
+- 'According to Biggs'' 3P model application, students'' perceptions of GenAI significantly
+  influence their learning approaches: positive perceptions and confidence correlate
+  with deep learning approaches that extend understanding, while uncertainty or anxiety
+  correlate with surface approaches'
+- Student concerns about AI's impact on holistic competency development—particularly
+  creativity and critical thinking—are prominent, indicating that the pedagogical
+  challenge is designing AI-supported learning that still develops these essential
+  capabilities
+- Student familiarity with and confidence in GenAI significantly shapes perceptions,
+  with more experienced users holding more differentiated views that distinguish appropriate
+  from inappropriate use cases
+methodology: '[[methods/Survey]]'
+sample_size: 399
+sample_type: undergraduate and postgraduate students from various disciplines
+context: University of Hong Kong, early ChatGPT adoption period (2023)
+study_type: empirical
 ---
 
 # Students' Voices on Generative AI: Perceptions, Benefits, and Challenges in Higher Education

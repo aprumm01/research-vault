@@ -1,9 +1,39 @@
 ---
-source_file: "EDU/r511/Wilmoth, Prigmore, & Bray (2010). HPT Models--cleaner.pdf"
+source_file: EDU/r511/Wilmoth, Prigmore, & Bray (2010). HPT Models--cleaner.pdf
 type: paper
-authors: "CHAPTER ONE"
-community: "AI and Future of Work"
-tags:
+authors: CHAPTER ONE
+community: AI and Future of Work
+tags: null
+year: 2010
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[frameworks/Human-Centered Design]]'
+key_claims:
+- HPT evolved from instructional design but shifted focus from what instructors teach
+  to what learners can do, and from learning outcomes to performance results in business
+  environments
+- Linear instructional design models proved inadequate for describing sophisticated,
+  multifaceted business environments, necessitating evolution to complex business
+  process models
+- Gilbert's principle establishes that improving performance begins with identifying
+  and resolving environmental barriers before addressing individual skills deficiencies
+- Rummler's framework requires simultaneous consideration of organizational, process,
+  and job/performer levels across different functions to achieve performance improvement
+- The proliferation of HPT models reflects diversity of perspectives and backgrounds
+  among pioneers, with models serving as conceptual and communication tools for visualizing
+  and managing complex performance improvement processes
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: Historical analysis of foundational HPT works
+context: Evolution of Human Performance Technology models from instructional design
+  roots
+study_type: review
 ---
 
 # Wilmoth, Prigmore, & Bray (2010). HPT Models--cleaner

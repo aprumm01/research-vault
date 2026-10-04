@@ -1,9 +1,39 @@
 ---
-source_file: "Embracing the AI-automation age.pdf"
+source_file: Embracing the AI-automation age.pdf
 type: paper
-authors: "Emmanuel Senior Tenakwah and Chrystie Watson"
-community: "AI and Future of Work"
-tags:
+authors: Emmanuel Senior Tenakwah and Chrystie Watson
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/Technological Unemployment]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- 40% of workforce activities face automation, requiring comprehensive upskilling
+  programs and career pathway redesign to address displacement concerns
+- 30% of companies report internal resistance to AI integration, representing cultural
+  transformation challenges that exceed technical implementation hurdles
+- HR leaders must function as translators bridging technology capabilities and human
+  skills alignment, positioning CHROs as indispensable change agents in AI workforce
+  transformation
+- Successful AI integration requires aligning automation strategies with business
+  goals through strategic workforce planning, creating new AI-centric roles including
+  automation architects and AI trainers
+- Sustainable AI-HRM integration must address environmental impacts, social inequalities,
+  and algorithmic bias perpetuation beyond technical efficiency gains
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: academic literature (2014-2024) and industry reports
+context: organizational AI adoption and workforce transformation
+study_type: review
 ---
 
 # Embracing the AI-automation age

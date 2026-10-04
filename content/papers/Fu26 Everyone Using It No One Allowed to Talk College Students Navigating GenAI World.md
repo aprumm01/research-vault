@@ -1,9 +1,43 @@
 ---
-source_file: "Fu26.pdf"
+source_file: Fu26.pdf
 type: paper
-authors: "Yue Fu, Yifan Lin, Jessica Wang, Sarah Tran, Alexis Hiniker"
-community: "Design Theory and Cognition"
-tags:
+authors: Yue Fu, Yifan Lin, Jessica Wang, Sarah Tran, Alexis Hiniker
+community: Design Theory and Cognition
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Self-Determination Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Intellectual Independence]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- Institutional pressures (deadlines, grading schemes, exam timing) drive students
+  to use AI even when they believe it undermines their learning, creating a structural
+  conflict between academic incentives and educational goals that individual willpower
+  cannot resolve
+- Campus-wide 'AI shame' phenomenon—where AI use is widespread but socially suppressed
+  ('everybody uses it but nobody talks about it')—pushes usage underground and prevents
+  honest institutional conversations about AI integration
+- Peer micro-communities establish de facto AI norms that override official institutional
+  policies, with these informal social norms operating more powerfully in shaping
+  behavior than formal guidelines
+- Students possess genuine values about AI use and desire authentic learning, but
+  environmental pressures create an intention-behavior gap that systematically undermines
+  their capacity to act on these values
+- Current institutional AI policies are perceived as generic, inconsistent across
+  instructors, and routinely violated, producing noncompliance that students do not
+  experience as transgressive
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 23
+sample_type: college students (undergraduates, master's, and doctoral students)
+context: large public university in the United States
+study_type: empirical
 ---
 
 # "Everyone's Using It, But No One Is Allowed to Talk About It": College Students' Experiences Navigating Higher Education in a Generative AI World

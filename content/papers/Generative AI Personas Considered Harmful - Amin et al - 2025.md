@@ -1,9 +1,46 @@
 ---
-source_file: "synth users/Generative AI Personas Considered Harmful - Amin et al - 2025.pdf"
+source_file: synth users/Generative AI Personas Considered Harmful - Amin et al -
+  2025.pdf
 type: paper
-authors: "Qatar Computing Research Institute, Hamad Bin Khalifa University, Doha, Qatar"
-community: "AI and Future of Work"
-tags:
+authors: Qatar Computing Research Institute, Hamad Bin Khalifa University, Doha, Qatar
+community: AI and Future of Work
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/Persona Development]]'
+critiques:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+tensions_with:
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Ironies of Automation]]'
+supports:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Complacency Risk]]'
+key_claims:
+- All 20 GenAIP challenges were rated problematic (M>4.0), with highest concerns for
+  hallucinations (M=5.94), over-sanitization (M=5.82), and lack of standardization
+  (M=5.59)
+- Twelve of 20 challenges are more problematic for GenAIPs than conventional personas,
+  particularly bias amplification, validation difficulties, and accessibility without
+  expertise
+- 52% of GenAI personas provided fabricated answers to unanswerable questions, demonstrating
+  the severity of hallucination challenges
+- 86% of GenAI-generated addiction personas were US-based despite no geographical
+  constraints in prompts, revealing systematic geographical bias
+- Effective GenAIP implementation requires human-AI collaboration with substantial
+  human oversight rather than automation, prioritizing user welfare over technical
+  efficiency
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 17
+sample_type: persona subject matter experts
+context: GenAI persona development and evaluation across HCI research
+study_type: empirical
 ---
 
 # Generative AI Personas Considered Harmful - Amin et al - 2025

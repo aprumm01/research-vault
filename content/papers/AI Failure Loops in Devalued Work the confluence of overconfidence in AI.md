@@ -1,9 +1,48 @@
 ---
-source_file: "AI Failure Loops in Devalued Work_the confluence of overconfidence in AI.pdf"
+source_file: AI Failure Loops in Devalued Work_the confluence of overconfidence in
+  AI.pdf
 type: paper
-authors: "Underconfidence in Worker Expertise"
-community: "AI and Future of Work"
-tags:
+authors: Underconfidence in Worker Expertise
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ironies of Automation]]'
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Epistemic Confinement]]'
+key_claims:
+- AI Failure Loops emerge when worker devaluation leads to ineffective AI deployments,
+  which further erode recognition of workers' skills, creating negative feedback loops
+  that deepen occupational devaluation
+- 'AI systems in feminized labor fail to complement situated, social, and tacit knowledge
+  underpinning worker expertise due to six interwoven failure modes: expertise misunderstanding,
+  poor contextual fit, inadequate governance, misaligned values, flawed automation
+  assumptions, and worker exclusion from design'
+- Devalued workers in feminized occupations are especially vulnerable to flawed AI
+  deployments resting on reductive understandings of their work, with recent AI capability
+  increases accelerating gross under-estimations of worker expertise and over-estimations
+  of AI capabilities
+- Failed AI deployments in social work, healthcare, and K-12 teaching demonstrate
+  that workplace AI systems frequently fall short of meaningfully supporting workers,
+  with tools being withdrawn following backlash, ignored by clinicians, or adding
+  to teacher workloads while compromising pedagogical autonomy
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: 'academic and grey literature across three feminized occupations: social
+  work, home healthcare, K-12 teaching'
+context: feminized labor contexts including social services, healthcare, and education
+  sectors
+study_type: theoretical
 ---
 
 # AI Failure Loops in Devalued Work the confluence of overconfidence in AI

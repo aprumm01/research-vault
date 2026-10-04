@@ -1,9 +1,39 @@
 ---
-source_file: "Closing_the_SocioTechnical_Gap_in_AI_The_Need_for_Measuring_Practitioners_Attitudes_and_Perceptions.pdf"
+source_file: Closing_the_SocioTechnical_Gap_in_AI_The_Need_for_Measuring_Practitioners_Attitudes_and_Perceptions.pdf
 type: paper
-authors: "Closing the Socio–"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Closing the Socio–
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- AI practitioners' predominant emphasis on algorithmic performance and technical
+  elegance creates a sociotechnical gap where systems may perform well technically
+  but fail socially
+- Developers' attitudes, values, and perceptions directly influence design decisions
+  and deployment strategies, making practitioner mental models critical determinants
+  of AI system impacts
+- Traditional computer science and engineering curricula inadequately prepare AI practitioners
+  for sociotechnical considerations, necessitating new pedagogical approaches
+- Closing the sociotechnical gap requires multi-level intervention at individual (practitioner
+  education), organizational (workplace culture), and field-level (professional standards)
+  scales
+- Systematically measuring practitioners' human-centered awareness creates baseline
+  for targeted educational interventions and organizational culture change
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: AI development practice and education
+study_type: theoretical
 ---
 
 # Closing the SocioTechnical Gap in AI The Need for Measuring Practitioners Attitudes and Perceptions

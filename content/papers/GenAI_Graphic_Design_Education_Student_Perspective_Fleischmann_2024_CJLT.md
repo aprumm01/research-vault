@@ -1,9 +1,47 @@
 ---
-source_file: "Fleischmann - 2024 - Generative Artificial Intelligence in Graphic Design Education A Student Perspective.pdf"
+source_file: Fleischmann - 2024 - Generative Artificial Intelligence in Graphic Design
+  Education A Student Perspective.pdf
 type: paper
-authors: "Katja Fleischmann"
-community: "AI in Design Education"
-tags:
+authors: Katja Fleischmann
+community: AI in Design Education
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Anxiety]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Critical Thinking]]'
+key_claims:
+- 17 graphic design students demonstrate 'pragmatic acceptance' of GenAI—neither uncritical
+  enthusiasm nor technophobia—but practical recognition that GenAI will change professional
+  practice and desire to develop competence with it
+- Students use GenAI primarily to speed up ideation in an ad hoc, self-directed manner
+  but maintain a 'sceptical view of its creative output,' indicating intuitive quality
+  gap recognition that educators can build on
+- Prompt engineering represents a genuinely new design competency requiring design
+  knowledge, analogous to how desktop publishing and the internet created new design
+  specializations in earlier technological eras
+- Design educators must adopt a 'critical engagement' approach to GenAI integration,
+  using critical analysis as the entry point to ensure students understand both affordances
+  and ethical dimensions while maintaining creative agency
+- The designer's role is shifting from 'hands-on maker of artifacts to director and
+  curator of AI-generated content,' requiring curriculum that addresses AI literacy,
+  prompt engineering, critical evaluation, ethical considerations, and workflow integration
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 17
+sample_type: undergraduate graphic design students
+context: Griffith University, Australia design program
+study_type: empirical
 ---
 
 # Generative Artificial Intelligence in Graphic Design Education: A Student Perspective

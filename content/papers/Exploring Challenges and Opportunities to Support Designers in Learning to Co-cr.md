@@ -1,9 +1,46 @@
 ---
-source_file: "hiring and org practice/Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools.pdf"
+source_file: hiring and org practice/Exploring Challenges and Opportunities to Support
+  Designers in Learning to Co-create with AI-based Manufacturing Design Tools.pdf
 type: paper
-authors: "Frederic Gmeiner"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Frederic Gmeiner
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Activity Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Cognitive Tension]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- Most designers failed to produce satisfying designs in 30-minute sessions despite
+  familiarity with task types, suggesting AI assistance introduces new challenges
+  rather than simplifying work
+- Successful designers learned by systematically testing tool capability boundaries
+  early, self-explaining observed AI behaviors to build mental models, and sketching/reflecting
+  on design issues outside the AI system
+- AI co-creation tools operate as black boxes where designers set objectives then
+  review generated designs without understanding internal processes, creating significant
+  barriers to developing shared mental models
+- Current AI design tools fail to support key collaboration mechanisms from human-human
+  collaboration theory, particularly grounding in communication and contextual awareness
+- Effective human guidance for AI tool learning requires multi-modal communication
+  strategies including screen annotations and mouse gesturing, combined with active
+  facilitation through step-by-step instructions and reflection prompts
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 19
+sample_type: trained designers (12 mechanical engineers, 7 architecture/industrial
+  designers) without prior AI co-creation experience
+context: Think-aloud design sessions using professional AI-based manufacturing design
+  tools (Autodesk Fusion360 and SimuLearn)
+study_type: empirical
 ---
 
 # Exploring Challenges and Opportunities to Support Designers in Learning to Co-create with AI-based Manufacturing Design Tools

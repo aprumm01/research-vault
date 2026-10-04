@@ -1,9 +1,52 @@
 ---
-source_file: "Using Generative AI to Support UX Design Students in Web Development Courses.pdf"
+source_file: Using Generative AI to Support UX Design Students in Web Development
+  Courses.pdf
 type: paper
-authors: "Félix Buendía-García, Javier Piris-Ruano"
-community: "AI and Future of Work"
-tags:
+authors: Félix Buendía-García, Javier Piris-Ruano
+community: AI and Future of Work
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Democratization of Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- Structured prompt template skeletons with instruction-based benchmarks guide Creative
+  Design students toward organized GenAI engagement strategies, reducing cognitive
+  overload while maintaining creative control compared to unguided trial-and-error
+  approaches
+- Semantic similarity analysis reveals moderately high matching between student chat
+  logs and task benchmarks (78% average for individual tasks, 90% average for group
+  UI activities), demonstrating students follow instructions and complete academic
+  tasks effectively with GenAI support
+- 'GenAI effectiveness diminishes with increased task complexity: GitHub Copilot shows
+  significant value for small-scale individual tasks but limited effectiveness for
+  group activities requiring front-end/back-end coordination'
+- Instructors observe decreased frequency of minor technical questions and students
+  report reduced task completion time when using GitHub Copilot, indicating greater
+  autonomous learning and freeing instructors for creative profile support
+- 'Correlation between semantic similarity and academic performance varies by context:
+  Template-Session task shows only 21% correlation between semantic similarity and
+  task completion, while group UI activity achieves 60% correlation, suggesting difficulty
+  in establishing direct link between GenAI interactions and performance'
+methodology: '[[methods/Case Study]]'
+sample_size: 21
+sample_type: 3rd-year Design and Creative Technologies Bachelor's Degree students
+context: Web Applications course, 2nd semester 2024-2025, Universitat Politècnica
+  de Valencia Arts School
+study_type: empirical
 ---
 
 # Using Generative AI to Support UX Design Students in Web Development Courses

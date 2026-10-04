@@ -1,9 +1,46 @@
 ---
-source_file: "Case and Piñeiro 2009 - Stop whining, start doing! Identity conflict in project managed software environments.pdf"
+source_file: Case and Piñeiro 2009 - Stop whining, start doing! Identity conflict
+  in project managed software environments.pdf
 type: paper
-authors: "Peter Case and Erik Piñeiro"
-community: "AI and Future of Work"
-tags:
+authors: Peter Case and Erik Piñeiro
+community: AI and Future of Work
+tags: null
+year: 2009
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/Epistemic Agency]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-managerial Labor]]'
+key_claims:
+- Knowledge asymmetry creates status inversion where project managers often lack both
+  the educational credentials and technical knowledge of programmers they manage—an
+  anomaly not present in other employment contexts
+- Software developers use performative language strategies to maintain professional
+  identity and organizational power despite formal hierarchical subordination to project
+  managers
+- Programming aesthetics (craft, creativity, artistry of code) form a central identity
+  marker for programmers that conflicts with project managers' performative aesthetics
+  focused on efficiency, control, and deliverables
+- The symbiotic interdependence between programmers and project managers—where programmers
+  create software that facilitates PM work while PM methodology is essential to software
+  development—creates power dynamics more complex than traditional worker-management
+  conflict
+- Identity conflict between IT professionals and project managers manifests through
+  narrative resistance strategies in online forums, revealing grassroots critique
+  of project management stemming from lived experience
+methodology: '[[methods/Narrative]]'
+sample_size: null
+sample_type: Software developers and IT professionals posting in Slashdot online forum
+  threads
+context: Online discussion forums (Slashdot) over five-year period focusing on programmer-project
+  manager relationships
+study_type: empirical
 ---
 
 # Case and Piñeiro 2009 - Stop whining, start doing! Identity conflict in project managed software environments

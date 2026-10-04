@@ -1,9 +1,48 @@
 ---
-source_file: "Ethical dimensions of artificial intelligence in graphic design.pdf"
+source_file: Ethical dimensions of artificial intelligence in graphic design.pdf
 type: paper
-authors: "ETHICAL DIMENSIONS OF ARTIFICIAL INTELLIGENCE"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: ETHICAL DIMENSIONS OF ARTIFICIAL INTELLIGENCE
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Ownership Ambiguity]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- AI systems trained on non-diverse datasets perpetuate existing biases, with image
+  recognition tools struggling to accurately identify individuals with darker skin
+  tones and models trained on Western visual styles neglecting non-Western artistic
+  traditions
+- The future of graphic design lies not in choosing between human and Artificial Intelligence
+  but in a collaborative approach where human intuition, empathy, and storytelling
+  intersect with AI's speed, scalability, and data analysis
+- Training and running large AI models require substantial computing power and energy
+  from data centers running around the clock, resulting in a high carbon footprint
+  that must be factored into AI adoption decisions
+- As many AI systems rely on the same datasets and algorithms and more designers adopt
+  these tools, design outputs may begin to look increasingly similar, raising concerns
+  about design homogenization and loss of originality
+- Traditional understandings of authorship have become less defined with AI-generated
+  art, creating legal ambiguity where if an AI tool generates content that closely
+  mirrors copyrighted work, it is unclear who bears responsibility—AI developers,
+  the designers using the tool, or both
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Systematic literature review of AI ethics in graphic design practice
+study_type: review
 ---
 
 # Ethical dimensions of artificial intelligence in graphic design

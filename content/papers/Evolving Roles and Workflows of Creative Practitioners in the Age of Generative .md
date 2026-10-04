@@ -1,9 +1,47 @@
 ---
-source_file: "2026/Evolving Roles and Workflows of Creative Practitioners in the Age of Generative AI.pdf"
+source_file: 2026/Evolving Roles and Workflows of Creative Practitioners in the Age
+  of Generative AI.pdf
 type: paper
-authors: "PDF Download"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PDF Download
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Double Diamond Model]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-driven Creativity]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/AI-managerial Labor]]'
+key_claims:
+- Creative practitioners perceive their role as project managers with creative vision
+  orchestrating information across multiple GenAI models, rather than traditional
+  workers executing individual tasks
+- Practitioners desire both creative agency across all project stages and empathetic
+  social relationships with GenAI that can perceive and adapt to their emotional state
+- Creative workflows are evolving toward project-level and artifact-level orchestrations
+  across multiple GenAI models, sessions, and creative stages
+- Real-world projects involve using multiple GenAI tools across multiple creative
+  domains simultaneously (e.g., ChatGPT for ideation, Midjourney for visuals, specific
+  tools for implementation)
+- Practitioners do not want complete automation but carefully weigh trade-offs between
+  articulation challenges, model stochasticity, and alignment issues versus benefits
+  like goal development, streamlined processes, and serendipitous discoveries
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 58
+sample_type: Creative practitioners including designers, software developers, architects,
+  and writers with 3-27 years professional experience
+context: Professional creative practice across multiple domains during early GenAI
+  adoption (April-May 2023)
+study_type: empirical
 ---
 
 # Evolving Roles and Workflows of Creative Practitioners in the Age of Generative AI

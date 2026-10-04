@@ -1,9 +1,49 @@
 ---
-source_file: "2026/Understanding Collaboration between Professional Designers and Decision-making AI A Case Study in the Workplace.pdf"
+source_file: 2026/Understanding Collaboration between Professional Designers and Decision-making
+  AI A Case Study in the Workplace.pdf
 type: paper
-authors: "PDF Download"
-community: "AI and Future of Work"
-tags:
+authors: PDF Download
+community: AI and Future of Work
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Cognitive Tension]]'
+key_claims:
+- Decision-making AI supports convergent thinking (evaluation/selection) while generative
+  AI supports divergent thinking (ideation) in creative workflows, revealing distinct
+  roles for AI in different phases of design
+- Most human-AI decision-making research uses novice participants in lab settings,
+  creating a significant research-practice gap with professional contexts where designers
+  have 4+ years of AI collaboration experience
+- 'Appropriate trust and appropriate reliance on AI systems are distinct constructs
+  influenced by three key factors: system factors (transparency, XAI), human factors
+  (expertise, self-confidence), and interaction factors (cognitive load, risk perception)'
+- Decision-making AI in creative work introduces fundamental tensions between objective
+  data-driven evaluation and subjective designer judgment, requiring professionals
+  to develop new workflow adaptation strategies
+- Algorithm-in-the-loop systems where AI recommends and humans decide require professionals
+  to navigate both benefits (efficiency, objective quality assurance) and challenges
+  (workflow disruption, conflicts with professional norms)
+methodology: '[[methods/Case Study]]'
+sample_size: 15
+sample_type: professional graphic designers and managers
+context: online advertising design company with 4+ years of mandatory decision-making
+  AI use
+study_type: empirical
 ---
 
 # Understanding Collaboration between Professional Designers and Decision-making AI A Case Study in the Workplace

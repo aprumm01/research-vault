@@ -1,9 +1,48 @@
 ---
-source_file: "Design Ideation with AI - Sketching, Thinking and Talking with Generative Machine Learning Models.pdf"
+source_file: Design Ideation with AI - Sketching, Thinking and Talking with Generative
+  Machine Learning Models.pdf
 type: paper
-authors: "Jakob Tholander, Martin Jonsson"
-community: "AI in Design Education"
-tags:
+authors: Jakob Tholander, Martin Jonsson
+community: AI in Design Education
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Design Ideation]]'
+critiques:
+- '[[frameworks/Human-Centered Design]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- GPT-3 demonstrated practical usefulness for rapid idea generation but showed significant
+  limitations when designers expected expert-level domain knowledge or consistent
+  creative judgment, creating a capability gap between user expectations and system
+  performance
+- The natural language interaction modality imported expectations from human conversation,
+  leading participants to anthropomorphize the system and be surprised by its inconsistencies,
+  with prompt engineering emerging as a distinct skill requiring deliberate cultivation
+- Broader cultural and media discourse around AI (hype, fear, replacement narratives)
+  actively shaped how participants framed their co-creative interactions, sometimes
+  constraining exploration of more collaborative or post-human framings
+- Framing AI as a co-creator rather than a tool opens new design possibilities but
+  raises unresolved questions about authorship, quality evaluation, and creative responsibility
+- Post-human frameworks for understanding human-AI co-creativity move beyond tool-use
+  metaphors by treating AI and technology as co-participants with distributed creative
+  agency
+methodology: '[[methods/Participatory Design]]'
+sample_size: null
+sample_type: professional interaction designers and design researchers
+context: workshop using GPT-3 for emergency waiting room design ideation
+study_type: empirical
 ---
 
 # Design Ideation with AI: Sketching, Thinking and Talking with Generative Machine Learning Models

@@ -1,9 +1,37 @@
 ---
-source_file: "EDU/r511/Will It Survive the Decade.pdf"
+source_file: EDU/r511/Will It Survive the Decade.pdf
 type: paper
-authors: "The Dick and Carey Model:"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'The Dick and Carey Model:'
+community: GenAI in UX and Design Practice
+tags: null
+year: 1996
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Constructivism]]'
+supports:
+- '[[frameworks/Design Thinking]]'
+key_claims:
+- The Dick and Carey model core structure remained essentially unchanged from 1978-1990
+  despite rapid evolution in the instructional design field
+- 'The 1996 revision incorporated four major influences: performance technology focus
+  on organizational problems, context analysis for transfer of training, Kirkpatrick''s
+  multi-level evaluation framework, and total quality management principles'
+- During the 1980s, the model's primary user base shifted from public educators to
+  corporate trainers, reflecting a fundamental reorientation toward business and industry
+  applications
+- Systematic instructional design can integrate constructivist principles without
+  abandoning its core objectivist structure, as demonstrated in the 1996 edition
+- Understanding learning and performance contexts became essential for effective instructional
+  design, particularly for ensuring transfer of training to workplace environments
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of instructional design model evolution in US education
+  and corporate training sectors
+study_type: review
 ---
 
 # Will It Survive the Decade

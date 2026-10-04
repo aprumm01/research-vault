@@ -1,9 +1,47 @@
 ---
-source_file: "The Effects of Generative AI on Design Fixation and Divergent Thinking.pdf"
+source_file: The Effects of Generative AI on Design Fixation and Divergent Thinking.pdf
 type: paper
-authors: "Samangi Wadinambiarachchi, Ryan M. Kelly, Saumya Pareek, Qiushi Zhou, Eduardo Velloso"
-community: "AI in Design Education"
-tags:
+authors: Samangi Wadinambiarachchi, Ryan M. Kelly, Saumya Pareek, Qiushi Zhou, Eduardo
+  Velloso
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[frameworks/Cognitive Load]]'
+critiques:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Human-AI Co-creation]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Design Fixation]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Epistemic Confinement]]'
+key_claims:
+- AI image generation support led to significantly higher design fixation compared
+  to both no support and Google Image Search conditions—participants using Midjourney
+  produced sketches more similar to the initial given example
+- Fluency, variety, and originality were all lower in the AI-supported condition (N=20)
+  compared to the baseline no-support condition (N=20), providing empirical evidence
+  that AI tools do not automatically enhance divergent thinking
+- Fixation displacement is a new phenomenon where AI outputs become the new anchor,
+  replacing the given exemplar—rather than liberating designers from fixation, AI
+  introduces a new, higher-fidelity fixation source
+- Prompt creation itself induces fixation by requiring verbal commitment to a specific
+  design direction before divergent exploration is complete—the act of articulating
+  a prompt conceptually narrows the ideation space
+- 'Prompt strategy moderates fixation: participants using exploratory, open-ended
+  prompts experienced less fixation than those using directive, convergent prompts'
+methodology: '[[methods/Controlled Experiment]]'
+sample_size: 60
+sample_type: design students and practitioners
+context: Visual ideation task (chatbot avatar sketching) with three experimental conditions
+study_type: empirical
 ---
 
 # The Effects of Generative AI on Design Fixation and Divergent Thinking

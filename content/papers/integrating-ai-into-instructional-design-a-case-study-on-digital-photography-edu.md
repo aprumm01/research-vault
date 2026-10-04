@@ -1,9 +1,34 @@
 ---
-source_file: "integrating-ai-into-instructional-design-a-case-study-on-digital-photography-education-in-higher-ed.pdf"
+source_file: integrating-ai-into-instructional-design-a-case-study-on-digital-photography-education-in-higher-ed.pdf
 type: paper
-authors: "Research Article"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Research Article
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[methods/Case Study]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- AI integration into digital photography courses produces measurable impacts on both
+  teaching and learning experiences
+- Both student and instructor perspectives are essential for understanding the full
+  scope of AI-supported education effects
+- Qualitative case study methodology reveals nuanced effects of AI integration not
+  captured by quantitative measures alone
+- AI support in higher education requires examination at the course-specific level
+  rather than general context, as discipline-specific considerations emerge
+- Integration effects differ significantly between students (n=38) and instructors,
+  requiring separate analysis of each stakeholder group
+methodology: '[[methods/Case Study]]'
+sample_size: 39
+sample_type: higher education instructor and students in digital photography course
+context: digital photography course in higher education
+study_type: empirical
 ---
 
 # integrating-ai-into-instructional-design-a-case-study-on-digital-photography-education-in-higher-ed

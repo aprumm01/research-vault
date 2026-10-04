@@ -1,9 +1,37 @@
 ---
-source_file: "EDU/r511/Martin_et_al._2009--HPT to a kayak company.pdf"
+source_file: EDU/r511/Martin_et_al._2009--HPT to a kayak company.pdf
 type: paper
-authors: "COMPANY’S REGISTRATION PROCESS"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: COMPANY’S REGISTRATION PROCESS
+community: GenAI in UX and Design Practice
+tags: null
+year: 2009
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- Performance problems often stem from environmental factors (inadequate tools, poor
+  information systems) rather than individual worker deficiencies, requiring systemic
+  interventions not training
+- Single-point-of-failure systems (one physical reservation book) created cascading
+  communication breakdowns resulting in quantified revenue loss of $4,249 in 2007
+- HPT model's effectiveness depends on ability to visualize and communicate process
+  logic to clients, making it suitable for small business contexts beyond large organizational
+  settings
+- Service businesses require consistent information across all customer touchpoints;
+  inconsistency damages professional reputation and customer loyalty
+- 'Information systems interventions should be tiered: basic shared database for immediate
+  improvement, decision support for scenario planning, transaction processing for
+  location-independent operations'
+methodology: '[[methods/Case Study]]'
+sample_size: 1
+sample_type: seasonal kayak tour/surf lesson business with 4 locations
+context: Premier Kayaks company, coastal North Carolina, small business performance
+  improvement
+study_type: empirical
 ---
 
 # Martin et al. 2009--HPT to a kayak company

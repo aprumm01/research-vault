@@ -1,9 +1,41 @@
 ---
-source_file: "Shaping Human Capital Standards - Exploring the intersections of the future of work and AI.pdf"
+source_file: Shaping Human Capital Standards - Exploring the intersections of the
+  future of work and AI.pdf
 type: paper
-authors: "Tania Saba, Anne-Marie Hubert, Myriam Bernet"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Tania Saba, Anne-Marie Hubert, Myriam Bernet
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- AI reshapes human capital through productivity increases and new skill development,
+  but simultaneously creates job polarization and inclusivity challenges across sectors
+- AI-driven monitoring erodes worker privacy and autonomy, contributing to increased
+  workplace stress and diminished workforce autonomy
+- Green jobs and sustainable transitions require interdisciplinary skills that many
+  workers currently lack, creating a critical skills gap
+- Global disparities in AI access limit developing nations' ability to build talent,
+  exacerbating international inequalities in human capital development
+- Social sustainability dimensions lag behind environmental standards in existing
+  frameworks and indicators, requiring urgent integration into human capital standards
+methodology: '[[methods/Literature Review]]'
+sample_size: 31
+sample_type: institutional reports from OECD, ILO, IMF, WEF, Eurofound, European Commission,
+  Future Skills Centre
+context: Global analysis of AI and future of work intersections across 2022-2024 publications
+study_type: review
 ---
 
 # Shaping Human Capital Standards - Exploring the intersections of the future of work and AI

@@ -1,9 +1,30 @@
 ---
-source_file: "EDU/r511/Spector_2008 Theoretical Foundations_Ed_Commun_and_Tech.pdf"
+source_file: EDU/r511/Spector_2008 Theoretical Foundations_Ed_Commun_and_Tech.pdf
 type: paper
-authors: "Theoretical Foundations"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Theoretical Foundations
+community: HCI Education and Pedagogy
+tags: null
+year: 2008
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Educational communications and technology require solid theoretical foundations
+  grounded in four key areas
+- Psychology of learning is central to understanding technology-mediated education
+- An interdisciplinary approach is necessary for comprehensive theoretical framework
+  in educational technology
+- Theory must guide both research design and practice in educational technology
+- Research in educational technology must be grounded in established theoretical traditions
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Educational communications and technology research
+study_type: theoretical
 ---
 
 # Spector 2008 Theoretical Foundations Ed Commun and Tech

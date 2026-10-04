@@ -1,9 +1,45 @@
 ---
-source_file: "The Widening Gap The Benefits and Harms of Generative AI for Novice Programmers.pdf"
+source_file: The Widening Gap The Benefits and Harms of Generative AI for Novice Programmers.pdf
 type: paper
-authors: "James Prather, Brent N. Reeves, Juho Leinonen, Stephen MacNeil, Arisoa S. Randrianasolo, Brett A. Becker, Bailey Kimmel, Jared Wright, Ben Briggs"
-community: "HCI Education and Pedagogy"
-tags:
+authors: James Prather, Brent N. Reeves, Juho Leinonen, Stephen MacNeil, Arisoa S.
+  Randrianasolo, Brett A. Becker, Bailey Kimmel, Jared Wright, Ben Briggs
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- GenAI disproportionately benefits high-performing students while exacerbating difficulties
+  for struggling students, creating a 'widening gap' that increases inequality in
+  computing courses rather than serving as an equalizer
+- All five previously identified metacognitive difficulties (incorrect conceptual
+  models, false sense of progress, unwillingness to reconsider solutions, moving too
+  quickly, poor test coverage) persisted with GenAI and did not resolve these challenges
+- 'GenAI introduced new metacognitive difficulties unique to AI-assisted programming:
+  students accepted AI suggestions they did not understand, struggled to evaluate
+  correctness of generated code, and were distracted by irrelevant inline suggestions'
+- Struggling students demonstrated illusion of competence—consistently reporting more
+  success than they achieved, expressing unwarranted confidence in AI-generated code
+  they submitted, and showing cognitive dissonance when solutions were shown to be
+  incorrect
+- High-performing students used Copilot autocomplete strategically to accelerate code
+  they already planned to write, while struggling students used ChatGPT to generate
+  complete solutions they could not evaluate, bypassing the problem-solving process
+  entirely
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 21
+sample_type: novice programming students in introductory programming course
+context: University lab sessions with programming problem-solving tasks
+study_type: empirical
 ---
 
 # The Widening Gap: The Benefits and Harms of Generative AI for Novice Programmers

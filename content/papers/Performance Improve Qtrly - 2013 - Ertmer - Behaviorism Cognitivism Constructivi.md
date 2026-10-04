@@ -1,9 +1,40 @@
 ---
-source_file: "EDU/r511/Performance Improve Qtrly - 2013 - Ertmer - Behaviorism  Cognitivism  Constructivism  Comparing Critical Features.pdf"
+source_file: EDU/r511/Performance Improve Qtrly - 2013 - Ertmer - Behaviorism  Cognitivism  Constructivism  Comparing
+  Critical Features.pdf
 type: paper
-authors: "Behaviorism, Cognitivism,"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Behaviorism, Cognitivism,
+community: GenAI in UX and Design Practice
+tags: null
+year: 2013
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Metacognitive Laziness]]'
+key_claims:
+- Less than 2% of educational technology courses emphasize learning theory, indicating
+  a significant gap between theory and practice
+- 'Effective instruction requires matching cognitive processing demands of task with
+  appropriate theoretical approach: behaviorism for discriminations and associations,
+  cognitivism for higher-order skills, and constructivism for complex problem-solving'
+- Instructional designers must understand multiple learning theories rather than adhering
+  to a single paradigm to select appropriate strategies for different learning tasks
+- Understanding deep principles of learning theories allows extrapolation to specific
+  applications, serving as a bridge between basic learning research and educational
+  practice
+- The three major learning theories (behaviorism, cognitivism, constructivism) differ
+  fundamentally in how they explain learning occurrence, influencing factors, memory
+  role, transfer mechanisms, and optimal instructional structure
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Instructional design and educational technology
+study_type: theoretical
 ---
 
 # Performance Improve Qtrly - 2013 - Ertmer - Behaviorism Cognitivism Constructivism Comparing Critical Features

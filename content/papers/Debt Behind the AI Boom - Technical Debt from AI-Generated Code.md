@@ -1,9 +1,49 @@
 ---
-source_file: "2026/i609-sustainability/Liu26.pdf"
+source_file: 2026/i609-sustainability/Liu26.pdf
 type: paper
-authors: "Yue Liu, Ratnadira Widyasari, Yanjie Zhao, Ivana Clairine Irsan, Junkai Chen, David Lo"
-community: "Sustainable Computing"
-tags: [sustainability, i609, AI-coding-assistants, technical-debt, code-quality, software-maintenance, empirical-study]
+authors: Yue Liu, Ratnadira Widyasari, Yanjie Zhao, Ivana Clairine Irsan, Junkai Chen,
+  David Lo
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- AI-coding-assistants
+- technical-debt
+- code-quality
+- software-maintenance
+- empirical-study
+year: 2026
+builds_on: []
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ironies of Automation]]'
+key_claims:
+- AI-generated code introduces technical debt in 89.3% code smells, 6.0% correctness
+  issues, and 4.7% security issues across 302.6K commits from five major AI coding
+  assistants
+- More than 15% of commits from every AI coding assistant introduce at least one issue,
+  with rates ranging from 17.4% for GitHub Copilot to 29.1% for Gemini
+- 22.7% of AI-introduced technical debt issues persist indefinitely at the repository's
+  latest revision, including issues introduced more than nine months earlier, representing
+  accumulated maintenance burden
+- AI-authored commits create net increases in correctness issues (+3,742) and security
+  issues (+7,342) while reducing code smells (-7,069), showing selective improvement
+  patterns
+- Technical debt patterns are consistent across all five AI coding tools, indicating
+  this is a systemic characteristic of current AI coding technology that cannot be
+  solved by switching between assistants
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 302600
+sample_type: AI-authored commits from public GitHub repositories
+context: 6,299 public GitHub repositories with 100+ stars containing Python, JavaScript,
+  and TypeScript code across five AI coding assistants (GitHub Copilot, Claude, Cursor,
+  Gemini, Devin)
+study_type: empirical
 ---
 
 # Debt Behind the AI Boom: A Large-Scale Empirical Study of AI-Generated Code in the Wild

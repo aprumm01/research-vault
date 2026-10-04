@@ -1,9 +1,51 @@
 ---
-source_file: "From maker to curator a scoping review of generative artificial intelligence in design higher education.pdf"
+source_file: From maker to curator a scoping review of generative artificial intelligence
+  in design higher education.pdf
 type: paper
-authors: "Oleksandr O. Musiienko"
-community: "AI in Design Education"
-tags:
+authors: Oleksandr O. Musiienko
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Creativity Support Tools]]'
+key_claims:
+- Publication volume on generative AI in design education increased 6.4-fold after
+  ChatGPT's release, with 86.5% of studies published after 2022, indicating a field
+  in rapid formative development
+- 85-86% of design educators and students use AI tools, yet lack of formal training
+  has created a competency gap where adoption velocity outpaces critical literacy
+  and ethical framework development
+- Only 26.3% of studies employed theoretical frameworks, with weak methodological
+  quality (53.8% employed lower-quality research designs), indicating theoretical
+  underdevelopment relative to phenomenon complexity
+- Design education is experiencing a paradigm shift from designer as 'maker' of artifacts
+  to designer as 'curator' who defines vision, orchestrates experience, and judges
+  AI output alignment with values
+- Semantic richness in prompts correlates with more expressive AI-generated images,
+  suggesting prompt literacy represents a genuinely new design competency rather than
+  merely a technical skill
+methodology: '[[methods/Literature Review]]'
+sample_size: 156
+sample_type: published studies on generative AI in design higher education
+context: Web of Science Core Collection, 2017-2026, international design education
+  literature
+study_type: review
 ---
 
 # From Maker to Curator: A Scoping Review of Generative Artificial Intelligence in Design Higher Education

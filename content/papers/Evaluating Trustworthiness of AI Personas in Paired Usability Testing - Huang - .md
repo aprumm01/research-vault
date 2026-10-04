@@ -1,16 +1,51 @@
 ---
-source_file: "synth users/Evaluating Trustworthiness of AI Personas in Paired Usability Testing - Huang - 2025.pdf"
+source_file: synth users/Evaluating Trustworthiness of AI Personas in Paired Usability
+  Testing - Huang - 2025.pdf
 type: paper
-authors: "Yiming Huang"
-community: "GenAI in UX and Design Practice"
+authors: Yiming Huang
+community: GenAI in UX and Design Practice
 tags:
-  - ai-personas
-  - usability-testing
-  - llm
-  - synthetic-users
-  - trust
-  - mixed-methods
-  - human-ai-comparison
+- ai-personas
+- usability-testing
+- llm
+- synthetic-users
+- trust
+- mixed-methods
+- human-ai-comparison
+year: 2025
+builds_on:
+- '[[methods/Think-Aloud Protocol]]'
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- AI personas showed 75.3% correlation with human attitudinal change patterns and
+  92% overlap in qualitative themes, with only 1 of 13 attitudinal measures showing
+  significant differences (92.3% agreement rate)
+- Navigation patterns demonstrated exceptional similarity with AI agents performing
+  35.3 actions versus 34.7 for humans (98.3% similarity) and interacting with 9.7
+  versus 10.3 UI elements (96.7% similarity)
+- AI agents systematically underestimated cognitive load and emotional frustration,
+  with large effect size (Cohen's d = 1.59) on Q4 measuring feeling overwhelmed, indicating
+  a practically meaningful limitation in affective fidelity
+- Approximately 57% of variance in human attitudinal responses was captured by AI
+  agent responses (R² = 0.567), suggesting substantial but incomplete alignment
+- AI personas are best positioned as complementary instruments for workflow testing
+  and identifying obvious usability flaws rather than replacing human participants,
+  particularly for capturing emotional and cognitive load dimensions
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 10
+sample_type: undergraduate and graduate students
+context: Paired human-AI usability testing of educational web application (Looma.ai)
+  at University of Southern California
+study_type: empirical
 ---
 
 # Evaluating Trustworthiness of AI Personas in Paired Usability Testing - Huang - 2025

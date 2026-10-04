@@ -1,9 +1,51 @@
 ---
-source_file: "ACM/Exploring the Potential of Metacognitive Support Agents for Human-AI Co-Creation.pdf"
+source_file: ACM/Exploring the Potential of Metacognitive Support Agents for Human-AI
+  Co-Creation.pdf
 type: paper
-authors: "Human-AI Co-Creation"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Human-AI Co-Creation
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Design Ideation]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Complacency Risk]]'
+key_claims:
+- Agent-supported users created more feasible designs than unsupported users, demonstrating
+  that metacognitive support agents can address fundamental cognitive challenges of
+  GenAI workflows including intent formulation, problem exploration, and outcome evaluation
+- Question-asking agents prompting mental simulations and sketching helped intent
+  formulation and problem exploration regarding mechanical loads, but were less impactful
+  when users had solidified incorrect assumptions
+- 'GenAI workflow automation poses three fundamental cognitive challenges: (1) intent
+  formulation requiring upfront parameter specification, (2) problem exploration reduced
+  by cognitive offloading, and (3) limited outcome evaluation ability when problem
+  understanding is insufficient'
+- 'Metacognitive support has design tradeoffs: while most users actively engaged and
+  appreciated support in thinking through tasks, agent support can lead to additional
+  overreliance on the AI system'
+- Voice-based metacognitive support reduces cognitive load for visual-spatial CAD
+  work while enabling deeper reflection-in-action through think-aloud protocols
+methodology: '[[methods/Research through Design]]'
+sample_size: 20
+sample_type: trained mechanical engineers new to working with generative AI systems
+context: Mechanical design task using Autodesk Fusion 360 Generative Design extension
+study_type: empirical
 ---
 
 # Exploring the Potential of Metacognitive Support Agents for Human-AI Co-Creation

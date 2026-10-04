@@ -1,9 +1,46 @@
 ---
-source_file: "History/Education, automation and AI a genealogy of.pdf"
+source_file: History/Education, automation and AI a genealogy of.pdf
 type: paper
-authors: "Learning, Media and Technology"
-community: "AI and Future of Work"
-tags:
+authors: Learning, Media and Technology
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- 'Four distinct educational imaginaries emerged historically: 1950s adaptation to
+  leisure-time automation, 1970s broad knowledge against computing threats, 1980s-90s
+  skills for employment, and 2000s-present AI literacy imperatives'
+- Education is repeatedly mobilized as a governance tool to create social preconditions
+  for automation, with control oscillating between elite government/market control
+  and democratic public utility emphases
+- Contemporary AI literacy requirements replicate historical governance-through-education
+  strategies, with educational solutions consistently failing to address structural
+  technological unemployment
+- Genealogical analysis reveals contingent rather than inevitable trajectories, exposing
+  unexplored alternatives including stopping computerization, public ownership models,
+  and worker control arrangements
+- Intersectional datafication structures were embedded from origin, with 1950s aptitude
+  testing and educational reserve concepts primarily targeting able-bodied males while
+  conditionally including women
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: Swedish computerization discourses, policies, educational materials,
+  public reports, films, and radio broadcasts
+context: Swedish state-funded computerization efforts from 1955-1997 with transnational
+  comparisons
+study_type: theoretical
 ---
 
 # Education, automation and AI a genealogy of

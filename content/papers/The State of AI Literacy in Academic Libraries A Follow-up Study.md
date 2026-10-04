@@ -1,9 +1,33 @@
 ---
-source_file: "The State of AI Literacy in Academic Libraries_ A Follow-up Study.pdf"
+source_file: The State of AI Literacy in Academic Libraries_ A Follow-up Study.pdf
 type: paper
-authors: "UNM Digital Repository"
-community: "Workplace Learning and AI"
-tags:
+authors: UNM Digital Repository
+community: Workplace Learning and AI
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- AI literacy among academic library employees improved significantly from 2023 to
+  2024, with mean understanding rising from 2.96 to 3.34
+- Access to premium AI tools strongly correlated with improved literacy across all
+  dimensions (all p<0.0001), while training participation showed no significant effects
+- ChatGPT emerged as dominant generative AI tool with significant increases in both
+  professional (p<10^-20) and personal use (p=0.0284)
+- Support staff and early-career professionals showed largest gains, narrowing literacy
+  gaps across roles and experience levels
+- Hands-on engagement with advanced tools appears more influential than formal training
+  sessions alone in developing AI literacy
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 1359
+sample_type: 'U.S. academic library employees across two cohorts (2023: N=658, 2024:
+  N=701)'
+context: U.S. academic libraries
+study_type: empirical
 ---
 
 # The State of AI Literacy in Academic Libraries A Follow-up Study

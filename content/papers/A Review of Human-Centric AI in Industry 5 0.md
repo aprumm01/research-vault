@@ -1,9 +1,50 @@
 ---
-source_file: "A Review of Human-Centric AI in Industry 5_0.pdf"
+source_file: A Review of Human-Centric AI in Industry 5_0.pdf
 type: paper
-authors: "AL-KINDI CENTER FOR RESEARCH"
-community: "AI and Future of Work"
-tags:
+authors: AL-KINDI CENTER FOR RESEARCH
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ironies of Automation]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Reciprocal Learning Partnership]]'
+key_claims:
+- Industry 5.0 represents a necessary human-centric correction to Industry 4.0's automation
+  focus, shifting from machine autonomy toward collaborative intelligence where technology
+  serves people rather than replaces them
+- Collaborative robots with context-aware AI enable symbiotic production leveraging
+  complementary human-machine strengths, with studies confirming visual/verbal robot
+  action explanations dramatically enhance cooperation efficiency
+- Explainable AI proves essential for manufacturing trust and collaboration, with
+  XAI tools enabling operators to understand robot decisions and generating greater
+  operator participation and intervention willingness, though scalable explainability
+  for industrial AI remains underdeveloped
+- Systematic barriers prevent Industry 5.0 realization despite technological readiness,
+  including technical integration deficits with legacy systems, human factors disconnects
+  from uneven worker preparedness and automation resistance, and ethical/regulatory
+  lag where policy trails innovation
+methodology: '[[methods/Literature Review]]'
+sample_size: 51
+sample_type: peer-reviewed publications on AI/data science in mechanical/manufacturing
+  systems with human-in-the-loop or collaborative robotics focus
+context: Industry 5.0 manufacturing contexts, predominantly European Commission vision
+  and Western manufacturing
+study_type: review
 ---
 
 # A Review of Human-Centric AI in Industry 5 0

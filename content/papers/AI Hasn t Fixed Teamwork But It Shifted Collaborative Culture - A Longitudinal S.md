@@ -1,9 +1,48 @@
 ---
-source_file: "AI collaboration related articles/AI Hasn_t Fixed Teamwork, But It Shifted Collaborative Culture - A Longitudinal Study in a Project-Based Software Development Organization.pdf"
+source_file: AI collaboration related articles/AI Hasn_t Fixed Teamwork, But It Shifted
+  Collaborative Culture - A Longitudinal Study in a Project-Based Software Development
+  Organization.pdf
 type: paper
-authors: "Development Organization (–)"
-community: "AI and Future of Work"
-tags:
+authors: Development Organization (–)
+community: AI and Future of Work
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Science and Technology Studies]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ironies of Automation]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- AI was imagined in 2023 as intelligent coordinator solving collaboration challenges
+  but adopted by 2025 as personal productivity assistant, leaving core teamwork challenges
+  (underperformance detection, fragmented communication, accountability gaps) unresolved
+- 'AI reshaped collaborative culture through bottom-up domestication: efficiency expectations
+  rose, responsible use became professionalism marker, and normalization occurred
+  without solving collaboration problems'
+- Individual AI productivity gains created systemic consequences including role boundary
+  expansion (non-technical staff performing technical work) and escalated expectations
+  (managers demanding faster output) despite persistent coordination challenges
+- Most critical teamwork elements—empathy, negotiation, trust, motivation, contextual
+  judgment—remain beyond AI's foundational architecture of statistical pattern prediction
+  without concrete reality understanding
+methodology: '[[methods/Interview]]'
+sample_size: 15
+sample_type: distributed project-based software development team members (engineers,
+  architects, product/project managers, designers, consultants; 3-35 years experience)
+context: Remote-first distributed software development organization with early AI
+  adopter culture
+study_type: empirical
 ---
 
 # AI Hasn t Fixed Teamwork, But It Shifted Collaborative Culture - A Longitudinal Study in a Project-Based Software Development Organization

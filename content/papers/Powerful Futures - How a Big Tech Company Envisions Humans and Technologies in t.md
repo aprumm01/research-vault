@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/lit review documents/Powerful Futures - How a Big Tech Company Envisions Humans and Technologies in the Workplace of the Future.pdf"
+source_file: EDU/lit review documents/Powerful Futures - How a Big Tech Company Envisions
+  Humans and Technologies in the Workplace of the Future.pdf
 type: paper
-authors: "Powerful Futures: How a Big Tech Company Envisions"
-community: "AI and Future of Work"
-tags:
+authors: 'Powerful Futures: How a Big Tech Company Envisions'
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+supports:
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Ironies of Automation]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- Amazon's fulfillment center patents systematically configure humans as operators
+  within automation systems rather than as autonomous workers or as fully replaced
+  labor
+- Humans are positioned to handle exceptions, monitor system performance, and perform
+  tasks deemed uneconomical to automate in 'stepping in' moments throughout automated
+  systems
+- Patent analysis provides unique methodological access to tech companies' pre-implementation
+  visions of workplace futures, enabling proactive intervention before widespread
+  deployment
+- Big tech companies exercise increasing control over work futures through both technology
+  development power and implementation capacity, shaping how we work with technologies
+  and how technologies define work itself
+- Current automation trajectory in fulfillment centers maintains human labor while
+  fundamentally reconfiguring its nature, autonomy, and relationship to technological
+  systems
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: Amazon fulfillment center patents
+context: Patent documents from Amazon describing future fulfillment center technologies
+study_type: theoretical
 ---
 
 # Powerful Futures - How a Big Tech Company Envisions Humans and Technologies in the Workplace of the Future

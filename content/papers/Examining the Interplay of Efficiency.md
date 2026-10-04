@@ -1,9 +1,43 @@
 ---
-source_file: "Examining the Interplay of Efficiency,.pdf"
+source_file: Examining the Interplay of Efficiency,.pdf
 type: paper
-authors: "Resource Consumption, and Labor Dynamics"
-community: "AI and Future of Work"
-tags:
+authors: Resource Consumption, and Labor Dynamics
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- AI efficiency improvements result in disproportionate increases in computational
+  energy consumption, with electricity share from data centers projected to rise from
+  22% to 40% by 2050 in the US (Jevons Paradox)
+- Only 10% of labor roles across major sectors have been impacted by AI due to limitations
+  in automating tasks requiring human judgment and sensorimotor skills (Moravec's
+  Paradox)
+- AI adoption creates hybrid human-AI roles combining human intuition and creativity
+  with machine efficiency rather than wholesale labor replacement
+- Data center electricity demand is increasing substantially due to AI and digitalization
+  after plateauing between 2010-2020
+- Dual paradox framework reveals AI simultaneously creates efficiency gains that lead
+  to greater resource consumption while being unable to fully replace human labor
+  in domains requiring judgment
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: null
+context: US energy consumption and labor market analysis with projections to 2050
+study_type: theoretical
 ---
 
 # Examining the Interplay of Efficiency,

@@ -1,9 +1,44 @@
 ---
-source_file: "AI in the Wild A Large Scale Analysis of Authentic Interactions of College Students with Generative AI.pdf"
+source_file: AI in the Wild A Large Scale Analysis of Authentic Interactions of College
+  Students with Generative AI.pdf
 type: paper
-authors: "Taelin Karidi, Ofra Amir, Ido Roll"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Taelin Karidi, Ofra Amir, Ido Roll
+community: HCI Education and Pedagogy
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- Student-AI interaction in authentic academic settings is highly structured rather
+  than idiosyncratic, concentrating in a small number of recurring patterns shared
+  across many students and conversations
+- Systematic differences across courses give rise to distinct interaction profiles
+  that reflect the nature of academic work (mathematical problem-solving vs. writing
+  vs. conceptual analysis) rather than individual student preferences
+- Analysis of over 15,000 student-AI interaction units from 821 students reveals that
+  authentic 'in-the-wild' data shows interaction patterns that would not emerge in
+  controlled experimental settings
+- The concentration of interactions in recurring patterns suggests that targeted pedagogical
+  interventions designed around common interaction types could be more effective than
+  general AI literacy education
+- The two-dimensional analytical framework (cognitive intent × interaction context)
+  captures meaningful variation in how students engage with GenAI that single-variable
+  frameworks miss
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 821
+sample_type: undergraduate students across multiple courses
+context: Six university courses spanning diverse academic domains (English, Complex
+  Functions, Fourier Analysis, Intelligent Systems, Organizational Behavior, Probability)
+  at Technion, Israel
+study_type: empirical
 ---
 
 # AI in the Wild: A Large Scale Analysis of Authentic Interactions of College Students with Generative AI

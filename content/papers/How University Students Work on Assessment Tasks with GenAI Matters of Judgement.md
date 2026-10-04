@@ -1,9 +1,46 @@
 ---
-source_file: "How university students work on assessment tasks with generative artificial intelligence  matters of judgement.pdf"
+source_file: How university students work on assessment tasks with generative artificial
+  intelligence  matters of judgement.pdf
 type: paper
-authors: "Jack Walton, Margaret Bearman, Nicole Crawford, Joanna Tai, David Boud"
-community: "Workplace Learning and AI"
-tags:
+authors: Jack Walton, Margaret Bearman, Nicole Crawford, Joanna Tai, David Boud
+community: Workplace Learning and AI
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Evaluative Judgment]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Sociocultural]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- 'Students'' judgements about GenAI are inextricably linked to judgements about their
+  own knowledge deficits: students who recognise they do not know something use AI
+  to fill the gap, creating risk because they may lack expertise to evaluate what
+  AI provides'
+- A concerning category of 'misjudging GenAI contributions as their own' exists where
+  students genuinely believe they authored content that was largely AI-generated,
+  pointing to a form of source amnesia exacerbated by AI's fluent, plausible outputs
+- Students' retrospective accounts of AI use are often incomplete or inaccurate compared
+  to actual logged interactions, revealed through scroll-back interview methodology
+  that grounds questions in actual rather than reconstructed use
+- Six distinct categories of judgement events range from active knowledge appraisal
+  to submitting AI content without judgment, demonstrating that GenAI use shapes student
+  learning in complex and sometimes troubling ways
+- Judgements about AI are not made in isolation but are embedded in students' social
+  contexts—including uncertainty about institutional policies, peer norms, and absence
+  of explicit guidance from educators
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 26
+sample_type: Australian university students across multiple disciplines and years
+  of study
+context: Australian university assessment tasks
+study_type: empirical
 ---
 
 # How University Students Work on Assessment Tasks with Generative Artificial Intelligence: Matters of Judgement

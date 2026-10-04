@@ -1,9 +1,47 @@
 ---
-source_file: "2026/i609-sustainability/She26.pdf"
+source_file: 2026/i609-sustainability/She26.pdf
 type: paper
-authors: "Yu Sheng, Chenxuan Zhang, Zixuan Zhu, Hongyi Xu, Junqi Wen, Ruoheng Wang, Jianjun Yang, Qin Wang, Siqi Bu"
-community: "Sustainable Computing"
-tags: [sustainability, i609, AI-data-centers, grid-impacts, energy-demand, power-systems, renewable-energy]
+authors: Yu Sheng, Chenxuan Zhang, Zixuan Zhu, Hongyi Xu, Junqi Wen, Ruoheng Wang,
+  Jianjun Yang, Qin Wang, Siqi Bu
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- AI-data-centers
+- grid-impacts
+- energy-demand
+- power-systems
+- renewable-energy
+year: 2026
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- AI data centers consume approximately 460 TWh of electricity in 2022 (about 2% of
+  global electricity demand), projected to double by 2026 to roughly 1000 TWh—approximately
+  the entire electricity consumption of Japan
+- AI data centers operate at ultra-high power densities of 30-100+ kW per rack versus
+  5-15 kW for traditional data centers, with near-100% sustained utilization during
+  training versus <40% for traditional centers
+- A pronounced timing mismatch exists between rapid AI hardware deployment (2 years)
+  and slower grid modernization (5-10 years for major transmission upgrades), creating
+  systemic integration challenges
+- Inference may account for up to 90% of AI lifecycle energy consumption as deployment
+  horizons extend, with complex prompts consuming 29.078 ± 9.725 Wh versus 0.3 Wh
+  for keyword searches
+- AI data centers introduce novel grid stability threats including sympathetic tripping,
+  subsynchronous oscillations at 14.7 Hz from power electronics interactions, and
+  extreme transient spikes that existing grid codes were not designed to handle
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Global AI data center energy infrastructure across multiple geographic regions
+  including Ireland, Northern Virginia, and UK
+study_type: review
 ---
 
 # Power for AI Data Centers: Energy Demand, Grid Impacts, Challenges and Perspectives

@@ -1,45 +1,81 @@
 ---
-
-source_file: "research_docs/P278.pdf"
+source_file: EDU/lit review documents/Integrating AI into the design process.pdf
 type: paper
-community: "AI in Design Education"
-tags:
-year: "2024"
-authors: "Betül Yıldızhan Bora and Cansu Şahin Kölemen"
+authors: Maria Amare Worku
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Design Thinking]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Cognitive Tension]]'
+key_claims:
+- AI integration in UX design enhances efficiency but raises significant concerns
+  about creativity and control among practitioners
+- Despite AI's growing presence in UX design, its integration remains complex and
+  contested among designers
+- Designers navigate tensions between efficiency gains from AI and preservation of
+  human-centered values in their practice
+- Balance is required between automation benefits and maintaining creative and professional
+  control in AI-augmented design
+- Human-centered values must be actively maintained in AI-augmented design practice
+  to prevent erosion of core professional principles
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: null
+sample_type: UX designers
+context: UX design professional practice
+study_type: empirical
 ---
 
-# Integrating AI into the Design Process
-
-# Study Partner Note: Integrating AI into the Design Process
+# Integrating AI into the design process
 
 ## Summary
-This qualitative study examines how UX designers perceive and integrate AI into their workflows, finding that AI enhances productivity for repetitive tasks while raising concerns about creativity, empathy, and human-centered design values. The research matters because it addresses a gap in understanding designers' actual practices with AI and reveals the need to maintain core UX principles as AI becomes more prevalent in design work.
+Integrating AI Into The Design Process A Qualitative Study On Designers’ Perspectives and Practices Maria Amare Worku Angela Kirwa Bachelor’s Degree Project in Interaction Design Spring 2025 Supervisor: Sharon Lindberg Department of Computer and Systems Sciences Synopsis Introduction The integration of Artificial Intelligence (AI) into the design process in the field of UX design is rapidly growing This study explores how AI impacts the design process, enhancing efficiency while raising concerns about creativity, control, and human-centered values Problem Despite AI’s growing presence in UX design, its integration remains complex.
 
 ## Key Concepts
-- **Human-AI collaboration** – An iterative, guided process where designers refine and evaluate AI outputs rather than passively accepting them
-- **Design phase integration** – AI's differential impact across Empathize, Define, and Prototype phases
-- **Trust in AI** – Designer confidence shaped by concerns about ethical implications, output quality, and preservation of human-centric values
-- **AI as supportive tool** – Positioning AI as a productivity enhancer rather than autonomous decision-maker
-- **Core UX values** – Empathy, critical thinking, and contextual understanding that remain distinctly human
+- **AI integration in UX design process**: Rapidly growing but complex phenomenon
+- Impact of AI on design efficiency, creativity, control, and human-centered values
+- **Designers' perspectives and practices** regarding AI tools and integration
+- Tension between efficiency gains and concerns about creativity/control
+- Human-centered values in AI-augmented design practice
+- Qualitative study of designer experiences with AI integration
 
 ## Theoretical Framework
-The study employs a human-centered design lens, emphasizing that AI integration must preserve core UX values like empathy and user-centeredness rather than undermining them through over-automation of creative and interpretive tasks.
+- **UX design process** frameworks and stages
+- Human-centered design principles and values
+- Technology adoption and integration in professional practice
+- Creativity and control in design work
 
 ## Methods
-The study used qualitative methodology with a workshop involving five UX professionals who employed journey mapping to visualize their design workflows. Data was analyzed using inductive thematic analysis.
+thematic analysis
 
 ## Main Arguments
-- AI significantly enhances speed and efficiency for repetitive, time-consuming tasks but shows limitations in complex, interpretive work requiring creativity and empathy
-- Designers view AI as a supportive tool requiring human oversight and refinement, not as an autonomous decision-maker
-- Trust in AI varies and is constrained by concerns about design quality, ethical implications, and loss of human-centeredness
-- Critical risk exists that efficiency gains may come at the expense of critical thinking and user empathy; design education must teach both tool fluency and critical judgment
+- AI integration in UX design enhances efficiency but raises concerns about creativity and control
+- Despite AI's growing presence, integration remains complex and contested
+- Designers navigate tensions between efficiency gains and preservation of human-centered values
+- AI impacts multiple dimensions of design process and designer agency
+- Need to understand designers' perspectives to guide effective AI integration
+- Balance required between automation benefits and maintaining creative/professional control
+- Human-centered values must be maintained in AI-augmented design practice
 
 ## Limitations & Critiques
-The small sample size (five participants) limits generalizability across diverse design contexts and organizational structures. The study does not deeply explore how different types of organizations, sectors, or designer expertise levels might shape AI integration differently, nor does it examine long-term impacts on designer skill development and the profession.
+- Qualitative study may not capture full range of designer experiences
+- Bachelor's thesis scope may limit depth of analysis
+- Study context (Spring 2025) reflects specific moment in rapidly evolving AI landscape
+- Need for longitudinal research on how designer perspectives evolve
+- Potential selection bias in who participates in AI integration research
+- Geographic and cultural specificity considerations
+
+## Related Papers
 
 ## Connections
-
-## Connections
-- [[Design Theory and Cognition]] - `` [EXTRACTED]
-- [[Design Thinking]] - `` [EXTRACTED]
-- [[Responsible AI Governance]] - `` [EXTRACTED]
+- [[methods/Thematic Analysis]] - Research methodology
+- [[communities/GenAI in UX and Design Practice]] - Research community

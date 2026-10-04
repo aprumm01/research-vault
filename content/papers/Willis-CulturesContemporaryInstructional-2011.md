@@ -1,9 +1,39 @@
 ---
-source_file: "EDU/r511/Willis-CulturesContemporaryInstructional-2011.pdf"
+source_file: EDU/r511/Willis-CulturesContemporaryInstructional-2011.pdf
 type: paper
-authors: "Author(s): Jerry Willis"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Author(s): Jerry Willis'
+community: GenAI in UX and Design Practice
+tags: null
+year: 2011
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Design Fixation]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[methods/Design-Based Research]]'
+key_claims:
+- 'ID scholarship operates across four distinct cultures with different theoretical
+  foundations: Traditional behavioral ISD/ADDIE, Cognitive science/learning sciences,
+  Constructivist ID, and Critical theory/critical pedagogy'
+- The shift from behavioral to cognitive theories was evolutionary rather than revolutionary,
+  with both sharing reductionist approach, positivist epistemology, and focus on discrete
+  skills
+- Learning sciences and Design-Based Research represent more fundamental challenges
+  to traditional ISD that cannot be easily integrated into ADDIE models
+- Gagné's nine events of instruction translated abstract learning theory into concrete
+  instructional guidance and influenced virtually all subsequent ID models for decades
+- These four theoretical foundations need not be treated as mutually exclusive paradigms
+  requiring rejection of others, allowing for theoretical diversity in the field
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of instructional design scholarship from 1960s to 2011
+study_type: review
 ---
 
 # Willis-CulturesContemporaryInstructional-2011

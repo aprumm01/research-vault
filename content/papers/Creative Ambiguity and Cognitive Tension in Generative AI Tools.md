@@ -1,9 +1,44 @@
 ---
-source_file: "Creative Ambiguity and Cognitive Tension in Generative AI Tools.pdf"
+source_file: Creative Ambiguity and Cognitive Tension in Generative AI Tools.pdf
 type: paper
-authors: "Peter Dalsgaard"
-community: "Design Theory and Cognition"
-tags:
+authors: Peter Dalsgaard
+community: Design Theory and Cognition
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Cognitive Dissonance]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Predictive Processing]]'
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/Cognitive Tension]]'
+- '[[concepts/Problem Framing]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+supports:
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/Cognitive Tension]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- Misalignment between user intent and AI output should be treated as provocation
+  for reflection, not error to optimize away
+- 'Cognitive tension operates through three mechanisms: dissonance motivating rethinking,
+  frame conflict requiring problem redefinition, and prediction error triggering adaptation'
+- Creative ambiguity stimulates meaning-making and conceptual expansion rather than
+  representing absence of meaning, functioning through semantic, aesthetic, and intentional
+  types
+- Productive disruption requires interpretive labor but enables new creative pathways
+  when users are prepared to 'stay with the tension'
+- Design should scaffold users' ability to navigate ambiguity rather than eliminate
+  it entirely, shifting from optimization toward reflection and working with friction
+methodology: '[[methods/Case Analysis]]'
+sample_size: null
+sample_type: Five cross-modal cases spanning text, image, sound, code, and form generation
+context: Creative AI tools across writing, design, music, code, and prototyping domains
+study_type: theoretical
 ---
 
 # Creative Ambiguity and Cognitive Tension in Generative AI Tools

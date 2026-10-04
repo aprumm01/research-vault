@@ -1,9 +1,41 @@
 ---
-source_file: "Towards Distributed Creativity_ Understanding Generative AI in th.pdf"
+source_file: Towards Distributed Creativity_ Understanding Generative AI in th.pdf
 type: paper
-authors: "Design Research Society"
-community: "Design Theory and Cognition"
-tags:
+authors: Design Research Society
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Problem-Solution Co-evolution]]'
+key_claims:
+- GenAI is not a mere tool but an active participant in co-creation, challenging subject-object
+  distinctions in design philosophy
+- Creativity in GenAI context should be understood as distributed process emerging
+  from dynamic interactions between agents within sociomaterial networks rather than
+  individual human attribute
+- Designer's role transforms from controlling creator to orchestrator of adaptive
+  interactions within relational systems
+- Integration of GenAI into design practice demands move beyond traditional paradigms
+  that place designer, user, or designed object at center
+- Feedback loops through which human and non-human agents mutually constitute each
+  other over time create new, evolving creative ecosystem
+methodology: '[[methods/Phenomenology]]'
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Towards Distributed Creativity Understanding Generative AI in th

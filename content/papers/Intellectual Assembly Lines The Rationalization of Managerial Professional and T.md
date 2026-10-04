@@ -1,9 +1,39 @@
 ---
-source_file: "History/Intellectual Assembly Lines_ The Rationalization of Managerial, Professional, and Technical Work Perrolle, Judith A. 1984.pdf"
+source_file: History/Intellectual Assembly Lines_ The Rationalization of Managerial,
+  Professional, and Technical Work Perrolle, Judith A. 1984.pdf
 type: paper
-authors: "Social Science"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Social Science
+community: GenAI in UX and Design Practice
+tags: null
+year: 1984
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/De-skilling]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/Technological Unemployment]]'
+key_claims:
+- Computer technology enables rationalization of managerial and professional work
+  previously considered immune to assembly line organization
+- AI and expert systems can perform technical judgment and managerial decision-making
+  traditionally requiring human expertise, representing a fundamental shift in work
+  organization
+- Intellectual work is being organized along assembly line principles through computerization,
+  with professional work subject to the same deskilling processes as manual labor
+- The division of mental labor through AI-mediated rationalization threatens professional
+  autonomy and discretion in ways parallel to earlier industrial divisions of manual
+  labor
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical and theoretical analysis of computer technology and AI in professional/managerial
+  work contexts
+study_type: theoretical
 ---
 
 # Intellectual Assembly Lines The Rationalization of Managerial, Professional, and Technical Work Perrolle, Judith A. 1984

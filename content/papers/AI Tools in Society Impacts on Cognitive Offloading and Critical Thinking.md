@@ -1,9 +1,46 @@
 ---
-source_file: "AI Tools in Society Impacts on Cognitive Offloading and the Future of Critical Thinking.pdf"
+source_file: AI Tools in Society Impacts on Cognitive Offloading and the Future of
+  Critical Thinking.pdf
 type: paper
-authors: "Michael Gerlich"
-community: "Design Theory and Cognition"
-tags:
+authors: Michael Gerlich
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[frameworks/Predictive Processing]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- Frequent AI tool use shows a statistically significant negative correlation with
+  critical thinking scores, mediated by cognitive offloading (n=666)
+- Younger participants (17-25 years) exhibit significantly higher AI dependence and
+  lower critical thinking scores than older groups, suggesting developmental vulnerability
+  to AI reliance
+- Higher educational attainment buffers against critical thinking decline regardless
+  of AI use frequency, indicating that strong metacognitive foundations moderate the
+  offloading effect
+- Current AI usage patterns trend toward cognitive substitution rather than supplementation,
+  with qualitative themes revealing participant-reported feelings of lost independent
+  thought and inability to function without AI
+- Chronic reduction in cognitive demands through AI tools may atrophy analytical reasoning,
+  reflective evaluation, and synthesis capacities that constitute critical thinking
+  by bypassing System 2 deliberate processing
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 666
+sample_type: participants across diverse age groups and educational backgrounds
+context: online survey platforms with 50 semi-structured interviews
+study_type: empirical
 ---
 
 # AI Tools in Society: Impacts on Cognitive Offloading and the Future of Critical Thinking

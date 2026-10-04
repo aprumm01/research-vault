@@ -1,9 +1,39 @@
 ---
-source_file: "EDU/lit review documents/Integrating futures imaginaries  expectations and anticipatory practices  practitioners of artificial intelligence between now and future.pdf"
+source_file: EDU/lit review documents/Integrating futures imaginaries  expectations
+  and anticipatory practices  practitioners of artificial intelligence between now
+  and future.pdf
 type: paper
-authors: "Technology Analysis & Strategic Management"
-community: "Design Theory and Cognition"
-tags:
+authors: Technology Analysis & Strategic Management
+community: Design Theory and Cognition
+tags: null
+year: null
+builds_on:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[frameworks/Science and Technology Studies]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- AI practitioners actively work to actualize their futures imaginaries through anticipatory
+  practices that bridge present technical work with long-term visions
+- Imagining the socio-technical future is necessary but challenging in the rapidly
+  developing AI era where turbulent technological change makes future-oriented thinking
+  both critical and difficult
+- A significant gap exists between AI practitioners' futures imaginaries and their
+  actualization, requiring deliberate bridging strategies
+- Expectations about AI's world-changing capabilities (learning independently, processing
+  big data, automating human work) actively shape current development practices
+- Understanding how practitioners integrate futures thinking is essential for responsible
+  AI development
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: AI practitioners
+context: AI development practice
+study_type: empirical
 ---
 
 # Integrating futures imaginaries expectations and anticipatory practices practitioners of artificial intelligence between now and future

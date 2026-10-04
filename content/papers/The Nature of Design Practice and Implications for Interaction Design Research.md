@@ -1,9 +1,47 @@
 ---
-source_file: "The Nature of Design Practice and Implications for Interaction Design Research.pdf"
+source_file: The Nature of Design Practice and Implications for Interaction Design
+  Research.pdf
 type: paper
-authors: "for Interaction Design Research"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: for Interaction Design Research
+community: GenAI in UX and Design Practice
+tags: null
+year: 2004
+builds_on:
+- '[[frameworks/Phenomenology]]'
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Problem Framing]]'
+critiques:
+- '[[frameworks/Science and Technology Studies]]'
+tensions_with:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Cognitive Offloading]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- HCI research aimed at supporting practice fails because it lacks sufficient understanding
+  of design practice nature and borrows inappropriate scientific methods
+- Design complexity deals with creating ultimate particulars versus science seeking
+  universal truths, making scientific methods fundamentally incommensurable with design
+  practice needs
+- Designers successfully handle complexity through designerly approaches including
+  sketching, parallel alternatives, and iterative whole-details exploration rather
+  than linear scientific processes
+- Design education should prepare designers for action through repertoire building
+  and reflection-in-action rather than prescribing step-by-step processes
+- Successful design tools are precise, simple, non-prescriptive frameworks that support
+  designer incorporation into situated practice rather than prescriptive methodologies
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: HCI and interaction design research and practice
+study_type: theoretical
 ---
 
 # The Nature of Design Practice and Implications for Interaction Design Research

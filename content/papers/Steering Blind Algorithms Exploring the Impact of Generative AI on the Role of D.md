@@ -1,9 +1,46 @@
 ---
-source_file: "2026/Steering Blind Algorithms Exploring the Impact of Generative AI on the Role of Designers.pdf"
+source_file: 2026/Steering Blind Algorithms Exploring the Impact of Generative AI
+  on the Role of Designers.pdf
 type: paper
-authors: "PDF Download"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PDF Download
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Problem Framing]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Strategic designers are confident AI will not replace roles involving stakeholder
+  engagement, problem identification, and context-driven decisions, as these require
+  relational expertise and human interpretation
+- 'Three distinct modes of designer-AI collaboration emerged: creative support for
+  ideation, tool for efficiency in established tasks, and interactive collaborator
+  for feedback'
+- Problem-oriented approaches help overcome AI hype by requiring designers to understand
+  underlying drivers before proposing AI solutions, emphasizing problem-setting over
+  problem-solving
+- AI automation of routine tasks frees designers' time for complex strategic work,
+  which participants perceived as more enjoyable and valuable
+- Designer expertise and critical reflection are essential for leveraging AI creatively
+  and responsibly, with human-centered design serving as key to ethical AI implementation
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 17
+sample_type: senior-level strategic design professionals including heads of design
+  teams across concept design, UX, user research, service design, business strategy,
+  innovation, and AI implementation
+context: Finland design industry, Spring 2024
+study_type: empirical
 ---
 
 # Steering Blind Algorithms Exploring the Impact of Generative AI on the Role of Designers

@@ -1,9 +1,42 @@
 ---
-source_file: "ACM/AI-assisted Learning in HCI Education_Opportunities and Dilemmas from a Student Perspective.pdf"
+source_file: ACM/AI-assisted Learning in HCI Education_Opportunities and Dilemmas
+  from a Student Perspective.pdf
 type: paper
-authors: "AI-assisted Learning in HCI Education"
-community: "HCI Education and Pedagogy"
-tags:
+authors: AI-assisted Learning in HCI Education
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- Students are guided more by intrinsic motivation to learn and pride in accomplishment
+  than by moralistic rhetoric about cheating when making decisions about GenAI use
+- Appropriateness of AI tool use depends on learning goals and context specificity
+  rather than blanket rules - students demonstrate nuanced understanding of when/how
+  to use GenAI
+- 'Four key themes emerged: (1) Learning and pride drive responsible use, (2) Situatedness
+  and specificity determine appropriateness, (3) AI-assisted practices emerging for
+  ideation, editing, research, exam prep, (4) Lack of exemplary practices from educators/industry'
+- Students demonstrate awareness of ethical issues including bias, environmental impact,
+  data privacy, and dehumanization, and moderate their usage accordingly
+- Student-led emergent practices are outpacing educator guidance, with students leading
+  AI integration while educators focus primarily on safeguarding assessment rather
+  than supporting learning
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 31
+sample_type: interaction design bachelor students (6 interview participants, 25 survey
+  respondents)
+context: Single interaction design program at Swedish university, February-March 2025
+study_type: empirical
 ---
 
 # AI-assisted Learning in HCI Education Opportunities and Dilemmas from a Student Perspective

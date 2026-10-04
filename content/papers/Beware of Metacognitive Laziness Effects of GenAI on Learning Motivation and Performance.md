@@ -1,9 +1,46 @@
 ---
-source_file: "Fan et al. - 2024 - Beware of Metacognitive Laziness Effects of Generative Artificial Intelligence on Learning Motivati.pdf"
+source_file: Fan et al. - 2024 - Beware of Metacognitive Laziness Effects of Generative
+  Artificial Intelligence on Learning Motivati.pdf
 type: paper
-authors: "Yizhou Fan, Luzhen Tang, Huixiao Le, Kejie Shen, Shufang Tan, Yueying Zhao, Yuan Shen, Xinyu Li, Dragan Gasevic"
-community: "Responsible AI and Ethics"
-tags:
+authors: Yizhou Fan, Luzhen Tang, Huixiao Le, Kejie Shen, Shufang Tan, Yueying Zhao,
+  Yuan Shen, Xinyu Li, Dragan Gasevic
+community: Responsible AI and Ethics
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Cognitive Offloading]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- ChatGPT significantly improves short-term essay scores compared to control but shows
+  no advantage in knowledge gain or transfer, decoupling performance metrics from
+  actual learning
+- AI-supported learners exhibit fewer metacognitive processes (evaluation, orientation)
+  than human expert and checklist groups, providing direct evidence for metacognitive
+  laziness
+- Human expert interaction triggers more metacognitive process associations than ChatGPT,
+  suggesting dialogic interaction scaffolds deeper self-regulation
+- No significant differences in post-task intrinsic motivation were found across AI,
+  human expert, checklist, and control groups, despite significant differences in
+  self-regulated learning processes
+- The checklist group shows the highest intrinsic motivation scores (interest, enjoyment,
+  perceived competence), indicating well-designed self-monitoring tools may better
+  support motivation than AI
+methodology: '[[methods/Controlled Experiment]]'
+sample_size: 117
+sample_type: university students
+context: laboratory setting with writing task
+study_type: empirical
 ---
 
 # Beware of Metacognitive Laziness: Effects of Generative Artificial Intelligence on Learning Motivation, Processes, and Performance

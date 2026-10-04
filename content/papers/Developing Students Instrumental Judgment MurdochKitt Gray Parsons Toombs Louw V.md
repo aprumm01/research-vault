@@ -1,9 +1,42 @@
 ---
-source_file: "Developing Students Instrumental Judgment_MurdochKitt_Gray_Parsons_Toombs_Louw_VanGent.pdf"
+source_file: Developing Students Instrumental Judgment_MurdochKitt_Gray_Parsons_Toombs_Louw_VanGent.pdf
 type: paper
-authors: "Developing Students’ Instrumental Judgment"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Developing Students’ Instrumental Judgment
+community: HCI Education and Pedagogy
+tags: null
+year: 2018
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Studio Pedagogy]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Design-Based Learning]]'
+key_claims:
+- Owning a design methods book is insufficient for cultivating instrumental judgment—educators
+  must create opportunities for students to understand connections between methods,
+  contextual appropriateness, and when new approaches are needed
+- Integrated studio model with dual-strand approach (learning studios for heightened
+  reality skill development paired with industry experience studios for cross-cohort
+  real-world practice) enables systematic development of instrumental judgment through
+  spiraling curriculum across five semesters
+- Design rigor lies in the designer's character, identity, and sense of competence
+  rather than borrowed scientific approaches, requiring descriptive, exploratory,
+  and generative methods that value lived experience over prescriptive method application
+- Methods are often weakly taught when presented as prescriptive procedures without
+  intentional accounting for what aspects of human experience to explore or what analytic
+  lens to employ
+- Students require substantial space for experimentation and failure to learn when
+  approaches are not working or when different methods would serve better, necessitating
+  program-wide continuity rather than semester-by-semester skill acquisition
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: Design educators (workshop participants) and UX Design program students
+context: DECIPHER 2018 conference workshop and Purdue University UX Design program
+study_type: design
 ---
 
 # Developing Students Instrumental Judgment MurdochKitt Gray Parsons Toombs Louw VanGent

@@ -1,9 +1,52 @@
 ---
-source_file: "Integrating_Generative_AI_in_Design_Education_Metacognitive_Patterns_in_AI-Naive_Students.pdf"
+source_file: Integrating_Generative_AI_in_Design_Education_Metacognitive_Patterns_in_AI-Naive_Students.pdf
 type: paper
-authors: "Cristiano Passerini, Silvia Gasparotto"
-community: "AI in Design Education"
-tags:
+authors: Cristiano Passerini, Silvia Gasparotto
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Cognitive Offloading]]'
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Abductive Reasoning]]'
+critiques: []
+tensions_with:
+- '[[concepts/Creativity Support Tools]]'
+- '[[frameworks/Cognitive Load]]'
+supports:
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Cognitive Tension]]'
+key_claims:
+- Technical failures and imperfect AI outputs paradoxically generate deeper understanding
+  of LLM behavior than seamless interactions—'intentional friction' became a pedagogical
+  asset
+- AI-naive students demonstrated 'default' cognitive offloading rather than 'strategic'
+  offloading—they delegated creative planning decisions to AI without maintaining
+  conscious control
+- 'Students exhibited assessment blind spots: they recognized AI produced plausible
+  text but lacked domain knowledge and epistemological sophistication to evaluate
+  whether outputs were appropriate for specific service design contexts'
+- Ethical pragmatism emerged through situated design practice rather than explicit
+  ethics instruction—students developed practical stances on authorship and attribution
+  through the friction of actual projects
+- The intervention required radical reformulation when the original plan encountered
+  students' poor familiarity with conversational interfaces, privacy implications,
+  and probabilistic language generation
+methodology: '[[methods/Action Research]]'
+sample_size: 20
+sample_type: final-year design students with minimal prior AI exposure (AI-naive population)
+context: Service Design course, University of Bologna Department of Architecture,
+  Advanced Design Master's program, 12-week course with real public administration
+  service design projects
+study_type: empirical
 ---
 
 # Integrating Generative AI in Design Education: Metacognitive Patterns in AI-Naive Students

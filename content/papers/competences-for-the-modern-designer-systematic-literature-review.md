@@ -1,9 +1,45 @@
 ---
-source_file: "hiring and org practice/competences-for-the-modern-designer-systematic-literature-review.pdf"
+source_file: hiring and org practice/competences-for-the-modern-designer-systematic-literature-review.pdf
 type: paper
-authors: "Arts and Humanities in Higher Education"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Arts and Humanities in Higher Education
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Metacognitive skills are becoming integral components of curricula in modern design
+  education, marking a shift from traditional emphasis on technical craft and aesthetic
+  judgment to meta-level capabilities for self-directed learning and adaptive problem-solving
+- Post-digital era competencies require designers to navigate AI tools, data literacies,
+  platform logics, and algorithmic systems alongside traditional design fundamentals,
+  creating expanded capability requirements beyond conventional design skills
+- Higher education curricula are lagging behind practice evolution, creating gaps
+  between what design programs teach and what industry expects in rapidly changing
+  professional contexts
+- Technical and ethical competencies are intertwined in digital design work, requiring
+  designers develop critical capabilities around data privacy, algorithmic bias, and
+  environmental impact alongside technical prowess
+- The capacity for continuous learning and adaptation throughout careers is the most
+  critical competency for designers given rapid technological change, superseding
+  any specific technical skill set
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: design education and professional competency research literature
+context: higher education design programs in post-digital era
+study_type: review
 ---
 
 # competences-for-the-modern-designer-systematic-literature-review

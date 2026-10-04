@@ -1,9 +1,36 @@
 ---
-source_file: "synth users/Persona-Based Simulation of Human Opinion at Population Scale - Li et al - 2026.pdf"
+source_file: synth users/Persona-Based Simulation of Human Opinion at Population Scale
+  - Li et al - 2026.pdf
 type: paper
-authors: "Population Scale"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Population Scale
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Synthetic Users]]'
+- '[[methods/Persona Development]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+key_claims:
+- Semi-structured personas that integrate both psychological attributes and narrative
+  identity improve simulation fidelity over demographic-only conditioning
+- SPIRIT-conditioned simulations recover self-reported responses more faithfully than
+  demographic personas while reproducing human heterogeneity
+- Individual-level modeling captures within-group diversity that aggregate demographic
+  predictions obscure
+- Persona banks derived from social media can function as virtual panels for studying
+  stable attitudes and time-sensitive opinion dynamics
+- Simulation paradigm enables causal intervention studies impossible with traditional
+  survey methods due to cost and ethical constraints
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: nationally representative probability samples and social media users
+context: population-scale opinion simulation using social media data and survey research
+study_type: empirical
 ---
 
 # Persona-Based Simulation of Human Opinion at Population Scale - Li et al - 2026

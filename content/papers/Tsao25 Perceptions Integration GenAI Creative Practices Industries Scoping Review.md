@@ -1,9 +1,50 @@
 ---
-source_file: "Tsa25.pdf"
+source_file: Tsa25.pdf
 type: paper
-authors: "Jack Tsao, Cindy Xinyi Liang, Collier Nogues, Alice Wong"
-community: "AI and Future of Work"
-tags:
+authors: Jack Tsao, Cindy Xinyi Liang, Collier Nogues, Alice Wong
+community: AI and Future of Work
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-driven Creativity]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Design Fixation]]'
+key_claims:
+- Across all creative domains, GenAI is predominantly positioned in early-stage conceptualization
+  rather than final production phases, with professionals consistently reserving human
+  judgment for convergent creative work
+- 'Career stage is a critical variable: entry-level professionals embrace AI as natural
+  extension of digital tools while senior practitioners resist, fearing expertise
+  devaluation and threats to professional identity hierarchies'
+- Creative fields with higher knowledge codifiability (explicit/documentable practices)
+  and digital/ephemeral outputs show significantly higher AI adoption rates than fields
+  with tacit/embodied knowledge and physical/permanent outputs
+- The creation-to-curation shift repositions creative professionals as meta-creators
+  who direct and refine AI outputs rather than producing work from scratch, fundamentally
+  altering the professional skill set required
+- Visual artists face 'erasure by obscurity' as AI's prolific output volume drowns
+  out human-made work in search results and digital platforms, representing a distinct
+  threat beyond automation
+methodology: '[[methods/Literature Review]]'
+sample_size: 57
+sample_type: empirical research papers on creative professionals across visual art,
+  design, writing, performing arts, and environmental/spatial design
+context: Global creative industries, 2022-2025 publications
+study_type: review
 ---
 
 # Perceptions and Integration of Generative Artificial Intelligence in Creative Practices and Industries: A Scoping Review and Conceptual Model

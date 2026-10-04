@@ -1,9 +1,43 @@
 ---
-source_file: "Beyond Automation How Designers Perceive AI as a Creative Partner in the Divergent Thinking Stages of UIUX Design.pdf"
+source_file: Beyond Automation How Designers Perceive AI as a Creative Partner in
+  the Divergent Thinking Stages of UIUX Design.pdf
 type: paper
-authors: "PDF Download"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PDF Download
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Double Diamond Model]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Design Fixation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Design Fixation]]'
+key_claims:
+- 'Divergent thinking in UI/UX design requires three interconnected components: research
+  and discovery, inspiration and ideation, and iterative prototype exploration'
+- 'AI tools play four key roles supporting divergent thinking: aiding research, kick-starting
+  creativity, generating design alternatives, and facilitating prototype exploration'
+- Designers value AI tools that offer greater control over ideation, facilitate collaboration,
+  enhance efficiency to liberate creativity, and align with visual habits
+- AI should be positioned as creative partner supporting rather than replacing human
+  designers, balancing efficiency gains with preservation of creative autonomy
+- Existing AI tools often fall short of addressing specific needs of UX professionals
+  in design thinking tasks beyond graphical output generation
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 19
+sample_type: professional UI/UX designers with 2-15 years experience
+context: Remote interviews with designers across diverse projects (finance, e-commerce,
+  B2B tools, educational apps, gaming)
+study_type: empirical
 ---
 
 # Beyond Automation How Designers Perceive AI as a Creative Partner in the Divergent Thinking Stages of UIUX Design

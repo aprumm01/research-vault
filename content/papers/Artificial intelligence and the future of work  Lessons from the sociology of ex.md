@@ -1,15 +1,51 @@
 ---
-source_file: "History/Artificial intelligence and the future of work – Lessons from the sociology of expectations.pdf"
+source_file: History/Artificial intelligence and the future of work – Lessons from
+  the sociology of expectations.pdf
 type: paper
-authors: "Lilla Vicsek"
-community: "AI and Future of Work"
+authors: Lilla Vicsek
+community: AI and Future of Work
 tags:
-  - sociology-of-expectations
-  - future-of-work
-  - technological-determinism
-  - fictional-expectations
-  - ai-automation
-  - uncertainty
+- sociology-of-expectations
+- future-of-work
+- technological-determinism
+- fictional-expectations
+- ai-automation
+- uncertainty
+year: 2021
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/Technological Determinism]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/AI Winter]]'
+key_claims:
+- Dominant expert positions on AI and work award agency to technology rather than
+  humans, obscuring questions about how AI should be developed and who should have
+  a say in its implementation
+- Both Positive Effects and Negative Effects positions involve hype rhetoric using
+  expressions like 'fourth industrial revolution' that obscures technological bottlenecks
+  and uncertainty
+- Polarized utopian and apocalyptic narratives foreclose nuanced alternatives and
+  multiple possible trajectories, with precise-sounding statistics downplaying fundamental
+  uncertainty in predicting the future
+- Applying sociology of expectations reveals that future visions are performative
+  fictional expectations that legitimate, coordinate, and direct present action rather
+  than predictions to be evaluated for accuracy
+- Alternative framings through scenario building and backcasting methodologies that
+  acknowledge co-shaping between technology and society can advance more sophisticated
+  understanding than effect-focused technological determinism
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Expert discourse on AI and future of work from international organizations
+  (OECD, ILO), economists, futurists, and sociologists
+study_type: theoretical
 ---
 
 # Artificial intelligence and the future of work – Lessons from the sociology of expectations

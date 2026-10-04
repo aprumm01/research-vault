@@ -1,9 +1,45 @@
 ---
-source_file: "Ramaul et al. 2025 - Rethinking how we theorize AI in organization and management - A problematizing review of rationality and anthropomorphism.pdf"
+source_file: Ramaul et al. 2025 - Rethinking how we theorize AI in organization and
+  management - A problematizing review of rationality and anthropomorphism.pdf
 type: paper
-authors: "and Päivi Aaltonena"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: and Päivi Aaltonena
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+supports:
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Ownership Ambiguity]]'
+key_claims:
+- 'Organization and management scholars ground AI theorizing in two foundational yet
+  contested assumptions: rationality (positioning AI through computational optimization
+  frameworks) and anthropomorphism (attributing human-like agency to AI systems)'
+- The rationality assumption enables theorizing around computational logic but obscures
+  sociotechnical embedding, learning dynamics, and unexpected emergent behaviors of
+  AI in organizational contexts
+- The anthropomorphism assumption facilitates concepts of AI as organizational actor
+  but risks overstating AI autonomy while understating human roles in design, deployment,
+  and ongoing governance
+- Organization and management scholarship requires distinctive theory scaffolding
+  beyond importing frameworks from computer science or psychology to address AI's
+  unique organizational challenges
+- Boundary conditions of AI theorizing demand specifying organizational contexts where
+  rationality and anthropomorphism assumptions hold versus break down rather than
+  treating AI capabilities as context-independent
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: organization and management scholarship on AI
+study_type: review
 ---
 
 # Ramaul et al. 2025 - Rethinking how we theorize AI in organization and management - A problematizing review of rationality and anthropomorphism

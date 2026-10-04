@@ -1,9 +1,50 @@
 ---
-source_file: "Thinking through Prompting_Cognitive Mediation in Human–AI.pdf"
+source_file: Thinking through Prompting_Cognitive Mediation in Human–AI.pdf
 type: paper
-authors: "Peter Dalsgaard"
-community: "Design Theory and Cognition"
-tags:
+authors: Peter Dalsgaard
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Problem Framing]]'
+critiques:
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/Cognitive Tension]]'
+key_claims:
+- 'Prompts function as cognitive interfaces mediating between user intent and algorithmic
+  generation through three interdependent dimensions: semantic projection, compositional
+  structuring, and interpretive negotiation'
+- Classical affordance-based interface models are inadequate for generative AI; prompting
+  involves speculation rather than direct manipulation, with constraints discovered
+  through use rather than visible cues
+- The real interface in generative AI systems lies in the evolving semiotic and interpretive
+  space created through prompt-response cycles, not in the sparse visible interface,
+  challenging traditional interface design models
+- Prompting constitutes epistemic externalization where users construct and refine
+  representations of intent as a form of cognitive work that reveals how meaning gets
+  processed, especially in exploratory or uncertain contexts
+- Prompt interpretation becomes shared labor in communities where users collectively
+  build prompting literacy as socio-cultural practice through comparing outputs and
+  refining phrasing conventions
+methodology: '[[methods/Survey]]'
+sample_size: null
+sample_type: null
+context: Theoretical analysis with illustrative vignettes from design and creative
+  practice contexts
+study_type: theoretical
 ---
 
 # Thinking through Prompting Cognitive Mediation in Human–AI

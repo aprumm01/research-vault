@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/r511/Unlocking training transfer in the age of artificial intelligence.pdf"
+source_file: EDU/r511/Unlocking training transfer in the age of artificial intelligence.pdf
 type: paper
-authors: "Jennifer Jihae Park"
-community: "AI and Future of Work"
-tags:
+authors: Jennifer Jihae Park
+community: AI and Future of Work
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques: []
+tensions_with:
+- '[[concepts/Deep Learning (Educational)]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- Traditional training transfer timelines are becoming obsolete due to rapid technological
+  change, requiring accelerated transfer intervals and microlearning approaches to
+  address cognitive load constraints
+- Organizations must shift from teaching specific AI tools (closed skills) to developing
+  open skills for AI collaboration, prioritizing agentic behaviors and self-directed
+  learning over tool-specific knowledge
+- AI-enabled personalized and adaptive learning systems including chatbots, workforce
+  analytics, and AI mentors can individualize training experiences and enable rapid
+  needs assessment
+- Communities of practice both internal and external to organizations facilitate complex
+  AI training transfer discussions and are necessary for navigating AI-driven workplace
+  changes
+- Continuous collaboration across education, industry, academia, and government sectors
+  is necessary for developing an effective AI workforce pipeline
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Workplace training and organizational learning in AI-driven environments
+study_type: theoretical
 ---
 
 # Unlocking training transfer in the age of artificial intelligence

@@ -1,9 +1,46 @@
 ---
-source_file: "Ali26.pdf"
+source_file: Ali26.pdf
 type: paper
-authors: "Sarim Farhan Ali, Javeria, Sooda Hassan, Mareeb Razzak, Noor-Ul-Ain"
-community: "Design Theory and Cognition"
-tags:
+authors: Sarim Farhan Ali, Javeria, Sooda Hassan, Mareeb Razzak, Noor-Ul-Ain
+community: Design Theory and Cognition
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Phenomenology]]'
+- '[[concepts/Cognitive Offloading]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- Students adopt AI summarization tools primarily in response to academic pressure
+  rather than pedagogical preference, creating a pragmatically driven cycle even when
+  they recognize it undermines their learning
+- AI summarization use is associated with gradual erosion of deep reading habits including
+  decreased annotation practices, reduced engagement with textual nuance, and weakening
+  of independent interpretive abilities
+- Students reported decreasing attention span and cognitive patience after habitually
+  using AI summaries, with growing difficulty sustaining engagement with long-form
+  academic material, suggesting neuroplastic effects of AI mediation
+- Students demonstrate meaningful self-awareness of the trade-offs involved in AI
+  summarization use, recognizing negative effects on their own learning despite continued
+  use
+- The Pakistani academic context reveals how structural factors—heavy workloads, limited
+  text access, English as second language—create conditions for AI adoption that differ
+  from Global North contexts
+methodology: '[[methods/Phenomenology]]'
+sample_size: 9
+sample_type: undergraduate students from diverse disciplines
+context: Universities in Karachi, Pakistan
+study_type: empirical
 ---
 
 # AI Summarization and the Future of Academic Reading: Exploring Student Experiences and Cognitive Trade-offs

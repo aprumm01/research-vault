@@ -1,9 +1,52 @@
 ---
-source_file: "AI collaboration related articles/Vibe Coding for Product Design Understanding Product Team Members_ Perceptions of AI-Assisted Design and Development.pdf"
+source_file: AI collaboration related articles/Vibe Coding for Product Design Understanding
+  Product Team Members_ Perceptions of AI-Assisted Design and Development.pdf
 type: paper
-authors: "JIE LI, Cake Researcher, Netherlands"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: JIE LI, Cake Researcher, Netherlands
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Ownership Ambiguity]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Ironies of Automation]]'
+key_claims:
+- Vibe coding involves a four-stage workflow (Ideation → Generation → Debugging →
+  Review) that is distinct from pure prompt-to-product automation and requires significant
+  human-led debugging and verification
+- AI over-reliance creates new asymmetries in team dynamics, introducing social stigma
+  between 'AI-literate' and 'AI-dependent' practitioners and eroding individual technical
+  skills
+- Traditional role distinctions between designers, engineers, and product managers
+  are dissolving as vibe coding becomes a distributed responsibility across product
+  teams
+- 'Vibe coding creates a dual educational potential: serving as a learning opportunity
+  for already-skilled coders while creating dependency risks for others, representing
+  a tension between efficiency-driven prototyping and reflective practice'
+- Authorship in vibe coding shifts from code execution to intention-setting, redefining
+  ownership and raising questions about disclosure and accountability in AI-assisted
+  design
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 22
+sample_type: Product team members including UX/UI designers, front-end engineers,
+  product managers, and startup founders from enterprises, startups, and academia
+context: Cross-geographic study (North America, Europe, Asia) of practitioners with
+  hands-on experience using AI coding agents (Cursor, Replit, Bolt, V0, Lovable)
+study_type: empirical
 ---
 
 # Vibe Coding for Product Design Understanding Product Team Members Perceptions of AI-Assisted Design and Development

@@ -1,9 +1,44 @@
 ---
-source_file: "2026/i609-sustainability/Sil23.pdf"
+source_file: 2026/i609-sustainability/Sil23.pdf
 type: paper
-authors: "Elizabeth Sillence, Jordan A. Dawson, Richard D. Brown, Kerry McKellar, Nick Neave"
-community: "Sustainable Computing"
-tags: [sustainability, i609, digital-hoarding, HCI, personal-data, environmental-impact]
+authors: Elizabeth Sillence, Jordan A. Dawson, Richard D. Brown, Kerry McKellar, Nick
+  Neave
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- digital-hoarding
+- HCI
+- personal-data
+- environmental-impact
+year: 2026
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- The Digital Behaviors for Personal Use Questionnaire (DBPUQ) demonstrates good internal
+  consistency (Cronbach's alpha = .86) for measuring personal digital hoarding behaviors
+  distinct from clinical contexts
+- Digital hoarding in personal contexts correlates significantly with difficulty deleting
+  (r = .49, p < .001), emotional attachment (r = .44, p < .001), and psychological
+  distress (r = .32, p < .001)
+- Unwanted photos alone generate 10.6 kg CO2 annually per UK adult, totaling 355,000
+  tonnes CO2 across the UK population, highlighting the environmental impact of normalized
+  digital accumulation
+- Personal digital hoarding shares psychological mechanisms with physical hoarding—emotional
+  attachment and difficulty discarding—but occurs in a context where individual storage
+  costs seem negligible while creating aggregate environmental harm
+- Easy cloud storage has normalized excessive digital accumulation, making behavioral
+  intervention more difficult as users maintain an 'out of sight, out of mind' relationship
+  with their stored data
+methodology: '[[methods/Survey]]'
+sample_size: 167
+sample_type: 75% female adults, ages 18-73 (M=25.34 years)
+context: Personal digital device use, recruited via Prolific platform
+study_type: empirical
 ---
 
 # Digital Hoarding and Personal Use Digital Data: Developing and Validating a New Measure

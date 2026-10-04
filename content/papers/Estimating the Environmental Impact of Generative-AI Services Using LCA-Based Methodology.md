@@ -1,9 +1,42 @@
 ---
-source_file: "2026/i609-sustainability/EstimatingtheenvironmentalimpactofGenerative-AIservices.pdf"
+source_file: 2026/i609-sustainability/EstimatingtheenvironmentalimpactofGenerative-AIservices.pdf
 type: paper
-authors: "Adrien Berthelot, Eddy Caron, Mathilde Jay, Laurent Lefevre"
-community: "Sustainable Computing"
-tags: [sustainability, i609, generative-AI, LCA, environmental-impact, carbon-footprint, energy-consumption]
+authors: Adrien Berthelot, Eddy Caron, Mathilde Jay, Laurent Lefevre
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- generative-AI
+- LCA
+- environmental-impact
+- carbon-footprint
+- energy-consumption
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- One year of Stable Diffusion service generates approximately 360 tons of CO2 equivalent
+  emissions, metal resource depletion equivalent to manufacturing 5,659 smartphones,
+  and 2.48 Gigawatt hours of primary energy consumption
+- End-user terminals represent approximately 90% of Abiotic Depletion Potential (ADP)
+  impact, while data-center inference represents approximately 75% of Global Warming
+  Potential (GWP) impact
+- Networks and end-user terminals are not negligible—prior studies focusing only on
+  data centers miss significant portions of total environmental impact
+- Below 20% Active Utilization Rate (AUR), environmental impacts increase significantly
+  for training servers, with real data centers operating between 12-18% average utilization
+- The majority of AI environmental studies are limited to measuring electricity consumption
+  and carbon emissions, neglecting the conditions and resources required for deploying
+  AI applications and missing a significant part of environmental impact
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: Stable Diffusion v1-4 and v1-5 models
+context: Generative AI service (text-to-image) with full lifecycle infrastructure
+  assessment
+study_type: empirical
 ---
 
 # Estimating the Environmental Impact of Generative-AI Services Using an LCA-Based Methodology

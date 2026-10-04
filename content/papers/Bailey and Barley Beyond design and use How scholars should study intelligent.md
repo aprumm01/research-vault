@@ -1,9 +1,44 @@
 ---
-source_file: "Bailey and Barley_Beyond design and use_How scholars should study intelligent.pdf"
+source_file: Bailey and Barley_Beyond design and use_How scholars should study intelligent.pdf
 type: paper
-authors: "Information and Organization"
-community: "AI and Future of Work"
-tags:
+authors: Information and Organization
+community: AI and Future of Work
+tags: null
+year: 2016
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[frameworks/Situated Cognition]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Fauxtomation]]'
+key_claims:
+- 'Current AI discourse obscures four critical issues: variation in implementation/use
+  across contexts, power dynamics shaping design agendas, design ideologies determining
+  automation vs. augmentation, and institutional changes beyond workplace'
+- The idea that technology implications are solely situated, contextual, and emergent
+  at point of use is insufficient—designers' visions and powerful stakeholders' agendas
+  shape outcomes before implementation
+- Once intelligent technologies achieve closure, opportunities to influence design
+  and purposes narrow dramatically, making proactive engagement urgent before widespread
+  adoption
+- 'Design ideologies matter: AI paradigm focuses on removing humans from the loop
+  while augmented intelligence paradigm emphasizes technologies that complement and
+  assist workers'
+- Widespread unemployment from AI could transform institutions far beyond workplace
+  including family life, transportation infrastructure, and urban planning systems
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Theoretical analysis of intelligent technologies including AI, machine learning,
+  robotics across organizational and societal contexts
+study_type: theoretical
 ---
 
 # Bailey and Barley Beyond design and use How scholars should study intelligent

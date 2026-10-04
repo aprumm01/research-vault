@@ -1,9 +1,31 @@
 ---
-source_file: "EDU/Kirkpatrick Plus Evaluation and Continuous Improvement with a Community Focus_ Watkins et al..pdf"
+source_file: EDU/Kirkpatrick Plus Evaluation and Continuous Improvement with a Community
+  Focus_ Watkins et al..pdf
 type: paper
-authors: "Kirkpatrick Plus: Evaluation and Continuous"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Kirkpatrick Plus: Evaluation and Continuous'
+community: GenAI in UX and Design Practice
+tags: null
+year: 1998
+builds_on: []
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Traditional Kirkpatrick framework is insufficient for today's organizational paradigm
+  that demands societal value-added and external client focus
+- Only 2% of organizations evaluate at Kirkpatrick Level 4, indicating significant
+  adoption challenges despite the framework's 40-year history
+- A fifth level (Mega) addressing societal contributions is essential and missing
+  from the original Kirkpatrick framework
+- Evaluation should be proactive and built into planning rather than reactive post-implementation,
+  beginning at Level 5 (societal) and rolling down to ensure alignment
+- Upper-level evaluations (Levels 3, 4, 5) are not necessarily more difficult than
+  commonly assumed, and costs-consequences analysis can be applied at all levels
+methodology: null
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Kirkpatrick Plus Evaluation and Continuous Improvement with a Community Focus Watkins et al.

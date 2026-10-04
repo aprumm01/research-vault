@@ -1,9 +1,39 @@
 ---
-source_file: "Designerly ways of knowing (1982) - Design Studies 1982-oct vol. 3 iss. 4 - Nigel Cross.pdf"
+source_file: Designerly ways of knowing (1982) - Design Studies 1982-oct vol. 3 iss.
+  4 - Nigel Cross.pdf
 type: paper
-authors: "NIGEL CROSS"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: NIGEL CROSS
+community: GenAI in UX and Design Practice
+tags: null
+year: 1982
+builds_on:
+- '[[frameworks/Design Thinking]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- Design represents a third intellectual culture distinct from sciences and humanities,
+  with unique concerns, methods, and knowledge forms focused on the artificial world
+- Design intelligence is constructive and projective rather than analytical, producing
+  proposals and possibilities through modeling, pattern synthesis, and configurational
+  understanding
+- Design thinking operates through tacit and embodied knowledge that resides in action
+  and material engagement, cannot be fully verbalized or reduced to explicit principles
+- Design problems are ill-defined, lacking clear parameters, single solutions, or
+  objective verification, requiring judgment, imagination, and synthesis rather than
+  logical analysis
+- General education should include design alongside sciences and humanities to develop
+  complete range of human capabilities, establishing design as legitimate discipline
+  requires articulating theoretical foundations
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Design education philosophy and epistemology
+study_type: theoretical
 ---
 
 # Designerly ways of knowing (1982) - Design Studies 1982-oct vol. 3 iss. 4 - Nigel Cross

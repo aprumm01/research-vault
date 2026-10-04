@@ -1,14 +1,47 @@
 ---
-source_file: "EDU/Clark1994_Article_MediaWillNeverInfluenceLearnin.pdf"
+source_file: EDU/Clark1994_Article_MediaWillNeverInfluenceLearnin.pdf
 type: paper
-authors: "Richard E. Clark"
-community: "HCI Education and Pedagogy"
+authors: Richard E. Clark
+community: HCI Education and Pedagogy
 tags:
-  - media-effects
-  - instructional-design
-  - learning-theory
-  - educational-technology
-  - method-vs-medium
+- media-effects
+- instructional-design
+- learning-theory
+- educational-technology
+- method-vs-medium
+year: 1994
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Deep Learning (Educational)]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[frameworks/Actor-Network Theory]]'
+supports:
+- '[[concepts/Surface-Level Processing]]'
+key_claims:
+- Media are 'mere vehicles that deliver instruction but do not influence student achievement
+  any more than the truck that delivers our groceries causes changes in our nutrition'—instructional
+  methods, not delivery media, cause learning gains
+- 'The replaceability test demonstrates causation: ''absolutely any necessary teaching
+  method can be delivered to students by many media or a variety of mixtures of media
+  attributes—with similar learning results,'' proving media are not causal factors'
+- 'Meta-analyses showing 20% learning gains from computer-based instruction are confounded:
+  ''when the same instructional design group produces CBT and presents the live instruction
+  with which it is compared in many studies, there is no achievement difference between
+  the CBT and live conditions'''
+- Media attributes are 'surface features' while instructional methods are 'structural
+  (necessary) features'—media influence cost and access efficiency but methods are
+  causally necessary for learning
+- Motivation from media stems from 'learners' beliefs and expectations about their
+  reactions to external events—not to external events alone,' meaning media effects
+  on motivation are mediated by perception rather than direct
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Seven decades of educational media research reviewed
+study_type: theoretical
 ---
 
 # Clark1994 Article MediaWillNeverInfluenceLearnin

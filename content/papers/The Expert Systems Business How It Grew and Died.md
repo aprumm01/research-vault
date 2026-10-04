@@ -1,9 +1,35 @@
 ---
-source_file: "History/The_Expert_Systems_Business_How_It_Grew_and_Died.pdf"
+source_file: History/The_Expert_Systems_Business_How_It_Grew_and_Died.pdf
 type: paper
-authors: "THEME ARTICLE: EXPERT SYSTEMS: COMMERCIALIZING"
-community: "Design Theory and Cognition"
-tags:
+authors: 'THEME ARTICLE: EXPERT SYSTEMS: COMMERCIALIZING'
+community: Design Theory and Cognition
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Winter]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- Expert systems represented a paradigm shift from deterministic computing to probabilistic
+  reasoning in business applications during the 1980s
+- The Japanese Fifth Generation Project politicized expert systems development, transforming
+  it from a technical innovation into a national competitiveness issue
+- The expert systems market fragmented into six distinct categories ranging from high-end
+  LISP tools to simple PC-based systems, reflecting differing business strategies
+  and user needs
+- Lack of computing knowledge among 1980s business users created both market opportunity
+  and confusion that contributed to eventual market collapse in the early 1990s
+- Expert systems tools enabled knowledge capture through rules that mimicked human
+  expert reasoning using forward and backward chaining logic
+methodology: '[[methods/Case Analysis]]'
+sample_size: null
+sample_type: null
+context: Expert systems industry during 1980s-early 1990s, primarily U.S. market
+study_type: review
 ---
 
 # The Expert Systems Business How It Grew and Died

@@ -1,24 +1,48 @@
 ---
-title: "Keeping a lower profile: reducing digital carbon footprints"
+title: 'Keeping a lower profile: reducing digital carbon footprints'
 authors:
-  - Thomas W. Jackson
-  - Ian Richard Hodgkinson
+- Thomas W. Jackson
+- Ian Richard Hodgkinson
 year: 2023
-publication: "Journal of Business Strategy"
+publication: Journal of Business Strategy
 volume: 44
 issue: 6
-pages: "363-370"
-doi: "10.1108/JBS-03-2022-0048"
+pages: 363-370
+doi: 10.1108/JBS-03-2022-0048
 tags:
-  - sustainability
-  - digital-decarbonization
-  - dark-data
-  - knowledge-reuse
-  - organizational-behavior
-  - data-management
+- sustainability
+- digital-decarbonization
+- dark-data
+- knowledge-reuse
+- organizational-behavior
+- data-management
 course: i609-sustainability
 date_processed: 2026-09-27
 status: analyzed
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Reflexive Delegation]]'
+key_claims:
+- 55% of organizational data is 'dark data'—collected, processed, and stored without
+  ever being used for productive purposes, representing a massive carbon liability
+- 'Organizations can reduce digital carbon footprints through a three-step knowledge
+  reuse framework: Search (check if content exists), Sanity Check (evaluate necessity),
+  and Knowledge Reuse (adapt rather than recreate)'
+- Reducing unnecessary data accumulation through behavioral change is an overlooked
+  sustainability lever compared to infrastructure-level efficiency improvements
+- Digital decarbonization requires addressing human behavior as data generators, not
+  just improving data center operations or hardware efficiency
+- 30% of organizational data is ROT (Redundant, Obsolete, Trivial) and eliminable,
+  while only 15% is actively used data with necessary storage requirements
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Organizational knowledge management and sustainability practices
+study_type: theoretical
 ---
 
 # Keeping a lower profile: reducing digital carbon footprints

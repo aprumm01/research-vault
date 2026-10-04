@@ -1,9 +1,49 @@
 ---
-source_file: "Co-Constructed or Constrained How AI Collaboration Tools Reshape UI Design Practice in a Time-Boxed Design Challenge.pdf"
+source_file: Co-Constructed or Constrained How AI Collaboration Tools Reshape UI Design
+  Practice in a Time-Boxed Design Challenge.pdf
 type: paper
-authors: "Charlotte Kobiella, Lukas Schneider, Albrecht Schmidt, Nađa Terzimehić"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Charlotte Kobiella, Lukas Schneider, Albrecht Schmidt, Nađa Terzimehić
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Creativity Support Tools]]'
+- '[[concepts/Design Fixation]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ownership Ambiguity]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- AI-assisted design shifts from an additive process (building iteratively from scratch)
+  to a subtractive process (refining AI-generated drafts through deletion and modification),
+  fundamentally changing the nature of creative decision-making in UI design
+- NASA-TLX workload scores showed significantly lower perceived cognitive workload
+  for AI-assisted tasks compared to conventional design tasks, but participants reported
+  narrower design exploration and reduced feelings of ownership and accomplishment
+- Computational analysis revealed that AI-assisted UI designs were more visually and
+  structurally homogeneous than manually created designs, clustering more tightly
+  in visual and structural feature space and providing empirical evidence for design
+  diversity concerns
+- AI-generated starting points introduce fixation risks distinct from example-based
+  inspiration because they are immediately actionable, making it harder for designers
+  to maintain critical distance and explore alternative directions
+- Professional designers with greater expertise developed adaptive strategies over
+  time, using AI for initial structure then deliberately breaking from it, suggesting
+  that expertise enables more strategic AI collaboration
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 16
+sample_type: professional UX designers with varying seniority and company sizes
+context: High-fidelity UI design tasks completed with FigmaAI in professional design
+  tool environment
+study_type: empirical
 ---
 
 # Co-Constructed or Constrained? How AI Collaboration Tools Reshape UI Design Practice in a Time-Boxed Design Challenge

@@ -1,9 +1,42 @@
 ---
-source_file: "Optimizing Design Education Using ArtiﬁcialIntelligence.pdf"
+source_file: Optimizing Design Education Using ArtiﬁcialIntelligence.pdf
 type: paper
-authors: "OPEN ACCESS"
-community: "HCI Education and Pedagogy"
-tags:
+authors: OPEN ACCESS
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Predictive Processing]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Experimental group using OBE-aligned instruction with Coolors platform showed 7.83
+  points higher design scores (p<0.01) and 6.27 points higher theoretical performance
+  (p<0.01) compared to traditional teaching control group
+- BP neural network achieved 2.62% mean error rate in predicting learning outcomes,
+  enabling real-time diagnostic feedback for curricular adaptation
+- 'Effective AI integration in design education requires tripartite framework: OBE
+  competency mapping, intelligent platform feedback, and predictive analytics - not
+  just tool adoption'
+- 'Traditional color education has three critical limitations: overemphasis on pigment
+  theory, inadequate technological integration, and disconnection from industry workflows'
+- 71.7% of students approved digital tool integration, demonstrating majority acceptance
+  of AI-enhanced design pedagogy with room for addressing concerns of remaining 28.3%
+methodology: '[[methods/Quasi-Experimental]]'
+sample_size: 120
+sample_type: visual communication students from three universities
+context: Three universities in Chengdu, China - color education in design curriculum
+study_type: empirical
 ---
 
 # Optimizing Design Education Using ArtiﬁcialIntelligence

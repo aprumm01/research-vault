@@ -1,9 +1,42 @@
 ---
-source_file: "synth users/Synthetic Cognitive Walkthrough Aligning LLM Performance with Human CW - Zhong et al - 2026.pdf"
+source_file: synth users/Synthetic Cognitive Walkthrough Aligning LLM Performance
+  with Human CW - Zhong et al - 2026.pdf
 type: paper
-authors: "Performance with Human Cognitive Walkthrough"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Performance with Human Cognitive Walkthrough
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Cognitive Walkthrough]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Human-AI Co-creation]]'
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Ironies of Automation]]'
+key_claims:
+- LLMs outperform humans in task completion rates and follow more optimal navigation
+  paths during cognitive walkthrough, but do not fully replicate human CW behavior
+- Humans exhibit exploratory breadth-first search patterns when uncertain, while LLMs
+  maintain rational single-path selection behavior even in ambiguous interface scenarios
+- LLMs identify fewer potential failure points than humans in initial walkthroughs,
+  but with additional prompting can predict human-identified failure points and align
+  performance
+- LLMs offer valuable complement to traditional usability testing rather than direct
+  replacement, requiring designers to understand behavioral differences between synthetic
+  and human evaluation
+- LLM rational behavior in navigation may stem from training optimization rather than
+  simulating human uncertainty, limiting their ability to identify usability issues
+  novice users would encounter
+methodology: '[[methods/Experimental]]'
+sample_size: null
+sample_type: comparative analysis of LLM (GPT-4 and Gemini-2.5-pro) versus human cognitive
+  walkthrough performance
+context: mobile interface usability testing using wizard-of-oz screenshot approach
+study_type: empirical
 ---
 
 # Synthetic Cognitive Walkthrough Aligning LLM Performance with Human CW - Zhong et al - 2026

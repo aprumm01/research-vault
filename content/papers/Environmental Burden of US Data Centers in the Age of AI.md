@@ -1,28 +1,57 @@
 ---
-title: "Environmental Burden of US Data Centers in the Age of AI"
+title: Environmental Burden of US Data Centers in the Age of AI
 authors:
-  - Gianluca Guidi
-  - Francesca Dominici
-  - Jonathan Gilmour
-  - Kevin Butler
-  - Eric Bell
-  - Scott Delaney
-  - Falco J. Bargagli-Stoffi
+- Gianluca Guidi
+- Francesca Dominici
+- Jonathan Gilmour
+- Kevin Butler
+- Eric Bell
+- Scott Delaney
+- Falco J. Bargagli-Stoffi
 year: 2024
-publication: "arXiv preprint"
-arxiv: "2411.09786v1"
-doi: ""
+publication: arXiv preprint
+arxiv: 2411.09786v1
+doi: ''
 tags:
-  - sustainability
-  - data-centers
-  - carbon-emissions
-  - united-states
-  - AI-era
-  - electricity-consumption
-  - GHG-emissions
+- sustainability
+- data-centers
+- carbon-emissions
+- united-states
+- AI-era
+- electricity-consumption
+- GHG-emissions
 course: i609-sustainability
 date_processed: 2026-09-27
 status: analyzed
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Technological Determinism]]'
+key_claims:
+- US data centers consumed 192.64 TWh of electricity (4.59% of total US consumption)
+  and emitted 105.59 million metric tons of CO2 equivalent over a 12-month period
+  from September 2023 to August 2024
+- 56% of data center electricity comes from fossil fuels, resulting in a carbon intensity
+  of 548 gCO2e/kWh, which is 48% above the US national average
+- AI-driven demand is growing at an estimated 15-20% annually, with summer peaks 18%
+  higher than winter due to cooling loads
+- The gap between renewable energy procurement claims and actual grid decarbonization
+  reveals that market-based accounting methods obscure the true environmental burden
+  of data centers
+- Geographic concentration in fossil fuel-intensive grid regions (e.g., Midwest at
+  680 gCO2e/kWh) creates localized environmental justice concerns as AI infrastructure
+  expands
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 2132
+sample_type: US data centers across enterprise, colocation, hyperscale, and edge facility
+  types
+context: United States data center infrastructure during the AI boom period (September
+  2023 - August 2024)
+study_type: empirical
 ---
 
 # Environmental Burden of US Data Centers in the Age of AI

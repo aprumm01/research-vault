@@ -1,9 +1,40 @@
 ---
-source_file: "The impact of the development of artificial intelligence on computer graphic design.pdf"
+source_file: The impact of the development of artificial intelligence on computer
+  graphic design.pdf
 type: paper
-authors: "Lusine Petrosyan"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Lusine Petrosyan
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Creativity Support Tools]]'
+key_claims:
+- 73% of surveyed graphic design professionals in Armenia believe AI positively affects
+  graphic designers' work
+- AI excels at task automation and time savings but cannot achieve independent innovation
+  without human creative direction
+- 92% of surveyed Armenian design professionals and educators used AI tools in their
+  practice (November 2023-January 2024)
+- Experimental comparison showed AI tools (Midjourney, Leonardo AI) produce faster
+  design results than traditional methods (Adobe Photoshop, Illustrator), but traditional
+  methods maintain quality advantages
+- AI-based template systems democratize design for non-specialists but risk creating
+  uniform, generic designs lacking uniqueness
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: graphic design professionals, educators, and students in Armenia
+context: Armenian graphic design education and professional practice, State Academy
+  of Fine Arts of Armenia
+study_type: empirical
 ---
 
 # The impact of the development of artificial intelligence on computer graphic design

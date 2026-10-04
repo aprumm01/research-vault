@@ -1,9 +1,37 @@
 ---
-source_file: "History/the-deskilling-controversy - attewell-1987.pdf"
+source_file: History/the-deskilling-controversy - attewell-1987.pdf
 type: paper
-authors: "The Deskilljng Controversy"
-community: "AI and Future of Work"
-tags:
+authors: The Deskilljng Controversy
+community: AI and Future of Work
+tags: null
+year: 1987
+builds_on:
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/De-skilling]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Craft workers maintained constant proportion (29-38%) of non-farm manual labor from
+  1900-1979, contradicting the deskilling thesis
+- Professional and technical workers grew from 4.2% to 15% of the U.S. workforce,
+  indicating skill upgrading rather than degradation
+- 'Four major countertendencies to deskilling exist: task redistribution without deskilling,
+  automation replacing already-unskilled work, coordination costs limiting division
+  of labor, and high-skill/high-wage strategies being more profitable'
+- Economic expansion allows work reorganization without worker deskilling, as skilled
+  workers retain complex tasks while new workers fill lower-level positions
+- Qualitative case studies can support deskilling narratives while quantitative industry-wide
+  data show upgrading, revealing methodological bias in deskilling research
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: U.S. Census occupational data (1900-1979), Dictionary of Occupational
+  Titles skill measurements, insurance industry workers
+context: U.S. labor market and insurance industry
+study_type: theoretical
 ---
 
 # the-deskilling-controversy - attewell-1987

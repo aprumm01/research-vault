@@ -1,9 +1,47 @@
 ---
-source_file: "EDU - design/Foundational and Instrumental Design Theory.pdf"
+source_file: EDU - design/Foundational and Instrumental Design Theory.pdf
 type: paper
-authors: "Foundational and Instrumental"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Foundational and Instrumental
+community: GenAI in UX and Design Practice
+tags: null
+year: 2011
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Phenomenology]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Abductive Reasoning]]'
+key_claims:
+- 'Design theory literature conflates fundamentally different theoretical projects:
+  foundational theories exploring design''s nature, instrumental theories offering
+  practical guidance, descriptive theories explaining design phenomena, and prescriptive
+  theories proposing design norms, generating pseudo-disagreements where theorists
+  apply inappropriate evaluation criteria'
+- Effective prescriptive guidance for improving design practice requires adequate
+  understanding of design's fundamental nature—what design activity entails, what
+  design artifacts are, how design reasoning operates—though practical knowledge can
+  develop through tacit experience without explicit theory
+- 'Different theory types demand different validation approaches: empirical design
+  research can test descriptive claims about how designers work, but cannot directly
+  validate foundational philosophical claims about design''s essential nature or prescriptive
+  claims about how design should be conducted'
+- All prescriptive design theories embody value commitments about what constitutes
+  good design or worthy design goals that cannot be empirically derived but reflect
+  ethical, political, and aesthetic judgments requiring explicit examination rather
+  than presenting as purely technical or neutral guidance
+- Design research community often treats deep conceptual questions as settled or unimportant,
+  rushing to practical application without adequate foundational work, contributing
+  to fragmented design research lacking shared conceptual frameworks and terminology
+  confusion impeding communication
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Design theory literature
+study_type: theoretical
 ---
 
 # Foundational and Instrumental Design Theory

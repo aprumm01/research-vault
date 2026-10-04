@@ -1,9 +1,43 @@
 ---
-source_file: "History/The Technocratic Momentum after 1945-jemms.pdf"
+source_file: History/The Technocratic Momentum after 1945-jemms.pdf
 type: paper
-authors: "The Technocratic Momentum after ,"
-community: "HCI Education and Pedagogy"
-tags:
+authors: The Technocratic Momentum after ,
+community: HCI Education and Pedagogy
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Science and Technology Studies]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Epistemic Agency]]'
+supports:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- The Cold War led to a fundamental shift in education governance from local democratic
+  control to centralized expert-driven systems, with both East and West converging
+  on technocratic teaching ideologies despite opposing political systems
+- Sputnik (1957) triggered educationalization in the US, making education a national
+  defense issue for the first time and justifying federal intervention in previously
+  local school governance
+- Behaviorist psychology offered 'scientific' solutions through teaching machines
+  and programmed instruction promising efficiency and individualization, but the apparent
+  failure of teaching machines did not lead to modification of underlying technocratic
+  ideology, only to modification of devices
+- Transnational organizations (OECD, UNESCO) spread technocratic education ideology
+  globally, establishing expert-driven approaches that persisted beyond the Cold War
+  context that generated them
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: education policy documents, conference proceedings, and published literature
+  from 1945-1960s
+context: Post-WWII Cold War education policy in Western countries, particularly the
+  United States
+study_type: theoretical
 ---
 
 # The Technocratic Momentum after 1945-jemms

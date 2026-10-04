@@ -1,9 +1,41 @@
 ---
-source_file: "synth users/Agent A-B Automated and Scalable AB Testing on Live Websites - Lu et al - 2025.pdf"
+source_file: synth users/Agent A-B Automated and Scalable AB Testing on Live Websites
+  - Lu et al - 2025.pdf
 type: paper
-authors: "with Interactive LLM Agents"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: with Interactive LLM Agents
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- 'Traditional A/B testing faces three critical bottlenecks: limited lightweight piloting,
+  scarce/contested user traffic, and slow feedback cycles'
+- Agent A/B simulation with 1,000 LLM agents (500 per condition) can detect interface-sensitive
+  behavioral differences and reproduce directional outcomes observed in parallel human
+  experiments
+- LLM agents with structured personas can interact with live webpages to generate
+  scalable behavioral evidence before human traffic allocation, enabling thousands
+  of distributed sessions without manual intervention
+- Agent-based testing complements human testing by enabling earlier prototyping, faster
+  iteration, and hypothesis-driven exploration, but is not a replacement for real
+  user testing
+- Agent simulations can surface subgroup patterns and meaningful behavioral signals
+  aligned with real user outcomes in e-commerce environments
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 1006
+sample_type: 'industry practitioners (formative study: n=6) and LLM agents (case study:
+  n=1000) with parallel human A/B experiment comparison'
+context: Industry UI/UX design practice, with case study on Amazon.com e-commerce
+  interface
+study_type: empirical
 ---
 
 # Agent A-B Automated and Scalable AB Testing on Live Websites - Lu et al - 2025

@@ -1,9 +1,51 @@
 ---
-source_file: "hiring and org practice/Impacts_of_AI_on_Human_Designers_A_Systematic_Literature_Review.pdf"
+source_file: hiring and org practice/Impacts_of_AI_on_Human_Designers_A_Systematic_Literature_Review.pdf
 type: paper
-authors: "Integrative Literature Review"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Integrative Literature Review
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Ownership Ambiguity]]'
+key_claims:
+- AI tools influence both convergent (strategic selection) and divergent (creative
+  exploration) thinking, fundamentally reshaping designers' cognitive processes and
+  professional identity
+- Introduction of AI as third agent creates dynamic shift in designer-tool interactions
+  through triadic relationship emergence, potentially yielding more nuanced outcomes
+  through symbiotic human-AI relationship
+- Designer experience significantly impacts AI interaction, with novices relying on
+  automation while professionals integrate AI as auxiliary instrument within nuanced
+  methodology
+- AI-generated outputs can paradoxically both overcome fixation through novel perspectives
+  and create new fixation through pattern-based similarities
+- 68% of reviewed articles from ACM database and 77% published since 2023, indicating
+  rapid emergence of AI impact research in design fields with Cohen's Kappa of 0.87
+  for screening and 0.92 for eligibility assessment across 44 articles
+methodology: '[[methods/Literature Review]]'
+sample_size: 44
+sample_type: peer-reviewed articles on AI and human designers
+context: systematic review across 7 academic databases (2017-2024)
+study_type: review
 ---
 
 # Impacts of AI on Human Designers A Systematic Literature Review

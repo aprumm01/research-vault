@@ -1,9 +1,42 @@
 ---
-source_file: "Penn 2023 - Animo nullius - onAI’s origin story and a data colonial doctrine of discovery.pdf"
+source_file: Penn 2023 - Animo nullius - onAI’s origin story and a data colonial doctrine
+  of discovery.pdf
 type: paper
-authors: "Jonnie Penn"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Jonnie Penn
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+supports: []
+key_claims:
+- AI's theoretical origins trace to capitalism and commercial imperialism rather than
+  neurophysiology, with early American theorists benefiting from post-war corporate
+  and military funding for expansion
+- The concept of 'animo nullius' (nobody's mind) parallels colonial 'terra nullius'
+  doctrine, framing minds and data as unowned resources available for extraction and
+  appropriation
+- Early American AI theorists' controversial ambivalence toward neurophysiology shaped
+  the field's development, with formalization of mental behavior science drawing on
+  social rather than neural dynamics
+- Data colonialism continues historical patterns of resource appropriation, with AI
+  development driven by extraction and control rather than scientific understanding
+- The conventional origin story of AI obscures its political and economic foundations
+  in corporate and imperial interests that sustained theorists' influence over the
+  emerging field
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of twentieth and twenty-first century AI development,
+  focusing on American theorists and institutions
+study_type: theoretical
 ---
 
 # Penn 2023 - Animo nullius - onAI’s origin story and a data colonial doctrine of discovery

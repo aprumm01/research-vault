@@ -1,9 +1,46 @@
 ---
-source_file: "The Role of Designers in Human–AI Collaborative Design Capturing the New Patterns in AI4UX Framework.pdf"
+source_file: The Role of Designers in Human–AI Collaborative Design Capturing the
+  New Patterns in AI4UX Framework.pdf
 type: paper
-authors: "Wei Wang, Yijing Yang, Zhilong Luan"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Wei Wang, Yijing Yang, Zhilong Luan
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- The dual positioning of GenAI as both a design material and a design tool creates
+  a unique challenge requiring designers to simultaneously design with AI and design
+  for/about AI, unlike previous design eras
+- GenAI boosts short-term creative performance but risks diminishing long-term creative
+  capacity and collective design diversity, creating a structural tradeoff between
+  immediate output and sustained creativity
+- AI-native products like Rabbit R1 and AI Pin cannot be designed using conventional
+  UX methods because users' mental models of AI behavior are unstable, requiring designers
+  to understand AI capabilities, limitations, and failure modes as material properties
+- UX researchers using AI need meaningful transparency protocols that explicitly disclose
+  AI's role in each stage of the research process to maintain research integrity
+- 'Future designers require elevated competencies across four domains defined by the
+  AI4UX framework: AI-as-material knowledge, AI-tool fluency, researcher AI literacy,
+  and critical evaluation of AI-generated designs'
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: UX design and research practice with GenAI integration
+study_type: theoretical
 ---
 
 # The Role of Designers in Human–AI Collaborative Design: Capturing the New Patterns in AI4UX Framework

@@ -1,9 +1,51 @@
 ---
-source_file: "Artificial Intelligence as a Tool for Individual and Collaborative Creativity in Design Education.pdf"
+source_file: Artificial Intelligence as a Tool for Individual and Collaborative Creativity
+  in Design Education.pdf
 type: paper
-authors: "Collaborative Creativity in Design Education"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Collaborative Creativity in Design Education
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[methods/Grounded Theory]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Creativity Support Tools]]'
+key_claims:
+- AI significantly modernizes design workflow by enabling rapid iteration and freeing
+  students to focus on creative aspects, while democratizing access for students with
+  less developed manual sketching skills
+- Prompt engineering emerges as critical new designer competency, requiring ability
+  to break down design briefs into concise, specific components and iterate prompts
+  to align AI outputs with design vision
+- AI tools cannot replace foundational design education as AI fails at technical drawings
+  (plans, sections, axonometrics), code compliance, ergonomics, and spatial optimization—students
+  still need manual sketching and 3D modeling skills
+- 41-46% of architectural practices currently use AI primarily for early-stage conceptualization,
+  validating urgency of preparing students with AI literacy for professional competitiveness
+- COIL format paired with AI creates rich learning environment where intercultural
+  collaboration and technology experimentation reinforce each other, building both
+  cultural competency and AI literacy simultaneously
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 29
+sample_type: Interior design students from Mexico (UDEM) and USA (Wayne State)
+context: 4-week COIL (Collaborative Online International Learning) project designing
+  500 sq m children's space
+study_type: empirical
 ---
 
 # Artificial Intelligence as a Tool for Individual and Collaborative Creativity in Design Education

@@ -1,9 +1,51 @@
 ---
-source_file: "Che25b.pdf"
+source_file: Che25b.pdf
 type: paper
-authors: "Bodong Chen"
-community: "AI and Future of Work"
-tags:
+authors: Bodong Chen
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[frameworks/Cognitive Load]]'
+critiques:
+- '[[concepts/Cognitive Offloading]]'
+tensions_with:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- AI systems in education must be understood as epistemic infrastructures that reconfigure
+  the conditions for knowledge practice, not merely as tools that augment individual
+  capability—this infrastructural framing reveals risks that instrumental analyses
+  miss
+- 'Epistemic substitution is categorically different from cognitive offloading: it
+  is problematic specifically because the delegated operations are those whose exercise
+  constitutes both expertise development and the authority claims of the profession'
+- Current AI educational tools create conditions for epistemic substitution by performing
+  the cognitive operations through which teaching expertise develops (evaluating student
+  work, forming pedagogical judgments, synthesizing evidence about learning) without
+  supporting educators in exercising these operations themselves
+- 'AI lesson planners and feedback tools inadequately support three critical dimensions:
+  they produce outputs without sustaining the skilled actions, insufficiently foster
+  contextual sensitivity, and risk cultivating habits of epistemic delegation rather
+  than independent judgment'
+- 'Design principles for AI systems that sustain rather than supplant epistemic agency
+  include: keeping humans in the epistemic loop, designing for transparency of AI
+  reasoning, supporting rather than bypassing the skilled actions that develop judgment,
+  and building in epistemic friction rather than optimizing for frictionless efficiency'
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: null
+sample_type: null
+context: AI lesson planning and feedback tools in educational settings
+study_type: theoretical
 ---
 
 # Beyond Tools: Generative AI as Epistemic Infrastructure in Education

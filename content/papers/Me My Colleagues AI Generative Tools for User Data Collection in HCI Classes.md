@@ -1,9 +1,48 @@
 ---
-source_file: "Sil25.pdf"
+source_file: Sil25.pdf
 type: paper
-authors: "Milene Selbach Silveira, Gabriel Fonseca Silva"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Milene Selbach Silveira, Gabriel Fonseca Silva
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Design Thinking]]'
+- '[[methods/Design-Based Research]]'
+critiques: []
+tensions_with:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Epistemic Agency]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+key_claims:
+- Students who used AI tools were able to organize and synthesize user data more efficiently,
+  generating interview summaries, persona drafts, and problem space maps more quickly
+- The most positively received use was AI assistance with structuring and categorizing
+  qualitative data from user interviews, reducing cognitive load on tasks students
+  found time-consuming and unfamiliar
+- 'Critical engagement with AI output varied significantly: some students reflected
+  carefully on AI suggestions as starting points, while others accepted outputs with
+  minimal critique, raising concerns about developing versus outsourcing research
+  competencies'
+- Teacher experience shaped integration quality, with the experienced HCI/UX educator
+  (20+ years) enabling richer integration through scaffolded prompts and discussion
+  of AI limitations compared to the first-time UX course teacher
+- The combination of sustainability-themed design projects with AI tools raised ethical
+  questions about AI-generated content perpetuating biases in user personas and differential
+  access to premium AI tools across the student cohort
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 51
+sample_type: undergraduate UX course students (51 of 99 total provided feedback) and
+  2 teachers
+context: Brazilian university fifth-semester mandatory UX course, three classes, first
+  project delivery phase focused on user research
+study_type: empirical
 ---
 
 # Me, My Colleagues, AI: Using Generative Tools as Support for Users Data Collection, Analysis, and Organization in HCI Classes

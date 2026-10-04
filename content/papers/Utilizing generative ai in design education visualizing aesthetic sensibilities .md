@@ -1,16 +1,53 @@
 ---
-source_file: "EDU-AI/Utilizing generative ai in design education_visualizing aesthetic sensibilities through language expression.pdf"
+source_file: EDU-AI/Utilizing generative ai in design education_visualizing aesthetic
+  sensibilities through language expression.pdf
 type: paper
-authors: "Hiyori Miyazaki, Wonseok Yang"
-community: "AI in Design Education"
+authors: Hiyori Miyazaki, Wonseok Yang
+community: AI in Design Education
 tags:
-  - generative-ai
-  - design-education
-  - aesthetic-sensibility
-  - eroticism
-  - DALL-E
-  - abstract-expression
-  - emotion-visualization
+- generative-ai
+- design-education
+- aesthetic-sensibility
+- eroticism
+- DALL-E
+- abstract-expression
+- emotion-visualization
+year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Creativity Support Tools]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI-driven Creativity]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- AI-generated images from abstract prompts achieved only 20% correct identification
+  (average match score 2.88/15), indicating significant limitations in visualizing
+  subjective aesthetic concepts
+- Concrete prompts (e.g., 'naked,' 'body') showed high consistency with 88.5% of respondents
+  selecting the intended word or closely related term, while abstract prompts produced
+  highly varied interpretations
+- 'AI effectiveness in visualizing abstract concepts depends on three factors: whether
+  ''features that can be commonly interpreted'' were sufficiently expressed, whether
+  AI has adequate expressive power for abstract prompts, and individual differences
+  in human aesthetic sensitivity'
+- Common aesthetic values and sensibilities reduce interpretation variation, suggesting
+  both subjective and universal dimensions to aesthetic perception when working with
+  AI-generated imagery
+- Generative AI can enhance multiple stages of design thinking methodology (ideate,
+  prototype, test) through rapid visualization, but requires educational methods that
+  accommodate diverse sensitivities rather than homogenizing aesthetic judgment
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 113
+sample_type: male and female participants (demographics not fully specified)
+context: Japanese university context using DALL·E 3 for abstract aesthetic visualization
+study_type: empirical
 ---
 
 # Utilizing generative ai in design education visualizing aesthetic sensibilities through language expression

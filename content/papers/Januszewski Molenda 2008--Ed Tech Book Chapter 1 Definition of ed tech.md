@@ -1,9 +1,38 @@
 ---
-source_file: "EDU/r511/Januszewski_Molenda_2008--Ed Tech Book Chapter 1 Definition of ed tech.pdf"
+source_file: EDU/r511/Januszewski_Molenda_2008--Ed Tech Book Chapter 1 Definition
+  of ed tech.pdf
 type: paper
-authors: "for Educational Communications and Technology"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: for Educational Communications and Technology
+community: GenAI in UX and Design Practice
+tags: null
+year: 2008
+builds_on:
+- '[[frameworks/Systems Theory]]'
+- '[[frameworks/Constructivism]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Human-Centered Design]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[frameworks/Value Sensitive Design]]'
+key_claims:
+- Educational technology is defined as the study and ethical practice of facilitating
+  learning and improving performance by creating, using, and managing appropriate
+  technological processes and resources
+- Technological processes (systematic approaches) are as important as technological
+  resources (tools) in educational technology practice
+- Appropriate technology means context-specific selection rather than newest or most
+  advanced tools
+- The field encompasses both learning facilitation and performance improvement as
+  distinct but related goals
+- Educational technology requires continual knowledge construction and refinement
+  through research and reflective practice
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Educational technology field definition and conceptual framework
+study_type: theoretical
 ---
 
 # Januszewski Molenda 2008--Ed Tech Book Chapter 1 Definition of ed tech

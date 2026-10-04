@@ -1,9 +1,35 @@
 ---
-source_file: "EDU/r511/Points of Contact LS and ET.pdf"
+source_file: EDU/r511/Points of Contact LS and ET.pdf
 type: paper
-authors: "Learning Science"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Learning Science
+community: GenAI in UX and Design Practice
+tags: null
+year: 2017
+builds_on:
+- '[[frameworks/Design Thinking]]'
+critiques:
+- '[[methods/Design-Based Research]]'
+tensions_with: []
+supports:
+- '[[methods/Participatory Design]]'
+key_claims:
+- Educational technology and learning sciences have operated as separate communities
+  despite addressing related problems, stemming from historical divergence between
+  Gagné's instructional systems approach and Glaser's learning sciences orientation
+- Design-based research adopted by learning scientists often excludes genuine design
+  expertise and produces limited actionable outcomes beyond methodological labeling
+- Instructional designers operate too insularly, limiting exposure to learning sciences
+  insights and methods, perpetuating community separation
+- Participatory design offers methodology for involving end-users and bridging professional
+  boundaries effectively between educational technology and learning sciences communities
+- The emerging education industry may create practical convergence pressures that
+  transcend academic divisions, as design practice provides more natural integration
+  point than research methodology alignment
+methodology: '[[methods/Participatory Design]]'
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Points of Contact LS and ET

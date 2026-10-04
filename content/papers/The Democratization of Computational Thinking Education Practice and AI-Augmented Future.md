@@ -1,9 +1,45 @@
 ---
-source_file: "The Democratization of Computational Thinking Education, Practice, and Our AI-Augmented Future.pdf"
+source_file: The Democratization of Computational Thinking Education, Practice, and
+  Our AI-Augmented Future.pdf
 type: paper
-authors: "Douglas Schmidt, Dan Runfola"
-community: "Design Theory and Cognition"
-tags:
+authors: Douglas Schmidt, Dan Runfola
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Computational Thinking]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- LLMs are decoupling computational thinking from programming by enabling natural
+  language as a viable abstraction layer, fundamentally changing who can practice
+  computational problem-solving
+- Barrier-to-entry inversion means domain experts in non-computing fields can now
+  access powerful computational capabilities previously requiring programming expertise,
+  expanding the population of computational thinkers
+- Developer roles are shifting from code production to AI oversight—prompting, reviewing,
+  integrating, and validating AI outputs—representing a redistribution rather than
+  elimination of computational effort
+- Prompt engineering is emerging as a distinct engineering discipline requiring its
+  own pedagogical attention, including how to frame problems, specify constraints,
+  and validate AI outputs
+- Human judgment remains the cross-cutting condition for success in an AI-augmented
+  workforce; abstraction of implementation does not reduce the need for conceptual
+  understanding of problem domains
+methodology: '[[methods/Theoretical Analysis]]'
+sample_size: null
+sample_type: null
+context: Theoretical analysis of LLMs' impact on computational thinking and computing
+  education
+study_type: theoretical
 ---
 
 # The Democratization of Computational Thinking: Education, Practice, and Our AI-Augmented Future

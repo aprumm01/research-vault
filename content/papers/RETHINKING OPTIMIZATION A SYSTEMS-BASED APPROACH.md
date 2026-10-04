@@ -1,9 +1,35 @@
 ---
-source_file: "RETHINKING OPTIMIZATION_A SYSTEMS-BASED APPROACH.pdf"
+source_file: RETHINKING OPTIMIZATION_A SYSTEMS-BASED APPROACH.pdf
 type: paper
-authors: "TO S OCIAL E XTERNALITIES"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: TO S OCIAL E XTERNALITIES
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Human-Centered Design]]'
+key_claims:
+- Traditional optimization focuses narrowly on defined objectives and direct stakeholders,
+  treating externalities as peripheral side-effects rather than central design considerations
+- Affected stakeholders frequently fall outside direct optimization focus making externalities
+  invisible to traditional approaches
+- Economic frameworks describe externalities but fail to address normative implications
+  or interconnected feedback dynamics
+- Incorporating externalities demands more than post-hoc correction, requiring fundamental
+  rethinking of optimization problem formulation
+- Systems thinking provides holistic perspective identifying relationships, feedback
+  loops, and emergent behaviors traditional optimization misses
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Theoretical framework for optimization in socioeconomic contexts
+study_type: theoretical
 ---
 
 # RETHINKING OPTIMIZATION A SYSTEMS-BASED APPROACH

@@ -1,9 +1,38 @@
 ---
-source_file: "EDU - design/Designers_articulation_and_activation_of.pdf"
+source_file: EDU - design/Designers_articulation_and_activation_of.pdf
 type: paper
-authors: "Unknown"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Unknown
+community: GenAI in UX and Design Practice
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/User-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Design Fixation]]'
+key_claims:
+- Design teams' references to cross-cultural workshop participants reveal underlying
+  cultural stereotypes and essentialist thinking even while pursuing user-centered
+  design approaches
+- Practical instrumental judgements about workshop design are shaped by the design
+  team's own cultural background and limited understanding of participants' cultural
+  contexts
+- User-centered design principles emphasizing participation and lived experience become
+  difficult to enact when cultural gaps create interpretation challenges between designers
+  and participants
+- An articulation-activation gap exists where designers' stated intentions for respecting
+  participants diverge from actual design choices embedded in workshop structure
+- Standard participatory design approaches and UCD methods carry cultural assumptions
+  that do not transfer seamlessly across cultural contexts
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: null
+sample_type: Scandinavian design team planning workshop with Chinese consumers
+context: Cross-cultural co-creation workshop design process
+study_type: empirical
 ---
 
 # Designers articulation and activation of

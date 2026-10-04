@@ -1,9 +1,48 @@
 ---
-source_file: "From Expert Systems to Generative Artificial Experts.pdf"
+source_file: From Expert Systems to Generative Artificial Experts.pdf
 type: paper
-authors: "Konrad Sowa"
-community: "AI and Future of Work"
-tags:
+authors: Konrad Sowa
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+critiques:
+- '[[concepts/AI Augmentation]]'
+tensions_with:
+- '[[concepts/Ironies of Automation]]'
+- '[[concepts/Fauxtomation]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- GAEs represent a distinct AI category requiring specialized design principles beyond
+  general LLMs, demanding deep domain specialization, consistent synthetic persona,
+  bounded autonomy, and structured collaborative protocols that generic chatbot approaches
+  cannot provide
+- Bounded autonomy—where AI operates independently for well-defined tasks while transparently
+  deferring to human judgment for edge cases and ambiguous situations—is critical
+  for professional knowledge work trust and adoption, providing middle path between
+  unbounded AI autonomy and purely assistive tools
+- Synthetic persona with consistent identity, communication style, and behavioral
+  patterns transforms AI interaction from tool use to colleague collaboration, enabling
+  knowledge workers to develop working relationships similar to human expert colleagues
+- GAEs bridge historical expert systems ambitions with modern generative capabilities,
+  overcoming 1980s limitations through learned representations versus encoded rules,
+  enabling genuine collaboration impossible with earlier systems
+- Successful GAE deployment requires organizational adaptation establishing new frameworks
+  for human-GAE task allocation, accountability, expertise validation, and performance
+  evaluation—technical capabilities alone insufficient for realizing value
+methodology: '[[methods/Action Research]]'
+sample_size: null
+sample_type: GAE prototypes in knowledge work contexts
+context: Professional knowledge work environments
+study_type: theoretical
 ---
 
 # From Expert Systems to Generative Artificial Experts

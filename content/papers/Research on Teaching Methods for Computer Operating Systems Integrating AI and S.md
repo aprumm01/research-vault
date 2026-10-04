@@ -1,9 +1,40 @@
 ---
-source_file: "ACM/Research on Teaching Methods for Computer Operating Systems Integrating AI and Structured Seminars.pdf"
+source_file: ACM/Research on Teaching Methods for Computer Operating Systems Integrating
+  AI and Structured Seminars.pdf
 type: paper
-authors: "Integrating AI and Structured Seminars"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Integrating AI and Structured Seminars
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with:
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/Cognitive Offloading]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- Traditional passive learning model in operating systems courses produces poor teaching
+  effects and limited student engagement
+- AI integration at multiple teaching stages (topic definition, group formation, content
+  integration, PPT generation) enhances both efficiency and educational quality
+- Structured three-part seminar structure (Introduction-Exposition-Summary) scaffolds
+  effective peer teaching and knowledge construction in technical courses
+- Teacher role shifts from primary knowledge transmitter to facilitator and synthesizer
+  when AI supports student-led seminars
+- Group presentations with AI-generated visual aids promote both interaction and cooperation
+  in classroom settings for information security students
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Computer operating systems course for information security majors
+study_type: theoretical
 ---
 
 # Research on Teaching Methods for Computer Operating Systems Integrating AI and Structured Seminars

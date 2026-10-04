@@ -1,29 +1,58 @@
 ---
-title: "Assessing Carbon Emissions of US Hyperscale Data Centers"
+title: Assessing Carbon Emissions of US Hyperscale Data Centers
 authors:
-  - Gianluca Guidi
-  - Francesca Dominici
-  - Tiziano Squartini
-  - Callaway Sprinkle
-  - Jonathan Gilmour
-  - Kevin Butler
-  - Eric Bell
-  - Scott Delaney
-  - Falco J. Bargagli-Stoffi
+- Gianluca Guidi
+- Francesca Dominici
+- Tiziano Squartini
+- Callaway Sprinkle
+- Jonathan Gilmour
+- Kevin Butler
+- Eric Bell
+- Scott Delaney
+- Falco J. Bargagli-Stoffi
 year: 2026
-publication: "arXiv preprint"
-arxiv: "2606.05420v1"
-doi: ""
+publication: arXiv preprint
+arxiv: 2606.05420v1
+doi: ''
 tags:
-  - sustainability
-  - hyperscale-data-centers
-  - carbon-emissions
-  - united-states
-  - AI-infrastructure
-  - electricity-consumption
+- sustainability
+- hyperscale-data-centers
+- carbon-emissions
+- united-states
+- AI-infrastructure
+- electricity-consumption
 course: i609-sustainability
 date_processed: 2026-09-27
 status: analyzed
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Fauxtomation]]'
+key_claims:
+- US hyperscale data centers consumed 68-99 TWh of electricity and emitted 37-54 million
+  metric tons of CO2 over a 12-month period (May 2024 - April 2025)
+- The carbon intensity of electricity consumed by hyperscale data centers is 545 gCO2/kWh,
+  which is 48% higher than the US national average of 368 gCO2/kWh
+- Virginia hosts 142 hyperscale data centers (35% of US capacity) consuming 21 TWh
+  annually, with carbon intensity of 520-580 gCO2/kWh despite corporate renewable
+  energy claims
+- Location-based emissions accounting reveals that corporate market-based renewable
+  energy claims obscure actual grid-level carbon emissions, exposing a transparency
+  gap between sustainability reporting and environmental impact
+- Balancing authority region attribution provides more accurate carbon accounting
+  than national or regional averages by matching each facility's consumption to its
+  specific grid's hourly carbon intensity
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 403
+sample_type: US hyperscale data centers operated by major cloud providers and tech
+  companies
+context: United States electrical grid infrastructure and data center operations over
+  12-month period (May 2024 - April 2025)
+study_type: empirical
 ---
 
 # Assessing Carbon Emissions of US Hyperscale Data Centers

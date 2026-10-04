@@ -1,9 +1,40 @@
 ---
-source_file: "2026/i609-sustainability/Ris15.pdf"
+source_file: 2026/i609-sustainability/Ris15.pdf
 type: paper
-authors: "Bora Ristic, Kaveh Madani, Zen Makuch"
-community: "Sustainable Computing"
-tags: [sustainability, i609, data-centers, water-footprint, water-energy-nexus, environmental-impact, cooling-systems]
+authors: Bora Ristic, Kaveh Madani, Zen Makuch
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- data-centers
+- water-footprint
+- water-energy-nexus
+- environmental-impact
+- cooling-systems
+year: 2015
+builds_on: []
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Data center water footprint ranges from 1,047 to 151,061 cubic meters per terajoule
+  of energy consumed, or equivalently 1-205 liters per gigabyte of outbound data traffic
+- Energy consumption constitutes by far the greatest share of DC WF, but the level
+  of uncertainty associated with the WF of different energy sources used by DCs makes
+  a comprehensive assessment of DCs' water use efficiency very challenging
+- The uncertainty range involved in determining the WFsource hinders a definitive
+  recommendation on which HVAC technology has the lowest total WF
+- While air-cooled condensers with no evaporation have no direct water consumption,
+  the WF of generating the additional electricity required more than neutralizes the
+  gains of not having a direct footprint
+- Annual global data center water footprint ranges from 767-147,082 million cubic
+  meters based on 2010 consumption levels
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: Global data centers and Apple facility data
+context: Global data center industry with specific analysis of Phoenix cooling systems
+  and Apple facilities
+study_type: empirical
 ---
 
 # The Water Footprint of Data Centers

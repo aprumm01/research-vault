@@ -1,9 +1,42 @@
 ---
-source_file: "EDU/r511/Guerra_2006--standards and ethics in HPT.pdf"
+source_file: EDU/r511/Guerra_2006--standards and ethics in HPT.pdf
 type: paper
-authors: "CHAPTER FORTY-FOUR"
-community: "AI and Future of Work"
-tags:
+authors: CHAPTER FORTY-FOUR
+community: AI and Future of Work
+tags: null
+year: 2006
+builds_on:
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- Professional ethics is foundational to HPT professionalism rather than an optional
+  constraint—commitment to honesty, competence, and social responsibility distinguishes
+  professional practitioners from consultants merely selling services
+- HPT practitioners face distinctive ethical challenges requiring specialized judgment
+  due to organizational politics, multiple competing stakeholders, power asymmetries,
+  and implementation realities that create ethical complexity beyond standard codes
+- Client relationship dependency creates fundamental ethical tensions where pressure
+  to please clients conflicts with professional duty to provide competent service
+  and honest counsel, requiring financial stability to walk away from problematic
+  engagements
+- Social responsibility extends beyond immediate client to broader organizational
+  and societal impacts—ethical practice requires considering downstream consequences
+  on employee dignity, equity, sustainable performance demands, and public good
+- Competence boundaries demand honest acknowledgment—accepting work beyond practitioner
+  expertise violates ethical duty to clients and affected employees, requiring honest
+  competency disclosure and collaboration with qualified specialists
+methodology: '[[methods/Case Analysis]]'
+sample_size: null
+sample_type: null
+context: Human Performance Technology professional practice
+study_type: theoretical
 ---
 
 # Guerra 2006--standards and ethics in HPT

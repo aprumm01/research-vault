@@ -1,9 +1,42 @@
 ---
-source_file: "EDU/r511/Driscoll and Burner.pdf"
+source_file: EDU/r511/Driscoll and Burner.pdf
 type: paper
-authors: "Psychological Foundations"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Psychological Foundations
+community: GenAI in UX and Design Practice
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[concepts/Metacognitive Laziness]]'
+key_claims:
+- 'Different learning outcomes require different instructional conditions: behavioral
+  objectives, motor skills, intellectual skills, attitudes, and cognitive strategies
+  each need tailored instructional approaches'
+- Complex learning benefits from worked examples, partial completion strategies, and
+  graduated task complexity to manage cognitive load and prevent working memory overload
+- Prior knowledge organized as schemas enables experts to process information automatically,
+  freeing cognitive capacity for higher-order thinking and problem-solving
+- Authentic contexts using real-world problems, collaboration, and learner autonomy
+  promote deeper understanding and enhance transfer of learning
+- Technology enables distributed knowledge networks where learning extends beyond
+  individuals to continuously updating shared knowledge spaces across human and non-human
+  nodes
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Theoretical synthesis of psychological learning theories for instructional
+  design from 1960s-present
+study_type: review
 ---
 
 # Driscoll and Burner

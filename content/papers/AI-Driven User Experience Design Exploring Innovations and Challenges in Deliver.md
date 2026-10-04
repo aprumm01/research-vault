@@ -1,9 +1,43 @@
 ---
-source_file: "AI-Driven_User_Experience_Design_Exploring_Innovations_and_Challenges_in_Delivering_Tailored_User_Experiences.pdf"
+source_file: AI-Driven_User_Experience_Design_Exploring_Innovations_and_Challenges_in_Delivering_Tailored_User_Experiences.pdf
 type: paper
-authors: "AI-Driven User Experience Design: Exploring"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'AI-Driven User Experience Design: Exploring'
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Creativity Support Tools]]'
+key_claims:
+- 'AI tool usage in UX design varies significantly across Design Thinking phases:
+  Empathizing phase shows highest adoption at 97%, followed by Ideation and Prototyping
+  at 79% each, Defining at 76%, and Testing showing lowest adoption at 61%'
+- Data privacy and ethical concerns represent the most significant challenges, with
+  68% of respondents citing user consent issues, 63% reporting data security concerns,
+  and 56% identifying ethical dilemmas
+- Technical barriers include 68% citing accurate training data collection as a major
+  obstacle, while creativity of AI outputs is identified as the biggest challenge
+  with designers remaining skeptical about AI for creative designs
+- UX designers require basic AI knowledge to explain AI capabilities to users when
+  gathering training data, highlighting the need for AI literacy in professional practice
+- Integration of AI tools across all five Design Thinking phases empowers UX professionals
+  to design user-centric solutions, with specific tool recommendations including ChatGPT,
+  Figma, Adobe XD, Maze, and Hotjar
+methodology: '[[methods/Survey]]'
+sample_size: 50
+sample_type: UX professionals with Design Thinking experience (38 with real-world
+  AI experience)
+context: Sri Lanka UX design professional community
+study_type: empirical
 ---
 
 # AI-Driven User Experience Design Exploring Innovations and Challenges in Delivering Tailored User Experiences

@@ -1,9 +1,40 @@
 ---
-source_file: "EDU/lit review documents/Landscapes of Sociotechnical Imaginaries in Education-A Theoretical Examination of Integrating Artificial Intelligence in Education.pdf"
+source_file: EDU/lit review documents/Landscapes of Sociotechnical Imaginaries in
+  Education-A Theoretical Examination of Integrating Artificial Intelligence in Education.pdf
 type: paper
-authors: "Intelligence in Education"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Intelligence in Education
+community: HCI Education and Pedagogy
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- AI integration in education reflects broader sociotechnical imaginaries about technology
+  and learning rather than neutral technological progress
+- Current push for AI in education is driven by unreflective digital solutionism that
+  fails to question underlying assumptions about technology's role
+- Socratic ignorance as a methodological stance enables critical examination of predispositions
+  about AI's educational role and opens new possibilities
+- Postphenomenology reveals how AI mediates and transforms educational relationships,
+  embedding particular visions of teaching, learning, and human development
+- Educational AI implementations are politically shaped through critical constructivist
+  lens, with sociotechnical imaginaries determining what is considered possible and
+  desirable
+methodology: '[[methods/Phenomenology]]'
+sample_size: null
+sample_type: null
+context: Theoretical examination of AI integration in educational contexts
+study_type: theoretical
 ---
 
 # Landscapes of Sociotechnical Imaginaries in Education-A Theoretical Examination of Integrating Artificial Intelligence in Education

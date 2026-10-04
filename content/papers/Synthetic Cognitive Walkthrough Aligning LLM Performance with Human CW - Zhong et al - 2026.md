@@ -1,4 +1,42 @@
-# Synthetic Cognitive Walkthrough: Aligning Large Language Model's Performance with Human Cognitive Walkthrough
+---
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[methods/Think-Aloud Protocol]]'
+critiques: []
+tensions_with:
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Ironies of Automation]]'
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- LLMs achieved higher task completion rates than humans (100% for GPT-4, 97.2% for
+  Gemini vs. 88.2% for humans) but this is a limitation for cognitive walkthrough
+  evaluation, not an advantage, as they fail to simulate typical user struggles
+- LLMs identified only 3 failure points compared to humans' aggregated 5 across tasks,
+  with all LLM-identified issues also found by humans, suggesting incomplete usability
+  issue coverage
+- 'LLMs follow significantly more optimal navigation paths (GPT-4: M=0.05 divergence,
+  Gemini: M=0.10) compared to humans (M=0.28, p<.0001), indicating they don''t replicate
+  human exploration patterns'
+- 'Behavioral analysis reveals fundamentally different failure modes: humans exhibit
+  breadth-first search under uncertainty and memory-related mistakes, while LLMs loop
+  or choose irrelevant options despite perfect conversation history, suggesting reasoning
+  failures'
+- Humans completing tasks successfully still took significantly more steps (M=10.37)
+  than GPT-4 (M=7.56, p<.001) and Gemini (M=7.50, p<.001), revealing that 'better'
+  performance doesn't simulate actual user behavior
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 10
+sample_type: human evaluators aged 18-23 with no prior cognitive walkthrough experience,
+  recruited via social media
+context: Cognitive walkthrough evaluation of two mobile applications (language learning
+  and booking apps) conducted via Zoom
+study_type: empirical
+---# Synthetic Cognitive Walkthrough: Aligning Large Language Model's Performance with Human Cognitive Walkthrough
 
 **Authors:** Ruican Zhong, David W. McDonald, Gary Hsieh  
 **Affiliation:** University of Washington  

@@ -1,9 +1,39 @@
 ---
-source_file: "The anatomy of prototypes (2008) - [ACM Transactions on Computer-Human Interaction 2008-jul 01 vol. 15 iss. 2] Lim, Youn-Kyung_ Stolterman, Erik_ Tenenberg, Josh.pdf"
+source_file: The anatomy of prototypes (2008) - [ACM Transactions on Computer-Human
+  Interaction 2008-jul 01 vol. 15 iss. 2] Lim, Youn-Kyung_ Stolterman, Erik_ Tenenberg,
+  Josh.pdf
 type: paper
-authors: "Filters, Prototypes as Manifestations"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Filters, Prototypes as Manifestations
+community: GenAI in UX and Design Practice
+tags: null
+year: 2008
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Problem-Solution Co-evolution]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Divergent Thinking]]'
+key_claims:
+- Prototypes serve a generative role enabling designers to reflect on design activities,
+  rather than merely functioning as evaluation tools
+- Prototypes function as filters that selectively reveal specific aspects of design
+  ideas while concealing others, determining what design questions can be explored
+- Prototypes as manifestations materialize design ideas in ways that affect how concepts
+  develop through interaction with materials, enabling 'prototyping as conversation
+  with materials'
+- Existing typologies centered on low vs high fidelity focus on evaluation rather
+  than design exploration, lacking fundamental knowledge about the nature of prototypes
+- The filter dimension and manifestation dimension together provide a framework for
+  understanding fundamental characteristics of prototypes beyond evaluation-centric
+  views
+methodology: '[[methods/Case Study]]'
+sample_size: 2
+sample_type: design case studies (house design and mobile phone interface)
+context: HCI and interaction design processes
+study_type: empirical
 ---
 
 # The anatomy of prototypes (2008) - [ACM Transactions on Computer-Human Interaction 2008-jul 01 vol. 15 iss. 2] Lim, Youn-Kyung Stolterman, Erik Tenenberg, Josh

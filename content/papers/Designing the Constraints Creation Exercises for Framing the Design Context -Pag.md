@@ -1,9 +1,47 @@
 ---
-source_file: "Designing the Constraints_Creation Exercises for Framing the Design Context -Pages from Analysing Design Thinking(2017) - Claudia_Eckert Martin_Stacey.pdf"
+source_file: Designing the Constraints_Creation Exercises for Framing the Design Context
+  -Pages from Analysing Design Thinking(2017) - Claudia_Eckert Martin_Stacey.pdf
 type: paper
-authors: "Designing the Constraints: Creation"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Designing the Constraints: Creation'
+community: GenAI in UX and Design Practice
+tags: null
+year: 2017
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Problem Framing]]'
+- '[[frameworks/Frame Analysis]]'
+critiques:
+- '[[concepts/Human-AI Co-creation]]'
+tensions_with:
+- '[[methods/Participatory Design]]'
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- Co-creation exercises function as constraint-finding activities analogous to mood
+  board creation in artistic design, not true collaborative design, with designers
+  maintaining full control over problem framing
+- User narratives served as 'verbal mood boards' that encapsulated values in story
+  form, parallel to visual mood boards in fashion design, with participants treated
+  as passive sources of inspiration
+- Designers actively constructed the design problem through continuous reframing and
+  constraint management, making constraint decisions without explicit negotiation
+  and often unconsciously shaping workshop outcomes
+- Cross-cultural design research successfully revealed Chinese consumer values (status,
+  eco-consciousness, family care, 'me-time') while generating few concrete product
+  ideas, demonstrating value elicitation over solution generation
+- 'Constraint management occurs through three sources: the problem itself, the design
+  process, and the emerging solution, with tight constraints facilitating imaginative
+  thinking rather than restricting creativity'
+methodology: '[[methods/Case Study]]'
+sample_size: 22
+sample_type: Audio recordings from co-creation workshops with Chinese consumers and
+  European automotive UX design team
+context: European car company user experience design team conducting cross-cultural
+  research for Chinese market accessory products
+study_type: empirical
 ---
 
 # Designing the Constraints Creation Exercises for Framing the Design Context -Pages from Analysing Design Thinking(2017) - Claudia Eckert Martin Stacey

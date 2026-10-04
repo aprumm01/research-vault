@@ -1,9 +1,52 @@
 ---
-source_file: "2026/i609-sustainability/Afr25.pdf"
+source_file: 2026/i609-sustainability/Afr25.pdf
 type: paper
-authors: "Sadia Afroz, Zixuan Feng, Tyler Menezes, Katie Kimura, Bianca Trinkenreich, Igor Steinmacher, Anita Sarma"
-community: "Sustainable Computing"
-tags: [sustainability, i609, GenAI, developer-productivity, software-engineering, SPACE-framework]
+authors: Sadia Afroz, Zixuan Feng, Tyler Menezes, Katie Kimura, Bianca Trinkenreich,
+  Igor Steinmacher, Anita Sarma
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- GenAI
+- developer-productivity
+- software-engineering
+- SPACE-framework
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Cognitive Load]]'
+critiques:
+- '[[concepts/Surface-Level Processing]]'
+tensions_with:
+- '[[concepts/Illusion of Competence]]'
+- '[[frameworks/Technological Determinism]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ironies of Automation]]'
+key_claims:
+- 84.3% of frequent GenAI users reported no reduction in code review time despite
+  faster code generation, indicating effort redistribution rather than genuine productivity
+  gains
+- Frequent GenAI users showed activity increases (48.3% vs 7.9% more commits) but
+  no corresponding performance improvements, with 67.4% reporting no change or decline
+  in test case pass rates
+- More than three-quarters (>75%) of all GenAI users reported no positive change in
+  communication and collaboration patterns, with No Change responses exceeding 70%
+  across all collaboration items
+- Despite efficiency gains from GenAI tools, more than half of developers still reported
+  feeling exhausted (65.2% frequent users vs 62.8% non-frequent users)
+- GenAI adoption creates a 'constraint redistribution problem' where effort saved
+  in one productivity dimension resurfaces in another, particularly shifting burden
+  from code writing to code review and verification
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 415
+sample_type: professional software developers from 56 open-source communities
+context: Industry software development with GenAI tools (GitHub Copilot, ChatGPT)
+study_type: empirical
 ---
 
 # The Fast and Spurious: Developer Productivity with GenAI

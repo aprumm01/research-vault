@@ -1,9 +1,46 @@
 ---
-source_file: "ACM/UX Designers pushing AI in the eneterprise_a case for adaptive UIs.pdf"
+source_file: ACM/UX Designers pushing AI in the eneterprise_a case for adaptive UIs.pdf
 type: paper
-authors: "Alex Kass, Accenture"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Alex Kass, Accenture
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ironies of Automation]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI-managerial Labor]]'
+key_claims:
+- Adaptive user interfaces (AUIs) provide low-hanging fruit for enterprise AI innovation
+  with easier cost-benefit calculation than complex AI initiatives, offering measurable
+  ROI through worker time-savings
+- UX designers are uniquely positioned to recognize AUI opportunities through user-centered
+  perspective on repetitive tasks, but current design processes and tools do not scaffold
+  AUI design
+- Enterprise applications offer better AUI adoption potential than consumer apps due
+  to measurable worker time value and clearer return on investment calculations based
+  on task frequency and worker population
+- 'Three common AUI design patterns emerge for enterprise contexts: ranked choices,
+  highlighted actionable entities, and form autofill for recognizing and automating
+  frequent repetitive tasks'
+- User-in-the-loop approach of AUIs reduces risk compared to fully automated AI systems
+  while maintaining worker agency, identity, and self-efficacy
+methodology: '[[methods/Research through Design]]'
+sample_size: null
+sample_type: null
+context: Collaborative research between Accenture and Carnegie Mellon University on
+  enterprise AI design
+study_type: design
 ---
 
 # UX Designers pushing AI in the eneterprise a case for adaptive UIs

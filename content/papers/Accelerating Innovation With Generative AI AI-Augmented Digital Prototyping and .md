@@ -1,9 +1,40 @@
 ---
-source_file: "2026/Accelerating_Innovation_With_Generative_AI_AI-Augmented_Digital_Prototyping_and_Innovation_Methods.pdf"
+source_file: 2026/Accelerating_Innovation_With_Generative_AI_AI-Augmented_Digital_Prototyping_and_Innovation_Methods.pdf
 type: paper
-authors: "Accelerating Innovation With"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Accelerating Innovation With
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- LLMs can augment all three early innovation phases (exploration, ideation, prototyping)
+  but are especially transformative for prototyping through text-to-code capabilities
+- Text-to-code capability empowers nontechnical individuals to create early look-and-feel
+  prototypes without software skills, democratizing AI use in innovation management
+- AI-augmented prototyping closes gap between conceptual work and testable prototypes,
+  enabling faster iterations and reduced costs in the innovation front-end
+- Generative AI may become game changer in early prototyping by enabling delegation
+  of technical implementation to artificial agents, fundamentally changing how organizations
+  innovate
+- Effective human-innovation team interaction with AI requires purposive integration
+  into workflows rather than ad-hoc implementation
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: internal and client innovation projects
+context: corporate innovation management settings over six months
+study_type: design
 ---
 
 # Accelerating Innovation With Generative AI AI-Augmented Digital Prototyping and Innovation Methods

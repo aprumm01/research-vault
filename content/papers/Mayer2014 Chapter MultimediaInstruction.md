@@ -1,9 +1,42 @@
 ---
-source_file: "EDU/Mayer2014_Chapter_MultimediaInstruction.pdf"
+source_file: EDU/Mayer2014_Chapter_MultimediaInstruction.pdf
 type: paper
-authors: "Multimedia Instruction"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Multimedia Instruction
+community: HCI Education and Pedagogy
+tags: null
+year: 2014
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with:
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[frameworks/Cognitive Load]]'
+key_claims:
+- People learn more deeply from words and pictures than from words alone (multimedia
+  principle), with meta-analyses showing d>0.50 effect sizes for deep-processing illustrations
+  versus d<0.00 for decorative graphics
+- 'Meaningful learning in multimedia environments requires five cognitive processes
+  managed within limited working memory capacity: selecting relevant words, selecting
+  relevant images, organizing words into coherent verbal models, organizing images
+  into pictorial models, and integrating both with prior knowledge'
+- 'Three-scenario framework for multimedia design: reducing extraneous processing
+  caused by poor design (e.g., split-attention), managing essential processing for
+  complex material, and fostering generative processing for unmotivated learners'
+- Dual-channel processing allows parallel verbal and pictorial information processing,
+  but each channel has severe capacity limitations requiring evidence-based design
+  to avoid cognitive overload
+- Effective multimedia design depends on cognitive theory of learning rather than
+  intuition or technological capabilities; learner expertise moderates essential processing
+  demands as novices require more capacity than experts who chunk information efficiently
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Theoretical synthesis of multimedia learning research spanning 1658-2014,
+  from Comenius' Orbis Pictus through computer-based learning environments
+study_type: review
 ---
 
 # Mayer2014 Chapter MultimediaInstruction

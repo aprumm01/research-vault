@@ -1,9 +1,40 @@
 ---
-source_file: "Co-Producing AI_Toward an Augmented Participatory Lifecycle.pdf"
+source_file: Co-Producing AI_Toward an Augmented Participatory Lifecycle.pdf
 type: paper
-authors: "Université de Montréal"
-community: "Responsible AI and Ethics"
-tags:
+authors: Université de Montréal
+community: Responsible AI and Ethics
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Participatory Design]]'
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Critical Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- Ethical guidelines and technical fairness solutions fail to address root causes
+  of algorithmic harm because they leave existing power structures and AI production
+  pipelines intact
+- Typical participatory AI efforts limit community involvement to consultation or
+  testing phases rather than shared decision-making throughout the complete development
+  lifecycle
+- Standard AI development processes structurally exclude affected communities from
+  meaningful influence, with pipeline architecture itself encoding power relations
+- True design justice requires shared authority over problem framing, technical choices,
+  resource allocation, deployment decisions, and benefit distribution—not just consultation
+- Augmented participatory lifecycle should build community technical literacy and
+  institutional capacity rather than merely extracting knowledge to improve AI products
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: AI development pipelines and participatory design practices
+study_type: theoretical
 ---
 
 # Co-Producing AI Toward an Augmented Participatory Lifecycle

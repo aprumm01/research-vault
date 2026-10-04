@@ -1,9 +1,53 @@
 ---
-source_file: "Nog26.pdf"
+source_file: Nog26.pdf
 type: paper
-authors: "Maria Rita Nogueira"
-community: "AI in Design Education"
-tags:
+authors: Maria Rita Nogueira
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Technology Acceptance Model]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Design Thinking]]'
+critiques:
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/AI Tool Dependence]]'
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- Students value AI primarily for efficiency (speed, productivity) but risk developing
+  surface-level reliance that bypasses deeper learning that comes from wrestling with
+  design problems directly
+- First-year students show particular vulnerability to uncritical AI adoption—without
+  structured scaffolding, they tend to prioritize outputs over process, undermining
+  foundational design learning objectives
+- The integrated TAM/Creative Cognition/Digital Literacy/AI Ethics four-lens model
+  provides a comprehensive analytical framework for understanding AI adoption in design
+  education that avoids single-lens limitations
+- Educators play a constitutive role in fostering collaborative mindsets that balance
+  computational capabilities with human creativity—a role AI cannot assume and that
+  does not emerge naturally from unguided AI access
+- Curriculum must embed ethical AI use from the start, treating questions of authorship,
+  bias, data provenance, and academic integrity as integral to design competence rather
+  than external compliance requirements
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: first-year university students in digital design modules
+context: Manchester Metropolitan University digital design courses (UX, UI, web development,
+  immersive design)
+study_type: empirical
 ---
 
 # Teaching Digital Design in an AI Driven Era: Exploring Curriculum Pedagogy and Student Perspectives

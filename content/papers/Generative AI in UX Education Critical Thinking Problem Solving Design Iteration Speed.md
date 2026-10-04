@@ -1,9 +1,48 @@
 ---
-source_file: "Generative_AI_in_UX_Education_Assessing_Critical_Thinking_Problem_Solving_and_Design_Iteration_Speed.pdf"
+source_file: Generative_AI_in_UX_Education_Assessing_Critical_Thinking_Problem_Solving_and_Design_Iteration_Speed.pdf
 type: paper
-authors: "Min Thuta Naing, Shwe Sin Tun, Shwin Pyone Thu, Soe Yu Yu Kyaw, Prasara Jakkaew"
-community: "AI and Future of Work"
-tags:
+authors: Min Thuta Naing, Shwe Sin Tun, Shwin Pyone Thu, Soe Yu Yu Kyaw, Prasara Jakkaew
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Intellectual Independence]]'
+- '[[concepts/Complacency Risk]]'
+key_claims:
+- AI tools significantly accelerate design iteration speed but do not measurably improve
+  the usability quality of final design outputs, demonstrating a speed-quality trade-off
+- Critical thinking and problem-solving skills are not automatically developed through
+  AI-assisted design work; students using AI did not demonstrate superior reasoning
+  or decision-making compared to non-AI groups
+- 83% of respondents expressed concern that AI overuse would weaken independent thinking,
+  indicating widespread recognition of cognitive atrophy risks
+- AI-generated content can lack human-centered perspective and empathy-building qualities
+  essential to UX design, potentially reinforcing stereotypes rather than developing
+  genuine user understanding
+- 'The efficiency benefits of AI in UX education create a pedagogical tension: AI
+  is appropriate for workflow acceleration but requires careful attention to ensure
+  foundational thinking skills are taught alongside tool use'
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: UX design students
+context: Mae Fah Luang University School of Applied Digital Technology, Chiang Rai,
+  Thailand
+study_type: empirical
 ---
 
 # Generative AI in UX Education: Assessing Critical Thinking, Problem Solving, and Design Iteration Speed

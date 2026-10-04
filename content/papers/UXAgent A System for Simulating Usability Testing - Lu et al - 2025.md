@@ -1,14 +1,48 @@
 ---
-source_file: "synth users/UXAgent A System for Simulating Usability Testing - Lu et al - 2025.pdf"
+source_file: synth users/UXAgent A System for Simulating Usability Testing - Lu et
+  al - 2025.pdf
 type: paper
-authors: "Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Zheshen Wang, Yang Li, Jiri Gesi, Qi He, Toby Jia-Jun Li, Dakuo Wang"
-community: "GenAI in UX and Design Practice"
+authors: Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Zheshen Wang, Yang Li, Jiri
+  Gesi, Qi He, Toby Jia-Jun Li, Dakuo Wang
+community: GenAI in UX and Design Practice
 tags:
-  - synthetic-users
-  - usability-testing
-  - LLM-agents
-  - persona-simulation
-  - dual-process-theory
+- synthetic-users
+- usability-testing
+- LLM-agents
+- persona-simulation
+- dual-process-theory
+year: 2025
+builds_on:
+- '[[concepts/Dual Process Theory]]'
+- '[[concepts/Synthetic Users]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- LLM agents are not meant to replace human participants in UX studies, but rather
+  to help UX researchers to iteratively revise the study design, thus to be more responsible
+  to human participants
+- 'Dual-loop architecture balances reasoning depth with real-time responsiveness:
+  existing systems either too simple (single-prompt agents) or too slow (complex reasoning
+  architectures hindering real-time interaction)'
+- 16 UX researchers successfully identified study design flaws, revised study protocols,
+  and generated feature improvement ideas by analyzing agent data from 20 simulated
+  LLM agents
+- 'Study design stage is underaddressed: pilot studies are time-consuming/costly,
+  empathy-based methods introduce bias, and flaws surface only during execution with
+  limited-resource populations'
+- Universal Browser Connector enables dynamic real-world web interaction without predefined
+  action spaces, tested on WebArena, Google Flights, and real-world shopping platforms
+methodology: '[[methods/User-Centered Design]]'
+sample_size: 16
+sample_type: UX researchers
+context: Usability testing scenario for shopping website product filter menu feature
+study_type: empirical
 ---
 
 # UXAgent A System for Simulating Usability Testing - Lu et al - 2025

@@ -1,9 +1,43 @@
 ---
-source_file: "History/Computing the Nordic Way The Swedish Labour.pdf"
+source_file: History/Computing the Nordic Way The Swedish Labour.pdf
 type: paper
-authors: "Movement, Computers and Educational Imaginaries"
-community: "AI and Future of Work"
-tags:
+authors: Movement, Computers and Educational Imaginaries
+community: AI and Future of Work
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Technological Anxiety]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Trade unions and worker organizations in Sweden actively shaped computer education
+  policy, creating a distinctive Nordic approach that emphasized democratic participation
+  and worker influence rather than purely technical skill development
+- Computer education in Swedish non-formal adult education was repeatedly positioned
+  as a solution to technological anxiety across multiple waves of innovation (mainframes,
+  PCs, internet), with each cycle framing education as both technical training and
+  citizenship formation
+- Educational imaginaries—collective visions of desirable digital futures including
+  empowered workers and democratic participation—guided Swedish computer education
+  curriculum beyond instrumental skill transfer to construct engaged digital citizens
+- Non-formal adult education institutions (folk high schools, study circles, union
+  training programs) filled critical gaps in computer literacy by providing flexible,
+  accessible training unavailable in formal schooling systems, particularly for workers
+  facing technological displacement
+- The Swedish labour movement's social democratic approach to computing education
+  faces increasing pressure from neoliberal reforms, marketization, and global technological
+  competition, challenging the sustainability of participatory educational traditions
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: Swedish computer education initiatives and labour movement programs
+context: Swedish non-formal adult education system from 1970s onward
+study_type: theoretical
 ---
 
 # Computing the Nordic Way The Swedish Labour

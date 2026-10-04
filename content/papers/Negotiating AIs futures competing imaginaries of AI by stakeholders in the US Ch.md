@@ -1,9 +1,35 @@
 ---
-source_file: "EDU/lit review documents/Negotiating AI(s) futures competing imaginaries of AI by stakeholders in the US, China, and Germany.pdf"
+source_file: EDU/lit review documents/Negotiating AI(s) futures competing imaginaries
+  of AI by stakeholders in the US, China, and Germany.pdf
 type: paper
-authors: "SPECIAL ISSUE"
-community: "Design Theory and Cognition"
-tags:
+authors: SPECIAL ISSUE
+community: Design Theory and Cognition
+tags: null
+year: null
+builds_on:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Science and Technology Studies]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- AI imaginaries are actively negotiated by diverse stakeholders across industry,
+  government, academia, media, and civil society, rather than being predetermined
+  or monolithic
+- National AI perceptions in the US, China, and Germany are heterogeneous and contested
+  rather than unified, challenging assumptions of monolithic national perspectives
+- Multiple stakeholder groups co-construct and contest visions of AI futures through
+  complex discursive processes that shape AI as a sociotechnical phenomenon
+- Understanding competing imaginaries across different contexts is essential for responsible
+  AI governance and policy development
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: stakeholders from industry, government, academia, media, and civil society
+context: United States, China, and Germany
+study_type: empirical
 ---
 
 # Negotiating AI(s) futures competing imaginaries of AI by stakeholders in the US, China, and Germany

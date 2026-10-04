@@ -1,9 +1,38 @@
 ---
-source_file: "Towards a responsidble AI organizational maturity model.pdf"
+source_file: Towards a responsidble AI organizational maturity model.pdf
 type: paper
-authors: "AMY K. HEGER, Microsoft, USA"
-community: "Responsible AI and Ethics"
-tags:
+authors: AMY K. HEGER, Microsoft, USA
+community: Responsible AI and Ethics
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Design Thinking]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- Organizations struggle to operationalize RAI principles into practice; principles
+  are necessary but insufficient without organizational change
+- Current RAI efforts overemphasize technical solutions ('technological solutionism')
+  while undervaluing sociotechnical and organizational factors
+- 'RAI maturity requires addressing three interconnected categories: foundational
+  organizational structures, team collaboration approaches, and specific RAI practices
+  across 24 dimensions'
+- RAI tools and checklists have limited impact when implemented piecemeal without
+  integration into workflows and organizational culture
+- Key organizational barriers include lack of incentives for RAI work, absence of
+  leadership buy-in, fear of punishment for raising concerns, insufficient resources
+  and time, and hierarchies of knowledge between disciplines
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 90
+sample_type: RAI specialists and practitioners (47 interviews, 56 co-design participants)
+context: Primarily one global technology company (Microsoft), with some cross-organizational
+  perspectives
+study_type: empirical
 ---
 
 # Towards a responsidble AI organizational maturity model

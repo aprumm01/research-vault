@@ -1,9 +1,42 @@
 ---
-source_file: "synth users/Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents - Morocho et al - 2026.pdf"
+source_file: synth users/Assessing the Reliability of Persona-Conditioned LLMs as
+  Synthetic Survey Respondents - Morocho et al - 2026.pdf
 type: paper
-authors: "Synthetic Survey Respondents∗"
-community: "Design Theory and Cognition"
-tags:
+authors: Synthetic Survey Respondents∗
+community: Design Theory and Cognition
+tags: null
+year: 2026
+builds_on:
+- '[[methods/Survey]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Hallucinations]]'
+- '[[frameworks/Human-Centered AI]]'
+supports:
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Fauxtomation]]'
+key_claims:
+- 'Persona prompting does not yield aggregate improvement over vanilla prompting:
+  Llama-2-13B hard similarity decreased from 0.370 (vanilla) to 0.366 (persona), soft
+  similarity decreased from 0.621 to 0.612 (both statistically significant)'
+- Underrepresented demographic subgroups experience disproportionate performance degradation
+  under persona conditioning, even when aggregate scores appear acceptable
+- Persona conditioning primarily redistributes errors across items and demographic
+  strata rather than reducing overall error, masking systematic bias in subgroup-specific
+  analyses
+- Most survey items show minimal change under persona conditioning, but a small subset
+  of questions experience large unpredictable shifts in agreement
+- Systematic subgroup distortions in persona-conditioned LLMs can produce unrealistic
+  interaction patterns and misleading policy recommendations in social simulations
+methodology: '[[methods/Survey]]'
+sample_size: 70000
+sample_type: respondent-item instances from World Values Survey U.S. data (2,596 respondent
+  records across 31 survey items)
+context: Computational social science evaluation using U.S. World Values Survey Wave
+  7 microdata with two open-weight chat models (Llama-2-13B, Qwen3-4B)
+study_type: empirical
 ---
 
 # Assessing the Reliability of Persona-Conditioned LLMs as Synthetic Survey Respondents - Morocho et al - 2026

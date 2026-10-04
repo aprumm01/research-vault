@@ -1,9 +1,45 @@
 ---
-source_file: "Incorporating Unanticipated Uses of Generative AI into HCI Education.pdf"
+source_file: Incorporating Unanticipated Uses of Generative AI into HCI Education.pdf
 type: paper
-authors: "Monica Maceli, Nancy Smith, Gatha Bhakta"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Monica Maceli, Nancy Smith, Gatha Bhakta
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Intellectual Independence]]'
+supports:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- GenAI tools are being creatively repurposed in HCI education beyond their intended
+  functions, with students using ChatGPT for user stories, interview scripts, personas,
+  and high-fidelity prototypes without explicit instruction
+- ChatGPT can serve as an effective design assistant for novice students in early
+  design phases including brainstorming, user persona creation, card-sorting, information
+  architecture, and wireflow creation
+- LLMs may represent broader user needs than small study samples because their vast
+  training data could allow them to represent a wider diversity of user perspectives
+  than typical user study participants
+- Hallucinations and biases in GenAI output create inherent risks for user research
+  artifacts, making AI-generated interview scripts, personas, or requirements documents
+  subtly flawed in ways difficult for novice students to detect
+- The core pedagogical challenge is whether AI-generated artifacts represent genuine
+  understanding or merely competent tool use, requiring educators to distinguish student
+  originality from AI output in creative disciplines
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: position paper with anecdotal classroom examples
+context: HCI and UX design education at Pratt Institute's School of Information
+study_type: theoretical
 ---
 
 # Incorporating Unanticipated Uses of Generative AI into HCI Education

@@ -1,9 +1,45 @@
 ---
-source_file: "synth users/Simulating the Human in HCD with ChatGPT - Schmidt et al - 2024.pdf"
+source_file: synth users/Simulating the Human in HCD with ChatGPT - Schmidt et al
+  - 2024.pdf
 type: paper
-authors: "CREDIT TK"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: CREDIT TK
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[methods/Persona Development]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Circularity Risk]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- LLMs can support HCD by replacing humans, adding AI agents to iterative processes,
+  and extending HCD methods through encoding human experiences from internet data
+  (forums, reviews, tutorials, papers, support sites)
+- LLMs are particularly valuable for hard-to-reach users who share experiences online
+  but are unavailable for focus groups, enabling scalable representation of diverse
+  stakeholder groups
+- As LLMs generate more content, training data may increasingly reflect LLM 'perspective'
+  more than actual human experiences, creating a fundamental validity concern
+- It is unethical and fraudulent to 'sell' simulated surveys as real user surveys;
+  transparency about where and how AI tools are used in HCD is paramount
+- Future systems require designing for AI as stakeholder and user, not just obedient
+  tool, revolutionizing stakeholder involvement through auto-generation of personas
+  with deeper backgrounds including marginalized groups
+methodology: '[[methods/Case Analysis]]'
+sample_size: null
+sample_type: null
+context: Conceptual application of LLMs/ChatGPT to ISO 9241-210:2019 HCD process framework
+  phases
+study_type: theoretical
 ---
 
 # Simulating the Human in HCD with ChatGPT - Schmidt et al - 2024

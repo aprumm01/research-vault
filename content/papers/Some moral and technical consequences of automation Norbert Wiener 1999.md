@@ -1,9 +1,43 @@
 ---
-source_file: "History/Some moral and technical consequences of automation Norbert Wiener 1999.pdf"
+source_file: History/Some moral and technical consequences of automation Norbert Wiener
+  1999.pdf
 type: paper
-authors: "Introduction to Wiener's Article"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Introduction to Wiener's Article
+community: GenAI in UX and Design Practice
+tags: null
+year: 1960
+builds_on:
+- '[[frameworks/Cybernetics]]'
+- '[[frameworks/Frame Analysis]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+supports:
+- '[[concepts/Ironies of Automation]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Complacency Risk]]'
+key_claims:
+- Machines can transcend the limitations of their designers in speed, precision, and
+  performance, contradicting the assumption that nothing can come out of a machine
+  which has not been put into it
+- Learning machines show originality in tactics and strategy weighting and can defeat
+  their programmers after 10-20 hours of operation, demonstrating marked superiority
+- Complete subservience and complete intelligence do not go together - the slavery
+  paradox applies to machine intelligence
+- When machines operate at a pace faster than human intervention capacity, effective
+  control may be nullified by the time scale difference between human and machine
+  operation
+- Disastrous results are expected when two agencies foreign to each other are coupled
+  to achieve common purpose with incomplete communication, particularly when machine
+  action is so fast or irrevocable that intervention is impossible
+methodology: '[[methods/Conceptual Analysis]]'
+sample_size: null
+sample_type: null
+context: Theoretical analysis of automation and machine learning systems
+study_type: theoretical
 ---
 
 # Some moral and technical consequences of automation Norbert Wiener 1999

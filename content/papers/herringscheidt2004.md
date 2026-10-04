@@ -1,9 +1,29 @@
 ---
-source_file: "herring.scheidt.2004.pdf"
+source_file: herring.scheidt.2004.pdf
 type: paper
-authors: "Susan C. Herring"
-community: "Design Theory and Cognition"
-tags:
+authors: Susan C. Herring
+community: Design Theory and Cognition
+tags: null
+year: 2004
+builds_on:
+- '[[frameworks/Frame Analysis]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Weblogs represent a distinct genre of Internet communication that can be systematically
+  characterized through empirical analysis
+- A content analysis of 203 randomly-selected weblogs reveals discrepancies between
+  popular claims about blogging and empirically observable blog features
+- Weblogs are frequently modified web pages with dated entries listed in reverse chronological
+  sequence, establishing this as the core structural feature of the blog genre
+- Systematic coding and content analysis can identify and validate the characteristic
+  features that define the weblog as a communicative genre
+methodology: '[[methods/Content Analysis]]'
+sample_size: 203
+sample_type: randomly-selected weblogs
+context: Internet-based weblogs as emerging communication genre
+study_type: empirical
 ---
 
 # herring.scheidt.2004

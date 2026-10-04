@@ -1,9 +1,40 @@
 ---
-source_file: "EDU/r511/Activity theory as framework for analysis of workplace learning technologies The case of generative AI conversational agents.pdf"
+source_file: EDU/r511/Activity theory as framework for analysis of workplace learning
+  technologies The case of generative AI conversational agents.pdf
 type: paper
-authors: "The International"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: The International
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- Technology designed for formal education creates systematic contradictions when
+  adopted for workplace learning due to fundamental differences in learning structure,
+  assessment, and outcomes
+- Twelve primary contradictions identified between traditional and workplace learning
+  across subject, rules, object, outcome, community, division of labor, and tools
+  dimensions
+- 23 functional requirements derived for workplace learning technologies including
+  mimetic learning, continuous learning opportunities, ubiquitous access, peer-based
+  assessment, and knowledge inventory management
+- ChatGPT meets some functional requirements (ubiquitous access, situated learning,
+  continuous opportunities) but falls short on others (mimetic learning, peer collaboration,
+  assessment and certification, knowledge authorship tracking)
+- GenAI conversational agents more suitable for workplace learning than traditional
+  education technologies despite need for further development in domain-specific content,
+  peer recommendations, and learning analytics integration
+methodology: '[[methods/Literature Review]]'
+sample_size: 13
+sample_type: academic papers on workplace learning and GenAI (2019-2024)
+context: workplace learning for knowledge workers
+study_type: review
 ---
 
 # Activity theory as framework for analysis of workplace learning technologies The case of generative AI conversational agents

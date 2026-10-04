@@ -1,9 +1,49 @@
 ---
-source_file: "Making the case for introducing generative artificial intelligence (AI) into design curricula.pdf"
+source_file: Making the case for introducing generative artificial intelligence (AI)
+  into design curricula.pdf
 type: paper
-authors: "Katja Fleischmann"
-community: "AI in Design Education"
-tags:
+authors: Katja Fleischmann
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Prompt Engineering]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Anxiety]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- 74 design students currently use GenAI primarily for speeding up ideation in an
+  ad hoc manner, with widespread skepticism about AI's quality of creative output
+- Prompt engineering is not merely a technical skill but a new form of creative direction
+  that requires design knowledge to execute well and represents 'the key to success'
+  according to industry practitioners
+- Design educators who do not proactively integrate GenAI risk graduating students
+  unprepared for a profession that has already adopted these tools (Adobe Firefly,
+  Microsoft Copilot Designer, Midjourney), creating a dangerous gap between professional
+  practice and educational preparation
+- Historical pattern shows design professions co-evolve with disruptive technologies
+  (Jacquard loom, desktop publishing, internet), creating new specializations (UI/UX
+  design, prompt engineering) rather than eliminating the field
+- Proposed curriculum framework must address both technical competencies (AI literacy,
+  prompt engineering, workflow integration) and critical dimensions (ethical considerations,
+  bias awareness, agency maintenance) to ensure students can ethically collaborate
+  with GenAI tools while maintaining creative agency
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 74
+sample_type: undergraduate and graduate design students
+context: Australian university (Griffith University)
+study_type: empirical
 ---
 
 # Making the Case for Introducing Generative Artificial Intelligence (AI) into Design Curricula

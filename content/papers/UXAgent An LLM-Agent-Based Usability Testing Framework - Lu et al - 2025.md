@@ -1,9 +1,42 @@
 ---
-source_file: "synth users/UXAgent An LLM-Agent-Based Usability Testing Framework - Lu et al - 2025.pdf"
+source_file: synth users/UXAgent An LLM-Agent-Based Usability Testing Framework -
+  Lu et al - 2025.pdf
 type: paper
-authors: "Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Zheshen Wang, Yang Li, Jiri Gesi, Qi He, Toby Jia-Jun Li, Dakuo Wang"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Yuxuan Lu, Bingsheng Yao, Hansu Gu, Jing Huang, Zheshen Wang, Yang Li, Jiri
+  Gesi, Qi He, Toby Jia-Jun Li, Dakuo Wang
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Synthetic Users]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Interactive Virtual Personas]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- LLM Agents should complement, not replace, human participants—serve as pilot testing
+  tool to iterate study designs responsibly before human-subject studies
+- UX researchers judged agent behaviors as 'not like real humans' because 'very detailed'
+  and agents produce 'most optimized path' vs. human 'twisted shopping path with lots
+  of seemingly wasted action steps'
+- Universal Browser Connector enables generalization across websites without predefined
+  action spaces by parsing raw HTML to simplified observation space
+- System produces multimodal data (quantitative action traces, qualitative interviews,
+  video recordings) that matches UX researchers' familiar analysis methods
+- Heuristic evaluation with 5 UX researchers showed agents generate 'very detailed'
+  behaviors that are 'very helpful' for iterating experiment designs despite not appearing
+  fully human-like
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 5
+sample_type: UX researchers
+context: Heuristic evaluation of UXAgent system tested on WebArena shopping platform
+  and Google Flights
+study_type: empirical
 ---
 
 # UXAgent An LLM-Agent-Based Usability Testing Framework - Lu et al - 2025

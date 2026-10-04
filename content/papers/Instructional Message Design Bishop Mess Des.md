@@ -1,9 +1,45 @@
 ---
-source_file: "EDU/Instructional Message Design_Bishop_Mess_Des.pdf"
+source_file: EDU/Instructional Message Design_Bishop_Mess_Des.pdf
 type: paper
-authors: "Instructional Message Design:"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Instructional Message Design:'
+community: GenAI in UX and Design Practice
+tags: null
+year: 2010
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Cognitive Offloading]]'
+critiques:
+- '[[frameworks/Cognitive Load]]'
+tensions_with:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+supports:
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- Instructional message design field remains rooted in transmission-oriented Shannon-Weaver
+  communication models despite instructional design's shift from objectivist to constructivist
+  perspectives, creating fundamental philosophical incompatibility
+- Field terminology has fallen out of favor since mid-1990s with database searches
+  revealing sparse recent scholarship beyond Fleming & Levie's foundational texts
+- Educational communication systems have too many interacting variables for linear
+  cause-effect relationships; research findings provide guidelines for what won't
+  work but seldom illuminate what designers should actually do in particular learning
+  contexts
+- Reviving the field requires adopting conversation metaphor rather than transmission
+  theory, adjusting definitions beyond cognitive processing optimization, and embracing
+  systems view that recognizes culturally-diffused meanings and context-dependent
+  rules
+- Despite wealth of empirical principles from pre-1995 work, little applied research
+  translates specifications into tangible message attributes, failing to serve designers'
+  decision-making needs in real-world contexts
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical review of instructional message design field from origins through
+  mid-1990s to current state
+study_type: review
 ---
 
 # Instructional Message Design Bishop Mess Des

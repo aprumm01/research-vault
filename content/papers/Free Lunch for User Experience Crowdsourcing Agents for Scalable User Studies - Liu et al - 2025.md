@@ -1,4 +1,39 @@
-# Free Lunch for User Experience: Crowdsourcing Agents for Scalable User Studies
+---
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Synthetic Users]]'
+- '[[methods/Persona Development]]'
+- '[[methods/User-Centered Design]]'
+critiques:
+- '[[concepts/Illusion of Competence]]'
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- 12.8 simulated agents perform equivalently to one locally recruited human participant,
+  and 3.2 simulated agents match one crowdsourced participant in UX research
+- Coverage of human findings rises smoothly as agent count increases, plateauing around
+  90% when using diverse simulated user populations
+- Aggregated simulations from large, diverse pools produce representative and actionable
+  insights comparable to human studies, even when individual simulated agents are
+  imperfect
+- Treating LLM-based agents as crowdsourced participants through a four-stage pipeline
+  (onboarding, screening, experiencing, feedback) enables scalable UX research that
+  trades some fidelity for massive gains in scale, speed, diversity, and cost-efficiency
+- Profile construction combining researcher-defined eligibility criteria with diversity
+  from billion-scale profile assets (PersonaHub) produces more realistic variance
+  than hand-crafted personas or random permutation
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 30
+sample_type: 10 local lab participants, 20 crowdsourced participants, and 240 simulated
+  agents (from 2,900 candidate profiles)
+context: Game NPC prototype evaluation study comparing human and simulated user feedback
+study_type: empirical
+---# Free Lunch for User Experience: Crowdsourcing Agents for Scalable User Studies
 
 **Authors:** Siyang Liu, Sahand Sabour, Xiaoyang Wang, Rada Mihalcea  
 **Affiliation:** University of Michigan (Liu, Mihalcea), Tsinghua University (Sabour), America Tencent (Wang)  

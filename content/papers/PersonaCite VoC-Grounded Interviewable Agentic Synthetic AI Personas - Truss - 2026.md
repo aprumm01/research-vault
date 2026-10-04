@@ -1,4 +1,49 @@
-# PersonaCite: VoC-Grounded Interviewable Agentic Synthetic AI Personas for Verifiable User and Design Research
+---
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Synthetic Users]]'
+- '[[methods/Persona Development]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Interactive Virtual Personas]]'
+tensions_with:
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/Illusion of Competence]]'
+supports:
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Critical Thinking]]'
+key_claims:
+- 'PersonaCite shifts grounding from creation-time to interaction-time through three
+  mechanisms: real-time VoC artifact retrieval during conversation turns, LLM responses
+  constrained to retrieved evidence only, and explicit abstention when insufficient
+  evidence exists'
+- Participants treated validity as negotiable through transparency and documentation,
+  reframing validity from a binary evaluation criterion into a design variable shaped
+  through interface mechanisms, provenance disclosures, and explicit scoping
+- Explicit grounding, abstention behavior, and source attribution increased perceived
+  responsibility and appropriate trust calibration, though participants remained cautious
+  about subtle extrapolation beyond available evidence and wanted more granular transparency
+  about data quality
+- Grounded personas complement rather than substitute for direct user engagement,
+  excelling at rapid exploration and hypothesis testing when user access is limited
+  but unable to capture nuanced contextual insights from observing real users
+- Retrieval-augmented persona simulation with response-level source attribution enables
+  verification, traceability, and reuse of verbatim user language, positioning AI
+  personas as interactive archives of empirical evidence rather than high-fidelity
+  prediction engines
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 14
+sample_type: industry experts from UX research, product management, design, and AI
+  strategy at Director and Senior levels
+context: Three-month internal innovation project at Adobe involving formative evaluation
+  with practitioners working on actual design challenges
+study_type: empirical
+---# PersonaCite: VoC-Grounded Interviewable Agentic Synthetic AI Personas for Verifiable User and Design Research
 
 **Author:** Mario Truss  
 **Affiliation:** Adobe, Germany  

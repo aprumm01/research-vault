@@ -1,9 +1,53 @@
 ---
-source_file: "hiring and org practice/Catalyst for Creativity or a Hollow Trend A Cross-Level Perspective on The Role of Generative AI in Design.pdf"
+source_file: hiring and org practice/Catalyst for Creativity or a Hollow Trend A Cross-Level
+  Perspective on The Role of Generative AI in Design.pdf
 type: paper
-authors: "Syeda Masooma Naqvi∗"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Syeda Masooma Naqvi∗
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Value System Rift]]'
+- '[[concepts/Ownership Ambiguity]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- 'A fundamental rift emerges in designer value systems stratified by 2022 GenAI launch
+  timing: experienced professionals express concern over erosion of traditional creativity
+  and foundational skills, while post-2022 junior designers embrace AI enthusiastically'
+- Design artifact ownership becomes contested territory with junior students viewing
+  AI as collaborative tool warranting shared authorship, while experienced designers
+  worry about blurred originality and plagiarism boundaries
+- 'Marketability-affordance tension reveals generative AI as potentially hollow trend:
+  despite growing industry demand for AI-related design skills, limited practical
+  affordances of AI-generated outputs create fundamental limitations in achieving
+  meaningful designs across all experience levels'
+- Generative AI disrupts Sawyer's eight characteristics of creativity—particularly
+  iteration, deliberate intentionality, conscious reflection, and failure as learning—by
+  shifting from human-controlled creativity support tools to autonomous generation
+  that challenges fundamental creative process assumptions
+- Cross-level temporal stratification suggests generative AI's introduction timing
+  significantly shapes designers' relationships with technology and craft, with pre-tool
+  learners developing different concerns than post-tool learners who may rely on AI
+  as developmental crutch
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 28
+sample_type: Designers stratified into junior students (post-2022 GenAI learners),
+  senior students (mid-education GenAI introduction), and design professionals (pre-GenAI
+  practitioners) across UI/UX, graphic design, game art, typography, animation, and
+  industrial design
+context: Cross-level comparison of design practice and education using 2022 generative
+  AI tool launch as stratification point
+study_type: empirical
 ---
 
 # Catalyst for Creativity or a Hollow Trend A Cross-Level Perspective on The Role of Generative AI in Design

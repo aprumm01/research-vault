@@ -1,9 +1,56 @@
 ---
-source_file: "Generative_AI_for_Design_Education_Enhancing_Creativity_and_Critical_Thinking_in_Design_Thinking_Courses.pdf"
+source_file: Generative_AI_for_Design_Education_Enhancing_Creativity_and_Critical_Thinking_in_Design_Thinking_Courses.pdf
 type: paper
-authors: "Kate Sangwon Lee, Lihong Idris Lim, Tang Kok Zuea, Mehul Motani, Narayanan Bharadwaj Manasi"
-community: "AI in Design Education"
-tags:
+authors: Kate Sangwon Lee, Lihong Idris Lim, Tang Kok Zuea, Mehul Motani, Narayanan
+  Bharadwaj Manasi
+community: AI in Design Education
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Double Diamond Model]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- Students perceive GenAI as a 'creative catalyst' rather than a 'creative creator'—effective
+  for quantity-based divergent ideation but producing 'one-dimensional' outputs that
+  require human elaboration
+- GenAI functions most effectively as a divergent-phase tool in design thinking, supporting
+  quantity-based ideation when students face creative blocks or need to rapidly expand
+  their solution space before human judgment and selection
+- Students without formal design backgrounds experienced disproportionate benefit
+  from visual creativity support—GenAI enabled non-designers to produce quick visualizations
+  that previously required extensive training, democratizing visual ideation
+- Verification literacy became an urgent competency when students encountered fabricated
+  results (hallucinations) presented with AI's characteristic confident fluency, requiring
+  explicit curriculum intervention rather than discovery learning
+- Pedagogical support structures (structured workshops, explicit guidelines for each
+  design phase, instructor facilitation) were essential—unstructured AI access led
+  to either over-reliance or avoidance
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 65
+sample_type: engineering students from diverse backgrounds (Computer Science 23.9%,
+  Electrical Engineering 17.4%, Biomedical Engineering 13.0%, and others) in 14 teams
+context: Semester-long design thinking course at National University of Singapore
+  working on healthcare design challenge with industry partners (pediatric medical
+  equipment design)
+study_type: empirical
 ---
 
 # Generative AI for Design Education: Enhancing Creativity and Critical Thinking in Design Thinking Courses

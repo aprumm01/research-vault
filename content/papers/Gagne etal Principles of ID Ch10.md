@@ -1,9 +1,47 @@
 ---
-source_file: "EDU/Gagne etal_Principles of ID_Ch10.pdf"
+source_file: EDU/Gagne etal_Principles of ID_Ch10.pdf
 type: paper
-authors: "Third Edition"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Third Edition
+community: HCI Education and Pedagogy
+tags: null
+year: 1992
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Epistemic Agency]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[concepts/Process-centric Education]]'
+key_claims:
+- Effective instruction requires systematic alignment of external instructional events
+  with internal cognitive learning processes, with different learning outcomes (intellectual
+  skills, verbal information, attitudes) requiring different instructional strategies
+  because underlying cognitive processes differ
+- Complex intellectual skills cannot be taught directly but only through hierarchical
+  mastery of prerequisite simpler skills, with instructional failure often resulting
+  from attempting to teach advanced skills before foundational prerequisites are mastered
+- Nine events of instruction (gaining attention, informing objectives, stimulating
+  recall, presenting content, providing guidance, eliciting performance, providing
+  feedback, assessing performance, enhancing retention/transfer) provide a generalizable
+  framework applicable across diverse learning contexts and delivery modes
+- Instructional design functions as an applied science grounded in learning research
+  rather than intuitive art, with effectiveness resulting from systematic analysis,
+  design, development, implementation, and evaluation processes rather than instructor
+  talent or intuition
+- Five distinct categories of learning outcomes (intellectual skills, cognitive strategies,
+  verbal information, motor skills, attitudes) each require differentiated instructional
+  approaches, with generic teaching methods treating all learning identically producing
+  suboptimal results
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Educational and training design contexts across K-12, higher education, and
+  workplace settings
+study_type: theoretical
 ---
 
 # Gagne etal Principles of ID Ch10

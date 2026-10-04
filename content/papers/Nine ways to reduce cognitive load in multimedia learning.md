@@ -1,9 +1,36 @@
 ---
-source_file: "EDU/r511/Nine ways to reduce cognitive load in multimedia learning.pdf"
+source_file: EDU/r511/Nine ways to reduce cognitive load in multimedia learning.pdf
 type: paper
-authors: "WAYS TO REDUCE"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: WAYS TO REDUCE
+community: GenAI in UX and Design Practice
+tags: null
+year: 2003
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- Humans possess separate channels for processing pictorial and verbal material, each
+  with limited capacity requiring careful instructional design
+- 'Nine specific strategies can systematically reduce cognitive load in multimedia
+  learning: spatial contiguity, temporal contiguity, coherence, modality, and redundancy
+  principles'
+- Extraneous cognitive load should be minimized to preserve cognitive capacity for
+  essential and generative processing during learning
+- Spatial contiguity (placing related text and images near each other) and temporal
+  contiguity (presenting related narration and animation simultaneously) significantly
+  improve learning effectiveness
+- Using narration rather than on-screen text with animation (modality principle) reduces
+  cognitive load by distributing processing across visual and auditory channels
+methodology: '[[methods/Meta-Analysis]]'
+sample_size: null
+sample_type: synthesis of experimental multimedia learning studies
+context: multimedia learning environments across laboratory and educational settings
+study_type: review
 ---
 
 # Nine ways to reduce cognitive load in multimedia learning

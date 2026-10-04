@@ -1,9 +1,50 @@
 ---
-source_file: "Advances in Human-Computer Interaction - 2025 - Luo - Designing With AI  A Systematic Literature Review on the Use .pdf"
+source_file: Advances in Human-Computer Interaction - 2025 - Luo - Designing With
+  AI  A Systematic Literature Review on the Use .pdf
 type: paper
-authors: "Yi Luo"
-community: "AI in Design Education"
-tags:
+authors: Yi Luo
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered AI]]'
+- '[[methods/Grounded Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/AI-driven Creativity]]'
+key_claims:
+- AI in UX design is predominantly used for evaluative and research activities (user
+  behaviour analysis, usability testing, A/B testing automation), with ideation and
+  prototyping support growing but still secondary, revealing an asymmetric distribution
+  across the design process
+- Most AI design tools exhibit a technology-first development orientation, being developed
+  without involving designers in the design process and using evaluation metrics focused
+  on technical performance rather than designer experience or contextual fit
+- Overreliance risk is identified as a cross-cutting concern, with designers expressing
+  worry that AI may replace divergent creative thinking, particularly for novices
+  who may develop AI-prompting fluency rather than foundational design skills
+- Generative AI tools (ChatGPT, Midjourney) have been adopted primarily for brainstorming,
+  visual communication, and UX writing, but their integration into formal design research
+  or user testing workflows remains limited
+- A significant mismatch exists between what AI design tools currently deliver (technical
+  automation of narrow tasks) and what designers envision (AI that supports creativity,
+  co-creation, and contextual reasoning)
+methodology: '[[methods/Literature Review]]'
+sample_size: 83
+sample_type: empirical studies on AI in UX design from ACM Digital Library, IEEE Xplore,
+  and Scopus
+context: systematic review of AI-enabled UX design tools literature 2000-2024
+study_type: review
 ---
 
 # Designing With AI: A Systematic Literature Review on the Use, Development, and Perception of AI-Enabled UX Design Tools

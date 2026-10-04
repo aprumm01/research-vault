@@ -1,9 +1,49 @@
 ---
-source_file: "EDU/lit review documents/AI Driven Creativity in Early Design Education - A pedagogical approach in the age of Industry 5.0.pdf"
+source_file: EDU/lit review documents/AI Driven Creativity in Early Design Education
+  - A pedagogical approach in the age of Industry 5.0.pdf
 type: paper
-authors: "Aysegul Akcay Kavakoglu"
-community: "AI in Design Education"
-tags:
+authors: Aysegul Akcay Kavakoglu
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Reciprocal Learning Partnership]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Design-Based Learning]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Reciprocal Learning Partnership]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- AI should function as collaborative muse and learning partner through reciprocal
+  data exchange, where students curate training data and AI discovers patterns, creating
+  mutual information exchange rather than unidirectional tool use
+- Pre-curatorial dataset preparation by instructors and post-curatorial reinterpretation
+  by students constitute essential creative phases where human judgment shapes AI
+  learning trajectories and transforms synthetic outputs into design stimuli
+- Surprisingness from AI-generated outputs (trained on 449 student sketches over 76
+  hours using StyleGAN2-ADA) triggers creative reframing analogous to precedent analysis,
+  functioning as external mediators in see-do-see iterative loops
+- Visual and data literacy—including classifying, gathering, and processing architectural
+  datasets—become fundamental learning outcomes for Industry 5.0 design education,
+  enabling algorithmic thinking without requiring low-level programming skills
+methodology: '[[methods/Case Study]]'
+sample_size: 120
+sample_type: first-year architecture students
+context: Istanbul Technical University design studio, five-stage pedagogical experiment
+  with StyleGAN2-ADA integration
+study_type: empirical
 ---
 
 # AI Driven Creativity in Early Design Education - A pedagogical approach in the age of Industry 5.0

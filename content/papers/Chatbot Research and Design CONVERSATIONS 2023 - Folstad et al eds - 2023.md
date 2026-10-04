@@ -1,9 +1,43 @@
 ---
-source_file: "synth users/Chatbot Research and Design CONVERSATIONS 2023 - Folstad et al (eds) - 2023.pdf"
+source_file: synth users/Chatbot Research and Design CONVERSATIONS 2023 - Folstad
+  et al (eds) - 2023.pdf
 type: paper
-authors: "Chatbot Research"
-community: "AI and Future of Work"
-tags:
+authors: Chatbot Research
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- November 2022 ChatGPT launch represents watershed moment fundamentally shifting
+  chatbot landscape from rule-based approaches to LLM-powered systems with new capabilities
+  and challenges
+- 'Contemporary chatbot research clusters around four thematic domains: understanding
+  conversational interactions in specific applications, leveraging LLMs for design
+  and analysis, addressing ethical perspectives and bias, and exploring complementary
+  issues like gaming and abuse'
+- 48% acceptance rate (12 of 25 full papers accepted) with mandatory revisions and
+  compliance checks maintains high research standards during rapid technological change
+- Workshop achieved international reach with 147 participants from 23 countries, though
+  hybrid format created disparities (39 on-site, 108 online)
+- Ethical and bias concerns intensify with LLMs, including dark patterns in conversational
+  design, language ideology bias, gender identity considerations, and user abuse patterns
+  requiring urgent research attention
+methodology: '[[methods/Literature Review]]'
+sample_size: 35
+sample_type: conference paper submissions (25 full papers, 6 position papers, 2 project
+  presentations, 2 groupwork proposals)
+context: CONVERSATIONS 2023 international workshop, University of Oslo, November 22-23,
+  2023
+study_type: review
 ---
 
 # Chatbot Research and Design CONVERSATIONS 2023 - Folstad et al (eds) - 2023

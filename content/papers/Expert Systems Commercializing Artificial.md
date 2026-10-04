@@ -1,9 +1,36 @@
 ---
-source_file: "History/Expert Systems Commercializing Artificial.pdf"
+source_file: History/Expert Systems Commercializing Artificial.pdf
 type: editorial
-authors: "David C. Brock, Burton Grad"
-community: "AI and Future of Work"
-tags:
+authors: David C. Brock, Burton Grad
+community: AI and Future of Work
+tags: null
+year: 2018
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Winter]]'
+key_claims:
+- Most expert systems companies did not achieve significant scale and the industry
+  ended 'somewhat abruptly' despite initial promise in the 1980s
+- Expert systems technology, while declined as independent industry, continues to
+  be 'widely used by companies throughout the world' suggesting transformation rather
+  than complete obsolescence
+- Today's commercial AI (machine learning) has important historical precedents in
+  the expert systems wave of the 1980s, providing lessons for understanding current
+  AI commercialization
+- The Stanford University research group led by Edward Feigenbaum was central to spawning
+  numerous companies through graduate students and postdocs
+- Expert systems commercialization history was 'underdocumented and underexamined'
+  despite clear resonances with present AI moment
+methodology: '[[methods/Case Study]]'
+sample_size: 20
+sample_type: expert systems pioneers (company founders and researchers from 1970-2000
+  period)
+context: Two-day pioneer meeting at Computer History Museum (May 2018) covering expert
+  systems commercialization wave
+study_type: review
 ---
 
 # Expert Systems Commercializing Artificial

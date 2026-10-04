@@ -1,9 +1,45 @@
 ---
-source_file: "LLMs Integration in Software Engineering Team Projects Roles, Impact, and a Pedagogical Design Space for AI Tools in Computing Education.pdf"
+source_file: LLMs Integration in Software Engineering Team Projects Roles, Impact,
+  and a Pedagogical Design Space for AI Tools in Computing Education.pdf
 type: paper
-authors: "Ahmed Kharrufa, Sami Alghamdi, Abeer Aziz, Christopher Bull"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Ahmed Kharrufa, Sami Alghamdi, Abeer Aziz, Christopher Bull
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- GenAI use in team projects has distinct effects on teamwork not captured by individual-level
+  studies, affecting task division, knowledge sharing, and whether team members develop
+  shared understanding
+- 'Learning benefits from GenAI were uneven and contingent on prior ability: students
+  with stronger programming backgrounds were better able to use GenAI critically,
+  while weaker students tended toward acceptance without comprehension, raising concerns
+  about widening skill gaps'
+- Current GenAI tools provide no visibility into what AI contributed to a team project,
+  creating both accountability problems for educators and equity issues within teams
+  where contributions may be unequal
+- Students reported awareness of potential skill degradation with heavy AI assistance,
+  particularly in areas like debugging and writing code from scratch
+- 'The proposed design space identifies three key axes for educational GenAI tools:
+  (1) the role GenAI plays during learning, (2) the scaffolding support tailored to
+  each role, and (3) mechanisms for transparency to teammates, students, and instructors'
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 47
+sample_type: second-year undergraduate computer science students
+context: 7-week full-time software engineering team project module at Newcastle University
+study_type: empirical
 ---
 
 # LLMs Integration in Software Engineering Team Projects: Roles, Impact, and a Pedagogical Design Space for AI Tools in Computing Education

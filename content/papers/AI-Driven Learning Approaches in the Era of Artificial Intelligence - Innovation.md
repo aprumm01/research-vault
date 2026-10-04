@@ -1,9 +1,42 @@
 ---
-source_file: "AI-Driven Learning Approaches in the Era of Artificial Intelligence - Innovations in Design Education.pdf"
+source_file: AI-Driven Learning Approaches in the Era of Artificial Intelligence -
+  Innovations in Design Education.pdf
 type: paper
-authors: "Intelligence: Innovations in Design Education"
-community: "Design Theory and Cognition"
-tags:
+authors: 'Intelligence: Innovations in Design Education'
+community: Design Theory and Cognition
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- Research on AI in design education surged from 1 paper in 2021 to 31 papers in 2024,
+  indicating the field has shifted from exploratory to established research domain
+- GenAI proficiency has become an essential skill for designers, with failure to integrate
+  AI curriculum negatively impacting educational institutions
+- AI has evolved from foundational technical tool to transformative force changing
+  learning approaches, curriculum content, and assessment methods in design education
+- AI serves as 'creative collaborator' rather than mere assistant, requiring fundamental
+  shifts in teaching strategies and student attitudes toward learning
+- 'Five emerging themes reveal AI''s multi-dimensional impact: traditional art education,
+  visual communication, pedagogical innovation, design thinking enhancement, and generative
+  applications'
+methodology: '[[methods/Literature Review]]'
+sample_size: 43
+sample_type: academic papers from Scopus database
+context: Design education literature 2020-2025
+study_type: review
 ---
 
 # AI-Driven Learning Approaches in the Era of Artificial Intelligence - Innovations in Design Education

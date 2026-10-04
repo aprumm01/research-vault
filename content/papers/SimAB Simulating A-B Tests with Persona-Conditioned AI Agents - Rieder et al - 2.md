@@ -1,9 +1,40 @@
 ---
-source_file: "synth users/SimAB Simulating A-B Tests with Persona-Conditioned AI Agents - Rieder et al - 2026.pdf"
+source_file: synth users/SimAB Simulating A-B Tests with Persona-Conditioned AI Agents
+  - Rieder et al - 2026.pdf
 type: paper
-authors: "for Rapid Design Evaluation"
-community: "Responsible AI and Ethics"
-tags:
+authors: for Rapid Design Evaluation
+community: Responsible AI and Ethics
+tags: null
+year: 2026
+builds_on:
+- '[[concepts/Synthetic Users]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Interactive Virtual Personas]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- SimAB achieves 67% overall accuracy against 47 historical A/B tests, increasing
+  to 83% for high-confidence cases
+- Traditional A/B testing requires months to reach statistical significance; SimAB
+  reduces feedback latency from months to minutes through persona-conditioned AI agents
+- 'Four critical pain points in traditional A/B testing: low-traffic pages, high volume
+  of design variants, low-value changes, and instrumentation/sampling constraints'
+- LLM-based synthetic users have systematic failures in capturing nuanced human preferences
+  and reflect perspectives of specific demographic groups rather than universal behaviors
+- SimAB enables rapid screening and validation during ideation when design changes
+  are still inexpensive, particularly for low-traffic scenarios and privacy-sensitive
+  contexts
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 61
+sample_type: 14 practitioners from four enterprise organizations (formative study)
+  and 47 historical A/B tests (validation)
+context: Enterprise design evaluation across multiple organizations with historical
+  A/B test data
+study_type: empirical
 ---
 
 # SimAB Simulating A-B Tests with Persona-Conditioned AI Agents - Rieder et al - 2026

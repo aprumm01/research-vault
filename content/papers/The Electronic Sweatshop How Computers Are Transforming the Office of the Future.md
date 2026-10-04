@@ -1,9 +1,38 @@
 ---
-source_file: "History/The Electronic Sweatshop_ How Computers Are Transforming the Office of the Future into the Factor - Review by_ Dominick A. Pisano 1992.pdf"
+source_file: History/The Electronic Sweatshop_ How Computers Are Transforming the
+  Office of the Future into the Factor - Review by_ Dominick A. Pisano 1992.pdf
 type: paper
-authors: "Nathan Rosenberg"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Nathan Rosenberg
+community: GenAI in UX and Design Practice
+tags: null
+year: 1992
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/AI-managerial Labor]]'
+key_claims:
+- Computer automation eliminates workers' important decision-making incentives, resulting
+  in workplace dehumanization
+- Technology is controlled undemocratically by management who use it to discipline,
+  deskill, and displace workers
+- Computer systems place similar controls on service industry workers as industrial
+  automation places on factory workers
+- Managers consistently adopt technologies that enhance their power and minimize challenges
+  to authority
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: Workers across various industries (McDonald's, American Airlines, Procter
+  & Gamble)
+context: Multiple workplace settings in service and manufacturing industries
+study_type: empirical
 ---
 
 # The Electronic Sweatshop How Computers Are Transforming the Office of the Future into the Factor - Review by Dominick A. Pisano 1992

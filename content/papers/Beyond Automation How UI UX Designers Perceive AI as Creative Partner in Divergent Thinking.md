@@ -1,9 +1,45 @@
 ---
-source_file: "Kha25.pdf"
+source_file: Kha25.pdf
 type: paper
-authors: "Abidullah Khan, Atefeh Shokrizadeh, Jinghui Cheng"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Abidullah Khan, Atefeh Shokrizadeh, Jinghui Cheng
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Double Diamond Model]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+critiques: []
+tensions_with:
+- '[[concepts/Double Diamond Model]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- 'Designers identify four distinct AI roles during divergent thinking: aiding research,
+  kick-starting creativity, generating design alternatives, and facilitating prototype
+  exploration'
+- Designers view AI as an efficiency tool that liberates creativity rather than replacing
+  it, positioning AI as handling time-consuming, lower-level tasks so designers can
+  focus on higher-order creative and strategic decisions
+- Control over ideation is the most valued AI capability—designers want AI tools that
+  give them more control over the generation process through adjustable parameters,
+  style guidance, and iterative refinement rather than black-box generation
+- Copyright and ownership concerns are less salient for UI/UX designers than expected,
+  with participants rarely raising IP concerns possibly because UI design is perceived
+  as more derivative and compositional than fine art
+- AI tools that can rapidly generate many alternatives at varying fidelities challenge
+  the traditional sequencing of design phases, enabling more iterative, non-linear
+  design workflows that blur the divergent-convergent distinction
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 19
+sample_type: experienced professional UI/UX designers
+context: professional UI/UX design practice across diverse industries
+study_type: empirical
 ---
 
 # Beyond Automation: How UI/UX Designers Perceive AI as a Creative Partner in the Divergent Thinking Stages

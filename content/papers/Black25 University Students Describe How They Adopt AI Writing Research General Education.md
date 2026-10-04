@@ -1,9 +1,45 @@
 ---
-source_file: "Bla25.pdf"
+source_file: Bla25.pdf
 type: paper
-authors: "Rebecca W. Black, Bill Tomlinson"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Rebecca W. Black, Bill Tomlinson
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/Intellectual Independence]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- Of 277 enrolled students, only 39 (14%) explicitly documented AI use in Spring 2023,
+  suggesting early AI adoption in academic contexts was limited and self-selected
+- Students primarily used AI for lower-order writing tasks (revising, editing, proofreading)
+  to improve communication of their original ideas rather than to generate ideas,
+  indicating supplementary rather than substitutive use
+- Students expressed widespread skepticism about AI-generated content accuracy and
+  reliability, actively verifying AI outputs and emphasizing their own intellectual
+  contributions over AI assistance
+- A meaningful distinction exists in student practice between mechanical AI tasks
+  and deeper conceptual work, with students themselves articulating concerns about
+  maintaining authenticity when using AI for higher-order tasks like finding evidence
+  and developing arguments
+- Requiring students to document AI use rather than banning it promotes metacognitive
+  reflection about AI adoption patterns without creating adversarial student-instructor
+  relationships
+methodology: '[[methods/Content Analysis]]'
+sample_size: 39
+sample_type: undergraduate students who voluntarily used and documented AI
+context: General Education course on sustainability and technology at UC Irvine, Spring
+  2023
+study_type: empirical
 ---
 
 # University Students Describe How They Adopt AI for Writing and Research in a General Education Course

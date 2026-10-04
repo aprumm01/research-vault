@@ -1,9 +1,48 @@
 ---
-source_file: "A Method to Evaluate the UX of Systems Integrating AI.pdf"
+source_file: A Method to Evaluate the UX of Systems Integrating AI.pdf
 type: paper
-authors: "PoliMI SpringerBriefs"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PoliMI SpringerBriefs
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques:
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- Traditional UX evaluation methods fail to address AI's dynamic complexity—autonomous
+  adaptation, unpredictability, and multi-touchpoint ecosystems defy single-artifact
+  evaluation frameworks, with systematic literature review showing existing methods
+  overlook critical AI-specific qualities like trustworthiness and conversational
+  intelligence
+- 85% of AI innovation projects fail primarily from lack of human-centered design,
+  as technologists showcase sophisticated capabilities without UX expertise to create
+  satisfying interactions
+- 'Four AI-specific UX dimensions must complement traditional evaluation: intelligence
+  (perceived cognitive capability), trustworthiness (reliability and ethical operation),
+  conversational quality (natural dialogue interaction), and meaningfulness (purposeful
+  value), with AIXE scale operationalizing this through 33 questions measuring 12
+  descriptors across 6 dimensions'
+- AI-infused products' defining paradox requires 'design for imperfection' paradigm—defining
+  'well enough' thresholds, identifying acceptable error contexts, and building user
+  mental models accommodating probabilistic rather than deterministic behavior
+methodology: '[[methods/Mixed Methods Research]]'
+sample_size: 1600
+sample_type: smart speaker users from US and UK markets
+context: Real-world domestic AI product usage evaluation across multiple device types
+  (2021-2023 temporal comparison)
+study_type: empirical
 ---
 
 # A Method to Evaluate the UX of Systems Integrating AI

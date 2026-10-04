@@ -1,9 +1,36 @@
 ---
-source_file: "Comparing Grounded Theory and Topic Modeling_ Extreme Divergence.pdf"
+source_file: Comparing Grounded Theory and Topic Modeling_ Extreme Divergence.pdf
 type: paper
-authors: "Faculty Research and Publications"
-community: "Design Theory and Cognition"
-tags:
+authors: Faculty Research and Publications
+community: Design Theory and Cognition
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Phenomenology]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Grounded theory and topic modeling produced dramatically different thematic interpretations
+  from identical textual datasets due to incompatible operationalizations of 'themes'—human
+  meaning-making versus statistical word patterns
+- Topic modeling detects surface-level word co-occurrence patterns but misses semantic
+  nuance, contextual meaning, and theoretical significance that human coders using
+  grounded theory recognize
+- Grounded theory incorporates researchers' contextual knowledge, theoretical sensitivity,
+  and understanding of language pragmatics that computational topic modeling algorithms
+  cannot access
+- Neither grounded theory nor topic modeling is inherently superior; they answer different
+  analytical questions and serve different purposes rather than providing validation
+  for the same phenomenon
+- Productive integration of qualitative and computational text analysis requires methodological
+  awareness of epistemological commitments rather than treating approaches as interchangeable
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: textual dataset (survey responses or similar corpus)
+context: information science research
+study_type: theoretical
 ---
 
 # Comparing Grounded Theory and Topic Modeling Extreme Divergence

@@ -1,9 +1,41 @@
 ---
-source_file: "EDU/Why Minimal Guidance During Instruction Does Not - Kirschner.pdf"
+source_file: EDU/Why Minimal Guidance During Instruction Does Not - Kirschner.pdf
 type: paper
-authors: "SWELLER, CLARK"
-community: "HCI Education and Pedagogy"
-tags:
+authors: SWELLER, CLARK
+community: HCI Education and Pedagogy
+tags: null
+year: 2006
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[frameworks/Constructivism]]'
+tensions_with:
+- '[[concepts/Epistemic Agency]]'
+- '[[frameworks/Design Thinking]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- Minimal guidance instruction ignores working memory limitations of approximately
+  4±1 elements and ~30 second duration when processing novel information, leading
+  to ineffective learning
+- Past half-century of empirical research consistently shows minimal guidance approaches
+  (discovery, problem-based, inquiry-based, experiential, constructivist) are less
+  effective and efficient than guided instruction for novices
+- Problem solving during learning places huge burden on working memory for search
+  processes, leaving insufficient capacity for schema construction and storage in
+  long-term memory
+- The guidance advantage recedes only when learners have sufficient prior knowledge
+  to provide internal guidance, making expertise level the critical moderating variable
+- 'Confusion between epistemology and pedagogy represents a major fallacy: how experts
+  work in a domain is not equivalent to how novices should learn in that domain'
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Multiple decades of educational research across various instructional contexts
+study_type: review
 ---
 
 # Why Minimal Guidance During Instruction Does Not - Kirschner

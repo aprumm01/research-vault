@@ -1,23 +1,52 @@
 ---
-title: "Gone with the clouds: Estimating the electricity and water footprint of digital data services in Europe"
+title: 'Gone with the clouds: Estimating the electricity and water footprint of digital
+  data services in Europe'
 authors:
-  - Javier Farfan
-  - Alena Lohrmann
+- Javier Farfan
+- Alena Lohrmann
 year: 2023
-publication: "Energy Conversion and Management"
+publication: Energy Conversion and Management
 volume: 290
-article_number: "117225"
-doi: "10.1016/j.enconman.2023.117225"
+article_number: '117225'
+doi: 10.1016/j.enconman.2023.117225
 tags:
-  - sustainability
-  - data-centers
-  - water-energy-nexus
-  - digital-infrastructure
-  - europe
-  - environmental-footprint
+- sustainability
+- data-centers
+- water-energy-nexus
+- digital-infrastructure
+- europe
+- environmental-footprint
 course: i609-sustainability
 date_processed: 2026-09-27
 status: analyzed
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Digital data services in OECD-Europe will require between 56.3-169 TWh of electricity
+  and 273.4-820.1 million cubic meters of water annually by 2030, with France alone
+  requiring 60.9-182.8 million m³ of water yearly
+- The water footprint of digital data services represents a hidden environmental burden
+  that is rarely discussed in sustainability assessments of the digital economy, systematically
+  underreported across corporate and policy assessments
+- By 2030 under high growth scenarios, France's data center water consumption could
+  exceed 180 million cubic meters annually—equivalent to the water needs of a city
+  of 2 million people
+- Geographic location significantly impacts environmental footprint, with Nordic countries
+  showing lower water footprints due to cooler climates enabling free cooling, while
+  Southern Europe demonstrates higher water intensity per unit of electricity consumed
+- Digital services are inherently material despite perceptions of being 'virtual',
+  creating resource competition between data centers and other sectors including agriculture
+  and municipal use
+methodology: '[[methods/Scenario Building]]'
+sample_size: null
+sample_type: null
+context: OECD-Europe countries, 2022-2030 projections
+study_type: theoretical
 ---
 
 # Gone with the clouds: Estimating the electricity and water footprint of digital data services in Europe

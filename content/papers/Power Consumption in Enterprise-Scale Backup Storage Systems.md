@@ -1,9 +1,40 @@
 ---
-source_file: "2026/i609-sustainability/li.pdf"
+source_file: 2026/i609-sustainability/li.pdf
 type: paper
-authors: "Zhichao Li, Kevin M. Greenan, Andrew W. Leung, Erez Zadok"
-community: "Sustainable Computing"
-tags: [sustainability, i609, storage-systems, power-management, data-centers, backup-systems]
+authors: Zhichao Li, Kevin M. Greenan, Andrew W. Leung, Erez Zadok
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- storage-systems
+- power-management
+- data-centers
+- backup-systems
+year: null
+builds_on: []
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Components other than disks consume a significant amount of power, even at large
+  scales, with idle controller power consumption ranging from 225W to 778W across
+  different models
+- Disk enclosures may consume more power than the drives they house; ES20 consumes
+  155W with all disks powered down, which is more than the 123W saved by powering
+  down the disks
+- To save a significant amount of power, 40-60% of disks must be spun down to achieve
+  meaningful (20%) power savings in the system
+- 'Newer hardware generations show improved power efficiency per terabyte (DDTBD:
+  0.675W/TB vs. DD880: 2.89W/TB)'
+- Energy proportionality remains elusive in current backup storage systems, with some
+  configurations showing only 20% power increase under load despite significant utilization
+  increases
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: enterprise-scale backup storage systems (EMC controllers DD880, DD670,
+  DD860, DDTBD and enclosures ES20, ES30)
+context: production data center environments with professional power measurement equipment
+study_type: empirical
 ---
 
 # Power Consumption in Enterprise-Scale Backup Storage Systems

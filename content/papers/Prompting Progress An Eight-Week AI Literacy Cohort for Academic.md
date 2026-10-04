@@ -1,9 +1,41 @@
 ---
-source_file: "Prompting Progress_ An Eight-Week AI Literacy Cohort for Academic.pdf"
+source_file: Prompting Progress_ An Eight-Week AI Literacy Cohort for Academic.pdf
 type: paper
-authors: "UNM Digital Repository"
-community: "HCI Education and Pedagogy"
-tags:
+authors: UNM Digital Repository
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- 'Academic advisor AI literacy improved significantly across all measured dimensions
+  in eight weeks: familiarity rising from 2.50 to 3.50, overall literacy from 2.71
+  to 3.90, and confidence from 3.07 to 4.00 on 5-point scales'
+- Community of practice model enables rapid collective AI literacy development with
+  shared resource creation and peer learning accelerating adoption among frontline
+  academic staff
+- Workflow efficiency gains in routine tasks like recruitment email generation free
+  advisor time for high-touch student-centered activities while preserving professional
+  judgment roles
+- Ethical guardrails emerge as core professional competency requiring explicit development
+  rather than assumed understanding in AI adoption contexts
+- Successful AI integration requires framing technology as partnership tool that enhances
+  rather than threatens professional roles, positioning advisors as complementary
+  to rather than competing with AI capabilities
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 15
+sample_type: academic advisors
+context: University of New Mexico eight-week professional development cohort
+study_type: empirical
 ---
 
 # Prompting Progress An Eight-Week AI Literacy Cohort for Academic

@@ -1,9 +1,42 @@
 ---
-source_file: "The Integration of AI in Design Thinking for Enhancing Student Creativity and Critical Thinking in Digital Media Learning.pdf"
+source_file: The Integration of AI in Design Thinking for Enhancing Student Creativity
+  and Critical Thinking in Digital Media Learning.pdf
 type: paper
-authors: "Art and Design"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Art and Design
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- AI-enhanced design thinking improves algorithmic reasoning and problem-solving abilities
+  essential for computational thinking in digital media education
+- Creative pedagogical techniques with AI tools through project-based learning increase
+  divergent thinking, motivation, and innovative outcomes among students
+- Hybrid learning environments combining AI-powered platforms with human-centered
+  design provide personalized, flexible, and immersive experiences that enhance creativity
+- Over-reliance on AI-generated outputs may diminish students' innate creative processes,
+  with concerns about reduced originality and authorship
+- Insufficient teacher preparedness and ethical considerations around data privacy,
+  algorithmic bias, and transparency remain significant barriers to effective AI integration
+  in design education
+methodology: '[[methods/Literature Review]]'
+sample_size: 36
+sample_type: peer-reviewed papers on AI in design thinking and digital media education
+context: Scopus database systematic review (2020-2025)
+study_type: review
 ---
 
 # The Integration of AI in Design Thinking for Enhancing Student Creativity and Critical Thinking in Digital Media Learning

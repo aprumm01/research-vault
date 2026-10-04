@@ -1,9 +1,47 @@
 ---
-source_file: "History/Generative AI and the Automating of Academia.pdf"
+source_file: History/Generative AI and the Automating of Academia.pdf
 type: paper
-authors: "ORIGINAL ARTICLES"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: ORIGINAL ARTICLES
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[concepts/Technological Determinism]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/AI Augmentation]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI-driven Creativity]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-managerial Labor]]'
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/Technological Anxiety]]'
+key_claims:
+- Despite only 51.5% of academics currently using GAI, 71% report it is changing how
+  they work and 83% anticipate increased future use, revealing rapid normalization
+  regardless of direct adoption
+- GAI extends rather than alleviates neoliberal academic malaise—automated efficiencies
+  create new exploitation opportunities rather than work-life equilibrium, intensifying
+  labor through performance metrics
+- 'Academics demonstrate dual GAI adoption patterns: opportunistically accommodating
+  managerial performance demands while subversively pursuing professional interests
+  outside contractual remit to reclaim autonomy'
+- Academic precarity remains severe with 18.7% on fixed-term contracts and 19.5% part-time,
+  while GAI tools risk further discombobulation of collective identity by trapping
+  scholars as homo economicus individuals
+- GAI may catalyze positive disruption by enabling re-engagement with scholarly craftsmanship
+  and disrupting zero-sum quantification games, if harnessed deliberately through
+  praxis of refusal rather than as mere productivity accelerator
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 284
+sample_type: UK academics across disciplines
+context: UK higher education institutions, 7 months post-ChatGPT launch (June-August
+  2023)
+study_type: empirical
 ---
 
 # Generative AI and the Automating of Academia

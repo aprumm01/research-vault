@@ -1,9 +1,40 @@
 ---
-source_file: "ACM/The Future of Work is Blended Not Hybrid.pdf"
+source_file: ACM/The Future of Work is Blended Not Hybrid.pdf
 type: paper
-authors: "Marios Constantinides∗"
-community: "AI and Future of Work"
-tags:
+authors: Marios Constantinides∗
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Ownership Ambiguity]]'
+key_claims:
+- The way we work is no longer hybrid—it is blended with AI coworkers, automated decisions,
+  and virtual presence reshaping human roles, agency, and expertise, where human effort
+  and AI output are inseparable
+- AI's infiltration into knowledge, creative, and service work concerns redistribution
+  of agency, creativity, and control, not just automation
+- The question shifts from 'whether we accept AI' to 'whether we shape it before it
+  shapes us'
+- 'Four urgent areas demand attention: social relatedness in AI-mediated work for
+  creativity, work-life boundary reinforcement for wellbeing, digital-physical continuum
+  rethinking for inclusivity, and AI transparency and accountability'
+- AI shapes outputs through invisible algorithms, challenging notions of the skilled
+  worker, competent professional, and accountable leader
+methodology: '[[methods/Narrative]]'
+sample_size: null
+sample_type: null
+context: conceptual analysis of AI integration in knowledge, creative, and service
+  work sectors
+study_type: theoretical
 ---
 
 # The Future of Work is Blended Not Hybrid

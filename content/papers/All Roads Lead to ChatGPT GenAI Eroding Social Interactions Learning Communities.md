@@ -1,9 +1,47 @@
 ---
-source_file: "_All Roads Lead to ChatGPT_ How Generative AI is Eroding Social Interactions and Student Learning Communities.pdf"
+source_file: _All Roads Lead to ChatGPT_ How Generative AI is Eroding Social Interactions
+  and Student Learning Communities.pdf
 type: paper
-authors: "Irene Hou, Owen Man, Kate Hamilton, Srishty Muthusekaran, Jeffin Johnykutty, Leili Zadeh, Stephen MacNeil"
-community: "AI and Future of Work"
-tags:
+authors: Irene Hou, Owen Man, Kate Hamilton, Srishty Muthusekaran, Jeffin Johnykutty,
+  Leili Zadeh, Stephen MacNeil
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+critiques: []
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[frameworks/Human-Centered AI]]'
+supports:
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/Social Isolation (AI-induced)]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Complacency Risk]]'
+key_claims:
+- 'GenAI tools now function as mediators in peer help-seeking: when students ask classmates
+  for help, those classmates increasingly redirect them to AI rather than providing
+  assistance themselves, fundamentally changing the nature of peer interaction'
+- Students report feeling isolated and missing the experience of solving problems
+  collaboratively with friends—a loss that affects both users and non-users of AI
+  tools
+- 'Shame around AI use creates social friction: students feel embarrassed using AI
+  in front of peers, yet increasingly feel compelled to do so, producing a culture
+  of concealed reliance'
+- The accessibility and low-barrier nature of genAI (always available, no social cost)
+  undermines the motivation to engage in peer learning, even when such engagement
+  would be more educationally valuable
+- The degradation of peer support networks has asymmetric effects, with underrepresented
+  groups in computing who benefit most from peer mentorship and community potentially
+  experiencing greater negative impacts
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 17
+sample_type: undergraduate computing students (8 women, 9 men)
+context: Seven R1 universities in North America
+study_type: empirical
 ---
 
 # "All Roads Lead to ChatGPT": How Generative AI is Eroding Social Interactions and Student Learning Communities

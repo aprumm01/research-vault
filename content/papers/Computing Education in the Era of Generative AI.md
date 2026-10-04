@@ -1,9 +1,46 @@
 ---
-source_file: "Computing Education in the Era of Generative AI.pdf"
+source_file: Computing Education in the Era of Generative AI.pdf
 type: paper
-authors: "Paul Denny, James Prather, Brett A. Becker, James Finnie-Ansley, Arto Hellas, Juho Leinonen, Andrew Luxton-Reilly, Brent N. Reeves, Eddie Antonio Santos, Sami Sarsa"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Paul Denny, James Prather, Brett A. Becker, James Finnie-Ansley, Arto Hellas,
+  Juho Leinonen, Andrew Luxton-Reilly, Brent N. Reeves, Eddie Antonio Santos, Sami
+  Sarsa
+community: HCI Education and Pedagogy
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Sustainable Assessment]]'
+key_claims:
+- AI models including Codex and GPT-4 can already solve most introductory programming
+  (CS1) problems with high pass rates, fundamentally undermining the 'many small programs'
+  pedagogy that has been a cornerstone of computing education for decades
+- Students with greater prior knowledge are better positioned to use AI tools productively;
+  uncritical adoption of AI in computing education risks widening achievement gaps
+  between well-prepared and struggling learners
+- Assessment in computing education must shift from take-home coding exercises to
+  proctored exams, oral assessments, process-oriented assignments, and AI-proof tasks
+  that require explanation and reflection
+- LLMs enable instructors to generate exercise variations, code explanations, and
+  error message enhancements at scale with quality comparable to student-generated
+  resources, transforming learning resource creation efficiency
+- New core competencies must be explicitly taught in computing curricula including
+  prompt engineering, problem decomposition, critical evaluation of AI output, and
+  the ability to recognize incorrect or insecure generated code
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Computing education, primarily introductory programming courses (CS1/CS2)
+  in English-language Western universities
+study_type: review
 ---
 
 # Computing Education in the Era of Generative AI

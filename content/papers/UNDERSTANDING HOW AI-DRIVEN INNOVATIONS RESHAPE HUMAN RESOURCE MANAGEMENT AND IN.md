@@ -1,9 +1,20 @@
 ---
-source_file: "2-UNDERSTANDING+HOW+AI-DRIVEN+INNOVATIONS+RESHAPE+HUMAN+RESOURCE+MANAGEMENT+AND+INFLUENCE+ORGANIZATIONAL+EFFECTIVENESS-G.pdf"
+source_file: 2-UNDERSTANDING+HOW+AI-DRIVEN+INNOVATIONS+RESHAPE+HUMAN+RESOURCE+MANAGEMENT+AND+INFLUENCE+ORGANIZATIONAL+EFFECTIVENESS-G.pdf
 type: paper
-authors: "Unknown"
-community: "Design Theory and Cognition"
-tags:
+authors: Unknown
+community: Design Theory and Cognition
+tags: null
+year: null
+builds_on: []
+critiques: []
+tensions_with: []
+supports: []
+key_claims: []
+methodology: null
+sample_size: null
+sample_type: null
+context: null
+study_type: null
 ---
 
 # UNDERSTANDING HOW AI-DRIVEN INNOVATIONS RESHAPE HUMAN RESOURCE MANAGEMENT AND INFLUENCE ORGANIZATIONAL EFFECTIVENESS-G

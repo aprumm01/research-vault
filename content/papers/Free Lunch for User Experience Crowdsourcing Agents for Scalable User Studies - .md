@@ -1,9 +1,49 @@
 ---
-source_file: "synth users/Free Lunch for User Experience Crowdsourcing Agents for Scalable User Studies - Liu et al - 2025.pdf"
+source_file: synth users/Free Lunch for User Experience Crowdsourcing Agents for Scalable
+  User Studies - Liu et al - 2025.pdf
 type: paper
-authors: "XIAOYANG WANG, America Tencent, USA"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: XIAOYANG WANG, America Tencent, USA
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- 'Scale transforms agent simulation from curiosity to practical tool: ability to
+  deploy hundreds or thousands of LLM agents at negligible cost compensates for individual-level
+  fidelity limitations through statistical aggregation, surfacing design issues and
+  usability problems comparable to human studies for many research purposes'
+- 'Perfect fidelity unnecessary for many UX research applications: agent responses,
+  while distinguishable from human responses in controlled comparisons, generate actionable
+  findings for common UX tasks (identifying usability issues, comparing design alternatives,
+  surfacing edge cases) that are sufficient for design decisions'
+- 'Agent-based research enables exploration previously infeasible with human participants:
+  massive scale, instant availability, and configurability allow testing hundreds
+  of design variations, simulating rare user types, and rapid iteration cycles impractical
+  with traditional human recruitment'
+- 'Critical need for appropriate validation and interpretation frameworks: agent simulation
+  introduces validity threats (prompt sensitivity, model biases, lack of embodied
+  experience, missing authentic emotional responses) requiring explicit validation
+  for specific use cases, triangulation with human research, and clear communication
+  about agent vs. human data sources'
+- 'Democratization potential with ethical tradeoffs: agent-based UX research dramatically
+  lowers barriers for small teams and limited budgets but risks marginalizing human
+  participants, devaluing professional researchers, and normalizing design decisions
+  based on synthetic rather than authentic human perspectives'
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: LLM agents and human participants (comparative validation)
+context: UX research tasks including usability evaluations, preference assessments,
+  and think-aloud protocols
+study_type: empirical
 ---
 
 # Free Lunch for User Experience Crowdsourcing Agents for Scalable User Studies - Liu et al - 2025

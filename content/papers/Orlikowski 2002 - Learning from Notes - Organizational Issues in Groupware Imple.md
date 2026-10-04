@@ -1,9 +1,41 @@
 ---
-source_file: "Orlikowski 2002 - Learning from Notes - Organizational Issues in Groupware Implementation.pdf"
+source_file: Orlikowski 2002 - Learning from Notes - Organizational Issues in Groupware
+  Implementation.pdf
 type: paper
-authors: "Issues in Groupware"
-community: "Design Theory and Cognition"
-tags:
+authors: Issues in Groupware
+community: Design Theory and Cognition
+tags: null
+year: 2002
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Problem Framing]]'
+key_claims:
+- People's mental models and organizational structure/culture significantly influence
+  groupware implementation and use, determining whether collaborative technology is
+  adopted for its intended collective purposes
+- Without mental models stressing collaborative nature, groupware is interpreted as
+  familiar personal stand-alone technology rather than as tools for shared work
+- Where organizational culture lacks incentives or norms for cooperation and sharing,
+  groupware alone cannot engender collaboration due to counter-cultural premises that
+  prevent effective collective use
+- Technology interpretation depends on existing cognitive frameworks and structural
+  properties; groupware becomes another medium for expressing existing organizational
+  values rather than transforming them
+- Competitive individualism and lack of reward systems for cooperation prevent collaborative
+  technology from achieving its design intent
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: employees in one office of a large organization (Alpha)
+context: Lotus Notes groupware implementation in corporate office setting
+study_type: empirical
 ---
 
 # Orlikowski 2002 - Learning from Notes - Organizational Issues in Groupware Implementation

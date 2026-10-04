@@ -1,9 +1,39 @@
 ---
-source_file: "ACM/Teaching to Fail_Before It Happens_Premortem as a Pedagogical Strategy in HCI Education.pdf"
+source_file: ACM/Teaching to Fail_Before It Happens_Premortem as a Pedagogical Strategy
+  in HCI Education.pdf
 type: paper
-authors: "Strategy in HCI Education"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Strategy in HCI Education
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Design Thinking]]'
+critiques: []
+tensions_with:
+- '[[concepts/Illusion of Competence]]'
+supports:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Studio Pedagogy]]'
+key_claims:
+- Premortem technique helps students surface hidden risks and recognize blind spots
+  by shifting framing from 'will this work?' to 'what went wrong?'
+- Formalizing dissent through premortem exercises breaks groupthink without damaging
+  team morale in design teams
+- Initial satisfaction dip followed by highest-level satisfaction at semester end
+  demonstrates productive discomfort from premortem practice
+- Premortem yields broader distribution of problem categories identified compared
+  to standard risk assessment methods
+- Gap exists between recognizing problems through premortem and executing preventive
+  actions (e.g., teams identifying scope issues but not scaling back)
+methodology: '[[methods/Design-Based Research]]'
+sample_size: null
+sample_type: HCI students in design courses
+context: HCI education studio courses
+study_type: theoretical
 ---
 
 # Teaching to Fail Before It Happens Premortem as a Pedagogical Strategy in HCI Education

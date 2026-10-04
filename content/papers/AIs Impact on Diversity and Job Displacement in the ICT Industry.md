@@ -1,9 +1,34 @@
 ---
-source_file: "AI’s Impact on Diversity and Job Displacement in the ICT Industry.pdf"
+source_file: AI’s Impact on Diversity and Job Displacement in the ICT Industry.pdf
 type: paper
-authors: "Dissertation Manuscript"
-community: "AI and Future of Work"
-tags:
+authors: Dissertation Manuscript
+community: AI and Future of Work
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+key_claims:
+- Statistically significant relationship exists between AI integration and diversity
+  in the ICT industry, rejecting the null hypothesis
+- 'Alternative hypothesis confirmed: a relationship exists between AI integration
+  and job displacement in the ICT workforce'
+- Independent variable (AI Adoption) yielded lower reliability (α = .393), indicating
+  measurement challenges and need for question refinement
+- Successful AI integration depends on aligning technical capabilities with social
+  considerations within organizational systems
+- Organizations must proactively mitigate bias in AI systems and implement reskilling
+  and upskilling programs to address workforce displacement
+methodology: '[[methods/Survey]]'
+sample_size: null
+sample_type: ICT professionals in the United States with 2-3 years AI exposure
+context: ICT industry in United States during generative AI emergence
+study_type: empirical
 ---
 
 # AI’s Impact on Diversity and Job Displacement in the ICT Industry

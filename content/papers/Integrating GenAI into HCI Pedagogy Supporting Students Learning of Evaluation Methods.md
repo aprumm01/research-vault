@@ -1,9 +1,48 @@
 ---
-source_file: "Integrating GenAI into HCI Pedagogy Supporting Students' Learning of Evaluation Methods.pdf"
+source_file: Integrating GenAI into HCI Pedagogy Supporting Students' Learning of
+  Evaluation Methods.pdf
 type: paper
-authors: "Abeer Aziz, Ahmed Kharrufa, Ian Johnson"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Abeer Aziz, Ahmed Kharrufa, Ian Johnson
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/AI as Facilitator]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- AI-as-facilitator supported systematic evaluation practice in cognitive walkthrough
+  activities, with students reporting improved engagement with methodological processes
+  when AI provided step-by-step structured guidance rather than complete answers
+- Comparison-based reflection activities where students first formed their own evaluation
+  method suggestions before seeing AI-generated ones were received more positively
+  than activities where AI autonomously performed evaluations
+- Students expressed prominent concerns about oversimplification and reduced critical
+  thinking, with many reporting uncertainty about whether AI responses were accurate
+  or complete
+- GenAI helped students understand and compare HCI evaluation methods, with students
+  reporting that seeing AI-generated answers alongside their own helped them notice
+  missed approaches and clarify differences between methods
+- GenAI is more effective as a complement than a replacement for instruction, requiring
+  explicit pedagogical scaffolding and positioning as a supplementary tool rather
+  than a substitute for instructor explanation or peer discussion
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 46
+sample_type: third-year undergraduate HCI/computing students
+context: 12-week HCI module at Newcastle University (UK), 2025/2026 academic year
+study_type: empirical
 ---
 
 # Integrating GenAI into HCI Pedagogy: Supporting Students' Learning of Evaluation Methods

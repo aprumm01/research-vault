@@ -1,9 +1,46 @@
 ---
-source_file: "hiring and org practice/Creative Work and Artificial Intelligence Imaginaries, Assemblages and Portfolios.pdf"
+source_file: hiring and org practice/Creative Work and Artificial Intelligence Imaginaries,
+  Assemblages and Portfolios.pdf
 type: paper
-authors: "Creative Work and Artificial Intelligence:"
-community: "AI and Future of Work"
-tags:
+authors: 'Creative Work and Artificial Intelligence:'
+community: AI and Future of Work
+tags: null
+year: 2021
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/Technological Unemployment]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- Three interconnected risk imaginaries position creative occupations as safe from
+  AI automation, being complemented by AI, or not being replaced—visions constructed
+  through UK grey literature that mutually reinforce differential positioning of creative
+  work
+- AI is already deeply embedded in everyday creative production through algorithmic
+  recommendation, content management, and distribution platforms, challenging futurity
+  framings that position AI as future threat rather than present complex reality
+- Portfolio working and multiple job holding by creative workers problematizes notions
+  of 'safe' creative occupations, as workers typically hold jobs across sectors including
+  non-creative work vulnerable to automation
+- AI-creative work relationships involve both enhancing creative production opportunities
+  AND concerns about uncreative production, non-creative work constraints, and labor
+  precarity—requiring dual rather than binary understanding
+- Replacement discourse misframes AI's impact by focusing on simple human replacement
+  rather than examining complex everyday sociotechnical arrangements and assemblages
+  in creative production
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: UK grey literature from government, charities, foundations, universities,
+  and commercial sources
+context: UK policy and institutional discourse on AI and creative work
+study_type: theoretical
 ---
 
 # Creative Work and Artificial Intelligence Imaginaries, Assemblages and Portfolios

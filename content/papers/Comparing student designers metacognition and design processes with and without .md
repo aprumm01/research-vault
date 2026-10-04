@@ -1,9 +1,43 @@
 ---
-source_file: "hiring and org practice/Comparing student designers’ metacognition and design processes with and without generative AI a preliminary study.pdf"
+source_file: hiring and org practice/Comparing student designers’ metacognition and
+  design processes with and without generative AI a preliminary study.pdf
 type: paper
-authors: "Hsi-Jen Chen"
-community: "Design Theory and Cognition"
-tags:
+authors: Hsi-Jen Chen
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Metacognitive Laziness]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+supports:
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- GenAI use was predominantly concentrated in the early phases of the design process,
+  closely aligning with divergent thinking orientation during ideation and exploration
+  stages
+- GenAI-assisted designers showed different self-monitoring and planning patterns
+  compared to normal condition, potentially offloading some metacognitive work to
+  AI tools
+- Despite GenAI integration, fundamental design process phases (define-ideate-develop-evaluate)
+  remained intact, suggesting tools augment rather than transform core design workflows
+- GenAI functioned as ideation catalyst and creative stimulation in problem-framing
+  phases but was less useful for detailed development and evaluation work
+- Students showed diverse GenAI integration strategies with individual variation in
+  appropriation, reflecting personal cognitive and creative preferences
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 9
+sample_type: student designers
+context: Academic design education setting comparing normal (n=5) versus GenAI-assisted
+  (n=4) design conditions
+study_type: empirical
 ---
 
 # Comparing student designers’ metacognition and design processes with and without generative AI a preliminary study

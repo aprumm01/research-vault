@@ -1,9 +1,48 @@
 ---
-source_file: "The Impact of Generative AI on Critical Thinking Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers.pdf"
+source_file: The Impact of Generative AI on Critical Thinking Self-Reported Reductions
+  in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers.pdf
 type: paper
-authors: "Hao-Ping (Hank) Lee, Advait Sarkar, Lev Tankelevitch, Ian Drosos, Sean Rintel, Richard Banks, Nicholas Wilson"
-community: "Design Theory and Cognition"
-tags:
+authors: Hao-Ping (Hank) Lee, Advait Sarkar, Lev Tankelevitch, Ian Drosos, Sean Rintel,
+  Richard Banks, Nicholas Wilson
+community: Design Theory and Cognition
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Ironies of Automation]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Convergent Thinking]]'
+key_claims:
+- Higher confidence in GenAI capability is significantly associated with reduced critical
+  thinking effort, while higher worker self-confidence in their own abilities is associated
+  with increased critical thinking effort
+- GenAI shifts critical thinking from task execution toward information verification,
+  response integration, and task stewardship—a qualitatively different cognitive posture
+  than creative or analytical production
+- Workers experience 'mechanised convergence' when using GenAI, producing less diverse
+  outputs for identical tasks, interpreted as a decline in personal, contextualized
+  critical judgment
+- GenAI reduces perceived critical thinking effort at lower Bloom's taxonomy levels
+  (knowledge retrieval, content generation) but creates new verification demands at
+  higher cognitive levels
+- Barriers to critical thinking with GenAI include lack of awareness of AI limitations,
+  time pressure, and difficulty improving AI responses in unfamiliar domains
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 319
+sample_type: knowledge workers across professional domains
+context: workplace knowledge work tasks using generative AI
+study_type: empirical
 ---
 
 # The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers

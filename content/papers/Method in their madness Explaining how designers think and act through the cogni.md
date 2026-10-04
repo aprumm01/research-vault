@@ -1,9 +1,46 @@
 ---
-source_file: "Method in their madness Explaining how designers think and act through the cognitive co-evolution model.pdf"
+source_file: Method in their madness Explaining how designers think and act through
+  the cognitive co-evolution model.pdf
 type: paper
-authors: "Philip Cash, Northumbria University, UK"
-community: "Design Theory and Cognition"
-tags:
+authors: Philip Cash, Northumbria University, UK
+community: Design Theory and Cognition
+tags: null
+year: 2021
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Problem-Solution Co-evolution]]'
+- '[[concepts/Design Ideation]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Problem-Solution Co-evolution]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Problem Framing]]'
+key_claims:
+- Metacognitive perceived uncertainty mediates between knowledge progression, co-evolutionary
+  transition direction, and non-linear emergence in design cognition, providing the
+  missing cognitive explanation for how designers think and act
+- Co-evolutionary transitions are distinguishable by perceived uncertainty levels
+  (H1a supported), with uncertainty changes predicting transition changes (H1b supported)
+  at second-by-second cognitive scale
+- Idea output creation is correlated with and predicted by specific patterns of perceived
+  uncertainty and transition types (H2a, H2b supported), connecting moment-by-moment
+  cognition to process-level outcomes
+- Four critical challenges in co-evolution theory—scale, context, direction, and emergence—require
+  explicit grounding in human cognition rather than computational metaphors borrowed
+  from biology
+- External representations (sketches, notes) facilitate non-linearity by enabling
+  back-talk between cognition, memory, and imagination across different temporal scales,
+  with problem and solution elements fluidly switching roles as understanding evolves
+methodology: '[[methods/Think-Aloud Protocol]]'
+sample_size: 31
+sample_type: novice Master's students with avg 24 years old, 5 years design education,
+  minimal professional experience
+context: 45-minute individual sketching sessions for children's sleep product design
+  brief with three stimuli conditions
+study_type: empirical
 ---
 
 # Method in their madness Explaining how designers think and act through the cognitive co-evolution model

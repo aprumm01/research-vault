@@ -1,4 +1,42 @@
-# Lost in Simulation: LLM-Simulated Users Are Unreliable Proxies for Human Users in Agentic Evaluations
+---
+year: 2026
+builds_on:
+- '[[concepts/Synthetic Users]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques:
+- '[[concepts/Synthetic Users]]'
+tensions_with: []
+supports:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- LLM-simulated users exhibit substantial miscalibration with Expected Calibration
+  Error of 15.1 percentage points for US participants, systematically underestimating
+  agent success on hardest tasks (30.8% human success) while overestimating it on
+  moderate tasks (39.0% human success)
+- African American Vernacular English (AAVE) speakers experience 39.4% agent success
+  rate with 20.3% calibration error compared to 50.6% success and 11.7% error for
+  Standard American English (SAE) speakers, with gaps widening to 19 percentage points
+  for users aged 55+
+- Simulated user conversations include politeness indicators in 39.2% of user turns
+  compared to 19.9% for human users, and attribute 48.9% of errors to agents versus
+  62.2% user-caused errors in human conversations, revealing fundamental behavioral
+  differences
+- User simulation lacks robustness across LLM choices, with nearly 9 percentage point
+  difference in agent success rates between Sonnet 3.7 (67.0%) and Sonnet 4.5 (75.9%)
+  despite using identical agent models
+- Participants from India, Kenya, and Nigeria all experienced similar calibration
+  challenges (15.6-18.9% ECE) with simulated users worst calibrated to AAVE and Indian
+  participants (18.9% ECE) versus SAE participants (13.0% ECE)
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 240
+sample_type: approximately 40 participants per age group (18-34, 35-54, 55+) from
+  United States (SAE and AAVE speakers), India, Kenya, and Nigeria
+context: τ-Bench retail customer service tasks with GPT-4o agent across diverse demographic
+  populations
+study_type: empirical
+---# Lost in Simulation: LLM-Simulated Users Are Unreliable Proxies for Human Users in Agentic Evaluations
 
 **Authors:** Preethi Seshadri, Samuel Cahyawijaya, Ayomide Odumakinde, Sameer Singh, Seraphina Goldfarb-Tarrant  
 **Affiliation:** UC Irvine, Cohere  

@@ -1,9 +1,45 @@
 ---
-source_file: "hiring and org practice/Empirical Research Strategy Session_otter_ai.pdf"
+source_file: hiring and org practice/Empirical Research Strategy Session_otter_ai.pdf
 type: paper
-authors: "Empirical Research Strategy Session"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Empirical Research Strategy Session
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Activity Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Design-Based Learning]]'
+key_claims:
+- HCI academics function as 'armchair scientists' removed from day-to-day design practice,
+  creating an academia-practice gap where practitioners possess unique ground expertise
+  that academics lack
+- Effective research requires separating problems from solutions and identifying where
+  contribution sits in 'funnel' of theoretical to applied—novelty rewarded for perspective
+  shifts and new causal relationships rather than efficiency solutions
+- Academic publishing success depends on finding right community and connecting with
+  reviewers who understand research style, requiring strategic network-based scholarship
+  rather than universal standards
+- AI as disruptive technology parallels steam engine transformation—creating new jobs
+  while displacing existing ones—but data quality limits AI solutions for educational-industry
+  alignment
+- Gap between university curriculum and industry job requirements requires urgent
+  pedagogical response to prepare UX students for AI-integrated practice, but is hindered
+  by outdated course bulletins and incomplete data
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 2
+sample_type: HCI academic and UX practitioner
+context: Research strategy session on empirical research design and academic career
+  navigation
+study_type: theoretical
 ---
 
 # Empirical Research Strategy Session otter ai

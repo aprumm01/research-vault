@@ -1,9 +1,49 @@
 ---
-source_file: "hiring and org practice/Generation AI Job Crafting by Entry-Level Professionals in the Age of Generative AI.pdf"
+source_file: hiring and org practice/Generation AI Job Crafting by Entry-Level Professionals
+  in the Age of Generative AI.pdf
 type: paper
-authors: "RESEARCH PAPER"
-community: "AI and Future of Work"
-tags:
+authors: RESEARCH PAPER
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- Entry-level professionals actively craft jobs using GenAI rather than passively
+  experiencing automation, exercising meaningful agency through selective automation
+  of routine tasks and strategic positioning as AI-proficient early adopters
+- GenAI enables accelerated skill development but disrupts traditional learning pathways
+  by automating foundational tasks (data analysis, report drafting, research), creating
+  a paradox where efficiency gains allow tackling complex work earlier but potentially
+  skip essential skill-building repetition
+- Cognitive reframing is crucial for maintaining work meaningfulness amid automation,
+  requiring entry-level professionals to reframe contribution from task execution
+  to judgment and synthesis, viewing AI as capability multiplier rather than replacement
+  threat
+- Organizational policies and cultures significantly mediate job crafting possibilities,
+  with wide variation in entry-level professional experiences based on organizational
+  context—some environments encourage adaptive crafting, others rigidly maintain traditional
+  junior roles despite AI availability
+- Relational crafting becomes necessary as AI disrupts traditional workplace social
+  dynamics, changing what entry-level professionals need from colleagues (less technical
+  guidance, more strategic mentorship) and how they demonstrate value (less through
+  task completion speed, more through judgment quality)
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: null
+sample_type: entry-level professionals in management and technology consulting firms
+context: consultancy industry workplace settings
+study_type: empirical
 ---
 
 # Generation AI Job Crafting by Entry-Level Professionals in the Age of Generative AI

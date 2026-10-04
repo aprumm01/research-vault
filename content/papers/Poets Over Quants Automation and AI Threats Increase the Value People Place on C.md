@@ -1,9 +1,40 @@
 ---
-source_file: "Poets Over Quants Automation and AI Threats Increase the Value People Place on Creativity.pdf"
+source_file: Poets Over Quants Automation and AI Threats Increase the Value People
+  Place on Creativity.pdf
 type: paper
-authors: "Empirical Research Paper"
-community: "AI and Future of Work"
-tags:
+authors: Empirical Research Paper
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Dissonance]]'
+- '[[concepts/Technological Unemployment]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Technological Anxiety]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- Perceived automation threat consistently drives workers to prioritize creative skills
+  over technical and social competencies across nine studies (N=2,320)
+- People strategically view creativity as less automatable and more complementary
+  to automation systems than other skill domains
+- Even when reminded of generative AI's creative capabilities, people continue prioritizing
+  human creativity in career preparation, suggesting persistence of beliefs about
+  human creative advantage
+- Automation threat leads to tangible behavioral changes including highlighting creativity
+  in job applications and seeking creative training opportunities
+- Both STEM students and professional designers respond to automation threat by increasing
+  creative skill investment despite different baseline skill profiles
+methodology: '[[methods/Experimental]]'
+sample_size: 2320
+sample_type: workers including STEM students, creative professionals, and jobseekers
+context: career preparation and skill prioritization decisions across multiple professional
+  domains
+study_type: empirical
 ---
 
 # Poets Over Quants Automation and AI Threats Increase the Value People Place on Creativity

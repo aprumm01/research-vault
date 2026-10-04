@@ -1,9 +1,42 @@
 ---
-source_file: "2026/i609-sustainability/soups2018-murillo.pdf"
+source_file: 2026/i609-sustainability/soups2018-murillo.pdf
 type: paper
-authors: "Ambar Murillo, Andreas Kramm, Sebastian Schnorf, Alexander De Luca"
-community: "Sustainable Computing"
-tags: [sustainability, i609, data-deletion, mental-models, privacy, user-understanding, Google]
+authors: Ambar Murillo, Andreas Kramm, Sebastian Schnorf, Alexander De Luca
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- data-deletion
+- mental-models
+- privacy
+- user-understanding
+- Google
+year: 2018
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Technological Anxiety]]'
+key_claims:
+- 82% of users (18/22) are 'Backend-Aware' and suspect data persists after deletion,
+  while 18% (4/22) are 'UI-Based' and believe deletion is immediate and complete
+- Even technically sophisticated users fail to consider that deleted data may have
+  generated derived information (analytics, aggregations, ML training data) that persists
+  indefinitely
+- Current deletion interfaces create a transparency gap that leads to either false
+  confidence in complete data removal or unnecessary anxiety about data persistence
+- 'Users'' mental models of data deletion are incomplete regardless of technical background,
+  with experts identifying six dimensions of data persistence users fail to understand:
+  Backend, Time, Backup, Derived Information, Anonymization, and Shared Copy'
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 29
+sample_type: 22 general users (11 technical, 11 non-technical backgrounds; ages 19-61)
+  and 7 privacy/security domain experts
+context: Online data deletion practices across various digital services
+study_type: empirical
 ---
 
 # "If I press delete, it's gone" - User Understanding of Online Data Deletion and Expiration

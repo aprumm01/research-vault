@@ -1,9 +1,44 @@
 ---
-source_file: "synth users/Evaluating LLMs in Generating Synthetic HCI Research Data - Hamalainen et al - 2023.pdf"
+source_file: synth users/Evaluating LLMs in Generating Synthetic HCI Research Data
+  - Hamalainen et al - 2023.pdf
 type: paper
-authors: "Perttu Hämäläinen, Mikke Tavast, Anton Kunnari"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Perttu Hämäläinen, Mikke Tavast, Anton Kunnari
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Signal Detection Theory]]'
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Prompt Engineering]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Prompt Engineering]]'
+key_claims:
+- 'GPT-3 generated texts were deemed more human-like than actual human texts, with
+  participants correctly recognizing human texts only 54.45% of the time (95% CI:
+  51.97%-56.93%) but misidentifying GPT-3 texts as human 59.55% of the time (95% CI:
+  57.11%-61.99%)'
+- Signal detection analysis revealed negative discriminability (d' = -0.15, t(154)
+  = -2.52, p = 0.013), indicating participants were more likely to incorrectly classify
+  GPT-3 text as human than to correctly identify human text
+- Prompt engineering significantly improved synthetic data validity, increasing mean
+  validity rates from 64% with default prompts to 79% with more specific prompts across
+  three independent annotators
+- Synthetic data exhibited severe mode collapse with text-davinci-002 mentioning Journey
+  in 151 out of 178 answers (84.8%) compared to only 7 mentions in real data, and
+  covering only 17.3% of games mentioned in human data
+- Larger GPT-3 models produced more human-like data based on Frechet distance metrics,
+  with human-likeness growing progressively from ada to davinci model variants
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 155
+sample_type: Prolific crowdsourcing platform participants, native and fluent English
+  speakers
+context: Online evaluation of synthetic vs. real HCI research data about video game
+  art experiences
+study_type: empirical
 ---
 
 # Evaluating LLMs in Generating Synthetic HCI Research Data - Hamalainen et al - 2023

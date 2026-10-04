@@ -1,9 +1,40 @@
 ---
-source_file: "synth users/PersonaCite VoC-Grounded Interviewable Agentic Synthetic AI Personas - Truss - 2026.pdf"
+source_file: synth users/PersonaCite VoC-Grounded Interviewable Agentic Synthetic
+  AI Personas - Truss - 2026.pdf
 type: paper
-authors: "Verifiable User and Design Research"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Verifiable User and Design Research
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+critiques:
+- '[[concepts/AI Hallucinations]]'
+tensions_with: []
+supports:
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- Retrieval-augmented architecture with evidence constraints during interaction addresses
+  hallucination risks better than creation-time grounding alone in AI persona systems
+- Trust in AI personas fundamentally depends on transparency about data provenance
+  rather than predictive accuracy metrics
+- PersonaCite shifts grounding from creation-time to interaction-time through real-time
+  evidence retrieval from VoC artifact databases during each conversation turn
+- Validity should be treated as design variable shaped through interface mechanisms
+  rather than binary evaluation criterion
+- Persona Provenance Cards enable responsible deployment by documenting data sources,
+  model specifications, segment metrics, and coverage gaps
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: expert participants in design sprint context
+context: design sprint with limited expert participants
+study_type: empirical
 ---
 
 # PersonaCite VoC-Grounded Interviewable Agentic Synthetic AI Personas - Truss - 2026

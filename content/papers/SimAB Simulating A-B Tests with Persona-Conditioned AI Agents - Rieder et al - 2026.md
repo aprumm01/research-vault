@@ -1,4 +1,43 @@
-# SimAB: Simulating A/B Tests with Persona-Conditioned AI Agents for Rapid Design Evaluation
+---
+year: 2026
+builds_on:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[methods/Persona Development]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Generative UI Models]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- Persona-conditioned AI agents achieved 67% overall accuracy in predicting real A/B
+  test outcomes across 47 historical tests, improving to 83% for high-confidence cases
+  and >80% when considering significant lift magnitude
+- SimAB completes simulated A/B tests in 1-3 minutes versus months for traditional
+  testing, enabling 'shift-left' evaluation during design ideation when implementation
+  costs are minimal
+- Aggregation of diverse imperfect AI personas produces useful population-level directional
+  signals despite individual agent limitations, with 79% recall for challenger-favored
+  outcomes
+- Professional designers rated the rationales and actionable insights as more valuable
+  than binary verdicts, with qualitative feedback emphasizing the explanatory utility
+  for iterative design improvement
+- 14 practitioner interviews revealed that tests are frequently abandoned before reaching
+  statistical significance due to insufficient traffic, with small changes not justifying
+  months-long experiments—precisely the scenarios SimAB targets
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 47
+sample_type: historical A/B tests from e-commerce, desktop applications, and public
+  experiments; 14 experimentation practitioners with 81+ years combined experience
+context: Enterprise organizations including telecommunications, industrial equipment
+  manufacturing, software distribution; Wikimedia Foundation public experiments
+study_type: empirical
+---# SimAB: Simulating A/B Tests with Persona-Conditioned AI Agents for Rapid Design Evaluation
 
 **Authors:** Tim Rieder, Marian Schneider, Mario Truss, Vitaly Tsaplin, Alina Rublea, Sinem Dere, Francisco Chicharro Sanz, Tobias Reiss, Mustafa Doga Dogan  
 **Affiliation:** ETH Zurich (Rieder, Schneider), Adobe (Truss, Tsaplin, Rublea, Dere, Sanz, Reiss, Dogan)  

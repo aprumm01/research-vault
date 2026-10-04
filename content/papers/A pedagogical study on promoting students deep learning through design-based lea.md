@@ -1,9 +1,40 @@
 ---
-source_file: "A pedagogical study on promoting students_ deep learning through design-based learning.pdf"
+source_file: A pedagogical study on promoting students_ deep learning through design-based
+  learning.pdf
 type: paper
-authors: "Chunmeng Weng"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Chunmeng Weng
+community: HCI Education and Pedagogy
+tags: null
+year: 2021
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with:
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Problem Framing]]'
+key_claims:
+- DBL approach significantly improves students' deep learning motivation from 3.46
+  to 4.03, learning input from 3.67 to 3.97, and learning strategy from 3.41 to 3.74
+- DBL teaching model improves student academic performance, with experimental class
+  achieving 25.0% A-level grades versus 16.3% in control class using traditional methods
+- 85.7% of students agreed DBL promotes active and deep learning, and 82.1% found
+  it innovative and interesting
+- 'DBL approach enhances higher-order thinking capabilities through five key characteristics:
+  situational learning, design-centricity, integrative knowledge application, iterative
+  processes, and reflective practice'
+methodology: '[[methods/Experimental]]'
+sample_size: 105
+sample_type: postgraduate engineering design students
+context: Chinese university engineering design course over two years (2019 and 2021)
+study_type: empirical
 ---
 
 # A pedagogical study on promoting students deep learning through design-based learning

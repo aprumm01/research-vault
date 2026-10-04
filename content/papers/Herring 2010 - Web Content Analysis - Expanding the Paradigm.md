@@ -1,9 +1,34 @@
 ---
-source_file: "Herring 2010 - Web Content Analysis - Expanding the Paradigm.pdf"
+source_file: Herring 2010 - Web Content Analysis - Expanding the Paradigm.pdf
 type: paper
-authors: "Susan C. Herring"
-community: "Design Theory and Cognition"
-tags:
+authors: Susan C. Herring
+community: Design Theory and Cognition
+tags: null
+year: 2010
+builds_on:
+- '[[methods/Content Analysis]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Traditional content analysis methods require expansion to adequately analyze web
+  content due to the web's unique characteristics including hypertext, multimedia,
+  and interactivity
+- Since the introduction of the first graphical browser in 1993, the World Wide Web
+  has grown to be one of the largest content delivery vehicles in the history of the
+  world
+- Web Content Analysis must accommodate diverse document types and genres to capture
+  the full complexity of web-based communication
+- The multimodal nature of web content demands methodological innovation that integrates
+  textual, visual, and structural analysis
+- The proliferation of technical web document and website types necessitates systematic
+  analytical frameworks to handle web-specific features such as links, multimedia,
+  and interactivity
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Herring 2010 - Web Content Analysis - Expanding the Paradigm

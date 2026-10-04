@@ -1,9 +1,35 @@
 ---
-source_file: "Transforming academic librarianship through AI reskilling_Insights from the GPT-4 exploration program.pdf"
+source_file: Transforming academic librarianship through AI reskilling_Insights from
+  the GPT-4 exploration program.pdf
 type: paper
-authors: "Leo S. Lo"
-community: "Workplace Learning and AI"
-tags:
+authors: Leo S. Lo
+community: Workplace Learning and AI
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Peer Learning Erosion]]'
+key_claims:
+- Less than 7% of academic library employees pay for premium generative AI tools,
+  and those who pay have higher AI literacy
+- Participants' AI familiarity increased significantly from 2.36/5 to 3.63/5 over
+  the three-month GPT-4 exploration program
+- Effective AI reskilling requires cultivating continuous learning culture, adaptability,
+  and collaborative exploration through practical hands-on approach rather than traditional
+  training methods
+- Self-directed, problem-centered learning approach with diverse participants enabled
+  peer learning and relevant skill development across seven distinct use cases
+- The program model is scalable and adaptable for institutions of various sizes and
+  resource levels despite requiring funded GPT-4 subscriptions
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 10
+sample_type: academic librarians and library science professionals
+context: University of New Mexico College of University Libraries and Learning Sciences
+study_type: empirical
 ---
 
 # Transforming academic librarianship through AI reskilling Insights from the GPT-4 exploration program

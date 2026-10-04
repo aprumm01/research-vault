@@ -1,9 +1,37 @@
 ---
-source_file: "ACM/It’s Like the Value System in the Loop.pdf"
+source_file: ACM/It’s Like the Value System in the Loop.pdf
 type: paper
-authors: "Expectations for NLP Automation"
-community: "AI and Future of Work"
-tags:
+authors: Expectations for NLP Automation
+community: AI and Future of Work
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/Participatory Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Human-Centered AI]]'
+key_claims:
+- Automated text processing systems are often developed in isolation from their primary
+  users (domain experts), creating a gap between technical development and user needs
+- Less attention has been paid to domain experts' expectations about the values embedded
+  in automated NLP systems despite their importance
+- Value systems are implicit in automated decision-making and text processing, functioning
+  as a 'value system in the loop' that shapes system behavior
+- Non-technical domain experts require NLP tools that align with their values and
+  expectations, not just technical capabilities
+- Integration of domain expertise with technical development is necessary for value-aligned
+  automation
+methodology: '[[methods/Participatory Design]]'
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # It’s Like the Value System in the Loop

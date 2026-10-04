@@ -1,9 +1,29 @@
 ---
-source_file: "herring.et.al.2005.pdf"
+source_file: herring.et.al.2005.pdf
 type: paper
-authors: "Unknown"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Unknown
+community: GenAI in UX and Design Practice
+tags: null
+year: 2005
+builds_on:
+- '[[frameworks/Discourse Analysis]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- The claim that linking to other blogs constitutes a form of conversational interaction
+  is not self-evident and merits critical scrutiny
+- The 'conversational' nature of blogging has yet to be empirically investigated despite
+  widespread claims about its dialogic character
+- Weblog genre definition requires linking to and referencing primary material, especially
+  when in disagreement
+- Technical practice of linking may differ from genuine conversational interaction
+  in blogs
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: null
+context: Weblogs and online discourse practices
+study_type: theoretical
 ---
 
 # herring.et.al.2005

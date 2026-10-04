@@ -1,9 +1,49 @@
 ---
-source_file: "2026/i609-sustainability/Understanding and Mitigating the Effects of Device-Preist_Shein_Blevis.pdf"
+source_file: 2026/i609-sustainability/Understanding and Mitigating the Effects of
+  Device-Preist_Shein_Blevis.pdf
 type: paper
-authors: "Chris Preist, Dan Schien, Eli Blevis"
-community: "Sustainable Computing"
-tags: [sustainability, i609, HCI, interaction-design, digital-infrastructure, sustainable-HCI]
+authors: Chris Preist, Dan Schien, Eli Blevis
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- HCI
+- interaction-design
+- digital-infrastructure
+- sustainable-HCI
+year: 2016
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Sociotechnical]]'
+key_claims:
+- Infrastructure can account for up to 85% of total environmental impact for some
+  digital services, with total greenhouse gas impact estimated at 253 Mt CO2-e per
+  annum
+- Ten cornucopian design principles (PERSONAL, VARIETY, INSTANT, SHAREABLE, HIGH QUALITY,
+  PERVASIVE, CONTINUOUS ACCESS, ETERNAL, EPHEMERAL, RICH/CROSS-MODAL/UBIQUITOUS) collectively
+  drive unsustainable infrastructure growth
+- Digital waste—accessing cloud services without meaningful use—is analogous to leaving
+  lights on in empty rooms and represents a significant source of environmental impact
+- Web pages have increased to approximately 150 times their size in 1995, now averaging
+  over 2MB, demonstrating infrastructure demand growth
+- 'The Rubric of Infrastructural Effects (RoIE) extends Blevis''s Material Effects
+  framework with five evaluation questions to assess design impact on digital infrastructure:
+  expansion/obsolescence, increased use, mitigation, digital waste, and infrastructure
+  sharing'
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Digital infrastructure and cloud service design practices
+study_type: theoretical
 ---
 
 # Understanding and Mitigating the Effects of Device and Cloud Service Design Decisions on the Environmental Footprint of Digital Infrastructure

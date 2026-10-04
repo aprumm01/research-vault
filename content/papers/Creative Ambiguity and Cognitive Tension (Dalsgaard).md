@@ -1,14 +1,51 @@
 ---
-source_file: "Creative Ambiguity and Cognitive Tension in Generative AI Tools.pdf"
+source_file: Creative Ambiguity and Cognitive Tension in Generative AI Tools.pdf
 type: paper
-authors: "Dalsgaard"
-community: "GenAI in UX and Design Practice"
+authors: Dalsgaard
+community: GenAI in UX and Design Practice
 tags:
-  - creative-ai
-  - ambiguity
-  - cognitive-tension
-  - creativity-support
-  - generative-ai
+- creative-ai
+- ambiguity
+- cognitive-tension
+- creativity-support
+- generative-ai
+year: 2025
+builds_on:
+- '[[frameworks/Cognitive Dissonance]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Predictive Processing]]'
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/Cognitive Tension]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+supports:
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/Cognitive Tension]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Abductive Reasoning]]'
+key_claims:
+- Misalignment between user intent and AI output should be treated as provocation,
+  not error, functioning as epistemic friction that triggers creative shifts
+- Creative ambiguity (semantic, aesthetic, intentional) stimulates meaning-making
+  and conceptual expansion in human-AI interaction across multiple modalities
+- Cognitive tension—manifested as dissonance, frame conflict, and prediction error—functions
+  as a generative force that motivates reframing and insight rather than a usability
+  problem to eliminate
+- Productive disruption requires interpretive labor and domain expertise; without
+  these resources, ambiguity becomes derailment rather than enabling new creative
+  pathways
+- Design should scaffold users' ability to navigate ambiguity and work with friction
+  rather than eliminating it, as surprise and tension sustain attention and invite
+  playful exploration
+methodology: '[[methods/Case Analysis]]'
+sample_size: null
+sample_type: Five cross-modal cases spanning text, image, sound, code, and form generation
+context: Theoretical analysis with illustrative cases across writing, design, music,
+  code, and prototyping contexts
+study_type: theoretical
 ---
 
 # Creative Ambiguity and Cognitive Tension in Generative AI Tools (Dalsgaard)

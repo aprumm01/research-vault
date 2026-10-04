@@ -1,9 +1,49 @@
 ---
-source_file: "EDU/lit review documents/AI Literacy and Attitudes Towards AI in Design Education.pdf"
+source_file: EDU/lit review documents/AI Literacy and Attitudes Towards AI in Design
+  Education.pdf
 type: paper
-authors: "Sophie Schauer"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Sophie Schauer
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Grounded Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Intellectual Independence]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Technological Anxiety]]'
+key_claims:
+- Design students rated their AI literacy as moderate (3.22-4.5 on 5-point scale),
+  with significant competency gaps in technical foundations (NLP understanding 2.48-3.06,
+  defining AI 3.41) and legal frameworks (3.22-3.33) despite high confidence in identifying
+  everyday AI examples (3.40-4.5)
+- Students demonstrate a dual consciousness toward AI, viewing it as both productivity
+  tool and threat—recognizing efficiency benefits while expressing concerns about
+  creativity loss, job displacement, and intellectual property violations
+- Gap between applied confidence (using AI tools 3.93) and foundational understanding
+  (technical architecture, data role 2.86-3.29, legal problems) mirrors pattern found
+  in educators, suggesting systematic rather than discipline-specific literacy deficits
+- Design education currently lacks structured AI integration despite identifiable
+  curricular touchpoints (design law, ethics, foundations, materials, sustainability
+  courses), resulting in ad-hoc rather than systematic learning experiences
+- Students feel most competent in affective/practical domains (recognizing AI in daily
+  life, societal impact reflection 3.74-3.91) but least confident in cognitive/technical
+  aspects, revealing surface-level engagement without deep conceptual understanding
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 62
+sample_type: Communication design students (HTW Berlin) and architectural design students
+  (University of Florence)
+context: German and Italian design higher education programs
+study_type: empirical
 ---
 
 # AI Literacy and Attitudes Towards AI in Design Education

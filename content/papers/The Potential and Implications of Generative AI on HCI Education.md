@@ -1,51 +1,89 @@
 ---
-source_file: "research_docs/P131.pdf"
-type: ""
-authors: "AhmedKharrufa IanG.Johnson"
-community: "Quantitative / Statistical Analysis"
-tags:
-  - graphify/document
-  - graphify/EXTRACTED
-  - community/Quantitative_/_Statistical_Analysis
+source_file: The potential and implications of generative AI on HCI education.pdf
+type: paper
+authors: Ahmed Kharrufa
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[methods/Grounded Theory]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- GAI serves as a 'mirror' reflecting students' depth of understanding - shallow inputs
+  produce shallow outputs, revealing knowledge gaps in HCI design processes
+- Students exhibited contradictory attitudes toward AI, criticizing its lack of creativity
+  while simultaneously using it for idea generation tasks
+- Students showed concerning patterns of using GAI to evaluate their own design work,
+  indicating overestimation of AI capabilities and potential misuse in assessment
+  contexts
+- GAI integration was rated highly engaging (average 3.92/5) and had positive impact
+  on understanding personas, scenarios, context, requirements, and evaluation
+- '''AI as persona'' role-play emerged as a powerful learning tool, allowing students
+  to interact with generated personas through interactive dialogue'
+methodology: '[[methods/Survey]]'
+sample_size: 12
+sample_type: undergraduate students in HCI and Interaction Design module
+context: 10-week undergraduate HCI module with integrated GAI tools (ChatGPT, Bard,
+  Claude)
+study_type: empirical
 ---
 
-# The Potential and Implications of Generative AI on HCI Education
+# The potential and implications of generative AI on HCI education
 
 ## Summary
-Kharrufa and Johnson (Newcastle University) report pedagogical insights from integrating generative AI into a 10-week undergraduate HCI module, surveying students after completion. They designed the module to encourage active experimentation with GAI models as part of design brief requirements, with planned practical sessions and structured discussion. Key findings for HCI educators include the effective use of AI as a "persona" to help students develop project ideas and generate resources, though the abstract does not detail all outcomes. The paper addresses a gap in empirical accounts of how to meaningfully incorporate GenAI into HCI teaching practice.
+Generative AI (GAI) is impacting teaching and learning directly or indirectly across a range of subjects and disciplines As educators, we need to understand the potential and limitations of AI in HCI education and ensure our graduating HCI students are aware of the potential and limitations of AI in HCI In this paper, we report on the main pedagogical insights gained from the inclusion of generative AI into a 10-week undergraduate module.
 
 ## Key Concepts
-- GAI as pedagogical "persona" in design education
-- Student experimentation with AI in design briefs
-- HCI educator competencies for AI integration
-- Undergraduate module design with GenAI
+- AI as a mirror for student understanding
+- AI as the persona/role-playing tool
+- Importance of context and detail in design
+- GAI interactivity for learning
+- Student contradictions and biases about AI
+- Evaluation misuse concerns
+- TPACK framework for HCI education
+- Pedagogical opportunities vs. limitations
 
 ## Theoretical Framework
-Constructivist pedagogy; students learn by doing through direct experimentation with AI tools embedded in authentic design tasks.
+Grounded theory approach combined with TPACK (Technological, Pedagogical, Content, Knowledge) framework to analyze how generative AI integration affects HCI education and student learning outcomes.
 
 ## Methods
-Post-module survey of undergraduate students following a 10-week HCI course with integrated GAI components; qualitative and/or quantitative analysis of student responses. Published as an 8-page conference/journal paper.
+Survey study with 12 out of 86 undergraduate students from a 10-week HCI and Interaction Design module. Module integrated GAI through: design brief requiring GAI-powered tool design, dedicated 2-hour practical session with ChatGPT/Bard/Claude for generating personas/scenarios/requirements, and ongoing discussions. Survey administered after module completion and grade distribution.
 
 ## Main Arguments
-- GenAI can function productively as a "persona" in design projects — giving students a responsive audience to test ideas against
-- Structured experimentation (required in design briefs) produces more insight than optional AI use
-- HCI educators need practical guidance for designing AI-integrated modules, not just theoretical frameworks
-- Student perceptions of GenAI's potential and limitations are shaped by how it is introduced pedagogically
+- GAI serves as "mirror" reflecting students' depth of understanding - shallow inputs produce shallow outputs, revealing knowledge gaps
+- Interactive dialogue with GAI helps students appreciate importance of context and detail in design process
+- "AI as persona" role-play emerged as powerful learning tool allowing students to interact with generated personas
+- Students showed contradictory attitudes: criticizing AI's lack of creativity while using it for idea generation
+- Concerning pattern of students using GAI to evaluate their own design work, indicating overestimation of AI capabilities
+- GAI integration rated highly engaging (average 3.92/5), described as "interesting," "fun," and "relevant"
+- Positive impact on understanding personas, scenarios, context, requirements, and evaluation
+- Need for explicit education about GAI limitations and capabilities, especially with computing science students
 
 ## Limitations & Critiques
-Survey-based data captures self-reported perceptions rather than learning outcomes; single-course context at one UK university limits transferability. AI tools used are not specified by name.
+- Very low response rate (12/86 = 14%) limiting generalizability of findings
+- Single module at one institution limits transferability
+- Survey conducted after module and grading, potentially introducing recall bias
+- Did not examine implications for assessment design or academic integrity
+- No evaluation of GAI output quality or model-specific differences
+- Limited diversity in student backgrounds and perspectives
+- Short timeframe (10 weeks) may not capture long-term learning effects
+- Prize draw incentive may have biased participant selection
 
+## Related Papers
+- [[papers/Activity theory as framework for analysis of workplace learning technologies The]]
+- [[papers/AI-assisted Learning in HCI Education Opportunities and Dilemmas from a Student ]]
+- [[papers/Teaching to Fail Before It Happens Premortem as a Pedagogical Strategy in HCI Ed]]
+- [[papers/Empirical Research Strategy Session otter ai]]
+- [[papers/Catalyst for Creativity or a Hollow Trend A Cross-Level Perspective on The Role ]]
 ## Connections
-- [[HCI Education and Pedagogy]] - primary venue and concern
-- [[AI in Design Education]] - pedagogical design implications
-- [[GenAI in UX and Design Practice]] - student preparation for professional context
-
-## Connections
-- [[Case Study]] - `` [EXTRACTED]
-- [[GenAI in UX and Design Practice]] - `` [EXTRACTED]
-- [[HCI Education and Pedagogy]] - `` [EXTRACTED]
-- [[Quantitative  Statistical Analysis]] - `` [EXTRACTED]
-- [[Reflective Practice]] - `` [EXTRACTED]
-- [[Survey  Questionnaire Study]] - `` [EXTRACTED]
-
-#graphify/document #graphify/EXTRACTED #community/Quantitative_/_Statistical_Analysis
+- [[methods/Survey]] - Research methodology
+- [[methods/Experimental]] - Research methodology
+- [[communities/HCI Education and Pedagogy]] - Research community

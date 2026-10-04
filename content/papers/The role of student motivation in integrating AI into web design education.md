@@ -1,9 +1,47 @@
 ---
-source_file: "The role of student motivation in integrating AI into web design education.pdf"
+source_file: The role of student motivation in integrating AI into web design education.pdf
 type: paper
-authors: "Jason Lively*, James Hutson"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Jason Lively*, James Hutson
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- 83.33% of students appreciated AI inclusion in design process and 94.44% acknowledged
+  positive impact on course success after hands-on experience, demonstrating that
+  firsthand interaction demystifies technology and shifts perception from apprehension
+  to recognition of value
+- Students exhibit less resistance to AI integration for tasks outside their major
+  field because these tasks do not threaten their core professional identity—Computer
+  Science students showed less resistance to AI for color palettes than for coding
+- Text-based generators (88.89% adoption) markedly improved writing efficiency and
+  coding productivity, while image-based tools (72.22% adoption) facilitated better
+  ideation and color selection, serving distinct creative functions
+- 82.35% of students felt AI inclusion improved final project quality with no students
+  reporting negative impact, validating educational integration approach when AI is
+  positioned as augmenting rather than replacing creative capabilities
+- Longitudinal tracking from Spring 2023 to Spring 2024 showed substantial increase
+  in both awareness and usage of AI tools, with 88.89% incorporating AI into final
+  projects using multi-modal strategies (28.57% text-based, 17.86% image-based, 28.57%
+  both types, 25% for inspiration)
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 52
+sample_type: undergraduate students in introductory web design and UX courses (33
+  Spring 2023, 7 Fall 2023, 12 Spring 2024)
+context: Private Midwestern college UI/UX web design courses over three semesters
+study_type: empirical
 ---
 
 # The role of student motivation in integrating AI into web design education

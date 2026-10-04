@@ -1,9 +1,49 @@
 ---
-source_file: "ACM/Co-Designing with Transformers_Unpacking the Complex Role of GenAI in Interactive System Design Education.pdf"
+source_file: ACM/Co-Designing with Transformers_Unpacking the Complex Role of GenAI
+  in Interactive System Design Education.pdf
 type: paper
-authors: "Hauke Sandhaus"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Hauke Sandhaus
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Deep Learning (Educational)]]'
+supports:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- All student groups spontaneously integrated GenAI into interactive device design
+  workflows despite no instructor encouragement, indicating organic adoption as default
+  design resource
+- GenAI tools served multiple concurrent and sometimes contradictory roles—creative
+  partner, coding assistant, knowledge resource, productivity accelerator, and creative
+  crutch—with roles shifting across project phases
+- Students appreciated efficiency improvements from GenAI assistance but instructors
+  identified concerns that productivity gains bypassed important struggle and skill
+  development in coding and design fundamentals
+- Student-GenAI collaboration patterns showed asymmetric relationships with students
+  as directors/critics of AI-generated content rather than matching typical human
+  collaboration models
+- Traditional course assessment criteria including originality and technical skill
+  demonstration became difficult to apply when GenAI contributed substantially to
+  ideation, code, and design artifacts
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: graduate students in applied HCI course
+context: graduate-level interactive system design course with physical-digital device
+  projects
+study_type: empirical
 ---
 
 # Co-Designing with Transformers Unpacking the Complex Role of GenAI in Interactive System Design Education

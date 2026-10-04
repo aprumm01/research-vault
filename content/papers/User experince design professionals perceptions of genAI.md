@@ -1,9 +1,44 @@
 ---
-source_file: "hiring and org practice/User experince design professionals perceptions of genAI.pdf"
+source_file: hiring and org practice/User experince design professionals perceptions
+  of genAI.pdf
 type: paper
-authors: "PDF Download"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PDF Download
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+key_claims:
+- Experienced UX designers view GenAI as assistive tool for repetitive tasks while
+  maintaining confidence in unique human capabilities like originality, creativity,
+  and empathic skills
+- GenAI creates risk of 'creativity exhaustion' from output speed and homogenization
+  threatening design originality across the field
+- Junior designers face serious developmental concerns as they may be trained as prompters
+  rather than developing systematic design skills, leading to skill degradation
+- Human factors of enjoyment and agency remain distinctly human contributions that
+  GenAI cannot replicate, with humans serving as arbiters of AI alignment
+- Unequal access to advanced GenAI tools may create new professional hierarchies within
+  UX field, requiring AI literacy education for designers to remain relevant
+methodology: '[[methods/Interview]]'
+sample_size: 20
+sample_type: UX designers with diverse experience levels
+context: Startups to enterprise companies (10,000+ employees) in Europe and United
+  States
+study_type: empirical
 ---
 
 # User experince design professionals perceptions of genAI

@@ -1,9 +1,40 @@
 ---
-source_file: "2026/Collaboration with Conversational AI Assistants for UX Evaluation Questions and How to Ask them (Voice vs. Text).pdf"
+source_file: 2026/Collaboration with Conversational AI Assistants for UX Evaluation
+  Questions and How to Ask them (Voice vs. Text).pdf
 type: paper
-authors: "PDF Download"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PDF Download
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/AI Hallucinations]]'
+key_claims:
+- Voice and text modalities produce different question formulation patterns and evaluation
+  depth in UX research contexts, with voice enabling more natural exploratory inquiry
+  while text provides greater control and precision
+- UX practitioners require new skills for prompting conversational AI effectively,
+  as traditional interview skills do not directly translate to AI collaboration contexts
+- Conversational AI tools best serve as augmentation for UX researchers rather than
+  autonomous evaluation agents, requiring human judgment for interpretation
+- Voice and text modalities create different inclusion and exclusion patterns, affecting
+  which UX practitioners can effectively leverage conversational AI assistance
+- Current conversational AI limitations including hallucinations and context understanding
+  may produce misleading UX insights that practitioners must identify
+methodology: '[[methods/Quasi-Experimental]]'
+sample_size: null
+sample_type: UX practitioners
+context: UX evaluation tasks using conversational AI assistants
+study_type: empirical
 ---
 
 # Collaboration with Conversational AI Assistants for UX Evaluation Questions and How to Ask them (Voice vs. Text)

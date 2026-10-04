@@ -1,9 +1,47 @@
 ---
-source_file: "Sch25b.pdf"
+source_file: Sch25b.pdf
 type: paper
-authors: "Troy Schotter, Saba Kawas, James Prather, Juho Leinonen, Jon Ippolito, Greg L Nelson"
-community: "AI in Design Education"
-tags:
+authors: Troy Schotter, Saba Kawas, James Prather, Juho Leinonen, Jon Ippolito, Greg
+  L Nelson
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Self-Efficacy]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- The SPIRAL pedagogical strategy (Skills Practiced Independently, Revisited with
+  AI Later) produces positive gains in both creative media self-efficacy and AI use
+  self-efficacy when domain skills are built before AI exposure
+- Students undergo a 'demystification trajectory' where initial career fears about
+  AI displacement transition to more nuanced positions through direct personal use
+  and vicarious observation of AI's actual limitations
+- Career outcome expectations are either neutral or positively influenced by SPIRAL
+  integration, contradicting concerns that AI integration universally threatens students'
+  sense of career viability
+- 'Pedagogical sequencing is a consequential variable: integrating AI from the start
+  without prior skill development risks triggering dependence and illusion of competence,
+  while SPIRAL supports both skill development and critical AI fluency'
+- Some students showed decreased ethical AI use self-efficacy as they became more
+  aware of AI's complexity and limitations—interpreted as productive epistemic awareness
+  rather than a negative outcome
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 31
+sample_type: undergraduate students in introductory creative media and technology
+  course
+context: University of Maine, Fall 2023, introductory creative media course
+study_type: empirical
 ---
 
 # SPIRAL Integration of Generative AI in an Undergraduate Creative Media Course: Effects on Self-Efficacy and Career Outcome Expectations

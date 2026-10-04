@@ -1,9 +1,44 @@
 ---
-source_file: "2026/i609-sustainability/The environmental footprint of data centers in the United States.pdf"
+source_file: 2026/i609-sustainability/The environmental footprint of data centers
+  in the United States.pdf
 type: paper
-authors: "Md Abu Bakar Siddik, Arman Shehabi, Landon Marston"
-community: "Sustainable Computing"
-tags: [sustainability, i609, data-centers, carbon-footprint, water-footprint, environmental-impact, electricity]
+authors: Md Abu Bakar Siddik, Arman Shehabi, Landon Marston
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- data-centers
+- carbon-footprint
+- water-footprint
+- environmental-impact
+- electricity
+year: 2021
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Data centers consumed 73 TWh of electricity in 2016, representing 1.8% of total
+  US electricity consumption and contributing 0.5% of US greenhouse gas emissions
+  (34.7 Mt CO2e)
+- Strategic placement of data centers could reduce their combined environmental footprint
+  by 89-91% through optimization of location relative to regional electricity sources
+  and water stress levels
+- 23% of data center water footprint occurs in moderately-to-highly water-stressed
+  regions, with indirect water consumption from electricity generation often exceeding
+  direct water use for cooling
+- Regional variations in electricity mix create dramatically different impact profiles
+  for identical facilities, with coal-heavy grids producing ~900 g CO2/kWh versus
+  <100 g CO2/kWh in hydro-dominated regions
+- Data center workloads increased 550% from 2010-2018 while energy use grew only 6%
+  due to efficiency improvements (PUE reduction from ~2.0 to ~1.6), but future growth
+  may outpace efficiency gains
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 2657
+sample_type: data centers across 3,082 US counties
+context: United States data center infrastructure analysis using 2016 data
+study_type: empirical
 ---
 
 # The Environmental Footprint of Data Centers in the United States

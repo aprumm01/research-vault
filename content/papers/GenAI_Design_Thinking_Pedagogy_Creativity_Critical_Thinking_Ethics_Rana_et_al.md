@@ -1,9 +1,56 @@
 ---
-source_file: "Ran25.pdf"
+source_file: Ran25.pdf
 type: paper
-authors: "Vishal Rana, Bert Verhoeven, Madhav Sharma"
-community: "AI in Design Education"
-tags:
+authors: Vishal Rana, Bert Verhoeven, Madhav Sharma
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[concepts/Design-Based Learning]]'
+critiques:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Evaluative Judgment]]'
+key_claims:
+- 86% of student responses were overall positive toward GenAI integration, while ethical
+  concerns generated 62% negative sentiment, indicating strong intuitions about AI
+  limitations that can be mobilized for critical engagement
+- Pedagogically-scaffolded GenAI augments rather than replaces human judgment—students
+  evolved from passive users to critical evaluators through structured reflection
+  and team-based activities
+- Epistemic vigilance represents a new form of critical thinking that challenges traditional
+  cognitive taxonomies (Bloom's), involving interrogation of socio-political and epistemological
+  assumptions embedded in AI systems rather than just analysis and synthesis
+- 'GenAI''s impact on design thinking is phase-specific: most valuable for ideation
+  and prototyping (accelerating divergent generation and rapid visualization), most
+  ethically fraught in empathy and definition phases where AI-generated personas risk
+  bias and misrepresentation'
+- The evolution from skepticism to strategic adoption was not uniform—some students
+  maintained resistance, others became over-reliant, and only a minority achieved
+  the target critical-evaluative stance, indicating individual factors and scaffolding
+  quality both matter
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 112
+sample_type: undergraduate students in Design Thinking course
+context: 12-week course at University of Doha for Science and Technology, Qatar, integrating
+  ChatGPT and DALL-E across Design Thinking's five stages
+study_type: empirical
 ---
 
 # Generative AI in Design Thinking Pedagogy: Enhancing Creativity, Critical Thinking, and Ethical Reasoning in Higher Education

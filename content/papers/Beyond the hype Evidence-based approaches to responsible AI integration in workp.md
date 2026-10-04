@@ -1,9 +1,50 @@
 ---
-source_file: "EDU/r511/Beyond the hype Evidence-based approaches to responsible AI integration in workplace learning.pdf"
+source_file: EDU/r511/Beyond the hype Evidence-based approaches to responsible AI
+  integration in workplace learning.pdf
 type: paper
-authors: "Martin Sposato"
-community: "Workplace Learning and AI"
-tags:
+authors: Martin Sposato
+community: Workplace Learning and AI
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Organizations frequently deploy AI-enhanced learning solutions driven by technological
+  enthusiasm rather than evidence of pedagogical effectiveness, creating critical
+  misalignment between AI implementation and learning principles
+- AI demonstrates effectiveness in personalized content delivery, routine skill development,
+  and single-loop organizational learning (error correction), but faces significant
+  challenges in supporting transformative learning and double-loop organizational
+  learning (paradigm transformation)
+- Over-reliance on AI-codified knowledge risks losing tacit knowledge and creating
+  organizational brittleness, as the actual process of critical reflection, creative
+  thinking, and collective sense-making remains fundamentally human
+- Cultural factors, perceived human-likeness of AI tutors, and contextual design considerations
+  significantly influence acceptance and learning outcomes, with substantial variation
+  across different organizational contexts and learner populations
+- Effective AI implementation must address reciprocal determinism at the individual
+  level (personal factors, behaviors, environment) while managing organizational learning
+  processes simultaneously, recognizing their interdependence
+methodology: '[[methods/Literature Review]]'
+sample_size: 180
+sample_type: peer-reviewed papers on AI in workplace learning
+context: Organizational training and development contexts, 2018-2024
+study_type: review
 ---
 
 # Beyond the hype Evidence-based approaches to responsible AI integration in workplace learning

@@ -1,9 +1,49 @@
 ---
-source_file: "From code to collaboration.pdf"
+source_file: From code to collaboration.pdf
 type: paper
-authors: "Shalini Rastogi and Deepika Pandita"
-community: "AI and Future of Work"
-tags:
+authors: Shalini Rastogi and Deepika Pandita
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- AI fundamentally shifts IT work from code production to solution architecture and
+  stakeholder collaboration, with coding increasingly automated or AI-augmented while
+  professional focus shifts toward understanding business problems, designing system
+  architectures, evaluating AI-generated solutions, and communicating with non-technical
+  stakeholders
+- Collaboration becomes central competency as AI handles individual technical tasks,
+  with human value concentrating in cross-functional problem-solving, knowledge sharing,
+  mentoring, and stakeholder negotiation that AI cannot replicate, making the lone-wolf
+  coder archetype obsolete
+- IT professionals experience ambivalent disruption combining anxiety (job displacement
+  fears, skill obsolescence concerns, professional identity threats) with excitement
+  (tedious task elimination, enhanced productivity, expanded capability), with this
+  ambivalence shaping adoption patterns
+- Successful adaptation requires active learning and experimental mindset rather than
+  passive training, with rapid AI evolution outpacing curriculum development making
+  traditional training programs insufficient
+- Organizational factors—leadership support, clear AI strategy, resource allocation
+  for learning, psychological safety for experimentation, redesigned performance metrics
+  valuing collaboration—more strongly predict successful workforce transformation
+  than individual adaptability
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: IT professionals across roles (developers, project managers, data scientists,
+  IT leaders)
+context: IT sector experiencing AI-driven transformation
+study_type: empirical
 ---
 
 # From code to collaboration

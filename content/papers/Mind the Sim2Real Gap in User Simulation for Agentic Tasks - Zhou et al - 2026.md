@@ -1,9 +1,46 @@
 ---
-source_file: "synth users/Mind the Sim2Real Gap in User Simulation for Agentic Tasks - Zhou et al - 2026.pdf"
+source_file: synth users/Mind the Sim2Real Gap in User Simulation for Agentic Tasks
+  - Zhou et al - 2026.pdf
 type: paper
-authors: "Mind the SimReal Gap in User Simulation for Agentic Tasks"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Mind the SimReal Gap in User Simulation for Agentic Tasks
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Synthetic Users]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Illusion of Competence]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Ironies of Automation]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- LLM user simulators create systematically biased 'easy mode' with best achieving
+  User-Sim Index of 76.0 versus human baseline 92.9, inflating agent success rates
+  through overly cooperative behaviors
+- GPT-5.1 simulator overestimates human-likeness by 55% and overall quality scores
+  by 18% of rating scale compared to actual human evaluations across 8 dimensions
+- 'General model capability does not predict simulation fidelity: GPT family shows
+  strong correlation (r=0.91) between Chatbot Arena scores and USI, but Claude shows
+  weak (r=0.48) and Gemini shows negative correlation (r=-0.52)'
+- LLM simulators violate realistic interaction patterns by front-loading complete
+  information upfront rather than sharing incrementally, lacking genuine uncertainty
+  expressions, and quietly pivoting rather than pushing back on agent errors
+- Rule-based binary task-completion metrics are largely orthogonal to human-perceived
+  quality across multidimensional assessments of efficiency, flow, human-likeness,
+  and reuse intention
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 451
+sample_type: real participants replacing LLM user simulators
+context: τ-bench customer service tasks (airline/retail domains) with 165 tasks across
+  31 LLM simulators
+study_type: empirical
 ---
 
 # Mind the Sim2Real Gap in User Simulation for Agentic Tasks - Zhou et al - 2026

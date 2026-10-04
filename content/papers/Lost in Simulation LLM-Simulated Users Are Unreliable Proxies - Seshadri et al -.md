@@ -1,9 +1,38 @@
 ---
-source_file: "synth users/Lost in Simulation LLM-Simulated Users Are Unreliable Proxies - Seshadri et al - 2026.pdf"
+source_file: synth users/Lost in Simulation LLM-Simulated Users Are Unreliable Proxies
+  - Seshadri et al - 2026.pdf
 type: paper
-authors: "Human Users in Agentic Evaluations"
-community: "Responsible AI and Ethics"
-tags:
+authors: Human Users in Agentic Evaluations
+community: Responsible AI and Ethics
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Fauxtomation]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Ironies of Automation]]'
+key_claims:
+- LLM-simulated users are unreliable proxies for real human users in agentic AI benchmarking,
+  as demonstrated through multi-country user study
+- Scalability benefits of synthetic users do not justify validity costs in evaluation
+  contexts
+- Cross-cultural differences across US, India, Kenya, and Nigeria expose systematic
+  biases and limitations of universal simulation approaches
+- Over-reliance on simulation-based evaluation ('lost in simulation') obscures real
+  user needs and undermines robustness of AI assessment
+- Real human evaluation remains necessary for robust AI assessment despite efficiency
+  tradeoffs
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: participants across United States, India, Kenya, and Nigeria
+context: Multi-country agentic AI evaluation study
+study_type: empirical
 ---
 
 # Lost in Simulation LLM-Simulated Users Are Unreliable Proxies - Seshadri et al - 2026

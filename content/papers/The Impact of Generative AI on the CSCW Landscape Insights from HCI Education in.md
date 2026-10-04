@@ -1,9 +1,39 @@
 ---
-source_file: "EDU/lit review documents/The Impact of Generative AI on the CSCW Landscape_Insights from HCI Education_industry dynamics_and funding perspectives.pdf"
+source_file: EDU/lit review documents/The Impact of Generative AI on the CSCW Landscape_Insights
+  from HCI Education_industry dynamics_and funding perspectives.pdf
 type: paper
-authors: "Guo Freeman"
-community: "AI and Future of Work"
-tags:
+authors: Guo Freeman
+community: AI and Future of Work
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Science and Technology Studies]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/AI Winter]]'
+key_claims:
+- CSCW community must address generative AI's impacts holistically rather than focusing
+  only on specific research agendas, requiring systemic rather than isolated responses
+- Next generation of CSCW researchers need new skillsets beyond traditional HCI training
+  to remain relevant as AI capabilities transform industry job prospects
+- Tech industry AI competition is accelerating resource requirements and intensifying
+  infrastructure demands, potentially reshaping job prospects for HCI graduates
+- Growing AI focus may reshape funding priorities at national and international levels,
+  favoring AI-related CSCW research over traditional topics
+- Academia-industry collaboration models need reconfiguration to address AI-driven
+  industry transformations and shifts in research partnerships
+methodology: '[[methods/Participatory Design]]'
+sample_size: null
+sample_type: Academic leaders, industry experts, and CSCW conference attendees
+context: CSCW 2025 conference panel discussion
+study_type: theoretical
 ---
 
 # The Impact of Generative AI on the CSCW Landscape Insights from HCI Education industry dynamics and funding perspectives

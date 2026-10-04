@@ -1,9 +1,41 @@
 ---
-source_file: "Winner 1980 - Do Artifacts Have Politics.pdf"
+source_file: Winner 1980 - Do Artifacts Have Politics.pdf
 type: paper
-authors: "DO ARTIFACTS HAVE!POLITICS?"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: DO ARTIFACTS HAVE!POLITICS?
+community: GenAI in UX and Design Practice
+tags: null
+year: 1980
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[frameworks/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- Technical artifacts can embody specific forms of power and authority through their
+  physical design, not merely through their use in social systems
+- 'There are two types of political artifacts: specific designs that settle issues
+  in particular communities, and inherently political technologies that require or
+  are compatible with particular political relationships'
+- The social determination of technology view, while corrective to naive determinism,
+  is insufficient because it misses how technologies are politically significant in
+  their own right beyond social and economic forces
+- Once built, technical systems continue shaping power relations and social inequality
+  long after their creators are gone, creating enduring political consequences through
+  material form
+- Standard social science models like interest-group politics, bureaucratic politics,
+  and class struggle analysis don't fully account for what is distinctive about technology's
+  political role in human associations
+methodology: null
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Winner 1980 - Do Artifacts Have Politics

@@ -1,17 +1,50 @@
 ---
-title: "Labels DO Matter! A Critique of AECT's Redefinition of the Field"
-authors: "Patrick Lowenthal, Brent G. Wilson"
+title: Labels DO Matter! A Critique of AECT's Redefinition of the Field
+authors: Patrick Lowenthal, Brent G. Wilson
 year: 2010
 type: paper
 tags:
-  - paper
-  - commentary
-  - educational-technology
-  - instructional-design
-  - professional-identity
-  - terminology
-source_file: "Labels DO Matter_lowenthal_and_wilson.pdf"
-community: "GenAI in UX and Design Practice"
+- paper
+- commentary
+- educational-technology
+- instructional-design
+- professional-identity
+- terminology
+source_file: Labels DO Matter_lowenthal_and_wilson.pdf
+community: GenAI in UX and Design Practice
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Activity Theory]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Of 327 job postings analyzed across six weeks, only 9 used 'educational technology'
+  in titles, while 29 used 'instructional technology' and 44 used 'instructional design',
+  contradicting AECT's terminological shift
+- Among 134 U.S. academic programs in AECT's database, 51 program names included 'instructional
+  technology' versus 34 with 'educational technology', demonstrating market preference
+  for instructional terminology
+- 'Language shapes professional identity with material consequences: an Associate
+  Dean of Distance Learning refused to consider hiring educational technology graduates,
+  believing they were not prepared the same way as instructional technology or instructional
+  design graduates'
+- Practitioner discourse analysis of ITFORUM and DEOS listservs revealed no advocacy
+  for 'educational technology' label, with practitioners reporting confusion and one
+  stating 'When I talk about educational technology, I get asked to wire classrooms'
+- AECT's rationale for reverting to 'educational technology' was insufficient given
+  professional implications, with the organization providing only brief, vague justification
+  despite the label change affecting professional recognition, job prospects, and
+  disciplinary coherence
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 327
+sample_type: professional job postings from Chronicle of Higher Education, HigherEdJobs.com,
+  AECT job board, and Indiana University Instructional Technology Job Board, plus
+  134 academic programs and listserv archives
+context: Professional field definition and terminology in educational/instructional
+  technology across higher education, corporate, and K-12 sectors
+study_type: empirical
 ---
 
 # Labels DO Matter! A Critique of AECT's Redefinition of the Field

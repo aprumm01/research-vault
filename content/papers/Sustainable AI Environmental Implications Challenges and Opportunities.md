@@ -1,9 +1,47 @@
 ---
-source_file: "2026/i609-sustainability/Wu21.pdf"
+source_file: 2026/i609-sustainability/Wu21.pdf
 type: paper
-authors: "Carole-Jean Wu, Ramya Raghavendra, Udit Gupta, Bilge Acun, Newsha Ardalani, Kiwan Maeng, Gloria Chang, Fiona Aga Behram, James Huang, Charles Bai, Michael Gschwind, Anurag Gupta, Myle Ott, Anastasia Melnikov, Salvatore Candido, David Brooks, Geeta Chauhan, Benjamin Lee, Hsien-Hsin S. Lee, Bugra Akyildiz, Maximilian Balandat, Joe Spisak, Ravi Jain, Mike Rabbat, Kim Hazelwood"
-community: "Sustainable Computing"
-tags: [sustainability, i609, artificial-intelligence, machine-learning, carbon-footprint, data-centers]
+authors: Carole-Jean Wu, Ramya Raghavendra, Udit Gupta, Bilge Acun, Newsha Ardalani,
+  Kiwan Maeng, Gloria Chang, Fiona Aga Behram, James Huang, Charles Bai, Michael Gschwind,
+  Anurag Gupta, Myle Ott, Anastasia Melnikov, Salvatore Candido, David Brooks, Geeta
+  Chauhan, Benjamin Lee, Hsien-Hsin S. Lee, Bugra Akyildiz, Maximilian Balandat, Joe
+  Spisak, Ravi Jain, Mike Rabbat, Kim Hazelwood
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- artificial-intelligence
+- machine-learning
+- carbon-footprint
+- data-centers
+year: 2022
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- For production systems at Facebook, inference dominates resource allocation with
+  a 10:20:70 power capacity breakdown across Experimentation:Training:Inference phases,
+  challenging the research community's focus on training-only carbon estimates
+- Embodied carbon from hardware manufacturing accounts for roughly 50% of location-based
+  operational carbon footprint for large-scale ML tasks, and becomes the dominant
+  source when accounting for renewable energy adoption
+- 'Jevon''s Paradox manifests in AI systems: despite 20% efficiency improvements every
+  6 months, the net operational power footprint reduction was only 28.5% over two
+  years because AI infrastructure continued to scale out'
+- Cross-stack optimization achieved 800x operational footprint reduction for language
+  translation through combined platform-level caching (6.7x), GPU acceleration (10.1x),
+  and algorithmic optimization (12x)
+- GPU utilization in experimentation phase is only 30-50%, representing a major optimization
+  opportunity that could reduce carbon footprint without sacrificing model quality
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: Production ML systems at Facebook and open-source large language models
+  (GPT-3, Meena, BERT-NAS, T5, Switch Transformer)
+context: Large-scale AI infrastructure deployment at Facebook/Meta spanning recommendation
+  systems and language models
+study_type: empirical
 ---
 
 # Sustainable AI: Environmental Implications, Challenges and Opportunities

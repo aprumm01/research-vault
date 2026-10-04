@@ -1,9 +1,41 @@
 ---
-source_file: "synth users/Avenir-UX Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding - Tan et al - 2026.pdf"
+source_file: synth users/Avenir-UX Automated UX Evaluation via Simulated Human Web
+  Interaction with GUI Grounding - Tan et al - 2026.pdf
 type: paper
-authors: "Interaction with GUI Grounding"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Interaction with GUI Grounding
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- Step-wise SEQ evaluation provides granular, high-frequency assessment with strong
+  correlation to task completion time (r = -0.90) and error rates (r = -0.84)
+- Visual grounding is essential for authentic usability assessment as DOM-based agents
+  bypass visual clutter, layout ambiguity, and accessibility issues that real users
+  face
+- Traditional UX evaluation creates barriers for agile workflows and small teams due
+  to resource-intensive requirements for participant recruitment, scheduling, and
+  manual analysis
+- Combining quantitative metrics (SUS, SEQ) with qualitative Think Aloud reasoning
+  generates holistic UX reports identifying specific elements causing confusion or
+  delight
+- AI-assisted development tools have widened the gap between rapid development and
+  slow evaluation, with UX frequently neglected leading to technically functional
+  but user-unfriendly products
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: comparative analysis of agent evaluations against human user assessments
+context: web usability evaluation across multiple interface types
+study_type: design
 ---
 
 # Avenir-UX Automated UX Evaluation via Simulated Human Web Interaction with GUI Grounding - Tan et al - 2026

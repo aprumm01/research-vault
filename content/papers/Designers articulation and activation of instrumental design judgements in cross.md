@@ -1,9 +1,39 @@
 ---
-source_file: "Designers’ articulation and activation of instrumental design judgements in cross-cultural user research (2017).pdf"
+source_file: Designers’ articulation and activation of instrumental design judgements
+  in cross-cultural user research (2017).pdf
 type: paper
-authors: "Unknown"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Unknown
+community: GenAI in UX and Design Practice
+tags: null
+year: 2017
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/User-Centered Design]]'
+- '[[frameworks/Critical Theory]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Critical Thinking]]'
+key_claims:
+- Designers' practical decisions about workshop design were shaped by their Scandinavian
+  cultural background and limited understanding of Chinese contexts, revealing cultural
+  positioning in instrumental judgements
+- User-centered design principles emphasizing participation and lived experience are
+  difficult to enact when cultural gaps create interpretation challenges
+- An articulation-activation gap exists where designers' stated intentions for respecting
+  participants diverged from actual design choices embedded in workshop structure
+- Standard participatory design approaches carry cultural assumptions that may not
+  transfer seamlessly across contexts, suggesting UCD methods are not culturally neutral
+- How design teams verbally refer to workshop participants reveals underlying cultural
+  stereotypes and essentialist thinking even while pursuing user-centered approaches
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: null
+sample_type: Scandinavian design team planning co-creation workshop with Chinese consumers
+context: Cross-cultural design project between Scandinavian design team and Chinese
+  consumer participants
+study_type: empirical
 ---
 
 # Designers’ articulation and activation of instrumental design judgements in cross-cultural user research (2017)

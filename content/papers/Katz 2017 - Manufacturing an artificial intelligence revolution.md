@@ -1,9 +1,33 @@
 ---
-source_file: "Katz 2017 - Manufacturing an artificial intelligence revolution.pdf"
+source_file: Katz 2017 - Manufacturing an artificial intelligence revolution.pdf
 type: paper
-authors: "Manufacturing an Artificial Intelligence Revolution"
-community: "Responsible AI and Ethics"
-tags:
+authors: Manufacturing an Artificial Intelligence Revolution
+community: Responsible AI and Ethics
+tags: null
+year: 2017
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- The 'AI revolution' has been manufactured rather than emerging organically from
+  technical breakthroughs alone
+- The 'Artificial Intelligence' label has been strategically rebranded since its 1950s
+  origins to promote a contested vision of world governance through big data
+- The recent revival of AI in mainstream media is driven by political and economic
+  forces beyond genuine technical advancement
+- Contemporary AI discourse serves to legitimate particular governance approaches
+  rather than simply describing technological capability
+methodology: '[[methods/Content Analysis]]'
+sample_size: null
+sample_type: null
+context: Historical and contemporary AI discourse in mainstream media
+study_type: theoretical
 ---
 
 # Katz 2017 - Manufacturing an artificial intelligence revolution

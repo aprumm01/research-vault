@@ -1,9 +1,48 @@
 ---
-source_file: "De-skilling, Cognitive Offloading, and Misplaced Responsibilities.pdf"
+source_file: De-skilling, Cognitive Offloading, and Misplaced Responsibilities.pdf
 type: paper
-authors: "Potential Ironies of AI-Assisted Design"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Potential Ironies of AI-Assisted Design
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Ironies of Automation]]'
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Epistemic Substitution]]'
+key_claims:
+- 'UX practitioners exhibit dual perspective on AI: optimism about productivity gains
+  (automating routine tasks, augmenting creativity) alongside concerns about over-reliance
+  and skill erosion'
+- 'Current AI integration in UX design mirrors historical automation challenges documented
+  in aviation and healthcare: de-skilling, cognitive offloading, and misplaced responsibilities
+  (Bainbridge''s ironies of automation)'
+- Quick high-fidelity prototyping enabled by AI cuts out early creative processes
+  and constrains design exploration, focusing on graphical outputs rather than broader
+  creativity aspects like design thinking
+- Automation creates monitoring paradox where humans with potentially diminished skills
+  are expected to oversee complex AI systems, increasing cognitive demands rather
+  than reducing them
+- AI cannot seamlessly replace human functions in design (substitution myth); integration
+  fundamentally alters system dynamics and requires reconsidering function allocation
+  between humans and machines
+methodology: '[[methods/Content Analysis]]'
+sample_size: 120
+sample_type: UX practitioner blog posts and subreddit discussions
+context: English-language UX design community discourse on Medium, Smashing Magazine,
+  personal blogs, corporate design publications, and UX-focused subreddits
+study_type: review
 ---
 
 # De-skilling, Cognitive Offloading, and Misplaced Responsibilities

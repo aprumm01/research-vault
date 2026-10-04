@@ -1,14 +1,50 @@
 ---
-source_file: "Scaffolding and Achievement in Problem-Based and Inquiry Learning.pdf"
+source_file: Scaffolding and Achievement in Problem-Based and Inquiry Learning.pdf
 type: paper
-authors: "Cindy E. Hmelo-Silver, Ravit Golan Duncan, Clark A. Chinn"
-community: "HCI Education and Pedagogy"
+authors: Cindy E. Hmelo-Silver, Ravit Golan Duncan, Clark A. Chinn
+community: HCI Education and Pedagogy
 tags:
-  - problem-based-learning
-  - inquiry-learning
-  - scaffolding
-  - cognitive-load
-  - constructivist-learning
+- problem-based-learning
+- inquiry-learning
+- scaffolding
+- cognitive-load
+- constructivist-learning
+year: 2007
+builds_on:
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Problem Framing]]'
+key_claims:
+- PBL and IL are not instances of minimally guided instruction but rather provide
+  extensive scaffolding through distributed support across curriculum materials, teachers,
+  and learners themselves
+- Scaffolding in PBL and IL environments decreases cognitive load by structuring tasks
+  to allow learners to focus on aspects relevant to learning goals and by automating
+  labor-intensive calculations or storing information
+- Meta-analyses and large-scale studies show PBL students perform comparably on basic
+  knowledge tests but demonstrate advantages on measures of knowledge application,
+  clinical reasoning, and problem-solving
+- Inquiry-based instruction results in significant learning gains compared to traditional
+  instruction, with disadvantaged students benefiting most from inquiry-based instructional
+  approaches
+- Scaffolding makes expert thinking visible through questions, modeling, and coaching
+  that externalize tacit knowledge, making complex disciplinary practices accessible
+  to novice learners
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Educational psychology debate on instructional design approaches across medical
+  education and science classrooms
+study_type: review
 ---
 
 # Scaffolding and Achievement in Problem-Based and Inquiry Learning: A Response to Kirschner, Sweller, and Clark (2006)

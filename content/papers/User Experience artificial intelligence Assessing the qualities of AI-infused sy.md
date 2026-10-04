@@ -1,9 +1,43 @@
 ---
-source_file: "User Experience_artificial intelligence_Assessing the qualities of AI-infused systems.pdf"
+source_file: User Experience_artificial intelligence_Assessing the qualities of AI-infused
+  systems.pdf
 type: paper
-authors: "PoliMI SpringerBriefs"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PoliMI SpringerBriefs
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- 'Traditional UX evaluation methods built for static systems are inadequate for targeting
+  dynamic AI complexity and evolution, requiring four AI-specific dimensions: intelligence,
+  trustworthiness, conversational quality, and meaningfulness'
+- Smart speaker UX was perceived as slightly above average (54%) with particular strengths
+  in pragmatic and intelligence dimensions, but declining trust and meaningfulness
+  scores between 2021 and 2023 reveal growing skepticism about data privacy and perceived
+  value
+- The AIXE scale provides a statistically validated 33-question Likert-scale questionnaire
+  covering 12 descriptors across 6 UX dimensions for holistic evaluation of AI-infused
+  systems
+- Four AI-specific UX dimensions (intelligence, trustworthiness, conversational, meaningfulness)
+  resonate most strongly with users compared to traditional pragmatic and hedonic
+  dimensions when evaluating AI products
+- UX shortcomings in AI products stem from technologist-led development lacking human-centered
+  focus, with technologically sophisticated AI systems consistently delivering opaque
+  and confusing interfaces that betray usability standards
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 1600
+sample_type: smart speaker users from UK and USA
+context: longitudinal study of domestic AI system usage in 2021 and 2023
+study_type: empirical
 ---
 
 # User Experience artificial intelligence Assessing the qualities of AI-infused systems

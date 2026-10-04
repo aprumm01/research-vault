@@ -1,9 +1,37 @@
 ---
-source_file: "hiring and org practice/Law25.pdf"
+source_file: hiring and org practice/Law25.pdf
 type: paper
-authors: "Review of Practitioner-led Work Transformations"
-community: "AI and Future of Work"
-tags:
+authors: Review of Practitioner-led Work Transformations
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Reflexive Delegation]]'
+key_claims:
+- Workers actively shape how GenAI is integrated into their practices rather than
+  being passive recipients of technology
+- Common patterns emerge across different contexts of GenAI use, revealing worker-driven
+  transformation patterns distinct from top-down AI implementation
+- Lived experiences reveal gaps between design intentions and actual use, with task
+  restructuring occurring organically through worker experimentation
+- Peer collaboration patterns shift when GenAI is introduced, creating new dynamics
+  in worker-AI-colleague networks
+- Bottom-up patterns from worker-driven transformations provide essential insights
+  for organizational AI strategies
+methodology: '[[methods/Literature Review]]'
+sample_size: 23
+sample_type: ACM Digital Library studies focused on worker experiences with GenAI
+context: Cross-context systematic review of practitioner experiences with GenAI tools
+study_type: review
 ---
 
 # Law25

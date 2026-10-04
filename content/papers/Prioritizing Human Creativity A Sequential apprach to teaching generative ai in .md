@@ -1,9 +1,49 @@
 ---
-source_file: "EDU-AI/Prioritizing Human Creativity_A Sequential apprach to teaching generative ai in graphic design education.pdf"
+source_file: EDU-AI/Prioritizing Human Creativity_A Sequential apprach to teaching
+  generative ai in graphic design education.pdf
 type: paper
-authors: "Prioritizing Human Creativity: A Sequential"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Prioritizing Human Creativity: A Sequential'
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Process-centric Education]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Intellectual Independence]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Evaluative Judgment]]'
+key_claims:
+- Sequential curriculum that teaches foundational typography skills before introducing
+  GenAI mitigates risk of compromising creative process development and enables students
+  to retain creative control
+- Students with established design fundamentals use AI primarily for ideation and
+  exploration rather than substituting core competencies, maintaining human agency
+  in critical evaluation
+- Only 38.9% of students reported being comfortable or very comfortable with AI tools,
+  with 35.3% experiencing technical difficulties, indicating significant barriers
+  despite foundational approach
+- Typography education without AI builds essential understanding of hierarchy, form,
+  and spatial relationships that transfer across design domains and prepare students
+  for effective AI tool use
+- AI excels at exploratory creativity within parameters but lacks human capacity for
+  critical evaluation and transformational creativity requiring emotional complexity
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: graphic design students in foundational typography and advanced studio
+  courses
+context: single institution graphic design program with sequential AI integration
+  approach
+study_type: empirical
 ---
 
 # Prioritizing Human Creativity A Sequential apprach to teaching generative ai in graphic design education

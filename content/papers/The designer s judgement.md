@@ -1,9 +1,39 @@
 ---
-source_file: "EDU - design/The designer_s judgement.pdf"
+source_file: EDU - design/The designer_s judgement.pdf
 type: paper
-authors: "Queensland, , Australia"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Queensland, , Australia
+community: GenAI in UX and Design Practice
+tags: null
+year: 1997
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Abductive Reasoning]]'
+key_claims:
+- Every advance or change of direction in the design process is the result of the
+  designer's judgement, making judgement ubiquitous in engineering work
+- 'Good judgement is not common sense but requires special knowledge grounded in engineering
+  heritage, cultural conditioning, and accumulated practice within three domains:
+  formative (style/structure), commercial (market/profit), and instrumental (technical
+  realization)'
+- Engineering education has shifted from practice-focused to science-focused approaches,
+  diminishing attention to judgement development, while industry mentor systems remain
+  more effective at developing judgement capacity
+- 'Designer judgement operates through three types: reality judgements (current state),
+  value judgements (desired state), and action judgements (what to do), mediated by
+  appreciation—readiness to see things one way rather than another'
+- Capacity for good judgement develops over considerable time through broad professional
+  education and experience, requiring context-specific 'rules of rightness' that emerge
+  from precedent reinterpreted for contemporary contexts
+methodology: null
+sample_size: null
+sample_type: null
+context: Engineering design practice, particularly mechanical engineering
+study_type: theoretical
 ---
 
 # The designer s judgement

@@ -1,9 +1,53 @@
 ---
-source_file: "hiring and org practice/Beyond Replacement or Augmentation - how creative workers reconfigure division of labor with genAI.pdf"
+source_file: hiring and org practice/Beyond Replacement or Augmentation - how creative
+  workers reconfigure division of labor with genAI.pdf
 type: paper
-authors: "‭MICHAEL JOFFE,‬‭Google Inc., Canada‬"
-community: "AI and Future of Work"
-tags:
+authors: ‭MICHAEL JOFFE,‬‭Google Inc., Canada‬
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Ethnography]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Reflexive Delegation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI-managerial Labor]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- 'Creative professionals actively reconfigure generative AI as a workplace collaborator
+  through three interconnected practices: reflexive delegation, boundary repair, and
+  templatized trust, rather than experiencing simple replacement or augmentation'
+- Workers assign roles to AI by drawing on typifications and membership categorization
+  devices (e.g., '35 year old pharmaceutical writer' or 'junior analyst'), treating
+  prompts as situated tools dependent on local organizational challenges and reflexive
+  workplace knowledge
+- Creative agency workers reduced audio production turnaround from 14-21 days to 2-3
+  days by replicating retail client brand voices using AI templates, while simultaneously
+  managing client anxieties about brand safety through interpretive trust-building
+- 'Boundary repair work is essential to maintaining workplace intelligibility: workers
+  must continuously configure and repair AI role boundaries when outputs fail to meet
+  stakeholder expectations, requiring tacit workplace knowledge about what counts
+  as good work'
+- AI's role in creative workplaces is not fixed by technical capabilities but constructed
+  through practical reasoning and interpretive labor that makes AI outputs accountable
+  to internal and external stakeholders
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 17
+sample_type: creative agency workers (art directors, copywriters, brand strategists,
+  creative directors, producers, account managers, executive creative directors)
+context: 12 creative agencies in United States and Canada (ranging from 50 to over
+  75,000 employees) producing media, advertising assets, and brand strategy
+study_type: empirical
 ---
 
 # Beyond Replacement or Augmentation - how creative workers reconfigure division of labor with genAI

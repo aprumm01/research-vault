@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/lit review documents/methodology-legend-and-rhetoric-the-constructions-of-ai-by-academia-industry-and-policy-groups-for-lifelong-learning - eynon-young-2020.pdf"
+source_file: EDU/lit review documents/methodology-legend-and-rhetoric-the-constructions-of-ai-by-academia-industry-and-policy-groups-for-lifelong-learning
+  - eynon-young-2020.pdf
 type: paper
-authors: "Original Article"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Original Article
+community: GenAI in UX and Design Practice
+tags: null
+year: 2020
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- AI is constructed differently by academia, industry, and policy groups, with academia
+  using 'methodology' (systematic approaches), industry deploying 'legend' (narratives
+  and hype), and policy employing 'rhetoric' (framing AI as solution to educational
+  challenges)
+- Lifelong learning is simultaneously positioned as a necessary response to an 'AI
+  future' while AI itself is presented as the solution to deliver learning opportunities,
+  creating a circular problem-solution dynamic
+- The varied constructions of AI across stakeholder groups have significant social
+  and educational implications that shape how AI is developed and deployed in educational
+  contexts
+- Different stakeholder constructions create tensions in educational implementation,
+  requiring critical examination of whose construction of AI dominates policy and
+  practice
+- AI functions as both problem driver (requiring societal preparation) and solution
+  provider (delivering educational responses) in policy discourse
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: academia, industry, and policy stakeholders
+context: Cross-sector stakeholder perspectives on AI in lifelong learning
+study_type: empirical
 ---
 
 # methodology-legend-and-rhetoric-the-constructions-of-ai-by-academia-industry-and-policy-groups-for-lifelong-learning - eynon-young-2020

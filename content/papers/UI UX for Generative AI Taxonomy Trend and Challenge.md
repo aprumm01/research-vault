@@ -1,9 +1,39 @@
 ---
-source_file: "2026/UI_UX_for_Generative_AI_Taxonomy_Trend_and_Challenge.pdf"
+source_file: 2026/UI_UX_for_Generative_AI_Taxonomy_Trend_and_Challenge.pdf
 type: paper
-authors: "Digital Object Identifier ./ACCESS.."
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Digital Object Identifier ./ACCESS..
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Explainable AI]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Explainable AI]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Generative UI Models]]'
+key_claims:
+- Modality-based taxonomy categorizing GenAI systems as text-based, image-based, audio-based,
+  and multimodal-based enables systematic identification of design patterns and functional
+  advantages for development
+- UI/UX differences significantly impact customer retention despite programmer focus
+  on model performance over interface design
+- Poor UI/UX design breeds user frustration, misinterpretation of AI outputs, distrust,
+  and resistance to adoption in GenAI systems
+- Encoder-type models prioritize clear communication requiring straightforward UI
+  with shorter learning curves, while decoder-type models emphasize interactive output
+  generation necessitating parameter exploration and iterative refinement capabilities
+- Collaborative design between UI/UX designers and AI researchers is vital for bridging
+  gap between AI capabilities and practical usability
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Systematic analysis of GenAI applications across modalities
+study_type: review
 ---
 
 # UI UX for Generative AI Taxonomy Trend and Challenge

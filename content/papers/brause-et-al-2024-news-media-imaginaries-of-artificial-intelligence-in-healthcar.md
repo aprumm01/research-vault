@@ -1,9 +1,46 @@
 ---
-source_file: "EDU/lit review documents/brause-et-al-2024-news-media-imaginaries-of-artificial-intelligence-in-healthcare-a-qualitative-analysis-across-china.pdf"
+source_file: EDU/lit review documents/brause-et-al-2024-news-media-imaginaries-of-artificial-intelligence-in-healthcare-a-qualitative-analysis-across-china.pdf
 type: paper
-authors: "Thematic Article"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Thematic Article
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Frame Analysis]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Sociotechnical]]'
+key_claims:
+- 'Two powerful cross-national sociotechnical imaginaries emerge despite systemic
+  differences: ''Enhancing healthcare with AI'' appeared across all three countries
+  (2017-2021), while ''using AI to manage pandemics/epidemics'' fully developed in
+  China and US coverage but appeared only as outlier in Germany'
+- 'Lower-level divergences in AI healthcare imaginaries reflect national contexts:
+  US coverage emphasized private system dynamics and market competition; Chinese coverage
+  reflected state control and development priorities; German coverage showed technological
+  hesitancy and ethical concerns'
+- Industry actors (Big Tech, med-tech, pharma) are strongly present across all countries
+  in constructing AI healthcare imaginaries, reflecting 'digital colonization' of
+  healthcare, while policy makers, healthcare providers, and patients are differentially
+  represented based on media system characteristics
+- 'Sociotechnical imaginaries are culturally particular, temporally situated, materially
+  bound, and spatially anchored: the pandemic management imaginary emerged during
+  COVID-19 context and developed fully in China and US but not Germany, reflecting
+  different risk perceptions and political priorities'
+- News media serve as central sites for negotiation, construction, and promotion of
+  sociotechnical imaginaries, where AI desirability is framed predominantly positively
+  but with ambiguous concerns about faulty AI, patient discrimination, loss of agency,
+  deskilling of practitioners, and overreliance on technology
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: 89
+sample_type: newspaper articles from China, Germany, and USA covering AI in healthcare
+context: National newspaper coverage across three countries (2012-2021)
+study_type: empirical
 ---
 
 # brause-et-al-2024-news-media-imaginaries-of-artificial-intelligence-in-healthcare-a-qualitative-analysis-across-china

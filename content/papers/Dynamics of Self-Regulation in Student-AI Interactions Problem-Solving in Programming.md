@@ -1,9 +1,46 @@
 ---
-source_file: "The dynamics of the self-regulation process in student-AI interactions The case of problem-solving in programming education.pdf"
+source_file: The dynamics of the self-regulation process in student-AI interactions
+  The case of problem-solving in programming education.pdf
 type: paper
-authors: "Sonsoles López-Pernas, Kamila Misiejuk, Eduardo Oliveira, Mohammed Saqr"
-community: "Workplace Learning and AI"
-tags:
+authors: Sonsoles López-Pernas, Kamila Misiejuk, Eduardo Oliveira, Mohammed Saqr
+community: Workplace Learning and AI
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Epistemic Agency]]'
+critiques: []
+tensions_with:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- Students predominantly engage in surface-level regulatory prompting (process monitoring,
+  basic problem-solving) while rarely using deeper metacognitive strategies (reflection,
+  evaluation) in 2,376 ChatGPT interactions
+- Transition Network Analysis reveals that interactions follow structured patterns
+  with certain regulatory states strongly predicting subsequent states, indicating
+  students develop habitual AI engagement patterns early in tasks
+- Deep metacognitive strategies such as reflection on approach and evaluation of alternatives
+  are rarely observed in interaction logs, despite being theoretically central to
+  effective problem-solving and programming expertise development
+- 'Surface-level regulation pattern poses long-term risk to development of independent
+  computational thinking: students who consistently outsource problem decomposition
+  and debugging to AI may not develop skills to tackle novel tasks without AI assistance'
+- Students demonstrate systematic tendency toward cognitive offloading that could
+  undermine development of independent computational thinking skills in authentic
+  programming contexts
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 120
+sample_type: undergraduate students in web programming course
+context: University web programming course with open-ended assignment using ChatGPT
+study_type: empirical
 ---
 
 # The Dynamics of the Self-Regulation Process in Student-AI Interactions: The Case of Problem-Solving in Programming Education

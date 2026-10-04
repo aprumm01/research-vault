@@ -1,9 +1,44 @@
 ---
-source_file: "2026/AI assistance in enterprise UX design workflows enhancing design brief creation for designers.pdf"
+source_file: 2026/AI assistance in enterprise UX design workflows enhancing design
+  brief creation for designers.pdf
 type: paper
-authors: "TYPE Original Research"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: TYPE Original Research
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/AI Augmentation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- Design brief elements prioritized accuracy (59%) and efficiency (41%) when evaluated
+  by third-party experts using a 5-point evaluation system
+- 100% of designers universally adopted AI tools in their workflows but with varying
+  degrees of reliance, indicating inconsistent integration patterns
+- AI language models help designers overcome cross-disciplinary knowledge gaps by
+  interpreting requirements from unfamiliar fields, particularly addressing poor information
+  transmission and changing client requirements
+- AI-provided information occasionally contains inaccuracies requiring verification
+  and careful handling, confirming AI hallucination risks in professional design contexts
+- Integration of 'AI thinking' into workflows can enhance both efficiency and design
+  quality in design brief creation for enterprise UX projects
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 8
+sample_type: Professional designers (5 UX, 3 visual design backgrounds from diverse
+  sectors)
+context: Enterprise UX design workflows with ChatGPT integration in medium-scale virtual
+  project ('Gaming Community' platform)
+study_type: empirical
 ---
 
 # AI assistance in enterprise UX design workflows enhancing design brief creation for designers

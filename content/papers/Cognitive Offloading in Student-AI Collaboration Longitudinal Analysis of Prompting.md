@@ -1,9 +1,45 @@
 ---
-source_file: "Cognitive offloading in student–AI collaboration- A longitudinal analysis of prompting strategies.pdf"
+source_file: Cognitive offloading in student–AI collaboration- A longitudinal analysis
+  of prompting strategies.pdf
 type: paper
-authors: "Kamila Misiejuk, Sonsoles López-Pernas, Rogers Kaliisa, Mohammed Saqr"
-community: "Design Theory and Cognition"
-tags:
+authors: Kamila Misiejuk, Sonsoles López-Pernas, Rogers Kaliisa, Mohammed Saqr
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Evaluative Judgment]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Prompt Engineering]]'
+key_claims:
+- High-quality submissions show cohesive prompting networks where contextual details,
+  polite language, and task instructions co-occur, indicating integrative cognitive
+  engagement rather than simple task delegation
+- Low-quality submissions are characterized by disagreement prompts and direct imperatives
+  with minimal contextualization, suggesting students offload cognitive framing to
+  the AI rather than investing in it themselves
+- Prompting strategies do not automatically mature across four sequential assignments
+  — some students consolidate effective patterns while others remain stuck in low-engagement
+  cycles
+- 'AI hallucinations impose a hidden cognitive tax on students who lack domain knowledge:
+  without the ability to recognize incorrect outputs, students face added extraneous
+  load that can undermine learning'
+- Evaluative judgment emerges as a prerequisite skill for productive collaboration
+  that cannot be assumed and must be scaffolded by instructors
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 281
+sample_type: prompts from 122 submissions by graduate students
+context: semester-long graduate-level social network analysis course
+study_type: empirical
 ---
 
 # Cognitive Offloading in Student–AI Collaboration: A Longitudinal Analysis of Prompting Strategies

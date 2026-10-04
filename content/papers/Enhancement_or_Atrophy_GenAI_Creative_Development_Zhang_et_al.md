@@ -1,9 +1,49 @@
 ---
-source_file: "Enhancement or Atrophy Examining How Generative AI Reshapes Creative Development in Design Education.pdf"
+source_file: Enhancement or Atrophy Examining How Generative AI Reshapes Creative
+  Development in Design Education.pdf
 type: paper
-authors: "Lingyi Zhang, Xue Xiao, Yue Qiu, Wenhu Lu"
-community: "AI in Design Education"
-tags:
+authors: Lingyi Zhang, Xue Xiao, Yue Qiu, Wenhu Lu
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Distributed Cognition]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[frameworks/Phenomenology]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Visual Homogenization]]'
+key_claims:
+- AI significantly enhanced elaboration (d=1.97, large effect) and fluency (d=0.84,
+  medium effect) but had negligible impact on originality (d=0.22, not statistically
+  significant), revealing an 'efficiency-originality divergence'
+- Students' self-reported creativity improvements (Creative Behavior d=2.01) dramatically
+  exceeded expert-rated actual gains across all dimensions, revealing systematic 'perception-performance
+  gaps' that may impair accurate self-assessment
+- Most students oscillated between technological dependency (outsourcing creative
+  judgment to AI) and cognitive disorientation (uncertainty about authorship), with
+  only a minority maintaining creative autonomy through mature negotiation strategies
+- Design education must shift from tool-centric AI training toward cultivating 'agency
+  negotiation' competencies that help students maintain creative subjectivity while
+  collaborating with AI
+- 'Creative Subjectivity Negotiation occurs across four dimensions: temporal (short
+  vs. long-term development), skill-based (which competencies atrophy vs. develop),
+  identity-based (designer identity in relation to AI), and evaluative (capacity to
+  critically assess AI outputs)'
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 45
+sample_type: third-year Visual Communication Design undergraduates
+context: Chinese university (Guangzhou Huali College), 5-week quasi-experimental study
+  with AI training intervention
+study_type: empirical
 ---
 
 # Enhancement or Atrophy? Examining How Generative AI Reshapes Creative Development in Design Education

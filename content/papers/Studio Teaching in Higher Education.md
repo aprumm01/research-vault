@@ -1,59 +1,66 @@
 ---
-source_file: "EDU/Studio Teaching in Higher Education.pdf"
-type: paper
-authors: "Studio Teaching in Higher"
-community: "AI in Design Education"
-tags:
+source_file: Studio Teaching in Higher Education.pdf
+type: edited_volume
+authors:
+  - Elizabeth Boling (editor)
+  - Richard A. Schwier (editor)
+  - Colin M. Gray (editor)
+  - Kennon M. Smith (editor)
+  - Katy Campbell (editor)
+year: 2016
 ---
 
-# Studio Teaching in Higher Education
+# Studio Teaching in Higher Education: Selected Design Cases
 
 ## Summary
-Studio Teaching in Higher Education Well-established in some fields and still emerging in others, the studio approach to design education is an increasingly attractive mode of teaching and learning, though its variety of definitions and its high demands can make this pedagogical form somewhat daunting Studio Teaching in Higher Education provides narrative examples of studio education written by instructors who have engaged in it, both within and outside the instructional design field These multidisciplinary design cases are enriched by the book’s coverage of the studio concept in design education, heterogeneity of studio, commonalities in practice, and existing and emergent concerns about studio pedagogy.
+
+This edited volume from Routledge presents 15 design cases describing studio teaching experiences across higher education. The book addresses educators who are adapting studio pedagogy to fields beyond traditional design disciplines. The cases are organized by shared characteristics rather than studio type, allowing readers to identify themes like emotional intensity, deep immersion, and the negotiation between traditional and emergent approaches. The volume includes theoretical chapters on what constitutes studio pedagogy, critical views, and emergent perspectives.
 
 ## Key Concepts
-- Studio pedagogy: Teaching mode emphasizing learning through design practice
-- Authentic design context: Real-world projects and client interactions
-- Reflective practice: Learning through reflection on design experiences
-- Critique culture: Peer and instructor feedback on design work
-- Project-based learning: Knowledge constructed through design projects
-- Design thinking in action: Application of design processes to real problems
+
+- **Studio pedagogy**: Teaching approach characterized by hands-on project work, critique, and immersive learning
+- **Design cases**: Descriptive narratives of actual studio teaching experiences (distinct from case studies)
+- **Signature pedagogy**: The characteristic form of teaching in a discipline (studio is signature for design fields)
+- **Emergent studio**: Adaptation of studio practices to non-traditional disciplines and contexts
+- **Curators' approach**: Editors as curators organizing diverse narratives into coherent collection
 
 ## Theoretical Framework
-- Studio-based learning: Apprenticeship model of design education
-- Reflective practice (Schön): Reflection-in-action and reflection-on-action
-- Situated learning: Knowledge embedded in authentic contexts
-- Community of practice: Learning through participation in design community
+
+The volume draws on:
+- Design education traditions (architecture, art, industrial design)
+- Experiential and constructivist learning theories
+- Reflective practice (Schon)
+- Signature pedagogy concept (Shulman)
 
 ## Methods
-Narrative case studies from 15 design instructors across multiple disciplines (instructional design, interior design, visual communication, product design). Cases document studio teaching experiences, tensions, and pedagogical approaches
+
+- Design case methodology (descriptive, practitioner-authored narratives)
+- Multi-site collection process (authors gathered at Indiana University for rapid drafting)
+- Iterative review by co-editors
+- Thematic organization based on case characteristics
+- Curator's notes providing cross-case analysis
 
 ## Main Arguments
-- Studio approach increasingly attractive but demanding pedagogical mode
-- Studio well-established in some fields (architecture, art) but emerging in others (instructional design, educational technology)
-- Multiple definitions and heterogeneity of studio practice across disciplines
-- Common elements include: authentic projects, critique sessions, iterative design, learning by doing, instructor as mentor/coach
-- Tensions between structure and flexibility, individual and collaborative work, process and product
-- Emergent concerns: resource intensity, scalability, assessment challenges, balancing guidance with student autonomy
-- Studio cultivates professional identity and design judgment through immersion in practice
-- Multidisciplinary examples show adaptability of studio model across contexts
+
+1. **Studio beyond design schools**: Studio pedagogy can be adapted to fields like instructional design, education, and technology
+2. **Emotional dimension**: Studio teaching involves both painful and pleasurable emotional experiences for students and instructors
+3. **Deep immersion**: Effective studios create immersive environments demanding high student engagement
+4. **Tradition and innovation**: Cases show tension between established studio traditions and emerging adaptations
+5. **Descriptive value**: Design cases offer vicarious experience useful for those considering studio adoption
+6. **Not case studies**: Design cases are descriptive and experiential, not analytical or generalizable
+
+## Structure & Contents
+
+- **Introduction** (Boling): Rationale and methodology
+- **Curator's Notes** (Boling & Schwier): Cross-case themes and observations
+- **15 Design Cases**: From various disciplines and institutions
+- **Studio Pedagogy** section: Theoretical chapters on defining and critiquing studio
+- **Contributors**: Authors from Indiana, Georgia, Saskatchewan, Purdue, Alberta, and other institutions
 
 ## Limitations & Critiques
-- Resource-intensive approach raises sustainability concerns given contracting budgets and increasing accountability
-- Requires large physical spaces for equipment and work display, limiting scalability and increasing institutional costs
-- High student-to-teacher ratios difficult to maintain economically
-- Virtual/blended studio spaces provide incomplete substitutes for physical studios
-- Assessment challenges in evaluating differential student outcomes and non-standardized work
-- Potential for unhealthy work/study culture and excessive student workload
-- Questions about whether studio promotes diversity or reinforces existing professional homogeneity
-- May not be suitable for all fields or all types of design knowledge
-- Heavy instructor workload for project development, assessment, and individualized feedback
-- Narrative case study approach limits generalizability - not systematic case studies with structured methods
-- Tensions between structure/flexibility and individual/collaborative work not fully resolved
-- Limited empirical evidence on effectiveness compared to other pedagogical approaches
 
-## Related Papers
-- [[papers/Studio Teaching in Higher Education 25 10 08 13 45 32]]
-## Connections
-- [[methods/Narrative]] - Research methodology
-- [[communities/AI in Design Education]] - Research community
+- Cases primarily from North American institutions
+- Focus on instructional design and related fields may limit relevance to other disciplines
+- Descriptive methodology limits causal claims
+- Published 2016 - predates AI integration in education
+- Could benefit from more student perspectives

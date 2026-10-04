@@ -1,9 +1,46 @@
 ---
-source_file: "2026/Generative_AI_in_UX_Education_Assessing_Critical_Thinking_Problem_Solving_and_Design_Iteration_Speed.pdf"
+source_file: 2026/Generative_AI_in_UX_Education_Assessing_Critical_Thinking_Problem_Solving_and_Design_Iteration_Speed.pdf
 type: paper
-authors: "Min Thuta Naing"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Min Thuta Naing
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/Mixed Methods Research]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- AI-assisted students completed design tasks significantly faster than traditional
+  methods group across all three complexity levels, but blind heuristic evaluations
+  revealed no significant quality differences in final prototypes
+- 83% of respondents expressed concern that excessive AI reliance might weaken independent
+  thinking and responsible choice-making abilities
+- AI tools enhanced iteration speed and design process efficiency but did not measurably
+  improve students' problem-solving abilities or critical thinking development
+- AI-generated UX content lacks human-centered perspective and may reinforce stereotypes
+  instead of building user empathy—fundamental UX principle threatened by over-reliance
+  on synthetic outputs
+- Successful AI-enhanced learning requires substantial instructor support for formulating
+  effective prompts, teaching evaluation frameworks for AI outputs, and modeling appropriate
+  AI reliance levels
+methodology: '[[methods/Mixed Methods Research]]'
+sample_size: 131
+sample_type: UX/UI design students with Figma and GenAI knowledge
+context: Mae Fah Luang University, Thailand UX education program
+study_type: empirical
 ---
 
 # Generative AI in UX Education Assessing Critical Thinking Problem Solving and Design Iteration Speed

@@ -1,9 +1,44 @@
 ---
-source_file: "synth users/Creating and Evaluating Personas Using Generative AI - Amin et al - 2025.pdf"
+source_file: synth users/Creating and Evaluating Personas Using Generative AI - Amin
+  et al - 2025.pdf
 type: paper
-authors: "SONJA M.H. TERVOLA, Aalto University, Finland"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: SONJA M.H. TERVOLA, Aalto University, Finland
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/User-Centered Design]]'
+- '[[methods/Persona Development]]'
+- '[[concepts/Synthetic Users]]'
+critiques:
+- '[[concepts/AI Augmentation]]'
+tensions_with:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/Circularity Risk]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- 86% of studies examining GenAI personas rely solely on GPT models, indicating lack
+  of methodological diversity and potential for vendor lock-in
+- 45% of GenAI persona studies lack any form of persona evaluation, creating a critical
+  validity gap in the field
+- 61% of studies demonstrate good reproducibility by sharing resources, suggesting
+  emerging methodological rigor despite other standardization gaps
+- Circularity in evaluation—where the same GenAI model both generates and evaluates
+  personas—creates fundamental validity concerns that undermine trustworthiness
+- Reduced human involvement in GenAI persona development risks undermining the stakeholder
+  engagement that traditionally builds organizational buy-in for personas
+methodology: '[[methods/Literature Review]]'
+sample_size: 81
+sample_type: academic articles on GenAI personas published 2022-2025
+context: Five databases (ACM DL, IEEE Xplore, Web of Science, Scopus, arXiv) examining
+  HCI and design research
+study_type: review
 ---
 
 # Creating and Evaluating Personas Using Generative AI - Amin et al - 2025

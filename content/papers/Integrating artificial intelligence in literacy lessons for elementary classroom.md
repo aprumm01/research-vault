@@ -1,9 +1,38 @@
 ---
-source_file: "EDU-AI/Integrating artificial intelligence in literacy lessons for elementary classrooms_a co-design approach.pdf"
+source_file: EDU-AI/Integrating artificial intelligence in literacy lessons for elementary
+  classrooms_a co-design approach.pdf
 type: paper
-authors: "DEVELOPMENT ARTICLE"
-community: "HCI Education and Pedagogy"
-tags:
+authors: DEVELOPMENT ARTICLE
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Reciprocal Learning Partnership]]'
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- Co-design approach effectively engages teachers in developing AI-integrated literacy
+  materials through participatory design partnerships
+- 25 in-service teachers successfully co-designed engaging, age-appropriate lesson
+  plans aligned with national elementary curriculum through collaboration with researchers
+- AI tools provide opportunities to enhance student learning experience while building
+  upon existing teaching practices rather than replacing them
+- Teacher involvement as design partners is essential for creating curriculum-aligned
+  AI lessons that are adaptable across diverse classroom contexts
+- Collaborative development model ensures educational AI integration respects pedagogical
+  expertise and teacher autonomy
+methodology: '[[methods/Participatory Design]]'
+sample_size: 25
+sample_type: in-service elementary teachers
+context: Elementary literacy education aligned with national curriculum
+study_type: empirical
 ---
 
 # Integrating artificial intelligence in literacy lessons for elementary classrooms a co-design approach

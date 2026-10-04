@@ -1,9 +1,49 @@
 ---
-source_file: "EDU/lit review documents/Sociotechnical Fictions The Performative Agencies of Fiction in Technological Development.pdf"
+source_file: EDU/lit review documents/Sociotechnical Fictions The Performative Agencies
+  of Fiction in Technological Development.pdf
 type: paper
-authors: "Science & Technology Studies XX(X)"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Science & Technology Studies XX(X)
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- Sociotechnical fictions operate within technosciences to materialise non-existent,
+  imaginary entities through the production of new technological assemblages, mediating
+  the continuum between matter and imagination, and between present and future
+- 'Fiction exercises four key agencies in technological development: epistemic (render
+  emerging entities intelligible and alleviate uncertainty), aesthetic (challenge
+  boundaries of possible and stimulate novelty), affective (engage with uncertainty
+  and anticipation), and normative (frame expectations and orient decisions about
+  what is feasible, necessary, profitable, or desirable)'
+- Sociotechnical fictions are often unrecognised as fiction and are deeply entangled
+  with rational and instrumental practices, connecting the anticipatory dimension
+  of technology with its legitimacy in technology-driven capitalism
+- The agencies of sociotechnical fictions are unevenly distributed among actors, producing
+  certain technological realities over others through a politics of fiction, and can
+  become epistemically toxic by undermining legitimacy of industrial sectors or research
+  areas
+- Fiction has been banished from modern truth-producing apparatus despite being part
+  of the real, creating a dichotomy between imagination and objective truths that
+  makes it difficult to validate fiction's presence in rational knowledge production
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Comparative analysis of STS concepts and case analysis of technological projects
+  including metaverse, algorithmic counterfactuals, cloud computing, AI, Theranos,
+  and WeWork
+study_type: theoretical
 ---
 
 # Sociotechnical Fictions The Performative Agencies of Fiction in Technological Development

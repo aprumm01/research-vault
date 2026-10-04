@@ -1,9 +1,49 @@
 ---
-source_file: "AI collaboration related articles/A Formative Study to Explore the Design of Generative UI Tools to Support UX Practitioners and Beyond.pdf"
+source_file: AI collaboration related articles/A Formative Study to Explore the Design
+  of Generative UI Tools to Support UX Practitioners and Beyond.pdf
 type: paper
-authors: "Xiang ‘Anthony’ Chen"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Xiang ‘Anthony’ Chen
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/Grounded Theory]]'
+- '[[concepts/Design Ideation]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Ironies of Automation]]'
+supports:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- GenUI demonstrates 'good first draft, tough last mile' phenomenon—excels at rapidly
+  producing initial prototypes but requires significant editing effort to reach production-ready
+  standards, with UXD4 finding manual Figma creation faster than using GenUI's sketch-to-UI
+  feature
+- GenUI democratizes UX design for non-designer roles (PMs, developers, researchers)
+  by enabling independence from designer resources, with evidence that PMs use it
+  to visualize product vision, developers for visual specifications, and researchers
+  for study planning
+- 'Seven critical gaps prevent GenUI adoption: problem formulation with context, assimilating
+  user intent, constrained generation to design systems, multimodal input/output needs,
+  connecting UI elements consistently, quality and originality issues, and insufficient
+  editing/iteration support'
+- Future GenUI tools must integrate seamlessly into existing workflows (Figma, IDEs,
+  documentation systems) and support organizational design systems through fine-tuning
+  to achieve practical adoption beyond conceptual exploration
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 37
+sample_type: UX-related professionals (11 UX designers, 12 developers, 7 product managers,
+  7 UX researchers)
+context: Individual one-week exercises using state-of-the-art GenUI tool for mindful
+  micro-activities app design project
+study_type: empirical
 ---
 
 # A Formative Study to Explore the Design of Generative UI Tools to Support UX Practitioners and Beyond

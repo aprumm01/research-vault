@@ -1,9 +1,42 @@
 ---
-source_file: "synth users/The Use of LLMs in HCI A Critical Analysis of Synthetic Users - Salminen et al - 2025.pdf"
+source_file: synth users/The Use of LLMs in HCI A Critical Analysis of Synthetic Users
+  - Salminen et al - 2025.pdf
 type: paper
-authors: "Synthetic Users"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Synthetic Users
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Synthetic Users]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Epistemic Confinement]]'
+- '[[concepts/Circularity Risk]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Hallucinations]]'
+key_claims:
+- Synthetic users emerge from legitimate pressures including 64% time constraints,
+  46% budget constraints, and 31% recruitment difficulty
+- 'Four key issues undermine synthetic users: validation remains proprietary black
+  box, circularity prevents insights beyond training data patterns, convincing mimicry
+  creates dangerous perceived/actual reliability disparity, and normative bias toward
+  progressive values'
+- Synthetic users should NOT replace traditional user research for novel products,
+  marginalized populations, or discovering unexpected needs
+- 'Weakest link principle applies: flawed synthetic user information can compromise
+  overall research quality through intractability and anchoring biases'
+- LLMs cannot produce insights beyond training data patterns, creating fundamental
+  epistemological circularity problem
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: HCI user research practice and synthetic user adoption in industry
+study_type: theoretical
 ---
 
 # The Use of LLMs in HCI A Critical Analysis of Synthetic Users - Salminen et al - 2025

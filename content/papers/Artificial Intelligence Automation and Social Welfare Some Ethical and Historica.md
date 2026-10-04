@@ -1,9 +1,46 @@
 ---
-source_file: "History/Artificial Intelligence, Automation, and Social Welfare_ Some Ethical and Historical PerspectivesOravec, Jo Ann 2018.pdf"
+source_file: History/Artificial Intelligence, Automation, and Social Welfare_ Some
+  Ethical and Historical PerspectivesOravec, Jo Ann 2018.pdf
 type: paper
-authors: "Ethics and Social Welfare"
-community: "AI and Future of Work"
-tags:
+authors: Ethics and Social Welfare
+community: AI and Future of Work
+tags: null
+year: 2018
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/AI Winter]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Determinism]]'
+key_claims:
+- Current AI discourse replicates exaggerated claims from the 1950s-60s, creating
+  false expectations about technological capabilities through systematic recycling
+  of quotes from Herbert Simon and Norbert Wiener
+- AI winters, discontinued projects (Campbell Soup expert system, Famous Footwear
+  sales systems), and critical analyses are systematically excluded from current narratives,
+  preventing learning from past mistakes
+- Major tech corporations (Google, Facebook, Amazon, IBM) avoided substantive engagement
+  with social welfare implications of AI deployment until 2016 Partnership for AI,
+  using simplistic mottos to evade moral analysis
+- Framing AI victories in contests (chess, Jeopardy, games) as justification for workplace
+  implementation creates legitimacy for displacement despite limited relevance to
+  complex human tasks
+- Massive public funding through DARPA and user data contributions create collective
+  stake in AI that warrants redistribution mechanisms such as robot tax proposals
+methodology: '[[methods/Narrative]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of AI discourse in US and UK contexts from 1940s to 2010s
+study_type: theoretical
 ---
 
 # Artificial Intelligence, Automation, and Social Welfare Some Ethical and Historical PerspectivesOravec, Jo Ann 2018

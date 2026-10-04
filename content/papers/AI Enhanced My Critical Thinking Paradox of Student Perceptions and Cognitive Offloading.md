@@ -1,9 +1,45 @@
 ---
-source_file: "Cho26b.pdf"
+source_file: Cho26b.pdf
 type: paper
-authors: "Winn Wing-Yiu Chow, Stella Peng, Arzoo Atiq, Vi Truong, Muqing Guo"
-community: "Responsible AI and Ethics"
-tags:
+authors: Winn Wing-Yiu Chow, Stella Peng, Arzoo Atiq, Vi Truong, Muqing Guo
+community: Responsible AI and Ethics
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Epistemic Confinement]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- Over 95% of postgraduate students fall into an 'efficiency trap' by offloading foundational
+  sense-making (Tier 1) to AI while protecting executive decision-making, revealing
+  a paradox between perceived enhancement and actual cognitive delegation
+- Approximately 17% of students exhibit Epistemic Confinement, where they delegate
+  initial problem framing to AI and operate entirely within AI-constructed intellectual
+  boundaries while experiencing this as independent high-level reasoning
+- Students conflate the structural fluency and confident presentation of AI outputs
+  with their own conceptual mastery, producing metacognitive miscalibration where
+  they rate their critical engagement highly despite accepting AI-framed problem structures
+  uncritically
+- The pedagogical impact of GenAI is highly dependent on prior domain expertise, with
+  novice learners at greatest risk of Epistemic Confinement due to lack of schemas
+  needed to evaluate AI-generated frames
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 188
+sample_type: postgraduate Information Systems students
+context: Australian university, self-directed GenAI workflows documented through reflective
+  essays
+study_type: empirical
 ---
 
 # AI Enhanced My Critical Thinking: Investigating the Paradox of Student Perceptions and Cognitive Offloading in GenAI Use

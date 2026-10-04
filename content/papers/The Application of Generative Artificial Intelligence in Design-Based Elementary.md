@@ -1,9 +1,46 @@
 ---
-source_file: "The Application of Generative Artificial Intelligence in Design-Based Elementary Education.pdf"
+source_file: The Application of Generative Artificial Intelligence in Design-Based
+  Elementary Education.pdf
 type: paper
-authors: "Helmut Degen"
-community: "Design Theory and Cognition"
-tags:
+authors: Helmut Degen
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Technology Acceptance Model]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Metacognitive Laziness]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- Perceived Ease of Use and Perceived Usefulness significantly impact students' behavioral
+  intention to use ChatGPT in creative problem-solving tasks
+- Self-efficacy positively impacts both perceived ease of use and behavioral intention
+  to adopt ChatGPT in design education
+- AIGC transforms design workflows from traditional sketch iteration to intelligent
+  generation, shifting from 'designers creating with machine assistance' to 'machine
+  creation guided by designer evaluation'
+- Critical thinking remains crucial for evaluating AIGC-generated content accuracy
+  and providing refinement feedback, but faces challenges from cognitive laziness,
+  information overload, and bias spread
+- Collaborative learning as an external TAM factor positively influences ChatGPT acceptance
+  among design students
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 143
+sample_type: industrial design students (120 survey respondents, 70.59% bachelor's
+  degree; 23 diary study participants)
+context: Elementary/undergraduate design education with ChatGPT integration over 3-week
+  period
+study_type: empirical
 ---
 
 # The Application of Generative Artificial Intelligence in Design-Based Elementary Education

@@ -1,14 +1,54 @@
 ---
-source_file: "EDU - design/UX Education in Trainsition-Aligning Academic Pedagogy with New Industry Needs.pdf"
+source_file: EDU - design/UX Education in Trainsition-Aligning Academic Pedagogy with
+  New Industry Needs.pdf
 type: paper
-authors: "Philip B. Gallagher, Sushil K. Oswal"
-community: "GenAI in UX and Design Practice"
+authors: Philip B. Gallagher, Sushil K. Oswal
+community: GenAI in UX and Design Practice
 tags:
-  - UX-education
-  - industry-academia-collaboration
-  - technical-professional-communication
-  - accessible-design
-  - pedagogy-misalignment
+- UX-education
+- industry-academia-collaboration
+- technical-professional-communication
+- accessible-design
+- pedagogy-misalignment
+year: 2025
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Knowledge Transfer]]'
+critiques:
+- '[[concepts/De-skilling]]'
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/UX Education]]'
+- '[[concepts/Industry-Academia Collaboration]]'
+- '[[concepts/Definitional Ambiguity]]'
+- '[[concepts/Methodological Misalignment]]'
+key_claims:
+- Faculty are 'mainly self-directed, with minimal training if any, when it comes to
+  doing and teaching UX,' relying on Nielsen Norman Group and practitioner blogs rather
+  than TPC scholarship
+- UX methods used in industry are 'impromptu, tool-dependent, and dictated by production
+  cycles' while academic curricula 'emphasize user advocacy and research ethics,'
+  creating methodological misalignment where 'students are rarely exposed to the pragmatic
+  constraints of industry'
+- Ten of 21 educators (47.6%) independently build industry partnerships 'with little
+  institutional support and recognition and even less guidance,' doing alignment work
+  'informally or invisibly, without recognition in teaching loads or tenure criteria'
+- There remains 'no shared conceptual foundation for user experience across disciplines
+  or professional communities,' making it impossible for TPC programs to define pedagogy
+  matching industry job descriptions
+- Academia and industry 'are almost always talking past one another' because academic
+  research publishes in venues 'not readily available to practitioners' while practitioners
+  rely on 'informal communities (e.g., UX blogs, Medium posts)' that 'academics often
+  do not cite'
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 21
+sample_type: TPC educators teaching UX and accessibility courses (graduate students
+  through full professors)
+context: Technical and Professional Communication programs in US academic institutions,
+  Fall 2024
+study_type: empirical
 ---
 
 # UX Education in Transition: Aligning Academic Pedagogy with New Industry Needs

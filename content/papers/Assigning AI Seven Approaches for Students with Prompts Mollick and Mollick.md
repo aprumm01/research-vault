@@ -1,9 +1,49 @@
 ---
-source_file: "Mol23.pdf"
+source_file: Mol23.pdf
 type: paper
-authors: "Ethan Mollick, Lilach Mollick"
-community: "Responsible AI and Ethics"
-tags:
+authors: Ethan Mollick, Lilach Mollick
+community: Responsible AI and Ethics
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[concepts/Seven AI Roles for Students]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/Seven AI Roles for Students]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- There are at least seven meaningfully distinct ways to assign AI to students (AI-tutor,
+  AI-coach, AI-mentor, AI-teammate, AI-student, AI-simulator, AI-tool), each with
+  unique learning mechanisms and risk profiles
+- The student role, where AI adopts the role of learner and the student must teach
+  it, leverages the protégé effect—forcing students to organize, explain, and defend
+  their knowledge
+- 'All seven roles share a common risk: students may develop complacency and accept
+  AI outputs as ''good enough,'' producing work that is technically adequate but personally
+  under-engaged'
+- 'Each AI assignment approach serves a dual purpose: helping students learn course
+  content (with AI) and developing AI literacy (about AI)—treating AI fluency as a
+  learning outcome itself'
+- The framework explicitly rejects both extremes—banning AI and uncritically embracing
+  it—positioning educators as designers of AI-integrated experiences that preserve
+  active student cognition
+methodology: '[[methods/Design-Based Research]]'
+sample_size: null
+sample_type: null
+context: Higher education pedagogy framework
+study_type: design
 ---
 
 # Assigning AI: Seven Approaches for Students with Prompts

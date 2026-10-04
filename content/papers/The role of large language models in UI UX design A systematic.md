@@ -1,9 +1,51 @@
 ---
-source_file: "The role of large language models in UI_UX design_A systematic.pdf"
+source_file: The role of large language models in UI_UX design_A systematic.pdf
 type: paper
-authors: "Ammar Ahmed,Ali Shariq Imran"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Ammar Ahmed,Ali Shariq Imran
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Creativity Support Tools]]'
+key_claims:
+- GPT-4 emerged as the most widely adopted model for UI/UX tasks due to strong performance
+  in structured UI generation, chain-of-thought reasoning, and multimodal input support
+- LLMs function most effectively as co-creators rather than autonomous agents, requiring
+  continuous designer oversight through a dialogic interaction model rather than hierarchical
+  command-execution
+- Prompt engineering has evolved from technical workaround to iterative creative practice
+  and central cross-cutting skill, with designers treating prompts as iterative artifacts
+  similar to sketches or wireframes
+- LLM outputs tend to converge on generic or conservative design patterns, potentially
+  limiting creative exploration and causing designers to become anchored to AI-generated
+  suggestions too early
+- Wide practice variation from polished plugins to bespoke systems to ad hoc prompting
+  indicates the field has not yet converged on standardized workflows, tooling, or
+  evaluation criteria, signaling field immaturity
+- Multimodal vision-language models understanding what users see, touch, and navigate
+  through enables design support responsive to spatial and semantic context in AR,
+  VR, and mobile scenarios
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: Academic literature from ACM Digital Library, IEEE Xplore, and Scopus
+  databases
+context: Systematic review of LLM applications in UI/UX design research
+study_type: review
 ---
 
 # The role of large language models in UI UX design A systematic

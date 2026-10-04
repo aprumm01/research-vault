@@ -1,9 +1,51 @@
 ---
-source_file: "2026/i609-sustainability/The Dark Data Quandary.pdf"
+source_file: 2026/i609-sustainability/The Dark Data Quandary.pdf
 type: paper
-authors: "Daniel J. Grimm"
-community: "Sustainable Computing"
-tags: [sustainability, i609, dark-data, legal-risk, data-governance, privacy, HIPAA, FTC, Big-Data]
+authors: Daniel J. Grimm
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- dark-data
+- legal-risk
+- data-governance
+- privacy
+- HIPAA
+- FTC
+- Big-Data
+year: 2019
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Democratization of Design]]'
+supports:
+- '[[concepts/Complacency Risk]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Ironies of Automation]]'
+key_claims:
+- 80-90% of enterprise data is 'dark' (never analyzed), creating a fundamental 'capability
+  gulf' between storage technology and analytical tools
+- Dark data creates invisible legal risks under HIPAA and FTC frameworks because organizations
+  cannot manage compliance obligations for data they have not analyzed or inventoried
+- Big Data's promise of objective, comprehensive analysis (N=All) is fundamentally
+  distorted by dark data exclusion, with subjective choices about what to analyze
+  embedding hidden biases
+- The 'storage imperative' driven by declining storage costs and Big Data narratives
+  encourages irrational data hoarding, with organizations storing data 'just in case'
+  without clear business purpose
+- Courts must exercise heightened gatekeeping scrutiny of Big Data evidence, questioning
+  what data was excluded from analysis and resisting the 'aura of objectivity' surrounding
+  algorithmic conclusions
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Legal and regulatory frameworks governing data retention and analysis in
+  US organizations
+study_type: theoretical
 ---
 
 # The Dark Data Quandary

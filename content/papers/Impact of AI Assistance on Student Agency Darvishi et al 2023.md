@@ -1,9 +1,42 @@
 ---
-source_file: "Darvishi et al. - 2023 - Impact of AI assistance on student agency.pdf"
+source_file: Darvishi et al. - 2023 - Impact of AI assistance on student agency.pdf
 type: paper
-authors: "Ali Darvishi, Hassan Khosravi, Shazia Sadiq, Dragan Gašević, George Siemens"
-community: "Workplace Learning and AI"
-tags:
+authors: Ali Darvishi, Hassan Khosravi, Shazia Sadiq, Dragan Gašević, George Siemens
+community: Workplace Learning and AI
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Self-Regulated Learning]]'
+- '[[concepts/Metacognitive Laziness]]'
+critiques:
+- '[[concepts/AI Augmentation]]'
+tensions_with:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+supports:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Epistemic Substitution]]'
+key_claims:
+- Students in the no-prompt condition showed significantly reduced peer feedback quality
+  when AI was removed, indicating reliance rather than learning from AI assistance
+  over the four-week baseline period
+- Self-regulation strategies (self-monitoring checklists) can partially compensate
+  for loss of AI prompts but are not as effective as continued AI assistance, suggesting
+  incomplete internalization even after four weeks of exposure
+- The hybrid approach combining AI prompts with self-monitoring checklists (SAI condition)
+  does not outperform AI alone, challenging the assumption that complementing AI with
+  metacognitive tools produces additive benefits
+- AI assistance may inhibit development of self-regulation by reducing the need for
+  students to exercise independent metacognitive judgment—a form of agency-displacement
+- Tools optimized for performance scaffolding may undermine long-term development
+  of agency and self-regulation that sustainable learning requires
+methodology: '[[methods/Randomised Controlled Experiment]]'
+sample_size: 1625
+sample_type: university students across 10 courses
+context: University of Queensland AI-assisted peer review over 8 weeks
+study_type: empirical
 ---
 
 # Impact of AI Assistance on Student Agency

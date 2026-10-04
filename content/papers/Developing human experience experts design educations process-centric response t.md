@@ -1,9 +1,62 @@
 ---
-source_file: "EDU-AI/Developing human experience experts_design educations process-centric response to generative ai.pdf"
+source_file: EDU-AI/Developing human experience experts_design educations process-centric
+  response to generative ai.pdf
 type: paper
-authors: "Dennis Cheatham"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Dennis Cheatham
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Double Diamond Model]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques:
+- '[[concepts/Design Fixation]]'
+- '[[concepts/De-skilling]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[concepts/Convergent Thinking]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Intellectual Independence]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- 'UI and UX Designers are projected as the eighth fastest-growing jobs globally showing
+  44% net growth by 2030, while traditional Graphic Designer roles are among the 15
+  fastest declining jobs, expected to shrink by 11%, signaling a crucial shift: the
+  future demands designers who are experts in human experience, not just artifact
+  creation'
+- Process-centric education emphasizes the journey of research, iteration, and critical
+  thinking that leads to meaningful human experiences, developing contextual understanding
+  and Practical Imagination that AI tools cannot replicate
+- Structured ripple effect diagrams using futures cone scaffolding produced more nuanced
+  and insightful analysis of AI's broader impacts compared to open-text prompts, with
+  Spring 2024 data showing 28 of 43 students (65%) initially focused only on personal
+  impacts when given unstructured prompts
+- Four theoretical foundations—systems thinking, phenomenology, activity theory, and
+  futures studies—provide complementary lenses that together reveal the full complexity
+  of human experience that generative AI cannot comprehend
+- Practical Imagination, defined as the ability to envision intended and unintended
+  consequences grounded in research evidence yet infused with critical and visionary
+  thinking, represents the uniquely human capability that AI cannot replicate
+methodology: '[[methods/Action Research]]'
+sample_size: 300
+sample_type: undergraduate and graduate design students across seven courses
+context: Miami University design education courses, Fall 2023 through Spring 2025
+study_type: empirical
 ---
 
 # Developing human experience experts design educations process-centric response to generative ai

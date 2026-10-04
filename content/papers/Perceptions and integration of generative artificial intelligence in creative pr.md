@@ -1,9 +1,40 @@
 ---
-source_file: "EDU/lit review documents/Perceptions and integration of generative artificial intelligence in creative practices and industries.pdf"
+source_file: EDU/lit review documents/Perceptions and integration of generative artificial
+  intelligence in creative practices and industries.pdf
 type: paper
-authors: "AI & SOCIETY"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: AI & SOCIETY
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Visual Homogenization]]'
+key_claims:
+- GenAI is fundamentally transforming notions of creativity and creative production
+  across disciplines from 2022-2025
+- Professional attitudes toward GenAI vary significantly across creative domains,
+  with visual arts showing distinct integration patterns from performing arts
+- Writing and literature professionals express unique concerns about AI automation
+  compared to other creative domains
+- Spatial and environmental design reveals different affordances of GenAI tools than
+  other creative practices
+- Comprehensive understanding of professional attitudes remains challenging due to
+  the recent emergence and rapid evolution of GenAI technologies
+methodology: '[[methods/Literature Review]]'
+sample_size: 57
+sample_type: published papers on GenAI in creative professional practice across four
+  domains
+context: cross-disciplinary review of visual art, design, writing, literature, performing
+  arts, and environmental/spatial design
+study_type: review
 ---
 
 # Perceptions and integration of generative artificial intelligence in creative practices and industries

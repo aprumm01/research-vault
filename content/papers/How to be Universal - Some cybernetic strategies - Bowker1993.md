@@ -1,9 +1,33 @@
 ---
-source_file: "How to be Universal - Some cybernetic strategies - Bowker1993.pdf"
+source_file: How to be Universal - Some cybernetic strategies - Bowker1993.pdf
 type: paper
-authors: "Author(s): Geof Bowker"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Author(s): Geof Bowker'
+community: GenAI in UX and Design Practice
+tags: null
+year: 1993
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Frame Analysis]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- Cybernetics practitioners claimed to produce a new universal science during 1943-1970,
+  distinguishing themselves from traditional scientific disciplines through varying
+  degrees of universalist ambitions
+- Multiple rhetorical strategies were deployed by cyberneticians to establish and
+  justify their claims to universality as a discipline
+- Claims to universality in cybernetics had practical consequences for the organization
+  and economy of sciences, shaping the field's relationship to other disciplines
+- Historical analysis of cybernetics reveals strategies for establishing new interdisciplinary
+  fields through universalist rhetoric that shaped scientific authority and legitimacy
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of cybernetics discipline literature and discourse from
+  1943-1970
+study_type: theoretical
 ---
 
 # How to be Universal - Some cybernetic strategies - Bowker1993

@@ -1,9 +1,32 @@
 ---
-source_file: "EDU/r511/Cho_Jo_Park_Kang_Chen_2011--current state of HPT.pdf"
+source_file: EDU/r511/Cho_Jo_Park_Kang_Chen_2011--current state of HPT.pdf
 type: paper
-authors: "The Current State of Human"
-community: "AI and Future of Work"
-tags:
+authors: The Current State of Human
+community: AI and Future of Work
+tags: null
+year: 2011
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- PIQ network shows loose, decentralized structure with only 56.7% (367/647) of articles
+  cited one or more times and mean out-degree citation frequency 0.89 (SD=1.76), indicating
+  fragmented scholarly community
+- 'Five cohesive subgroups empirically identified through network clustering define
+  HPT''s scope: performance, instructional design, performance support, organization/workplace,
+  and transfer of training'
+- HPT's tendency to cite own articles most frequently raises concerns about 'replicating
+  outdated theories and methodologies' despite drawing from psychology, management,
+  and education
+- Balance between theory and practice was rarely achieved in HPT field, with pioneers
+  creating numerous models but lacking empirical research determining their effectiveness
+methodology: '[[methods/Content Analysis]]'
+sample_size: 647
+sample_type: peer-reviewed articles from Performance Improvement Quarterly
+context: HPT scholarly community publications from 1988-2010
+study_type: empirical
 ---
 
 # Cho Jo Park Kang Chen 2011--current state of HPT

@@ -1,9 +1,53 @@
 ---
-source_file: "Vibe Coding for UX Design-Understanding UX Professionals_ Perceptions of AI-Assisted Design and Development.pdf"
+source_file: Vibe Coding for UX Design-Understanding UX Professionals_ Perceptions
+  of AI-Assisted Design and Development.pdf
 type: paper
-authors: "AI-Assisted Design and Development"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: AI-Assisted Design and Development
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Intellectual Independence]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Ownership Ambiguity]]'
+key_claims:
+- 'Vibe coding follows a four-stage iterative workflow: (1) context setup & ideation,
+  (2) AI generation, (3) manual debugging, and (4) testing & review, with frequent
+  back-and-forth between stages'
+- Vibe coding creates asymmetries between 'AI-literate' practitioners who can debug
+  and verify outputs versus 'AI-dependent' practitioners who cannot, widening skill
+  gaps in UX practice
+- Traditional role boundaries between UX designers, engineers, and product managers
+  are dissolving as vibe coding enables non-technical professionals to generate functional
+  prototypes
+- Authorship in vibe coding shifts from code execution to intention-setting, creating
+  dual tension between efficiency gains and erosion of critical thinking, and between
+  acceleration and reflection
+- 'Educational potential of vibe coding is conditional: it serves as a learning opportunity
+  only for practitioners already skilled in coding who can debug and verify AI-generated
+  outputs'
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 20
+sample_type: UX professionals (UX/UI designers, software engineers, product managers,
+  UX researchers, hybrid roles) from enterprises, startups, and academia
+context: Professional UX practice across North America (n=12), Europe (n=6), and Asia
+  (n=2); organizations ranging from small startups (<50) to large enterprises (>10k
+  employees)
+study_type: empirical
 ---
 
 # Vibe Coding for UX Design-Understanding UX Professionals Perceptions of AI-Assisted Design and Development

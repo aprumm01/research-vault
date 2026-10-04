@@ -1,9 +1,50 @@
 ---
-source_file: "EDU/r511/Dick-InstructionalDesignCreativity-1995.pdf"
+source_file: EDU/r511/Dick-InstructionalDesignCreativity-1995.pdf
 type: paper
-authors: "Walter Dick"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Walter Dick
+community: GenAI in UX and Design Practice
+tags: null
+year: 1995
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Cognitive Load]]'
+critiques:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+tensions_with:
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Epistemic Confinement]]'
+supports:
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Process-centric Education]]'
+key_claims:
+- Boring instruction results from any design approach, not uniquely from systematic
+  instructional design (ISD), since most instruction is not systematically designed
+- 'Creativity can be systematically incorporated into ISD through three critical areas:
+  thorough learner analysis, application of Keller''s ARCS motivational model (Attention,
+  Relevance, Confidence, Satisfaction), and formative evaluation that explicitly assesses
+  engagement'
+- The perceived linearity of ISD models is a pedagogical scaffolding for novices,
+  not a constraint on experienced designers who 'will do what works for them...and
+  the more experience they have at designing instruction, the more effective, the
+  more efficient, and the more creative they will become'
+- Adding creativity as an explicit evaluation criterion alongside effectiveness and
+  efficiency allows designers to systematically address engagement without abandoning
+  learning outcomes, with the understanding that 'my next client will determine the
+  relative importance of these and other criteria'
+- Conditions for producing creative instruction include client mandate for creativity,
+  supportive organizational climate, participatory design with learners and instructors
+  to avoid the 'Fallacy of Self-Projection', and implementation of appropriate technology
+  platforms
+methodology: '[[methods/Narrative]]'
+sample_size: 4
+sample_type: master's students in instructional systems at Florida State University
+context: academic instructional design program responding to comprehensive examination
+  questions about creative instruction
+study_type: theoretical
 ---
 
 # Instructional Design and Creativity: A Response to the Critics

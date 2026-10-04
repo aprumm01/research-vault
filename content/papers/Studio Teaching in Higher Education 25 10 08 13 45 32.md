@@ -1,9 +1,40 @@
 ---
-source_file: "Studio Teaching in Higher Education_25_10_08_13_45_32.pdf"
+source_file: Studio Teaching in Higher Education_25_10_08_13_45_32.pdf
 type: paper
-authors: "Studio Teaching in Higher"
-community: "AI in Design Education"
-tags:
+authors: Studio Teaching in Higher
+community: AI in Design Education
+tags: null
+year: 2008
+builds_on:
+- '[[concepts/Studio Pedagogy]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Cognitive Load]]'
+supports:
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Cognitive Tension]]'
+key_claims:
+- Design cases (descriptive narratives) offer more practical value than analytical
+  case studies for practitioners learning studio pedagogy
+- Emotional engagement through productive discomfort and positive stress is essential
+  to studio learning and drives design growth
+- Studio pedagogy cannot be reduced to templates or principles - value emerges through
+  experiential understanding over time rather than received formulas
+- Activity-centric studios vary significantly in structure (Big Project vs Many Projects)
+  with distinct tradeoffs for learning outcomes
+- Studio teaching demands instructors be fully present, responsive, and willing to
+  work through problems in real-time, functioning as transformative curriculum rather
+  than add-on pedagogy
+methodology: '[[methods/Narrative]]'
+sample_size: null
+sample_type: null
+context: Multidisciplinary design education across various fields in higher education
+study_type: theoretical
 ---
 
 # Studio Teaching in Higher Education 25 10 08 13 45 32

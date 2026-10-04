@@ -1,9 +1,42 @@
 ---
-source_file: "History/Artificial intelligence a promising technology.pdf"
+source_file: History/Artificial intelligence a promising technology.pdf
 type: paper
-authors: "MAIN PAPER"
-community: "Design Theory and Cognition"
-tags:
+authors: MAIN PAPER
+community: Design Theory and Cognition
+tags: null
+year: 2022
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/AI Winter]]'
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- AI dynamics cannot be explained solely by technical advances; technological promises
+  and expectations drive development across boom-bust cycles rather than pure technical
+  capability
+- 'Germany''s AI development since 1970s shows four distinct stages each characterized
+  by renewed promises: scientific niche (1970s), commercial dawning (1980s), crisis
+  (late 1980s-1990s), consolidation (1990s-2000s), and current boom (2010s-present)'
+- Current AI boom driven by far-reaching technological promises about deep learning
+  capabilities, supported by influential AI community, extensive policy support, and
+  public discourse legitimization
+- 'Fundamental functional problems persist in AI: poor handling of ''open worlds,''
+  inability to incorporate everyday knowledge, lack of explainability in machine learning,
+  and uncertain data quality requirements'
+- Technological promise of AI employs persuasive rhetoric through ambiguous metaphors,
+  inevitability framing, growth acceleration claims, generalization of success cases,
+  and social legitimacy securing
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 19
+sample_type: AI professionals in business and academia
+context: German AI development since 1970s with focus on current dynamics
+study_type: empirical
 ---
 
 # Artificial intelligence a promising technology

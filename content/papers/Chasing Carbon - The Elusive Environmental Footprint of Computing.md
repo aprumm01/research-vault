@@ -1,27 +1,55 @@
 ---
-title: "Chasing Carbon: The Elusive Environmental Footprint of Computing"
+title: 'Chasing Carbon: The Elusive Environmental Footprint of Computing'
 authors:
-  - Udit Gupta
-  - Young Geun Kim
-  - Sylvia Lee
-  - Jordan Tse
-  - Hsien-Hsin S. Lee
-  - Gu-Yeon Wei
-  - David Brooks
-  - Carole-Jean Wu
+- Udit Gupta
+- Young Geun Kim
+- Sylvia Lee
+- Jordan Tse
+- Hsien-Hsin S. Lee
+- Gu-Yeon Wei
+- David Brooks
+- Carole-Jean Wu
 year: 2021
-publication: "IEEE Micro"
-doi: "10.1109/MM.2022.3163226"
+publication: IEEE Micro
+doi: 10.1109/MM.2022.3163226
 tags:
-  - sustainability
-  - embodied-carbon
-  - operational-carbon
-  - hardware-lifecycle
-  - manufacturing-emissions
-  - computing-footprint
+- sustainability
+- embodied-carbon
+- operational-carbon
+- hardware-lifecycle
+- manufacturing-emissions
+- computing-footprint
 course: i609-sustainability
 date_processed: 2026-09-27
 status: analyzed
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- For battery-powered devices like smartphones and laptops, embodied carbon dominates
+  lifecycle emissions at 74-88%, making device longevity the primary lever for carbon
+  reduction rather than operational efficiency
+- At Facebook's data centers in 2019, capex-related activities (hardware manufacturing
+  and construction) accounted for 23× more carbon than opex-related activities, fundamentally
+  challenging the industry's focus on operational efficiency
+- The carbon footprint decomposition reveals that processors (CPUs/GPUs) represent
+  35-45% of server embodied carbon, followed by memory at 20-30%, indicating semiconductor
+  manufacturing as a critical intervention point
+- 'Device connectivity spectrum determines carbon profile: battery-powered devices
+  show 85-95% embodied carbon, while always-connected data centers show approximately
+  60% embodied carbon (manufacturing + construction) and 35% operational carbon'
+- Extending device lifetimes through right-to-repair and longer hardware refresh cycles
+  is the most effective carbon reduction strategy for consumer devices, as it amortizes
+  embodied carbon over more useful work
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: computing devices across consumer and enterprise categories, Facebook
+  data center infrastructure
+context: lifecycle carbon analysis of computing systems including smartphones, laptops,
+  servers, and data center facilities
+study_type: empirical
 ---
 
 # Chasing Carbon: The Elusive Environmental Footprint of Computing

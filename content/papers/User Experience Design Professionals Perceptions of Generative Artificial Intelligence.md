@@ -1,9 +1,50 @@
 ---
-source_file: "Li23.pdf"
+source_file: Li23.pdf
 type: paper
-authors: "Jie Li, Hancheng Cao, Laura Lin, Youyang Hou, Ruihao Zhu, Abdallah El Ali"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Jie Li, Hancheng Cao, Laura Lin, Youyang Hou, Ruihao Zhu, Abdallah El Ali
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Technological Unemployment]]'
+supports:
+- '[[concepts/AI as Facilitator]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Experienced UX designers view GenAI as an assistive tool for automating repetitive
+  tasks (wireframes, documentation, competitor analysis) while maintaining that judgment,
+  synthesis, and user-centering remain irreducibly human responsibilities
+- Enjoyment and agency are identified as irreducible human values in design work—experienced
+  designers emphasize the intrinsic value of creative work itself as a reason to resist
+  full delegation to AI, independent of AI quality concerns
+- Junior designers face asymmetric risk from GenAI adoption—while senior designers
+  feel secure, they consistently express concern that GenAI will erode entry-level
+  learning opportunities and create a structural talent pipeline problem for the UX
+  profession
+- UX designers require structured AI literacy and evaluation competencies to use GenAI
+  responsibly in professional contexts—skills that current training and tool documentation
+  do not adequately support
+- Copyright, ownership, and data privacy remain significant unresolved concerns—including
+  AI tools trained on others' design work, copyright status of AI-generated client
+  deliverables, and risks of confidential user research data entering training pipelines
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 20
+sample_type: UX design professionals ranging from junior to senior levels
+context: Companies in Europe and United States, ranging from startups to enterprises
+  with 10,000+ employees
+study_type: empirical
 ---
 
 # User Experience Design Professionals' Perceptions of Generative Artificial Intelligence

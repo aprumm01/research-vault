@@ -1,9 +1,49 @@
 ---
-source_file: "EDU/lit review documents/Future imaginaries in the making and governing of digital technology Multiple, contested, commodified.pdf"
+source_file: EDU/lit review documents/Future imaginaries in the making and governing
+  of digital technology Multiple, contested, commodified.pdf
 type: paper
-authors: "Introduction to Special Issue"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Introduction to Special Issue
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Sociotechnical]]'
+key_claims:
+- Future imaginaries possess constitutive power shaping present technology development—visions
+  direct research funding, shape regulatory frameworks, mobilize political support,
+  and organize development priorities, making describing AI as 'transformative' or
+  'existential risk' materially consequential for what systems are built and how they
+  are regulated
+- Digital technology imaginaries are increasingly contested and multiply proliferate,
+  with competing visions from Silicon Valley disruption narratives, European digital
+  sovereignty frameworks, civil society data justice models, and authoritarian surveillance
+  paradigms creating both uncertainty and opportunity for democratic negotiation
+- Commodification transforms imaginaries from public goods to strategic assets as
+  corporations productize future visions through innovation narratives and venture
+  capital pitch decks, shifting from shared cultural resources enabling collective
+  deliberation toward competitive advantages serving particular economic interests
+- Anticipatory governance embeds particular imaginaries into policy with democratic
+  deficits, as proactive frameworks like regulatory sandboxes and responsible innovation
+  often privilege industry-friendly innovation narratives while marginalizing precautionary,
+  justice-oriented, or technology-skeptical visions
+- Critical imaginary analysis reveals power relations by exposing which future visions
+  gain traction, whose imaginaries are marginalized, and what assumptions are embedded,
+  thereby denaturalizing seemingly inevitable digital futures and creating space for
+  democratic contestation
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Special issue introduction synthesizing conceptual frameworks for understanding
+  future imaginaries across digital technology domains including AI, platform governance,
+  smart cities, and digital health
+study_type: theoretical
 ---
 
 # Future imaginaries in the making and governing of digital technology Multiple, contested, commodified

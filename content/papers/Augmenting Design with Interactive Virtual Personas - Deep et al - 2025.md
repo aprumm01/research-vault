@@ -1,9 +1,42 @@
 ---
-source_file: "synth users/Augmenting Design with Interactive Virtual Personas - Deep et al - 2025.pdf"
+source_file: synth users/Augmenting Design with Interactive Virtual Personas - Deep
+  et al - 2025.pdf
 type: paper
-authors: "Design with Interactive Virtual Personas"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Design with Interactive Virtual Personas
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Prompt Engineering]]'
+critiques:
+- '[[concepts/Interactive Virtual Personas]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[frameworks/Human-Centered Design]]'
+supports:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- IVPs accelerate information gathering during user research and provide rapid feedback
+  that speeds iteration, particularly when real user access is constrained
+- IVPs exhibit over-optimism bias, tending toward positive feedback and lacking critical
+  perspectives that real users provide, potentially leading to unwarranted design
+  confidence
+- Designers unanimously emphasize IVPs cannot substitute for real stakeholder engagement
+  and are most valuable as intermediate tools between desk research and user testing
+- Real-time conversational interaction with IVPs enables spontaneous exploration of
+  design directions and edge cases unavailable with static personas
+- IVPs struggle with fragmentation and inconsistency in extended conversations despite
+  continuity across design phases, diminishing perceived realism and authenticity
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: 8
+sample_type: professional UX designers from Sydney and India
+context: Voice-based interaction with GPT-4-powered persona across three design activities
+study_type: empirical
 ---
 
 # Augmenting Design with Interactive Virtual Personas - Deep et al - 2025

@@ -1,9 +1,37 @@
 ---
-source_file: "History/Learning from Artificial Intelligence’s Previous Awakenings_ The History of Expert Systems Brock, David C. 2018.pdf"
+source_file: History/Learning from Artificial Intelligence’s Previous Awakenings_
+  The History of Expert Systems Brock, David C. 2018.pdf
 type: paper
-authors: "Learning from Artificial Intelligence’s"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Learning from Artificial Intelligence’s
+community: HCI Education and Pedagogy
+tags: null
+year: 2018
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Winter]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- Contemporary AI enthusiasm and commercial interest in machine learning are prefigured
+  in the experience of the expert systems community in the 1970s and 1980s
+- History reveals cyclical patterns in AI development and adoption, with both periods
+  experiencing inflated expectations followed by recalibration
+- Technical approaches differ between expert systems and modern machine learning,
+  but sociotechnical patterns repeat across AI eras
+- Understanding previous AI 'awakenings' provides critical lessons for current machine
+  learning deployment and helps contextualize the contemporary moment
+- Commercial pressures and expectations show remarkable similarity across different
+  AI eras despite technological differences
+methodology: '[[methods/Interview]]'
+sample_size: 4
+sample_type: AI pioneers and expert systems researchers (Feigenbaum, Buchanan, Davis,
+  Horvitz)
+context: AAAI-17 conference historical panel
+study_type: theoretical
 ---
 
 # Learning from Artificial Intelligence’s Previous Awakenings The History of Expert Systems Brock, David C. 2018

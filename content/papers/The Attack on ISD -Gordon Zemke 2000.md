@@ -1,9 +1,38 @@
 ---
-source_file: "EDU/The Attack on ISD -Gordon _ Zemke _2000_.pdf"
+source_file: EDU/The Attack on ISD -Gordon _ Zemke _2000_.pdf
 type: paper
-authors: "The Attack on ISO"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: The Attack on ISO
+community: GenAI in UX and Design Practice
+tags: null
+year: 2000
+builds_on: []
+critiques:
+- '[[frameworks/Instructional Systems Design]]'
+tensions_with:
+- '[[concepts/Design Fixation]]'
+- '[[frameworks/Constructivism]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- ISD's 3-month needs analysis becomes obsolete before completion in the New Economy,
+  making it too slow and clumsy for contemporary training challenges
+- 90% of ISD practitioners' time is spent managing bureaucratic approval processes
+  rather than actual training design, focusing on process over outcomes
+- Adults engage in approximately 8 self-directed learning projects per year averaging
+  100+ hours each (Allen Tough's research), contradicting ISD's assumption of learners
+  needing expert-designed instruction
+- ISD breaks down with 'configured work' requiring problem-solving and adaptation
+  rather than 'prefigured work' with well-defined tasks and master performers to model
+- ISD's behavioral psychology roots limit its ability to address emotional, attitudinal,
+  and experiential elements of learning, producing cookie-cutter programs geared to
+  slowest learners
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: training industry experts and ISD practitioners
+context: corporate training and instructional design industry
+study_type: theoretical
 ---
 
 # The Attack on ISD -Gordon Zemke 2000

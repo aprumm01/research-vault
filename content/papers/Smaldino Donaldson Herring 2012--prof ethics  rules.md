@@ -1,9 +1,34 @@
 ---
-source_file: "EDU/r511/Smaldino_Donaldson_Herring_2012--prof ethics_&_rules.pdf"
+source_file: EDU/r511/Smaldino_Donaldson_Herring_2012--prof ethics_&_rules.pdf
 type: paper
-authors: "Unknown"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Unknown
+community: GenAI in UX and Design Practice
+tags: null
+year: 2012
+builds_on:
+- '[[frameworks/Value Sensitive Design]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- 'Ethical practice is essential to professional success in instructional technology
+  and is included as a core element in the AECT definition: ''Educational technology
+  is the study and ethical practice of facilitating learning and improving performance'''
+- AECT has been a leader since its inception in establishing a code of professional
+  ethics that members are expected to adhere to, with an ethics committee empowered
+  to censure, suspend, or expel members
+- 'IT professionals have three primary ethical commitments: to the individual (including
+  diversity, technology/resource selection, and personal rights), to society (honest
+  representation, attribution, avoiding conflicts of interest), and to the profession
+  (proactive membership, contributing to ethical understanding, reporting violations)'
+- IT professionals have an obligation to make contributions to the overall understanding
+  of ethical practice in the field
+methodology: null
+sample_size: null
+sample_type: null
+context: AECT professional organization and instructional design/educational technology
+  field
+study_type: theoretical
 ---
 
 # Smaldino Donaldson Herring 2012--prof ethics & rules

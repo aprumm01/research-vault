@@ -1,9 +1,36 @@
 ---
-source_file: "Optimizing employee roles in the era of generative AI  a multi-criteria decision-making analysis of co-creation dynamics.pdf"
+source_file: Optimizing employee roles in the era of generative AI  a multi-criteria
+  decision-making analysis of co-creation dynamics.pdf
 type: paper
-authors: "Cogent Social Sciences"
-community: "Responsible AI and Ethics"
-tags:
+authors: Cogent Social Sciences
+community: Responsible AI and Ethics
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Co-creation between humans and AI systems offers superior outcomes to replacement
+  models in organizational settings
+- AI adoption requires fundamental rethinking of employee roles and responsibilities
+  through systematic multi-criteria decision analysis
+- Organizations face critical decision points regarding workforce role optimization
+  that can be structured using AHP methodology
+- Human resource management patterns must evolve to accommodate AI capabilities while
+  balancing efficiency gains with human workforce capabilities
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Organizational human resource management and AI adoption
+study_type: theoretical
 ---
 
 # Optimizing employee roles in the era of generative AI a multi-criteria decision-making analysis of co-creation dynamics

@@ -1,9 +1,43 @@
 ---
-source_file: "2026/i609-sustainability/Toward a Life Cycle Assessment for the Carbon Footprint of Data-Mer.pdf"
+source_file: 2026/i609-sustainability/Toward a Life Cycle Assessment for the Carbon
+  Footprint of Data-Mer.pdf
 type: paper
-authors: "Gabriel Mersy, Sanjay Krishnan"
-community: "Sustainable Computing"
-tags: [sustainability, i609, data-lifecycle, carbon-footprint, green-computing]
+authors: Gabriel Mersy, Sanjay Krishnan
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- data-lifecycle
+- carbon-footprint
+- green-computing
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Approximately two-thirds of ICT emissions originate from user devices and networking
+  rather than data centers, representing a critical gap in current carbon accounting
+  methods
+- Carbon provenance defined as 'an automated life cycle assessment for the carbon
+  footprint of data' enables tracking emissions distributed across multiple entities
+  through HTTP-style carbon headers
+- Between 3394 and 5460 26-second videos captured via webcam produce carbon emissions
+  equivalent to driving an average gasoline passenger vehicle one mile on the MISO
+  grid
+- Network transfer between Midwest and social media data center generates emission
+  intensity of 1.51 g CO2 e/GB, requiring 268 GB to equal emissions from driving one
+  mile
+- Data wrinkles—progressive lossy approximations where 'error epsilon is traded for
+  a strictly-positive bit reduction beta > 0'—offer unexplored carbon reduction opportunities
+  across the data lifecycle
+methodology: '[[methods/Design-Based Research]]'
+sample_size: null
+sample_type: null
+context: Digital data lifecycle including IoT devices, data centers, and network infrastructure
+study_type: theoretical
 ---
 
 # Toward a Life Cycle Assessment for the Carbon Footprint of Data

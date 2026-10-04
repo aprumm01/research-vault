@@ -1,9 +1,43 @@
 ---
-source_file: "hiring and org practice/Industrial Designers in UX Practice - Motivations, Professionalization, and the Construction of Designer Identity.pdf"
+source_file: hiring and org practice/Industrial Designers in UX Practice - Motivations,
+  Professionalization, and the Construction of Designer Identity.pdf
 type: paper
-authors: "Industrial Designers in UX Practice:"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Industrial Designers in UX Practice:'
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Professional identity develops through open-ended, incomplete process constantly
+  refined through experience rather than discrete knowledge acquisition, viewed ontologically
+  as continuous 'becoming'
+- UX field's multidisciplinary openness creates employment opportunities but lacks
+  consensus on disciplinary knowledge, requiring informal community learning and active
+  identity negotiation
+- Traditional industrial design skills focusing on physical products don't directly
+  align with UX demands (visual interface, prototyping, coding, usability testing),
+  necessitating adaptation processes
+- Industrial design's holistic comprehensive approach inspires UX practitioners to
+  broaden understanding and avoid design fixation risks when transitioning between
+  domains
+- Designers construct multiple identities based on occupational rhetorics (art, engineering,
+  business) shaped by organizational culture, with motivation descriptions revealing
+  self-legitimization processes
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 14
+sample_type: industrial design graduates working in UX positions
+context: Turkey UX practice field
+study_type: empirical
 ---
 
 # Industrial Designers in UX Practice - Motivations, Professionalization, and the Construction of Designer Identity

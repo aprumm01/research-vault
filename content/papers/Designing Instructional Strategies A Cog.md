@@ -1,9 +1,37 @@
 ---
-source_file: "EDU/r511/Designing_Instructional_Strategies_A_Cog.pdf"
+source_file: EDU/r511/Designing_Instructional_Strategies_A_Cog.pdf
 type: paper
-authors: "CHAPTER SIXTEEN"
-community: "HCI Education and Pedagogy"
-tags:
+authors: CHAPTER SIXTEEN
+community: HCI Education and Pedagogy
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Constructivism]]'
+supports:
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+key_claims:
+- Strategy definition is the most critical phase of instructional design, as specifying
+  how content will be taught most directly affects learning outcomes
+- Effective instructional strategies must intentionally manage limited attention capacity
+  and support meaningful encoding into long-term memory through deliberate design
+- Transfer of learning requires explicit design that intentionally varies contexts,
+  examples, and applications rather than assuming automatic generalization
+- Instructional strategy decisions should derive from understanding of human information
+  processing mechanisms rather than intuition or tradition
+- Prior knowledge shapes new learning, requiring strategies that account for and build
+  on learners' existing schemas while addressing misconceptions
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Instructional design practice and theory
+study_type: theoretical
 ---
 
 # Designing Instructional Strategies A Cog

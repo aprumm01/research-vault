@@ -1,9 +1,45 @@
 ---
-source_file: "Art Education in the Era of Artificial Intelligence.pdf"
+source_file: Art Education in the Era of Artificial Intelligence.pdf
 type: paper
-authors: "JET Emerging Technologies in Learning"
-community: "HCI Education and Pedagogy"
-tags:
+authors: JET Emerging Technologies in Learning
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/Technological Determinism]]'
+critiques:
+- '[[concepts/Technological Anxiety]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- AI learning through neural networks mirrors human learning processes and should
+  not be considered copyright infringement, as it learns styles (ideas) rather than
+  copying expressions
+- Job displacement fears are unfounded—just as digitalization made designers more
+  specialized rather than obsolete, AI will create new specialized roles rather than
+  eliminate artistic professions
+- Human art retains core competitive advantages in emotional depth, narrative authenticity,
+  and connection to personal/cultural context that AI-generated work fundamentally
+  lacks
+- 'Art education must address two forms of student anxiety: uncertainty about core
+  artistic values in the AI era, and compliance confusion about software licenses
+  and open-source requirements'
+- Teachers' digital literacy deficits represent a critical obstacle to effective AI
+  pedagogy—younger teachers accept technology more readily, but many art educators
+  lack sufficient AI understanding to guide students
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: Anti-AI movement cases on ArtStation and GitHub, art school graduation
+  exhibitions, artist statements
+context: Contemporary art education and professional art communities, primarily Chinese
+  context with global AI policy comparison
+study_type: theoretical
 ---
 
 # Art Education in the Era of Artificial Intelligence

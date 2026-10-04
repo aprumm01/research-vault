@@ -1,9 +1,47 @@
 ---
-source_file: "EDU-AI/14th International Conference, DUXU 2025.pdf"
+source_file: EDU-AI/14th International Conference, DUXU 2025.pdf
 type: paper
-authors: "Martin Schrepp (Ed.)"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Martin Schrepp (Ed.)
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Peer Learning Erosion]]'
+supports:
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- Generative AI requires process-centric design education that prioritizes human creativity
+  and experience expertise over tool proficiency
+- Sequential approaches to teaching generative AI (traditional skills first, then
+  AI tools) better preserve design fundamentals and aesthetic sensibilities
+- HCI professionals face systemic barriers to adopting ethics practices despite recognizing
+  their importance
+- Design education must respond to rapid technological evolution by developing adaptable
+  skillsets rather than technology-specific training
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: Conference proceedings with diverse empirical and theoretical papers
+context: 14th International Conference on Design, User Experience, and Usability (DUXU
+  2025), part of HCI International Conference
+study_type: review
 ---
 
 # 14th International Conference, DUXU 2025

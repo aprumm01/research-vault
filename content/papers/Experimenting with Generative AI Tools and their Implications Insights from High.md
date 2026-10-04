@@ -1,9 +1,51 @@
 ---
-source_file: "ACM/Experimenting with Generative AI Tools and their Implications_Insights from High School UX Educators.pdf"
+source_file: ACM/Experimenting with Generative AI Tools and their Implications_Insights
+  from High School UX Educators.pdf
 type: paper
-authors: "Joshua Weinberg∗"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Joshua Weinberg∗
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Design Ideation]]'
+- '[[frameworks/Design Thinking]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Design Fixation]]'
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- 'GAI tools enable two distinct collaboration types: student-to-student (where GAI
+  output sparks deeper peer discussion due to unique iterations) and student-to-GAI
+  (where LLMs function as troubleshooting partners)'
+- GAI visualization tools merge ideation and visualization phases in design workflows,
+  potentially impacting development of foundational design skills like sketching and
+  manual brainstorming
+- Integration of GAI into high school curricula faces significant barriers including
+  negative sentiment from students and educators, fear of job replacement, and lack
+  of strategic organizational approaches characterized as a 'scattershot approach'
+- Positive learning outcomes observed may be linked to GAI's novelty factor and unpredictable
+  outputs rather than sustainable pedagogical value, raising questions about long-term
+  effectiveness as tools become commonplace
+- Critical GAI adoption in design education requires balancing efficiency gains with
+  preservation of foundational design skill development, particularly at the high
+  school level where students are building core competencies
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 8
+sample_type: high school UX educators with average 10 years teaching experience and
+  formal education in both design and education
+context: design-focused public and private high schools teaching grades 9-12 in three
+  northeastern US states
+study_type: empirical
 ---
 
 # Experimenting with Generative AI Tools and their Implications Insights from High School UX Educators

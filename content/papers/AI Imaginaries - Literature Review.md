@@ -1,9 +1,30 @@
 ---
-source_file: "AI Imaginaries - Literature Review.pdf"
+source_file: AI Imaginaries - Literature Review.pdf
 type: paper
-authors: "AI Imaginaries, Design Education, and"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: AI Imaginaries, Design Education, and
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- Artificial intelligence is reshaping the way design work is imagined, produced,
+  and evaluated
+- Expectations for what AI should do and how it should be used vary significantly
+  across the groups who depend on design
+- In many companies, AI is talked about as if it is a 'cash cow' that will either
+  help the company grow or drown it under a wave of new AI products that appear capable
+  of doing our work better than humans can
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Design education and practice transformation through AI
+study_type: review
 ---
 
 # AI Imaginaries - Literature Review

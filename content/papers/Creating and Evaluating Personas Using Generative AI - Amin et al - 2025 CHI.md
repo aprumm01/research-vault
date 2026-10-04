@@ -1,9 +1,42 @@
 ---
-source_file: "synth users/Creating and Evaluating Personas Using Generative AI - Amin et al - 2025 (CHI).pdf"
+source_file: synth users/Creating and Evaluating Personas Using Generative AI - Amin
+  et al - 2025 (CHI).pdf
 type: paper
-authors: "Danial Amin"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Danial Amin
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/Persona Development]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[frameworks/Human-Centered AI]]'
+supports:
+- '[[concepts/Circularity Risk]]'
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- 86% of GenAI persona studies rely exclusively on GPT models, limiting diversity
+  of approaches and creating potential monoculture in persona development practices
+- 45% of GenAI persona articles lack evaluation of their personas, representing a
+  critical gap in validation and quality assurance
+- 61% of articles share resources (personas, code, or datasets) demonstrating relatively
+  good reproducibility practices in an emerging field
+- Circularity risk emerges when the same GenAI model both generates and evaluates
+  personas, creating fundamental validation problems that undermine reliability
+- GenAI enables interpretive tasks like narrative writing and contextual summarization
+  in persona creation that previous automatic methods could not achieve, but risks
+  reducing essential human involvement and stakeholder engagement
+methodology: '[[methods/Literature Review]]'
+sample_size: 81
+sample_type: academic articles on GenAI in persona development
+context: published articles from 2022-2025 across five academic databases
+study_type: review
 ---
 
 # Creating and Evaluating Personas Using Generative AI - Amin et al - 2025 (CHI)

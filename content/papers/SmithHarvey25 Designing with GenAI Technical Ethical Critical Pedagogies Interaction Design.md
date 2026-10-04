@@ -1,9 +1,55 @@
 ---
-source_file: "Smi25.pdf"
+source_file: Smi25.pdf
 type: paper
-authors: "James Smith-Harvey"
-community: "AI in Design Education"
-tags:
+authors: James Smith-Harvey
+community: AI in Design Education
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Studio Pedagogy]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Metacognitive Laziness]]'
+supports:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Intellectual Independence]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- Effective AI integration in interaction design education requires three simultaneous
+  pedagogical registers—technical, ethical, and critical—rather than treating AI as
+  simply a new tool to add to existing workflows
+- Vibe coding represents a genuinely new design paradigm in which natural language
+  prompt articulation becomes a core design skill, requiring interaction designers
+  to develop competencies that bridge design intent and AI interpretation
+- Documentation requirements (digital workbooks, APA-style citation of AI use including
+  prompts) serve as pedagogical devices that develop transparency habits and metacognitive
+  awareness of AI's role in student work
+- Framing AI as an ethical subject in design education—through discussions of bias,
+  Māori and indigenous knowledge sensitivities, environmental impact, and authorship
+  questions—prepares students to be critical practitioners rather than uncritical
+  adopters
+- The experiential and reflective learning approach is particularly well-suited to
+  AI pedagogy because it structures critical examination of AI interactions as a learning
+  practice, preventing the uncritical passive consumption that unreflective tool use
+  encourages
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: first-year Bachelor of Interaction Design students
+context: Auckland University of Technology (AUT), New Zealand, two 30-point, 13-week
+  first-year studio courses
+study_type: design
 ---
 
 # Designing with Generative AI: Towards Technical, Ethical, and Critical Pedagogies in Interaction Design

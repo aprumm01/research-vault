@@ -1,9 +1,36 @@
 ---
-source_file: "Making the Right Thing - Bridging HCI and Responsible AI in Early-Stage AI Concept Selection.pdf"
+source_file: Making the Right Thing - Bridging HCI and Responsible AI in Early-Stage
+  AI Concept Selection.pdf
 type: paper
-authors: "Early-Stage AI Concept Selection"
-community: "AI and Future of Work"
-tags:
+authors: Early-Stage AI Concept Selection
+community: AI and Future of Work
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Design Thinking]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Many AI project failures stem from early-stage concept selection decisions rather
+  than execution issues
+- Both HCI and RAI research emphasize early-stage importance but lack practical tools
+  for concept evaluation in commercial settings
+- Early concept sorting can effectively reflect RAI principles if properly designed,
+  enabling 'making the right thing' before 'making things right'
+- Commercial constraints require balance between RAI ideals and practical feasibility,
+  necessitating implementable evaluation methods
+- Integrating RAI considerations at the concept selection stage prevents downstream
+  ethical issues more effectively than later-stage interventions
+methodology: '[[methods/Research through Design]]'
+sample_size: null
+sample_type: commercial AI development teams
+context: commercial AI development settings
+study_type: design
 ---
 
 # Making the Right Thing - Bridging HCI and Responsible AI in Early-Stage AI Concept Selection

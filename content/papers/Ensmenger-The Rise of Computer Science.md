@@ -1,9 +1,46 @@
 ---
-source_file: "Ensmenger-The Rise of Computer Science.pdf"
+source_file: Ensmenger-The Rise of Computer Science.pdf
 type: paper
-authors: "The Rise of Computer Science"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: The Rise of Computer Science
+community: GenAI in UX and Design Practice
+tags: null
+year: 2010
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Actor-Network Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Problem Framing]]'
+key_claims:
+- Computer science's rise as a discipline was not technologically inevitable but resulted
+  from messy compromises about what academic computing should look like and how it
+  should relate to established disciplines and industry
+- Early computer scientists succeeded by pursuing a deliberate strategy of theoretical
+  abstraction—focusing on algorithms and mathematical theory rather than hardware—which
+  served them well within universities but increasingly alienated them from industry
+  practitioners
+- The algorithm emerged as computer science's fundamental unit of analysis, positioning
+  the discipline alongside fundamental sciences by linking it to ancient mathematical
+  traditions (al-Khwārizmī) rather than practical engineering
+- Computer science succeeded academically (20% annual growth in degrees, 5% of male
+  undergraduates by 1975) but failed to professionalize data processing—employers
+  preferred MBAs over CS graduates, viewing academic programs as disconnected from
+  commercial computing realities
+- The theoretical turn embedded in Curriculum '68 treated programming skill as mere
+  'by-product' rather than main purpose, with industry complaining graduates were
+  interested in 'playing games, making fancy programs that really do not work' rather
+  than practical engineering
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Historical analysis of computer science discipline formation in elite US
+  research universities (Harvard, MIT, Princeton, Columbia, University of Pennsylvania)
+  between 1955-1975
+study_type: theoretical
 ---
 
 # Ensmenger-The Rise of Computer Science

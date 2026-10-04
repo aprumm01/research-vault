@@ -1,9 +1,48 @@
 ---
-source_file: "CHATGPT AS A TOOL IN HIGHER EDUCATION – ANALYSIS OF STUDENT UTILIZATION AND PERCEPTION.pdf"
+source_file: CHATGPT AS A TOOL IN HIGHER EDUCATION – ANALYSIS OF STUDENT UTILIZATION
+  AND PERCEPTION.pdf
 type: paper
-authors: "Liwia DELIŃSKA*, Zuzanna MINGA"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Liwia DELIŃSKA*, Zuzanna MINGA
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/AI Literacy Dimensions]]'
+critiques: []
+tensions_with:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Intellectual Independence]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Complacency Risk]]'
+key_claims:
+- Students primarily use ChatGPT for quick information retrieval, writing assistance,
+  and idea refinement, valuing efficiency and potential quality improvements, but
+  concerns emerge regarding content reliability and negative effects on creativity
+  and critical thinking skills
+- Perceived usefulness, ease of use, feedback quality, evaluation practices, and social
+  norms significantly influence positive attitudes and behavioral intentions toward
+  ChatGPT adoption, moderated by cultural factors (morality, religion) and personal
+  characteristics (gender, age)
+- AI-generated text indistinguishable from human writing facilitates plagiarism and
+  contract cheating, posing serious assessment validity concerns and requiring urgent
+  institutional policy development for ethical AI use
+- ChatGPT-4 (2024) confirmed to operate consistently with human behavior in Stanford
+  studies, exhibiting significantly more altruistic and cooperative behavior than
+  humans and achieving Turing Test benchmarks
+- Trust concerns arise from ChatGPT's response biases, limited knowledge, lack of
+  emotional intelligence, and incomplete understanding of complex tasks, creating
+  adoption barriers despite productivity and engagement benefits
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 260
+sample_type: full-time undergraduate and graduate students (66.9% female)
+context: Faculty of Management, University of Gdańsk, Poland
+study_type: empirical
 ---
 
 # CHATGPT AS A TOOL IN HIGHER EDUCATION – ANALYSIS OF STUDENT UTILIZATION AND PERCEPTION

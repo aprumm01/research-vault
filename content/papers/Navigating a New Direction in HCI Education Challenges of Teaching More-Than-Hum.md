@@ -1,9 +1,43 @@
 ---
-source_file: "ACM/Navigating a New Direction in HCI Education_Challenges of Teaching More-Than-Human Perspectives.pdf"
+source_file: ACM/Navigating a New Direction in HCI Education_Challenges of Teaching
+  More-Than-Human Perspectives.pdf
 type: paper
-authors: "Teaching More-Than-Human Perspectives"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Teaching More-Than-Human Perspectives
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Action Research]]'
+critiques:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[frameworks/Human-Centered Design]]'
+supports:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Problem Framing]]'
+key_claims:
+- Teaching more-than-human perspectives in HCI presents ongoing challenges that are
+  only partially addressed through developed teaching activities, with new challenges
+  emerging around the gap between curriculum and industry expectations
+- Students experience feelings of hopelessness when confronted with the notion that
+  technology may not fix all problems, creating pedagogical tension between critical
+  perspectives and student comfort
+- Pilot studies with nearly 800 students across various educational settings demonstrate
+  that more-than-human thinking requires a fundamental shift from human-centered design
+  approaches
+- A significant gap exists between teaching critical posthumanist perspectives in
+  HCI education and industry expectations for graduating students
+- Multiple educational settings require adapted approaches to teaching non-anthropocentric
+  design, with recurring patterns emerging across different contexts
+methodology: '[[methods/Action Research]]'
+sample_size: 800
+sample_type: HCI and technology design students across multiple educational settings
+context: Various HCI and technology design educational settings with pilot teaching
+  activities
+study_type: empirical
 ---
 
 # Navigating a New Direction in HCI Education Challenges of Teaching More-Than-Human Perspectives

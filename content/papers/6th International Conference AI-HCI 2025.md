@@ -1,9 +1,44 @@
 ---
-source_file: "EDU-AI/6th International Conference AI-HCI 2025.pdf"
+source_file: EDU-AI/6th International Conference AI-HCI 2025.pdf
 type: paper
-authors: "Helmut Degen"
-community: "Design Theory and Cognition"
-tags:
+authors: Helmut Degen
+community: Design Theory and Cognition
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Frame Analysis]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Creativity Support Tools]]'
+key_claims:
+- Context-aware AI systems significantly enhance user performance, memory, and emotional
+  well-being in navigation and spatial tasks
+- Partisan media framing of generative AI influences public engagement differently,
+  with conservative media using more positive/trusting language than liberal outlets
+- AI-generated content can effectively support emotional recall and reduce cognitive
+  load when dynamically adapted to context
+- Generative AI tools can enhance creative workflows and design education when properly
+  integrated with hands-on learning
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: 'Various: experimental participants, media texts, enterprise users, design
+  students (varies by paper)'
+context: Conference proceedings across HCI, design education, cultural heritage, health,
+  and everyday AI application contexts
+study_type: review
 ---
 
 # 6th International Conference AI-HCI 2025

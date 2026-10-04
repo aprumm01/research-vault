@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/Brush1998_Article_EmbeddingCooperativeLearningIn.pdf"
+source_file: EDU/Brush1998_Article_EmbeddingCooperativeLearningIn.pdf
 type: paper
-authors: "Embedding Cooperative Learning into the"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Embedding Cooperative Learning into the
+community: HCI Education and Pedagogy
+tags: null
+year: 1998
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+critiques: []
+tensions_with:
+- '[[concepts/Social Isolation (AI-induced)]]'
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Studio Pedagogy]]'
+key_claims:
+- ILSs show moderate positive effects on achievement but create student isolation,
+  reduce teacher involvement in curriculum planning/delivery, and have disparate effects
+  based on academic level (helping low/high achievers but not middle achievers)
+- Most ILSs are designed based on individualized instruction theory perpetuating behaviorist
+  approaches, with no ILS systems overtly embedding cooperative learning opportunities
+  into courseware despite research showing cooperative learning improves social interaction
+  skills and has positive academic effects for students of all ability levels
+- 'Effective integration of cooperative learning into ILS design requires embedding
+  three key components: (1) positive interdependence through goal/reward structures
+  and role assignments, (2) individual accountability through testing and evaluation,
+  and (3) explicit teaching of collaborative skills through pre-instructional activities
+  and embedded prompts'
+- The tension between ILS's individualized pacing (students progressing at different
+  rates through different content) and cooperative learning's group cohesion (students
+  working together on shared tasks) creates implementation challenges including logistical
+  difficulties in computer labs and teacher role ambiguity
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: K-12 educational technology, specifically Integrated Learning Systems implementation
+study_type: theoretical
 ---
 
 # Brush1998 Article EmbeddingCooperativeLearningIn

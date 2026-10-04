@@ -1,9 +1,44 @@
 ---
-source_file: "EDU/Educating for design character in higher education_ Challenges in.pdf"
+source_file: EDU/Educating for design character in higher education_ Challenges in.pdf
 type: paper
-authors: "Design Research Society"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Design Research Society
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Studio Pedagogy]]'
+- '[[frameworks/Phenomenology]]'
+- '[[frameworks/Critical Theory]]'
+critiques: []
+tensions_with:
+- '[[frameworks/Cognitive Load]]'
+supports:
+- '[[concepts/Studio Pedagogy]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Reflexive Delegation]]'
+- '[[concepts/Intellectual Independence]]'
+key_claims:
+- Educating for design character requires attending to students' beliefs, experiences,
+  and judgment beyond cognitive processes and technical skills, creating unique pedagogical
+  challenges distinct from traditional skills-based instruction
+- Power relationships between instructor and student in studio environments are not
+  complications to be minimized but pedagogically significant forces requiring active
+  negotiation for educational purposes
+- Recognizing and managing productive pain in design learning requires continuous
+  examination of studio practices to distinguish necessary discomfort from unproductive
+  suffering that should be eliminated
+- Students' varied approaches to design legitimately differ and signal distinct professional
+  identities rather than errors to be corrected, foreshadowing future designer types
+  rather than indicating developmental deficits
+- Once attending to design character rather than just cognition, instructors must
+  recognize their own character and inhabit teaching roles consistent with their values
+  through reflexive practice
+methodology: '[[methods/Ethnography]]'
+sample_size: 3
+sample_type: design educators with 20+ combined years studio teaching experience across
+  instructional design, UX design, and interior design
+context: Higher education studio-based design programs
+study_type: theoretical
 ---
 
 # Educating for design character in higher education Challenges in

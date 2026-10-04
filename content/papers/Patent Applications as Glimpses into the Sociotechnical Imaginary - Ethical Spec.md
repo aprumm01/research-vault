@@ -1,9 +1,42 @@
 ---
-source_file: "EDU/lit review documents/Patent Applications as Glimpses into the Sociotechnical Imaginary - Ethical Speculation on the Imagined Futures of Emotion AI for Mental Health Monitoring and Detection.pdf"
+source_file: EDU/lit review documents/Patent Applications as Glimpses into the Sociotechnical
+  Imaginary - Ethical Speculation on the Imagined Futures of Emotion AI for Mental
+  Health Monitoring and Detection.pdf
 type: paper
-authors: "Imaginary: Ethical Speculation on the Imagined Futures of"
-community: "Design Theory and Cognition"
-tags:
+authors: 'Imaginary: Ethical Speculation on the Imagined Futures of'
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- Patent applications reveal how inventors legitimize emotion AI as solutions to data
+  accuracy, care provision, patient-provider communication, emotion regulation, and
+  preventing harms in mental health contexts
+- Emotion AI patents for mental health stigmatize mental health conditions by equating
+  them with propensity for crime and framing individuals as unpredictable and lacking
+  agency
+- Emotion AI promises in patents constitute 'snake oil' - technologies claim capabilities
+  that contradict established scientific critiques of emotion detection
+- Patent applications configure rights, responsibilities, and behaviors of users through
+  data subjectification, shaping how individuals with mental health conditions are
+  understood and treated
+- Ethical speculation is needed in patent review processes before harmful sociotechnical
+  imaginaries embedded in emotion AI applications become reality
+methodology: '[[methods/Content Analysis]]'
+sample_size: 58
+sample_type: U.S. patent applications for emotion AI technologies addressing mental
+  health monitoring and detection
+context: U.S. patent application system for emerging emotion AI technologies
+study_type: empirical
 ---
 
 # Patent Applications as Glimpses into the Sociotechnical Imaginary - Ethical Speculation on the Imagined Futures of Emotion AI for Mental Health Monitoring and Detection

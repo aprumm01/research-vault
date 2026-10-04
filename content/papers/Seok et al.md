@@ -1,15 +1,49 @@
 ---
-source_file: "Seok_et_al.pdf"
+source_file: Seok_et_al.pdf
 type: paper
-authors: "Soonhwa Seok, Boaventura Dacosta, Carolyn Kinsell, John C. Poggio, Edward L. Meyen"
-community: "HCI Education and Pedagogy"
+authors: Soonhwa Seok, Boaventura Dacosta, Carolyn Kinsell, John C. Poggio, Edward
+  L. Meyen
+community: HCI Education and Pedagogy
 tags:
-  - learning-disabilities
-  - intersensory-learning
-  - computer-mediated-learning
-  - educational-technology
-  - inclusive-education
-  - hemispheric-brain-functions
+- learning-disabilities
+- intersensory-learning
+- computer-mediated-learning
+- educational-technology
+- inclusive-education
+- hemispheric-brain-functions
+year: 2010
+builds_on:
+- '[[frameworks/Universal Design for Learning]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Cognitive Load]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Deep Learning (Educational)]]'
+key_claims:
+- Both the right and left hemispheres work together, in a complementary fashion, to
+  process language mutually and in parallel, contrary to the myth that only the left
+  hemisphere controls language-related information
+- If we can facilitate the development of both hemispheres, students with LDs can
+  learn better and can close the performance gaps they typically experience in the
+  inclusive classroom
+- Computers as mindtools play an important role in instructional design and the development
+  of programs to facilitate students' multi-sensory latent abilities in the digital
+  age by presenting information through visual, auditory or tactile modes simultaneously
+- The visual cortex is located in both hemispheres of the brain and closely influences
+  the auditory, motor, and senses in both hemispheres because they are connected,
+  enabling intersensory holistic activities to be enhanced
+- Students with LDs experience deficits in aural and visual processing of language,
+  limitations in phonological processing, and deficiencies in information processing
+  affecting working memory and long-term memory, but these deficits can be compensated
+  for by strengths in other areas
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Theoretical model development for K-12 inclusive education with students
+  with learning disabilities
+study_type: theoretical
 ---
 
 # Computer-Mediated Intersensory Learning Model for Students with Learning Disabilities

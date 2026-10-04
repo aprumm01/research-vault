@@ -1,9 +1,37 @@
 ---
-source_file: "History/methodology-legend-and-rhetoric-the-constructions-of-ai-by-academia-industry-eynon-young-2020.pdf"
+source_file: History/methodology-legend-and-rhetoric-the-constructions-of-ai-by-academia-industry-eynon-young-2020.pdf
 type: paper
-authors: "Original Article"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Original Article
+community: GenAI in UX and Design Practice
+tags: null
+year: 2020
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Frame Analysis]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- AI is constructed in fundamentally different ways by academia and industry stakeholders,
+  with these differences having significant social and educational implications
+- Educational policy simultaneously frames AI as both a future condition requiring
+  preparation through lifelong learning and as a technological solution for delivering
+  that learning
+- Methodology, legend, and rhetoric serve as three distinct modes through which AI
+  is constructed and promoted by different stakeholder groups
+- Academic and industry framings of AI serve different interests and purposes, shaping
+  how AI is understood and implemented in educational contexts
+- Understanding varied stakeholder constructions of AI is essential for responsible
+  AI development in education
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: academia and industry stakeholders
+context: AI discourse in education and policy contexts
+study_type: empirical
 ---
 
 # methodology-legend-and-rhetoric-the-constructions-of-ai-by-academia-industry-eynon-young-2020

@@ -1,12 +1,42 @@
 ---
-source_file: "Making the Right Thing - Bridging HCI and Responsible AI in Early-Stage AI Concept Selection.pdf"
+source_file: Making the Right Thing - Bridging HCI and Responsible AI in Early-Stage
+  AI Concept Selection.pdf
 type: paper
-authors: "Jung et al."
-community: "Responsible AI and Ethics"
+authors: Jung et al.
+community: Responsible AI and Ethics
 tags:
-  - responsible-ai
-  - design-methods
-  - early-stage
+- responsible-ai
+- design-methods
+- early-stage
+year: 2024
+builds_on:
+- '[[methods/Research through Design]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- Most AI ethics work focuses on deployment-stage interventions; early-stage concept
+  selection is an underexplored and high-leverage intervention point for embedding
+  Responsible AI principles
+- Practitioners can effectively assess Responsible AI concerns when given appropriate
+  tools and multidisciplinary framing during concept selection
+- Design-led approaches can surface ethical considerations that technical and business
+  framings miss in AI innovation pipelines
+- Low-risk, high-benefit AI concepts are identifiable at early stages and should be
+  prioritized before substantial investment is made
+- Multidisciplinary collaboration and structured risk-benefit evaluation tools help
+  practitioners effectively identify low-risk, high-benefit AI concepts
+methodology: '[[methods/Research through Design]]'
+sample_size: null
+sample_type: industry practitioners involved in AI development
+context: early-stage AI concept development in industry settings
+study_type: design
 ---
 
 # Making the Right Thing: HCI and Responsible AI (Jung et al. CMU)

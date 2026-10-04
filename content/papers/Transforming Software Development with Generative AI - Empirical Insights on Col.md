@@ -1,9 +1,44 @@
 ---
-source_file: "AI collaboration related articles/Transforming Software Development with Generative AI - Empirical Insights on Collaboration and Workflow.pdf"
+source_file: AI collaboration related articles/Transforming Software Development with
+  Generative AI - Empirical Insights on Collaboration and Workflow.pdf
 type: paper
-authors: "Transforming Software Development with"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Transforming Software Development with
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[concepts/Prompt Engineering]]'
+critiques: []
+tensions_with:
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/Social Isolation (AI-induced)]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI Tool Dependence]]'
+key_claims:
+- GenAI fundamentally transforms developer workflow by reducing interruptions to colleagues
+  and providing immediate feedback, with threshold for asking AI significantly lower
+  than asking colleagues
+- Individual productivity gains come at cost of team performance degradation as reduced
+  peer interaction disrupts knowledge sharing and continuous learning loops in agile
+  teams
+- Pair prompt engineering emerges as new collaborative practice analogous to pair
+  programming, creating new competence requirements for quality AI outputs
+- GenAI enables cross-disciplinary skill boundary crossing with data scientists coding
+  and frontend developers tackling backend tasks through AI-enabled knowledge dissemination
+- Potential isomorphic team structure risk where individual goals supersede team goals
+  as developers focus on individual modules with diminished team awareness
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 13
+sample_type: data scientists, managers, developers, designers, and frontend developers
+context: multiple companies using GenAI tools (ChatGPT, GitHub Copilot) in software
+  development
+study_type: empirical
 ---
 
 # Transforming Software Development with Generative AI - Empirical Insights on Collaboration and Workflow

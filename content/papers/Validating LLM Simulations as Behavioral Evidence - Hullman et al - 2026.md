@@ -1,9 +1,44 @@
 ---
-source_file: "synth users/Validating LLM Simulations as Behavioral Evidence - Hullman et al - 2026.pdf"
+source_file: synth users/Validating LLM Simulations as Behavioral Evidence - Hullman
+  et al - 2026.pdf
 type: paper
-authors: "Jessica Hullman"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Jessica Hullman
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Synthetic Users]]'
+critiques:
+- '[[concepts/AI Augmentation]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Fauxtomation]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- Heuristic validation approaches that treat LLM and human samples as interchangeable
+  based on partial evidence alignment are insufficient for confirmatory research because
+  they cannot guarantee absence of systematic bias
+- Statistical calibration combining auxiliary human data with LLM predictions through
+  statistical adjustment can yield unbiased estimates at lower cost than human-only
+  studies under explicit assumptions
+- Current research discourse is myopically focused on LLM-human substitution, overlooking
+  opportunities to use LLMs for theory development, hypothesis generation, and design
+  analysis
+- 53+ empirical studies comparing LLM simulations to human participants employ diverse
+  validation metrics (effect direction/significance, correlation, predictive accuracy,
+  distributional similarity, Turing tests, theoretical consistency, expert appraisal)
+  with different implications for validity
+- 'Context matters critically for validation: the scope of generalization (near vs
+  far) and research purpose (exploratory vs confirmatory) determine appropriate validation
+  strategies'
+methodology: '[[methods/Literature Review]]'
+sample_size: 53
+sample_type: empirical studies comparing LLM simulations to human participants
+context: social science experiments and behavioral research
+study_type: review
 ---
 
 # Validating LLM Simulations as Behavioral Evidence - Hullman et al - 2026

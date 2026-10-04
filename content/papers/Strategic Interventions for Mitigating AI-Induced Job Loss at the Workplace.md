@@ -1,9 +1,38 @@
 ---
-source_file: "Strategic Interventions for Mitigating AI-Induced Job Loss at the Workplace.pdf"
+source_file: Strategic Interventions for Mitigating AI-Induced Job Loss at the Workplace.pdf
 type: paper
-authors: "Unknown"
-community: "AI and Future of Work"
-tags:
+authors: Unknown
+community: AI and Future of Work
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-managerial Labor]]'
+key_claims:
+- Approximately 30% of global jobs could be automated by 2030s, disproportionately
+  affecting low-skilled workers
+- 'AI creates dual impact: displaces routine jobs in manufacturing, logistics, and
+  retail while creating high-tech opportunities in AI development, cybersecurity,
+  and robotics'
+- Job polarization results in growth of high-skill and low-skill jobs with decline
+  in middle-skill jobs
+- Without policy intervention, AI adoption will exacerbate income inequalities and
+  require social safety nets including universal basic income and wage subsidies
+- Reskilling and upskilling initiatives using personalized AI-enabled training platforms
+  are critical for workforce adaptation to AI-induced displacement
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Global labor markets across multiple industries including manufacturing,
+  logistics, retail, and high-tech sectors
+study_type: review
 ---
 
 # Strategic Interventions for Mitigating AI-Induced Job Loss at the Workplace

@@ -1,9 +1,37 @@
 ---
-source_file: "ACM/Understanding the Past, Present, and Future of Design Fictions.pdf"
+source_file: ACM/Understanding the Past, Present, and Future of Design Fictions.pdf
 type: paper
-authors: "CHI  Workshop Summary"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: CHI  Workshop Summary
+community: GenAI in UX and Design Practice
+tags: null
+year: 2020
+builds_on:
+- '[[frameworks/Participatory Design]]'
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Epistemic Agency]]'
+- '[[frameworks/Value Sensitive Design]]'
+key_claims:
+- Design fiction has reached critical mass in HCI requiring reflection and agenda-setting
+  rather than single definition
+- Current diversity in design fiction practices stems from different political and
+  epistemic commitments about authorship
+- Historical lineages of design fiction extend far beyond commonly cited origins in
+  Dunne and Raby or Sterling, with roots in participatory design traditions
+- Evaluation criteria for design fiction submissions remain unclear due to diversity
+  of forms and purposes, requiring community-developed guidelines
+- Design fictions serve multiple functions spanning functional, aesthetic, pragmatic,
+  and political communication purposes with embedded power dynamics in who creates
+  and interprets them
+methodology: '[[methods/Participatory Design]]'
+sample_size: null
+sample_type: null
+context: CHI 2020 workshop proposal for HCI research community
+study_type: theoretical
 ---
 
 # Understanding the Past, Present, and Future of Design Fictions

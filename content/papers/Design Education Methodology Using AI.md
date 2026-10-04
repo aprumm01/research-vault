@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/lit review documents/Design Education Methodology Using AI.pdf"
+source_file: EDU/lit review documents/Design Education Methodology Using AI.pdf
 type: paper
-authors: "Design Education Methodology Using AI"
-community: "AI in Design Education"
-tags:
+authors: Design Education Methodology Using AI
+community: AI in Design Education
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Divergent Thinking]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Design Ideation]]'
+key_claims:
+- GAI enhances creativity by catalyzing novel ideas, diversifying design variations,
+  and expediting exploration of complex alternatives within constrained timeframes
+- Three-stage methodology (perception, inspiration, creation) essential for effective
+  AI integration in design education, with each stage requiring distinct pedagogical
+  approaches
+- AI enables designers to achieve unique work characterized by individual personality
+  while leveraging computational power, positioning AI as augmentation tool not replacement
+  for human creativity
+- Efficiency gains from automating repetitive tasks (prototyping, rendering, documentation)
+  allow designers to focus on creative aspects and enable faster iteration cycles
+- Major implementation barriers include need for specialized AI training, prompt engineering
+  mastery, ethical considerations around ownership/originality, and algorithmic biases
+  affecting output diversity
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: design education workshop attendees
+context: Egyptian design education workshops
+study_type: empirical
 ---
 
 # Design Education Methodology Using AI

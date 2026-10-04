@@ -1,9 +1,38 @@
 ---
-source_file: "Designing job characteristics for effective hybrid intelligence.pdf"
+source_file: Designing job characteristics for effective hybrid intelligence.pdf
 type: paper
-authors: "Personnel Review"
-community: "AI and Future of Work"
-tags:
+authors: Personnel Review
+community: AI and Future of Work
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[concepts/Hybrid Intelligence]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- Traditional job design principles developed for human-only work require adaptation
+  when AI becomes a work partner rather than just a tool
+- Hybrid intelligence succeeds when job design intentionally leverages distinct human
+  and AI capabilities through complementarity rather than substitution
+- Autonomy in hybrid work contexts requires redefinition beyond traditional frameworks,
+  as AI recommendations and constraints complicate human decision-making authority
+- Effective hybrid jobs require clear task boundaries delineating which tasks humans
+  own, which AI handles autonomously, and which require collaborative human-AI interaction
+- Workers in hybrid intelligence roles need design supporting development of AI collaboration
+  competencies—prompting, interpreting outputs, knowing when to override AI—alongside
+  domain expertise
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: workers in AI-augmented roles, managers designing hybrid work, and possibly
+  AI system designers
+context: multiple organizational or sectoral contexts examining job characteristics
+  for human-AI collaboration
+study_type: empirical
 ---
 
 # Designing job characteristics for effective hybrid intelligence

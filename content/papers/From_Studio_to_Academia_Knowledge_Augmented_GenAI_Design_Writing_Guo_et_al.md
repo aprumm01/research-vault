@@ -1,9 +1,53 @@
 ---
-source_file: "From the Studio to Academia Design and Evaluation of a Knowledge-Augmented GenAI System to Empower Design Undergraduates_ Design Research Writing.pdf"
+source_file: From the Studio to Academia Design and Evaluation of a Knowledge-Augmented
+  GenAI System to Empower Design Undergraduates_ Design Research Writing.pdf
 type: paper
-authors: "Wenchen Guo, Yiyang Zhang, Huizi Han, Hailiang Wang"
-community: "AI in Design Education"
-tags:
+authors: Wenchen Guo, Yiyang Zhang, Huizi Han, Hailiang Wang
+community: AI in Design Education
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[concepts/Problem Framing]]'
+- '[[frameworks/Human-Centered AI]]'
+critiques:
+- '[[concepts/AI Hallucinations]]'
+- '[[concepts/Cognitive Offloading]]'
+tensions_with:
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/Illusion of Competence]]'
+supports:
+- '[[concepts/Pedagogical Scaffolding]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Critical Thinking]]'
+- '[[frameworks/Studio Pedagogy]]'
+key_claims:
+- Domain-specific knowledge-augmented GenAI systems using RAG architecture outperform
+  generic models for design research writing by reducing hallucinations and providing
+  discipline-relevant guidance grounded in curated academic resources
+- The 2025 cohort using the RAG system showed stronger performance in problem definition
+  and analytical quality compared to the 2023 baseline cohort without AI assistance,
+  providing empirical evidence for the scaffolding effect
+- Students' needs evolved from seeking direct answers ('write this for me') to seeking
+  scaffolding for critical thinking ('help me think through this argument'), demonstrating
+  a developmental trajectory toward deeper engagement
+- Methodological execution showed limited improvement despite system use, suggesting
+  GenAI systems have boundaries in supporting research design decisions that require
+  deep methodological training rather than knowledge retrieval
+- 'Three essential design principles for effective GenAI writing support: disciplinary
+  specificity (domain-grounded outputs), pedagogical scaffolding (process-oriented
+  assistance), and integrity guardrails (academic appropriateness)'
+methodology: '[[methods/Quasi-Experimental]]'
+sample_size: 16
+sample_type: Design undergraduates (10 papers reviewed, 6 students interviewed)
+context: Design Research Methods course, Product Design program, Hong Kong Polytechnic
+  University
+study_type: empirical
 ---
 
 # From the Studio to Academia: Design and Evaluation of a Knowledge-Augmented GenAI System to Empower Design Undergraduates' Design Research Writing

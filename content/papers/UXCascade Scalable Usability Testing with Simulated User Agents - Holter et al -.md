@@ -1,14 +1,50 @@
 ---
-source_file: "synth users/UXCascade Scalable Usability Testing with Simulated User Agents - Holter et al - 2026.pdf"
+source_file: synth users/UXCascade Scalable Usability Testing with Simulated User
+  Agents - Holter et al - 2026.pdf
 type: paper
-authors: "Steffen Holter, Eunyee Koh, Mustafa Doga Dogan, Gromit Yeuk-Yin Chan"
-community: "GenAI in UX and Design Practice"
+authors: Steffen Holter, Eunyee Koh, Mustafa Doga Dogan, Gromit Yeuk-Yin Chan
+community: GenAI in UX and Design Practice
 tags:
-  - synthetic-users
-  - usability-testing
-  - LLM-agents
-  - persona-simulation
-  - iterative-design
+- synthetic-users
+- usability-testing
+- LLM-agents
+- persona-simulation
+- iterative-design
+year: 2026
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[methods/Think-Aloud Protocol]]'
+- '[[methods/Persona Development]]'
+- '[[concepts/Synthetic Users]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- UXCascade performs comparably to human-generated feedback in issue discovery rates
+  when evaluated with 8 UX professionals on a custom website with seeded usability
+  issues
+- Traditional usability testing is too slow for AI-assisted rapid iteration cycles
+  that can generate interface variations in seconds, creating a mismatch between design
+  velocity and evaluation speed
+- LLM-based simulated user agents produce rich but unstructured outputs (action logs,
+  think-aloud reasoning) that are difficult to act upon without systematic aggregation
+  and distillation
+- Five-stage workflow (grouping intentions, comparing personas, distilling issues,
+  supporting edit-in-loop iteration) enables top-down exploration from patterns to
+  concrete UX interventions
+- 'System is viable as complement to human-centered methods for early-stage evaluation
+  but should not replace human studies: ''I don''t think the AI could ever replace
+  a human study. But it could be one more data point'''
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 13
+sample_type: UX professionals (5 in formative study with mean 12 years experience,
+  8 in evaluation study)
+context: Professional UX practice, usability testing workflows
+study_type: empirical
 ---
 
 # UXCascade Scalable Usability Testing with Simulated User Agents - Holter et al - 2026

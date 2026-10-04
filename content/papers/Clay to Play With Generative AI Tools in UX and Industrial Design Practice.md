@@ -1,9 +1,47 @@
 ---
-source_file: "2026/”Clay to Play With” Generative AI Tools in UX and Industrial Design Practice.pdf"
+source_file: 2026/”Clay to Play With” Generative AI Tools in UX and Industrial Design
+  Practice.pdf
 type: paper
-authors: "Unknown"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Unknown
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Activity Theory]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Creative Ambiguity]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Ownership Ambiguity]]'
+- '[[concepts/Reflexive Delegation]]'
+key_claims:
+- Professional designers conceptualize GAI tools as 'clay to play with'—malleable
+  creative material for exploration rather than deterministic production tools, emphasizing
+  experimentation over finalized outputs
+- Concerns about intellectual property, client expectations, and professional credibility
+  create barriers to GAI adoption in client-facing work, even when designers find
+  tools personally useful
+- Designers with longer professional tenure show more cautious, critical GAI adoption
+  compared to those earlier in careers, suggesting experience-based differences in
+  technology integration
+- Designers strategically adopt GAI for specific tasks (ideation, variation generation,
+  inspiration) while maintaining traditional methods for client deliverables, reflecting
+  selective tool appropriation based on task fit
+- Designers emphasize maintaining creative control and decision-making authority when
+  using GAI, resisting tools that feel like they replace rather than augment human
+  judgment
+methodology: '[[methods/Interview]]'
+sample_size: 10
+sample_type: UX and industrial design specialists with varying tenure and GAI experience
+context: Professional design practice
+study_type: empirical
 ---
 
 # ”Clay to Play With” Generative AI Tools in UX and Industrial Design Practice

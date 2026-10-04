@@ -1,9 +1,32 @@
 ---
-source_file: "EDU/Kirkpatrick_evaluating_training_programs copy.pdf"
+source_file: EDU/Kirkpatrick_evaluating_training_programs copy.pdf
 type: paper
-authors: "THE FOUR LEVELS"
-community: "AI and Future of Work"
-tags:
+authors: THE FOUR LEVELS
+community: AI and Future of Work
+tags: null
+year: 1994
+builds_on: []
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Training evaluation requires assessment at multiple levels, not just participant
+  satisfaction, with four distinct levels providing comprehensive framework from immediate
+  reactions to business results
+- Each evaluation level builds on previous levels in importance and difficulty, with
+  Level 1 (reaction) easiest to measure but least indicative of training value, while
+  Level 4 (results) is most important but most challenging to assess
+- Effective evaluation requires planning at all four levels from the beginning, with
+  training programs designed with Level 4 outcomes in mind rather than retroactively
+  applying evaluation
+- Most organizations stop at Levels 1-2, missing behavior change and business impact
+  measurement, despite higher levels providing more meaningful indicators of training
+  effectiveness
+methodology: null
+sample_size: null
+sample_type: null
+context: null
+study_type: theoretical
 ---
 
 # Kirkpatrick evaluating training programs copy

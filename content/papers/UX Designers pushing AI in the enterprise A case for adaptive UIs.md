@@ -1,13 +1,43 @@
 ---
-source_file: "UX Designers pushing AI in the enterprise_A case for adaptive UIs.pdf"
+source_file: UX Designers pushing AI in the enterprise_A case for adaptive UIs.pdf
 type: paper
-authors: "John Zimmerman, Changhoon Oh, Nur Yildirim, Alex Kass, Teresa Tung, Jodi Forlizzi"
-community: "GenAI in UX and Design Practice"
+authors: John Zimmerman, Changhoon Oh, Nur Yildirim, Alex Kass, Teresa Tung, Jodi
+  Forlizzi
+community: GenAI in UX and Design Practice
 tags:
-  - adaptive-user-interfaces
-  - AI-in-enterprise
-  - interaction-design
-  - automation
+- adaptive-user-interfaces
+- AI-in-enterprise
+- interaction-design
+- automation
+year: 2019
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-managerial Labor]]'
+supports:
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- UX designers are uniquely positioned to recognize frequent, repetitive tasks suitable
+  for automation in enterprise contexts, providing low-risk AI innovation opportunities
+- Enterprise applications offer clearer ROI than consumer apps through measurable
+  worker time-savings from adaptive UI implementation
+- 'Three core AUI design patterns enable practical implementation: ranked lists of
+  likely targets, highlighted actionable entities, and automated form-filling'
+- Current design processes and tools lack systematic approaches to scaffold adaptive
+  UI choreographing, creating a gap in enterprise AI design
+- Ethical AUI design must preserve worker agency, identity, and self-efficacy while
+  avoiding unhealthy dependency and unintended consequences of automation
+methodology: '[[methods/Design-Based Research]]'
+sample_size: null
+sample_type: null
+context: Enterprise software design (CMU-Accenture collaboration)
+study_type: design
 ---
 
 # UX Designers pushing AI in the enterprise A case for adaptive UIs

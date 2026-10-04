@@ -1,9 +1,43 @@
 ---
-source_file: "The GenUI Study_Exploring the design of generative UI tools to support UX practitioners and beyond.pdf"
+source_file: The GenUI Study_Exploring the design of generative UI tools to support
+  UX practitioners and beyond.pdf
 type: paper
-authors: "Support UX Practitioners and Beyond"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Support UX Practitioners and Beyond
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[frameworks/Activity Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Generative UI Models]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Design Fixation]]'
+key_claims:
+- GenUI provides strong 'first draft' capabilities for rapid prototyping across all
+  UX roles but faces 'last mile' challenges in refinement and finalization
+- GenUI democratizes UX design by enabling non-designers (product managers, software
+  engineers, UX researchers) to create UI mockups, supporting cross-role collaboration
+- 'Different professional roles adopt distinct GenUI workflows: UX designers focus
+  on ideation and exploration, while engineers and product managers use it for visual
+  communication and specification'
+- 'Seven key gaps exist in current GenUI tools: problem formulation with context,
+  intent assimilation, constrained generation, multimodal input/output, element connectivity,
+  quality/fidelity/originality concerns, and editing/iteration support'
+- GenUI adoption requires extending beyond individual task support to enable team-level
+  collaborative activities and workflow integration
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 37
+sample_type: 'UX-related professionals across four roles: UX designers (n=11), UX
+  researchers (n=7), product managers (n=7), and software engineers (n=12)'
+context: Large software company, week-long project-based diary study with role-specific
+  exercises
+study_type: empirical
 ---
 
 # The GenUI Study Exploring the design of generative UI tools to support UX practitioners and beyond

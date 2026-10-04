@@ -1,9 +1,45 @@
 ---
-source_file: "A Large-Scale Analysis of Student Behavior with Pedagogically Constrained LLM Tutors.pdf"
+source_file: A Large-Scale Analysis of Student Behavior with Pedagogically Constrained
+  LLM Tutors.pdf
 type: paper
-authors: "Chang Liu, Loc Hoang, René F. Kizilcec, Bo Wu"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Chang Liu, Loc Hoang, René F. Kizilcec, Bo Wu
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[concepts/Deep Learning (Educational)]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Epistemic Substitution]]'
+key_claims:
+- 56.1% of student interactions with pedagogically constrained LLM tutors exhibited
+  low engagement quality despite hint-only design constraints intended to promote
+  productive struggle
+- Only 30% of students presented prior work in conversations with AI tutors and only
+  8.2% showed metacognitive reflection behaviors
+- 28% of tutor-provided hints were ignored by students in subsequent messages, indicating
+  pedagogical constraints on AI output alone cannot ensure active learning engagement
+- Advanced students showed greater conceptual depth but lower overall engagement with
+  the tutoring system compared to introductory students, suggesting expertise mediates
+  AI tutor interaction patterns
+- Alignment in AI tutoring requires explicit scaffolding of student epistemic behavior,
+  not just restriction of AI output to hints rather than direct answers
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 589
+sample_type: computer science students across three course levels (introductory non-majors,
+  intermediate, advanced)
+context: Colorado School of Mines computer science courses over full academic semester
+study_type: empirical
 ---
 
 # A Large-Scale Analysis of Student Behavior with Pedagogically Constrained LLM Tutors

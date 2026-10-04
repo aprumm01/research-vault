@@ -1,9 +1,40 @@
 ---
-source_file: "Naik _Obi_Tracing the invisible-Understanding students judgment in AI-supported design work (2025).pdf"
+source_file: Naik _Obi_Tracing the invisible-Understanding students judgment in AI-supported
+  design work (2025).pdf
 type: paper
-authors: "AI-Supported Design Work"
-community: "Design Theory and Cognition"
-tags:
+authors: AI-Supported Design Work
+community: Design Theory and Cognition
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Situated Cognition]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Students make both established and novel types of judgments when using AI in design,
+  with AI tools functioning as collaborators rather than mere aids
+- Generative AI integration reveals previously invisible aspects of design judgment,
+  making tacit design knowledge visible through student reflections
+- Traditional design judgment forms persist but are transformed by AI collaboration,
+  requiring students to develop meta-level judgment about when and how to use AI tools
+- New forms of judgment emerge specific to AI-mediated design processes, revealing
+  tensions between AI capabilities and design intentionality
+- Design education needs to explicitly address AI-specific judgment capabilities to
+  support student development in AI-supported design work
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: 33
+sample_type: student teams in HCI design course
+context: HCI design course with AI tool integration
+study_type: empirical
 ---
 
 # Naik Obi Tracing the invisible-Understanding students judgment in AI-supported design work (2025)

@@ -1,9 +1,34 @@
 ---
-source_file: "hiring and org practice/How Hands-on Experience with Generative AI Shapes Design Students’ Perspectives on AI_s Future Impact.pdf"
+source_file: hiring and org practice/How Hands-on Experience with Generative AI Shapes
+  Design Students’ Perspectives on AI_s Future Impact.pdf
 type: paper
-authors: "Helmut Degen"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Helmut Degen
+community: HCI Education and Pedagogy
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Design-Based Learning]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Experiential learning]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- Hands-on experience with generative AI significantly shapes design students' perspectives
+  on AI's future impact compared to theoretical instruction alone
+- Direct engagement with AI tools provides more informed and nuanced understanding
+  of both opportunities and limitations in design contexts
+- Student perspectives on AI capabilities and future implications evolve through practical
+  interaction with AI systems
+- Practical experience with generative AI is essential for preparing design students
+  for AI-augmented design futures
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: design students
+context: AI-HCI 2025 conference, design education setting
+study_type: empirical
 ---
 
 # How Hands-on Experience with Generative AI Shapes Design Students’ Perspectives on AI s Future Impact

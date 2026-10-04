@@ -1,9 +1,54 @@
 ---
-source_file: "hiring and org practice/Genertive AI and creative work - narratives, values, and impacts.pdf"
+source_file: hiring and org practice/Genertive AI and creative work - narratives,
+  values, and impacts.pdf
 type: paper
-authors: "KATE CRAWFORD, Microsoft Research, USA"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: KATE CRAWFORD, Microsoft Research, USA
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques:
+- '[[concepts/Democratization of Design]]'
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Value System Rift]]'
+- '[[concepts/AI-managerial Labor]]'
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/Fauxtomation]]'
+key_claims:
+- 'Technological narratives systematically underplay creative labor disruption while
+  overplaying democratization: Tech industry discourse frames generative AI as democratizing
+  creativity, but this obscures impacts on existing creative workers whose livelihoods
+  depend on skills AI automates and concentrates creative power with platform owners'
+- 'Dominant narratives embed particular values about creativity that contradict creative
+  workers'' values: AI tools reflect assumptions that creativity is primarily about
+  output generation and speed, contrasting with creative professionals'' emphasis
+  on iterative refinement, embodied practice, and creative work as identity'
+- 'Creative workers experience AI integration as compound threat—economic, professional,
+  and existential: Material concerns about income loss and job restructuring intersect
+  with professional anxieties about skill devaluation and existential questions about
+  creative identity when machines handle previously defining tasks'
+- 'Power concentration intensifies as platforms control creative infrastructure: Generative
+  AI shifts creative production toward platform-owned models, creating dependencies
+  where creative workers are increasingly reliant on tools controlled by few technology
+  companies that set terms, shape creative possibilities, and extract value'
+- 'Diverse creative sector experiences require nuanced rather than monolithic analysis:
+  Impacts vary substantially across creative domains, work arrangements, and positionalities,
+  with generalizations about AI ''helping'' or ''harming'' creativity obscuring how
+  technology''s effects are mediated by existing inequalities and market structures'
+methodology: '[[methods/Narrative]]'
+sample_size: null
+sample_type: null
+context: Creative and artistic sectors incorporating generative AI, with focus on
+  technology company communications, media coverage, and creative worker testimonies
+study_type: theoretical
 ---
 
 # Genertive AI and creative work - narratives, values, and impacts

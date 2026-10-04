@@ -1,9 +1,43 @@
 ---
-source_file: "synth users/Simulating Human Opinions with Large Language Models - Kaiser et al - 2025.pdf"
+source_file: synth users/Simulating Human Opinions with Large Language Models - Kaiser
+  et al - 2025.pdf
 type: paper
-authors: "Carolin Kaiser"
-community: "Design Theory and Cognition"
-tags:
+authors: Carolin Kaiser
+community: Design Theory and Cognition
+tags: null
+year: 2025
+builds_on:
+- '[[concepts/Synthetic Users]]'
+- '[[methods/Survey]]'
+- '[[methods/Persona Development]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Synthetic Users]]'
+- '[[concepts/Interactive Virtual Personas]]'
+- '[[concepts/AI Hallucinations]]'
+key_claims:
+- Synthetic sampling using LLM-generated responses achieved better-than-chance accuracy
+  (78.64-78.65% agreement) in matching human survey responses on soft drink brand
+  preferences
+- LLM simulations correctly differentiated between popular and unpopular brands similar
+  to real participants, but overestimated humans' tendencies to provide positive ratings
+  for both well-known and lesser-known brands
+- Synthetic data exhibited substantially reduced variance compared to real data, showing
+  more uniform response patterns that fail to replicate the variability and complexity
+  of real human opinions
+- Persona-conditioned LLMs using 9 demographic attributes can approximate aggregate
+  subjective rankings for both binary and Likert-scale survey items, offering fast
+  and low-cost alternatives to traditional surveys
+- ChatGPT aligns more with American cultural norms and shows limited adaptability
+  to other cultural contexts, with higher risks of demographic stereotyping in sensitive
+  domains beyond benign topics like soft drinks
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 461
+sample_type: U.S. participants quota-matched by age, gender, and ethnicity
+context: Empirical benchmark survey on soft drink brand preferences with comparison
+  to GPT-4o synthetic responses
+study_type: empirical
 ---
 
 # Simulating Human Opinions with Large Language Models - Kaiser et al - 2025

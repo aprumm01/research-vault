@@ -1,9 +1,38 @@
 ---
-source_file: "EDU/r511/New_Technologies_Dont_Transform_Incumbents.pdf"
+source_file: EDU/r511/New_Technologies_Dont_Transform_Incumbents.pdf
 type: paper
-authors: "Why New Technologies Don't"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Why New Technologies Don't
+community: GenAI in UX and Design Practice
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Activity Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/De-skilling]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+key_claims:
+- Incumbents fail because they apply new technologies to old organizational structures,
+  optimizing efficiency rather than transforming coordination mechanisms
+- Transformation requires simultaneously changing the unit of work and the coordination
+  mechanism—technology alone is insufficient
+- Resistance to restructuring is architectural self-preservation that protects existing
+  power structures, not mere cultural inertia or behavioral resistance
+- Competitive advantage comes from restructuring enabled by technology, not from the
+  technology itself—Adobe treated files as units of work while Figma treated elements
+  within files as units, enabling simultaneous multi-person editing
+- Traditional fashion organized around seasons while Shein organized around individual
+  testable product concepts, demonstrating how decomposition of work enables continuous
+  recombination and coordination
+methodology: '[[methods/Case Analysis]]'
+sample_size: null
+sample_type: null
+context: Technology companies (Adobe/Figma) and fashion industry (Shein vs traditional
+  fashion houses)
+study_type: theoretical
 ---
 
 # New Technologies Dont Transform Incumbents

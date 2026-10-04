@@ -1,9 +1,36 @@
 ---
-source_file: "lebovitz-et-al-2022-to-engage-or-not-to-engage-with-ai-for-critical-judgments-how-professionals-deal-with-opacity-when.pdf"
+source_file: lebovitz-et-al-2022-to-engage-or-not-to-engage-with-ai-for-critical-judgments-how-professionals-deal-with-opacity-when.pdf
 type: paper
-authors: "ORGANIZATION SCIENCE"
-community: "Design Theory and Cognition"
-tags:
+authors: ORGANIZATION SCIENCE
+community: Design Theory and Cognition
+tags: null
+year: 2022
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Augmentation]]'
+supports:
+- '[[concepts/Epistemic Confinement]]'
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Explainable AI]]'
+key_claims:
+- Little is known about how human-AI augmentation actually takes place in professional
+  practice, particularly for critical judgment-making
+- AI opacity creates fundamental barriers to effective human-AI collaboration in high-stakes
+  professional contexts
+- Professionals face a fundamental tension of whether to engage or not engage with
+  opaque AI systems when making critical decisions
+- AI augmentation of professional judgment requires different approaches than AI automation
+  of routine tasks
+- Understanding human-AI augmentation is particularly important when professionals
+  use AI tools to form judgments on critical decisions
+methodology: '[[methods/Ethnography]]'
+sample_size: null
+sample_type: professionals using AI for critical judgments
+context: professional knowledge work settings with AI-supported decision-making
+study_type: empirical
 ---
 
 # lebovitz-et-al-2022-to-engage-or-not-to-engage-with-ai-for-critical-judgments-how-professionals-deal-with-opacity-when

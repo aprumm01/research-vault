@@ -1,9 +1,44 @@
 ---
-source_file: "EDU/Definition and Terminology Committee of the Association_Januszewski_Molenda_2008.pdf"
+source_file: EDU/Definition and Terminology Committee of the Association_Januszewski_Molenda_2008.pdf
 type: paper
-authors: "for Educational Communications and Technology"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: for Educational Communications and Technology
+community: GenAI in UX and Design Practice
+tags: null
+year: 2008
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Surface-Level Processing]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Epistemic Agency]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI as Facilitator]]'
+key_claims:
+- Educational technology definition represents paradigm shift from instruction-centered
+  to learner-centered approaches, moving from 'delivering' instruction to creating
+  learning environments for exploration
+- Technology's role is facilitative rather than controlling or causal—provides problem
+  space and tools rather than presenting information and drill
+- Ethical practice is foundational to educational technology, requiring questioning
+  of assumptions about efficacy, power distribution, inclusion, and whose interests
+  are served, not just rule-following
+- Deep learning (active use and application of knowledge) must be prioritized over
+  surface learning (information retention for testing), with assessment methods aligned
+  to learning types
+- 'Study in educational technology encompasses multiple legitimate forms beyond traditional
+  research: theorizing, philosophical analysis, development projects, authentic environment
+  investigations, and practitioner voices'
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: AECT Definition and Terminology Committee conceptual framework development
+study_type: theoretical
 ---
 
 # Definition and Terminology Committee of the Association Januszewski Molenda 2008

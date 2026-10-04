@@ -1,9 +1,37 @@
 ---
-source_file: "EDU/r511/Handbook of Research on Educational Communications and Technology content review.pdf"
+source_file: EDU/r511/Handbook of Research on Educational Communications and Technology
+  content review.pdf
 type: paper
-authors: "Front Matter"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Front Matter
+community: GenAI in UX and Design Practice
+tags: null
+year: 1996
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Situated Cognition]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Educational communications and technology has evolved through multiple theoretical
+  paradigms over time, from early behaviorist and systems theory foundations to contemporary
+  constructivist and critical approaches
+- The field requires integration of multiple theoretical frameworks (behaviorist,
+  constructivist, critical, systems-based) to address complex learning environments
+- Systems thinking provides a comprehensive framework for understanding interconnections
+  in educational technology contexts
+- Historical understanding of the field's theoretical foundations is essential for
+  informing contemporary educational technology practice
+- Educational technology research must actively bridge the gap between theory and
+  practice
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Handbook synthesizing research across educational communications and technology
+  field
+study_type: review
 ---
 
 # Handbook of Research on Educational Communications and Technology content review

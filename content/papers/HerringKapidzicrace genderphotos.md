@@ -1,9 +1,30 @@
 ---
-source_file: "Herring.Kapidzic.race_gender.photos.pdf"
+source_file: Herring.Kapidzic.race_gender.photos.pdf
 type: paper
-authors: "Sanja Kapidzic"
-community: "Design Theory and Cognition"
-tags:
+authors: Sanja Kapidzic
+community: Design Theory and Cognition
+tags: null
+year: null
+builds_on:
+- '[[methods/Content Analysis]]'
+- '[[frameworks/Frame Analysis]]'
+critiques: []
+tensions_with: []
+supports: []
+key_claims:
+- Significant differences exist in teen self-presentation by gender across gaze, posture,
+  dress, and camera distance dimensions
+- Racial differences in visual self-presentation are significant and show gendered
+  patterns, being stronger for boys than for girls
+- Profile photographs on nonymous chat sites reflect and reproduce social categories
+  and norms around gender and race
+- Visual analysis of profile photographs reveals identity performance patterns not
+  captured by text-based CMC research
+methodology: '[[methods/Content Analysis]]'
+sample_size: 400
+sample_type: profile photographs of teens on nonymous chat site
+context: popular nonymous chat site
+study_type: empirical
 ---
 
 # Herring.Kapidzic.race gender.photos

@@ -1,9 +1,44 @@
 ---
-source_file: "Studying the effect of AI Code Generators on Supporting Novice Learners in Introductory Programming.pdf"
+source_file: Studying the effect of AI Code Generators on Supporting Novice Learners
+  in Introductory Programming.pdf
 type: paper
-authors: "Majeed Kazemitabaar, Justin Chow, Carl Ka To Ma, Barbara J. Ericson, David Weintrop, Tovi Grossman"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Majeed Kazemitabaar, Justin Chow, Carl Ka To Ma, Barbara J. Ericson, David
+  Weintrop, Tovi Grossman
+community: HCI Education and Pedagogy
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Cognitive Load]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[concepts/AI Tool Dependence]]'
+tensions_with: []
+supports:
+- '[[concepts/Zone of Proximal Development with AI]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- Codex group showed 1.15x higher completion rate, 1.8x higher correctness scores,
+  0.59x fewer errors, and 0.57x less time on code-authoring tasks compared to baseline
+  group
+- AI access did not impair manual code-modification ability—both Codex and baseline
+  groups performed similarly on code-modification tasks, suggesting AI users developed
+  sufficient understanding
+- Students with higher prior programming competency (Scratch scores) who had Codex
+  access performed significantly better on one-week retention post-tests, suggesting
+  AI tools amplify advantages for students with foundational knowledge
+- Under structured learning conditions with educational scaffolding and progressive
+  difficulty, AI code generation access did not create harmful dependency or impair
+  learning retention
+- Novice learners demonstrated understanding of AI-generated code through their ability
+  to engage with, modify, and extend generated solutions in subsequent manual tasks
+methodology: '[[methods/Controlled Experiment]]'
+sample_size: 69
+sample_type: novice learners ages 10-17 with no prior text-based programming experience
+context: three-week programming camp using custom Python learning environment (Coding
+  Steps)
+study_type: empirical
 ---
 
 # Studying the Effect of AI Code Generators on Supporting Novice Learners in Introductory Programming

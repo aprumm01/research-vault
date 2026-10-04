@@ -1,9 +1,41 @@
 ---
-source_file: "History/The Intertwined Histories of Artificial Intelligence.pdf"
+source_file: History/The Intertwined Histories of Artificial Intelligence.pdf
 type: paper
-authors: "Shayan Doroudi"
-community: "Design Theory and Cognition"
-tags:
+authors: Shayan Doroudi
+community: Design Theory and Cognition
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Cognitive Load]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- AI and education have been deeply intertwined since AI's inception, with early pioneers
+  like Simon, Newell, Minsky, and Papert making major contributions to both fields
+  simultaneously
+- 'Two contrasting approaches to cognition emerged: Newell/Simon''s information-processing
+  psychology focused on expert performance and problem-solving, while Minsky/Papert''s
+  constructivism emphasized developmental learning and children''s thinking'
+- Early AI researchers viewed AI as a tool for understanding human learning and vice
+  versa, creating bidirectional influence between the fields that is largely lost
+  in contemporary AI and learning sciences
+- Newell and Simon believed studying performance must precede studying learning, while
+  Minsky argued developmental theory is essential to understanding final performance
+- The unified perspective of simultaneously advancing human and machine cognition
+  has declined, with contemporary AI and learning sciences operating as more separate
+  domains
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: Archival documents, published works, and intellectual biographies of
+  key AI pioneers (Herbert Simon, Allen Newell, Marvin Minsky, Seymour Papert)
+context: Historical analysis of AI and education research from 1950s-1990s, primarily
+  US institutions
+study_type: theoretical
 ---
 
 # The Intertwined Histories of Artificial Intelligence

@@ -1,9 +1,41 @@
 ---
-source_file: "History/Why Are There Still So Many Jobs - Jo Ann Oravec (2018).pdf"
+source_file: History/Why Are There Still So Many Jobs - Jo Ann Oravec (2018).pdf
 type: paper
-authors: "David H. Autor"
-community: "AI and Future of Work"
-tags:
+authors: David H. Autor
+community: AI and Future of Work
+tags: null
+year: 2015
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Cognitive Load]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+supports:
+- '[[concepts/Technological Anxiety]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Hybrid Intelligence]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- Employment-to-population ratio rose during the 20th century despite two centuries
+  of automation warnings, with no apparent long-run unemployment increase
+- Post-1980 labor market polarization shifted wage gains disproportionately to top
+  and bottom of skill distribution, hollowing out middle-class jobs while pre-1980
+  changes favored skilled white-collar work
+- ATMs reduced costs per bank branch leading to more branches opening (43% increase
+  1988-2004) and increased demand for relationship banking skills, demonstrating complementarity
+  between automation and human labor
+- Computers substitute for routine and codifiable tasks while amplifying human comparative
+  advantage in problem-solving, judgment, adaptability, flexibility, and common sense
+- 'Three factors determine automation impacts: whether workers supply complemented
+  versus substituted tasks, elasticity of labor supply, and output/income elasticity
+  of demand'
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: US labor market occupational data (1900-2010)
+context: Historical analysis of US workplace automation across two centuries
+study_type: review
 ---
 
 # Why Are There Still So Many Jobs - Jo Ann Oravec (2018)

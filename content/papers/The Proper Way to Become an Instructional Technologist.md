@@ -1,9 +1,36 @@
 ---
-source_file: "EDU/r511/The Proper Way to Become an Instructional Technologist.pdf"
+source_file: EDU/r511/The Proper Way to Become an Instructional Technologist.pdf
 type: paper
-authors: "Rieber, L."
-community: "HCI Education and Pedagogy"
-tags:
+authors: Rieber, L.
+community: HCI Education and Pedagogy
+tags: null
+year: null
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[frameworks/Design Thinking]]'
+tensions_with: []
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[frameworks/Design-Based Learning]]'
+- '[[concepts/Wicked Problems]]'
+key_claims:
+- There is no single 'proper way' to become an instructional technologist; the field
+  benefits from diverse backgrounds and pathways
+- Instructional design in practice is messy, contextual, and idiosyncratic, not the
+  linear process depicted in textbooks
+- Graduate programs should focus on education (preparing for lifelong learning) rather
+  than training (technical skills)
+- Theory, research, and practice must be interdependent; practitioners should engage
+  with theory while theorists ground work in practice
+- Universities should prepare reflective practitioners who can adapt to changing contexts,
+  not technicians performing specific jobs
+methodology: '[[methods/Narrative]]'
+sample_size: null
+sample_type: null
+context: Reflective essay on instructional technology graduate education
+study_type: theoretical
 ---
 
 # The Proper Way to Become an Instructional Technologist

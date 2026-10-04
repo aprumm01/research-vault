@@ -1,9 +1,53 @@
 ---
-source_file: "Design Student Typologies Beyond Perception of Generative AI.pdf"
+source_file: Design Student Typologies Beyond Perception of Generative AI.pdf
 type: paper
-authors: "Cansu Akverdi, Gökçe Elif Baykal"
-community: "AI in Design Education"
-tags:
+authors: Cansu Akverdi, Gökçe Elif Baykal
+community: AI in Design Education
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Studio Pedagogy]]'
+- '[[methods/Thematic Analysis]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Visual Homogenization]]'
+- '[[concepts/Design Ideation]]'
+- '[[concepts/Epistemic Agency]]'
+key_claims:
+- 'Design students'' GenAI engagement operates across two independent dimensions:
+  a constructive spectrum (Starters, Accelerators, Doubters-Survivors, Finishers)
+  describing workflow integration, and an ethical spectrum (Advocates, Guardians,
+  Witnesses, Suspects) describing moral positioning—these are distinct but intersecting,
+  not correlated'
+- 'Three distinct ideation patterns emerged: Inspiration Seekers use GenAI for stimulus
+  and exploration, Balanced Seekers regulate use to preserve creative agency, and
+  Over-Reliant Users show heavy dependence risking ''creative erosion'' of intrinsic
+  motivation and personal style'
+- Ethical positioning toward GenAI was not correlated with academic year, suggesting
+  ethical awareness develops through specific GenAI experiences in studio contexts
+  rather than simply through design program maturation
+- 'Students navigate the originality-creativity dilemma differently: some view originality
+  as dependent on user intention rather than the tool itself, while others experience
+  AI as fundamentally threatening to personal creative voice and authenticity'
+- Prompt literacy emerged as a new creative competency requiring purposeful textual
+  crafting to shape generative outputs, with students developing sophisticated co-creative
+  strategies including Augmentation Seekers who leverage AI without surrendering control
+  and Deep Divers who iteratively refine outputs while maintaining intent
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: 81
+sample_type: Communication and Design undergraduates from first through fourth year
+  enrolled in illustration courses
+context: Özyeğin University, Istanbul, Turkey—illustration-based design courses
+study_type: empirical
 ---
 
 # Design Student Typologies: Beyond Perception of Generative AI

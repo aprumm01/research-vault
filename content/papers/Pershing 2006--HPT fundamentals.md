@@ -1,9 +1,38 @@
 ---
-source_file: "EDU/r511/Pershing_2006--HPT fundamentals.pdf"
+source_file: EDU/r511/Pershing_2006--HPT fundamentals.pdf
 type: paper
-authors: "PART ONE"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: PART ONE
+community: GenAI in UX and Design Practice
+tags: null
+year: 2006
+builds_on:
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Constructivism]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Problem Framing]]'
+- '[[concepts/Wicked Problems]]'
+- '[[frameworks/Human-Centered Design]]'
+key_claims:
+- Performance gaps typically stem from environmental barriers (unclear expectations,
+  inadequate resources, poor feedback systems) more often than knowledge deficits
+- Systematic front-end analysis prevents the misapplication of training as a default
+  solution to non-training problems
+- HPT provides a more comprehensive approach to workplace problems than training-centered
+  models by addressing multiple performance variables including environmental factors
+  and individual repertory
+- Business language and metrics measuring productivity, quality, and cost are essential
+  for HPT credibility beyond satisfaction ratings
+- Cross-functional collaboration improves intervention effectiveness compared to isolated
+  training department efforts
+methodology: '[[methods/Case Study]]'
+sample_size: null
+sample_type: null
+context: Human Performance Technology practice and implementation in organizational
+  settings
+study_type: theoretical
 ---
 
 # Pershing 2006--HPT fundamentals

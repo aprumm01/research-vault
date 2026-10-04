@@ -1,9 +1,38 @@
 ---
-source_file: "2026/Exploring the Impact of Artificial Intelligence language model ChatGPT on the User Experience.pdf"
+source_file: 2026/Exploring the Impact of Artificial Intelligence language model ChatGPT
+  on the User Experience.pdf
 type: paper
-authors: "Ahmed AL-Sa'di¹, Dave Miller²"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Ahmed AL-Sa'di¹, Dave Miller²
+community: GenAI in UX and Design Practice
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Design Thinking]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Integration of ChatGPT 3.5 specifically in the Define and Ideate stages of Design
+  Thinking can improve UI design efficiency and creativity beyond traditional design
+  approaches
+- Successful AI tool implementation in design requires a balanced combination of technological
+  expertise and creative design thinking - neither alone is sufficient
+- AI tools should be positioned as complement to human creativity and expertise rather
+  than replacement, with humans remaining at the center of the design process
+- Design Thinking's emphasis on experimentation and prototyping creates natural integration
+  points for AI tools to generate knowledge about unknowns and facilitate faster iteration
+methodology: '[[methods/Case Study]]'
+sample_size: 15
+sample_type: 5 designers and 10 Product Managers
+context: Product design innovation projects redesigned with ChatGPT assistance
+study_type: empirical
 ---
 
 # Exploring the Impact of Artificial Intelligence language model ChatGPT on the User Experience

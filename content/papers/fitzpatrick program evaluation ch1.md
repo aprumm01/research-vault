@@ -1,9 +1,41 @@
 ---
-source_file: "EDU/fitzpatrick_program_evaluation_ch1.pdf"
+source_file: EDU/fitzpatrick_program_evaluation_ch1.pdf
 type: paper
-authors: "Program Evaluation"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Program Evaluation
+community: GenAI in UX and Design Practice
+tags: null
+year: 2011
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Sociotechnical]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Human-Centered Design]]'
+key_claims:
+- No single evaluation approach is superior across all contexts; different evaluation
+  situations require different approaches based on program characteristics, stakeholder
+  needs, resource constraints, and philosophical compatibility
+- Effective evaluation balances rigor with pragmatism—overly rigid adherence to ideal
+  research standards can produce technically elegant but practically useless evaluations
+- Stakeholder engagement fundamentally shapes evaluation quality and utilization—evaluation
+  findings are more likely utilized when stakeholders are meaningfully involved in
+  defining questions, interpreting findings, and generating recommendations
+- Program theory explication improves evaluation focus and interpretability by making
+  explicit how programs are supposed to work, enabling more targeted evaluation questions
+  and distinction between implementation failure and theory failure
+- Professional evaluation standards (utility, feasibility, propriety, accuracy) often
+  conflict in practice and function as considerations for deliberate tradeoff decisions
+  rather than absolute requirements simultaneously achievable
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: Program evaluation practice and theory synthesis
+study_type: review
 ---
 
 # fitzpatrick program evaluation ch1

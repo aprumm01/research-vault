@@ -1,9 +1,47 @@
 ---
-source_file: "2026/Generative AI in User Experience Design and Research How Do UX Practitioners, Teams, and Companies Use GenAI in Industry.pdf"
+source_file: 2026/Generative AI in User Experience Design and Research How Do UX Practitioners,
+  Teams, and Companies Use GenAI in Industry.pdf
 type: paper
-authors: "Unknown"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Unknown
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Significant lack of formal GenAI company policies—companies informally advise caution
+  or leave responsibility to individuals, creating policy vacuum where practitioners
+  must self-regulate without institutional guidance
+- UX teams lack team-wide GenAI practices despite widespread individual adoption—practitioners
+  use GenAI individually for writing-based tasks but show limited integration for
+  design-focused activities (wireframing, prototyping)
+- Task asymmetry pattern reveals GenAI highly effective for text generation and research
+  synthesis but shows significant limitations for core UX design activities requiring
+  spatial/visual reasoning
+- Practitioners struggle with prompt engineering and output quality assessment as
+  critical skill gaps, calling for better training on these emerging literacies beyond
+  traditional UX skills
+- Professionals voice concerns about over-reliance on GenAI potentially degrading
+  skills especially among junior designers, with AI tools generating outputs deemed
+  'too generic' without domain-specific or company-style consideration
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 24
+sample_type: UX practitioners (designers, researchers, managers) with varying seniority
+  levels from different company types
+context: Industry practice across 8 countries, multiple companies including start-ups,
+  small businesses, and large corporations
+study_type: empirical
 ---
 
 # Generative AI in User Experience Design and Research How Do UX Practitioners, Teams, and Companies Use GenAI in Industry

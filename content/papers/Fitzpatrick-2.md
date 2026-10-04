@@ -1,9 +1,41 @@
 ---
-source_file: "EDU/Fitzpatrick-2.pdf"
+source_file: EDU/Fitzpatrick-2.pdf
 type: paper
-authors: "A Comparative Analysis"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: A Comparative Analysis
+community: GenAI in UX and Design Practice
+tags: null
+year: 2010
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[concepts/Wicked Problems]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Critical Thinking]]'
+- '[[frameworks/Value Sensitive Design]]'
+key_claims:
+- No evaluation approach is universally superior—selection requires deliberate matching
+  to context based on program maturity, stakeholder priorities, political sensitivity,
+  resource availability, and evaluator expertise
+- Eclecticism offers flexibility but risks methodological incoherence without theoretical
+  grounding; superficial borrowing without understanding philosophical assumptions
+  creates contradictory recommendations
+- Evaluator philosophical orientation (epistemological beliefs, values, professional
+  identity) significantly influences approach selection and adaptation beyond purely
+  technical considerations
+- Contextual constraints (limited budgets, short timelines, stakeholder politics,
+  organizational culture) frequently determine viable evaluation approaches more than
+  evaluator philosophical preferences or ideal methodological standards
+- Approach selection involves inherent tradeoffs requiring value judgments between
+  rigor vs. relevance, comprehensiveness vs. timeliness, stakeholder empowerment vs.
+  evaluator independence
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: null
+context: Evaluation practice across multiple program contexts
+study_type: theoretical
 ---
 
 # Fitzpatrick-2

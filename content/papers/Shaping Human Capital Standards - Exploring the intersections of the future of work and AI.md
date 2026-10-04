@@ -1,14 +1,52 @@
 ---
-source_file: "Shaping Human Capital Standards - Exploring the intersections of the future of work and AI.pdf"
+source_file: Shaping Human Capital Standards - Exploring the intersections of the
+  future of work and AI.pdf
 type: paper
-authors: "Tania Saba, Anne-Marie Hubert, Myriam Bernet"
-community: "GenAI in UX and Design Practice"
+authors: Tania Saba, Anne-Marie Hubert, Myriam Bernet
+community: GenAI in UX and Design Practice
 tags:
-  - human-capital
-  - sustainable-finance
-  - AI-transformation
-  - workforce-development
-  - global-governance
+- human-capital
+- sustainable-finance
+- AI-transformation
+- workforce-development
+- global-governance
+year: 2025
+builds_on:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Value Sensitive Design]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/AI-managerial Labor]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- While environmental sustainability standards are more clearly established, social
+  dimensions continue to lag in terms of well-defined frameworks and indicators, creating
+  urgent need for systematic identification of human capital metrics relevant to AI-driven
+  organizational change
+- AI simultaneously creates opportunities such as increased productivity and development
+  of new skill sets while introducing risks like job polarization and challenges related
+  to inclusivity, requiring nuanced risk-opportunity assessment frameworks
+- Education systems, often slow to adapt, face difficulties integrating green and
+  digital skills into curricula, with deficits in STEM education hindering development
+  of talent for high-growth sectors like AI
+- AI-driven monitoring tools erode privacy and autonomy, contributing to stress and
+  dissatisfaction, while bias in AI hiring algorithms perpetuates inequities and task
+  automation risks deskilling workers
+- Gender gaps persist with women underrepresented in AI-related fields and leadership
+  positions, while many developing nations lack access to AI resources, limiting their
+  ability to build talent and participate in global advancements
+methodology: '[[methods/Literature Review]]'
+sample_size: 31
+sample_type: institutional reports from OECD, ILO, IMF, WEF, and European organizations
+context: international policy and sustainable finance frameworks (2022-2024)
+study_type: review
 ---
 
 # Shaping Human Capital Standards - Exploring the intersections of the future of work and AI

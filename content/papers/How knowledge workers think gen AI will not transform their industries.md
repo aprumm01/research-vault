@@ -1,9 +1,37 @@
 ---
-source_file: "hiring and org practice/How knowledge workers think gen AI will (not) transform their industries.pdf"
+source_file: hiring and org practice/How knowledge workers think gen AI will (not)
+  transform their industries.pdf
 type: paper
-authors: "Unknown"
-community: "AI and Future of Work"
-tags:
+authors: Unknown
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociology of Expectations]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Sociotechnical Imaginaries]]'
+supports:
+- '[[concepts/Sociology of Expectations]]'
+- '[[concepts/Technological Anxiety]]'
+key_claims:
+- Knowledge workers hold nuanced and often skeptical views about generative AI's transformative
+  potential, contrasting with dominant public narratives
+- Seven industries show varying degrees of expected AI impact based on work characteristics,
+  revealing that transformation expectations are shaped by hands-on understanding
+  of work complexity
+- Participatory workshops reveal a significant gap between public AI discourse and
+  practitioner reality regarding generative AI's actual transformative effects
+- Workers recognize both opportunities and limitations of generative AI in their specific
+  contexts, with industry-specific perspectives diverging from generalized AI transformation
+  hype
+methodology: '[[methods/Participatory Design]]'
+sample_size: 54
+sample_type: knowledge workers across seven different industries
+context: participatory research workshops across three US cities
+study_type: empirical
 ---
 
 # How knowledge workers think gen AI will (not) transform their industries

@@ -1,9 +1,51 @@
 ---
-source_file: "Mastering knowledge  the impact of generative AI on student learning outcomes.pdf"
+source_file: Mastering knowledge  the impact of generative AI on student learning
+  outcomes.pdf
 type: paper
-authors: "Jessica L. Pallant, Janneke Blijlevens, Alexander Campbell, Ryan Jopp"
-community: "AI and Future of Work"
-tags:
+authors: Jessica L. Pallant, Janneke Blijlevens, Alexander Campbell, Ryan Jopp
+community: AI and Future of Work
+tags: null
+year: 2026
+builds_on:
+- '[[frameworks/Zone of Proximal Development with AI]]'
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Epistemic Agency]]'
+critiques:
+- '[[concepts/Surface-Level Processing]]'
+- '[[concepts/Cognitive Offloading]]'
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Illusion of Competence]]'
+supports:
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Critical Thinking]]'
+- '[[concepts/Metacognitive Laziness]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Process-centric Education]]'
+- '[[concepts/Sustainable Assessment]]'
+- '[[concepts/AI Literacy Dimensions]]'
+key_claims:
+- Higher-order learning occurs when students use GenAI to construct and augment knowledge
+  through mastery approaches, while lower-order outcomes result from procedural, unreflective
+  use
+- Students with mastery goal orientations leverage AI as a scaffold for higher-order
+  thinking by critically engaging with and augmenting AI outputs, rather than treating
+  them as finished products
+- Curriculum design can proactively shape GenAI engagement by scaffolding progression
+  from basic knowledge construction to complex knowledge augmentation tasks
+- Assessment design should promote mastery goal structures by requiring students to
+  critically evaluate, extend, and synthesize AI outputs rather than simply reproduce
+  them
+- The Achievement Goals Framework explains differential learning outcomes from identical
+  AI tools based on whether students adopt mastery-oriented versus performance-oriented
+  approaches
+methodology: '[[methods/Quasi-Experimental]]'
+sample_size: 192
+sample_type: higher education students across multiple universities
+context: RMIT University, Australian Catholic University, and Swinburne University
+  in Australia
+study_type: empirical
 ---
 
 # Mastering Knowledge: The Impact of Generative AI on Student Learning Outcomes

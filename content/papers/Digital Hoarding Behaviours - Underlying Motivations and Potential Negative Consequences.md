@@ -1,9 +1,49 @@
 ---
-source_file: "2026/i609-sustainability/Digital hoarding behaviours- Underlying motivations and potential negative consequences.pdf"
+source_file: 2026/i609-sustainability/Digital hoarding behaviours- Underlying motivations
+  and potential negative consequences.pdf
 type: paper
-authors: "George Sweeten, Elizabeth Sillence, Nick Neave"
-community: "Sustainable Computing"
-tags: [sustainability, i609, digital-hoarding, personal-information-management, data-accumulation, cybersecurity]
+authors: George Sweeten, Elizabeth Sillence, Nick Neave
+community: Sustainable Computing
+tags:
+- sustainability
+- i609
+- digital-hoarding
+- personal-information-management
+- data-accumulation
+- cybersecurity
+year: 2018
+builds_on:
+- '[[methods/Thematic Analysis]]'
+- '[[frameworks/Cognitive Dissonance]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Metacognitive Laziness]]'
+key_claims:
+- 'Five barriers to digital data deletion identified: keeping data for future/just
+  in case (most common), keeping data as evidence, laziness/time constraints, emotional
+  attachment to data, and ''not my server-not my problem'' attitude where unlimited
+  storage removes personal incentive for curation'
+- 'Unlimited storage capacity, especially in workplace cloud systems, removes natural
+  constraints on accumulation and enables digital hoarding behaviors: ''we have unlimited
+  data at work so I don''t really care'' (P23)'
+- 'Digital hoarding produces four negative consequences: impaired productivity from
+  cluttered systems, psychological stress and anxiety about data volume, cybersecurity
+  vulnerabilities from accumulated sensitive information, and crossover with physical
+  hoarding behaviors'
+- 'Emotional attachment to digital data, particularly photographs, parallels physical
+  hoarding: ''Photos are special, I wouldn''t want to get rid of them. It would be
+  difficult because I would feel that I''m deleting little bits of me and my past''
+  (P45)'
+- 'Digital hoarders show crossover with physical hoarding behaviors, suggesting shared
+  underlying psychological mechanisms: ''I knew I hoard physical items and assumed
+  I''d hoard some aspects of digital items but not to this amount'' (P7)'
+methodology: '[[methods/Thematic Analysis]]'
+sample_size: 46
+sample_type: adults aged 20-52 (24 females, 21 males)
+context: online survey examining personal digital data management behaviors
+study_type: empirical
 ---
 
 # Digital Hoarding Behaviours: Underlying Motivations and Potential Negative Consequences

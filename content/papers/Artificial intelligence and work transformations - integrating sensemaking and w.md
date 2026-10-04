@@ -1,17 +1,57 @@
 ---
-source_file: "EDU/r511/Artificial intelligence and work transformations - integrating sensemaking and workplace learning perspectives.pdf"
+source_file: EDU/r511/Artificial intelligence and work transformations - integrating
+  sensemaking and workplace learning perspectives.pdf
 type: paper
-authors: "Annika Engström, Daniel Pittino, Alice Mohlin, Anette Johansson, Nina Edh Mirzaei"
-community: "AI and Future of Work"
+authors: Annika Engström, Daniel Pittino, Alice Mohlin, Anette Johansson, Nina Edh
+  Mirzaei
+community: AI and Future of Work
 tags:
-  - sensemaking
-  - workplace-learning
-  - ai-adoption
-  - socio-technical-systems
-  - action-research
-  - organizational-learning
-  - explorative-learning
-  - exploitative-learning
+- sensemaking
+- workplace-learning
+- ai-adoption
+- socio-technical-systems
+- action-research
+- organizational-learning
+- explorative-learning
+- exploitative-learning
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Activity Theory]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[frameworks/Sociotechnical]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Cognitive Tension]]'
+- '[[concepts/Deep Learning (Educational)]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Abstract AI features trigger exploitative learning paths where employees adopt a
+  'waiting for directions' mindset, fostering feed-back learning flows and top-down
+  adaptive learning (114 participants across 23 focus groups)
+- Concrete AI features trigger explorative learning paths through 'envisioning challenges
+  and potentials' mindset, fostering feed-forward learning flows and bottom-up developmental
+  learning
+- AI technologies require expanding Socio-Technical Systems (STS) theory to account
+  for AI's role not merely as a tool but as an active participant within organizational
+  ecosystems that reshapes social systems
+- Initial sensemaking about technology—whether perceived as abstract or concrete—acts
+  as a crucial antecedent stage that shapes subsequent perceived usefulness and ease-of-use
+  evaluations in technology adoption models
+- When AI remains abstract, organizations risk stagnation and missed learning opportunities;
+  when AI becomes concrete through direct engagement, collaborative human-AI systems
+  emerge that support exploration and innovation
+methodology: '[[methods/Focus Groups]]'
+sample_size: 114
+sample_type: employees across organizational levels at four large Swedish manufacturing
+  companies
+context: Swedish manufacturing organizations during early stages of AI transformation
+  (March-June 2021)
+study_type: empirical
 ---
 
 # Artificial intelligence and work transformations - integrating sensemaking and workplace learning perspectives

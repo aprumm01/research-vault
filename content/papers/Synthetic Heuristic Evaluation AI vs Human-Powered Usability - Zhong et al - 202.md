@@ -1,9 +1,37 @@
 ---
-source_file: "synth users/Synthetic Heuristic Evaluation AI vs Human-Powered Usability - Zhong et al - 2025.pdf"
+source_file: synth users/Synthetic Heuristic Evaluation AI vs Human-Powered Usability
+  - Zhong et al - 2025.pdf
 type: paper
-authors: "Usability Evaluation"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Usability Evaluation
+community: GenAI in UX and Design Practice
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[frameworks/Human-Centered Design]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Democratization of Design]]'
+key_claims:
+- Synthetic heuristic evaluation using multimodal LLMs identified 73-77% of usability
+  issues compared to 57-63% identified by 5 aggregated expert evaluators
+- GPT-4 achieved best performance among three LLMs tested (GPT-4, Gemini-1.5-pro,
+  Claude 3.5 Sonnet), with Claude 3.5 Sonnet performing lowest
+- Synthetic evaluation provides scalable alternative to costly traditional usability
+  testing, which costs $10k-$50k per 5-participant study
+- LLMs demonstrated reliability across repeated prompting over a 3-month period and
+  multiple accounts, addressing concerns about stochastic nature
+- Synthetic heuristic evaluation can produce qualitative usability assessments with
+  rationales rather than just quantitative scores, addressing gap in automated usability
+  testing
+methodology: '[[methods/Experimental]]'
+sample_size: null
+sample_type: Comparison between multimodal LLMs and expert evaluators
+context: Usability evaluation of two common app types using Nielsen's 10 heuristics
+study_type: empirical
 ---
 
 # Synthetic Heuristic Evaluation AI vs Human-Powered Usability - Zhong et al - 2025

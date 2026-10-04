@@ -1,9 +1,42 @@
 ---
-source_file: "EDU/r511/Bradshaw, Amy - Reconsidering Design and Tech_TechTrends_2018.pdf"
+source_file: EDU/r511/Bradshaw, Amy - Reconsidering Design and Tech_TechTrends_2018.pdf
 type: paper
-authors: "a Lens of Social Justice."
-community: "GenAI in UX and Design Practice"
-tags:
+authors: a Lens of Social Justice.
+community: GenAI in UX and Design Practice
+tags: null
+year: 2018
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[frameworks/Constructivism]]'
+- '[[frameworks/Situated Cognition]]'
+critiques:
+- '[[frameworks/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Wicked Problems]]'
+- '[[concepts/Design Fixation]]'
+key_claims:
+- IDT field developed primarily through military and industrial contexts emphasizing
+  efficiency and standardization (Pavlov's conditioning, Bobbitt's curricula, Skinner's
+  programmed instruction), creating mechanistic orientations that systematically overlooked
+  social justice dimensions
+- Timeline juxtapositions reveal that major social justice movements and events occurred
+  parallel to IDT developments, but the field rarely engaged critically with these
+  contexts, perpetuating a culture of ignorance regarding systemic injustice
+- Concentration of privileged perspectives in IDT creates blind spots in understanding
+  diverse learner needs, contexts, and barriers, constraining the field's ability
+  to design equitable and inclusive learning experiences
+- IDT has demonstrated capacity to evolve when previously neglected areas receive
+  focused attention (e.g., accessibility, cultural responsiveness), suggesting intentional
+  focus on social justice could transform practice
+- Without examining designers' own schemas, positionalities, and assumptions, IDT
+  professionals risk assuming their perspectives are universal and continuing to overlook
+  or reinforce systemic injustices in design work
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: null
+context: US instructional design and technology field history
+study_type: theoretical
 ---
 
 # Bradshaw, Amy - Reconsidering Design and Tech TechTrends 2018

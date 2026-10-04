@@ -1,9 +1,39 @@
 ---
-source_file: "History/The Capitalist Machine_ Computerization, Workers&_039_ Power, and the Decline in Labor&_039_s Share within Kristal, T. 2013.pdf"
+source_file: History/The Capitalist Machine_ Computerization, Workers&_039_ Power,
+  and the Decline in Labor&_039_s Share within Kristal, T. 2013.pdf
 type: paper
-authors: "Sociological Review"
-community: "AI and Future of Work"
-tags:
+authors: Sociological Review
+community: AI and Future of Work
+tags: null
+year: 2013
+builds_on:
+- '[[frameworks/Critical Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/De-skilling]]'
+key_claims:
+- 'Labor''s share of national income declined by 6 percent across the U.S. private
+  sector since the late 1970s, with the decline concealing diverse sectoral trends:
+  5-14% decline in construction, manufacturing, and transportation versus 2-5% increase
+  in finance and services'
+- The main factor in declining labor's share was the erosion of workers' positional
+  power, with computerization representing a class-biased technological change that
+  strengthened employer position over employees
+- Labor's share declined only in core unionized industries despite computer technology
+  being adopted across all sectors, suggesting class conflict rather than technological
+  determinism is central to understanding distributional outcomes
+- Computerization had both direct and indirect effects on labor's share through its
+  impact on workers' positional power indicators including unionization rates, capital
+  concentration, import penetration, and unemployment
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 494
+sample_type: 43 two-digit nonagricultural private industries and 451 four-digit manufacturing
+  industries
+context: U.S. private sector industries, 1969-2007
+study_type: empirical
 ---
 
 # The Capitalist Machine Computerization, Workers& 039 Power, and the Decline in Labor& 039 s Share within Kristal, T. 2013

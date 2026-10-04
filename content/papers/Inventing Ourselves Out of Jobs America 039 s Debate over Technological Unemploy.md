@@ -1,9 +1,39 @@
 ---
-source_file: "History/Inventing Ourselves Out of Jobs_ America&_039_s Debate over Technological Unemployment - Review by_ Gary Cross 2001.pdf"
+source_file: History/Inventing Ourselves Out of Jobs_ America&_039_s Debate over Technological
+  Unemployment - Review by_ Gary Cross 2001.pdf
 type: paper
-authors: "Review by: Gary Cross"
-community: "AI and Future of Work"
-tags:
+authors: 'Review by: Gary Cross'
+community: AI and Future of Work
+tags: null
+year: 2001
+builds_on:
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Technological Unemployment]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Technological Unemployment]]'
+- '[[concepts/Technological Anxiety]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- Technological unemployment has been a recurring concern throughout 20th century
+  America, following cyclical patterns of anxiety rather than linear progression
+- Debates about technology displacing workers between 1929-1981 captured multiple
+  waves of automation anxiety, revealing continuities in how Americans conceptualize
+  technology's impact on work
+- Political and social responses to technological unemployment evolved over the 50+
+  year period, reflecting broader tensions about progress, labor, and economic security
+- Historical perspective on technological unemployment debates illuminates contemporary
+  concerns about technology and jobs by revealing persistent patterns in public discourse
+- Understanding historical debates about automation provides insight into the social
+  construction of technological impacts on labor markets
+methodology: '[[methods/Literature Review]]'
+sample_size: null
+sample_type: Historical documents, public discourse, and policy debates from 1929-1981
+context: American labor history and technological change debates spanning Depression
+  era through early 1980s
+study_type: review
 ---
 
 # Inventing Ourselves Out of Jobs America& 039 s Debate over Technological Unemployment - Review by Gary Cross 2001

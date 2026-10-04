@@ -1,9 +1,44 @@
 ---
-source_file: "From Ban It Till We Understand It to Resistance is Futile How University Programming Instructors Plan to Adapt as More Students Use AI Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot.pdf"
+source_file: From Ban It Till We Understand It to Resistance is Futile How University
+  Programming Instructors Plan to Adapt as More Students Use AI Code Generation and
+  Explanation Tools such as ChatGPT and GitHub Copilot.pdf
 type: paper
-authors: "Sam Lau, Philip J. Guo"
-community: "HCI Education and Pedagogy"
-tags:
+authors: Sam Lau, Philip J. Guo
+community: HCI Education and Pedagogy
+tags: null
+year: 2023
+builds_on:
+- '[[methods/Semi-Structured Interview]]'
+- '[[methods/Thematic Analysis]]'
+critiques: []
+tensions_with: []
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Prompt Engineering]]'
+- '[[concepts/De-skilling]]'
+- '[[concepts/Illusion of Competence]]'
+key_claims:
+- All 20 instructors expressed immediate concerns about AI-enabled cheating, leading
+  to near-universal short-term responses of increasing exam weights, enhancing proctoring,
+  and creating explicit AI use policies
+- 'Longer-term instructor attitudes bifurcated into two distinct camps: ''resisters''
+  who want to ban AI tools to preserve foundational programming skills, and ''embracers''
+  who want to integrate AI tools as necessary preparation for industry practice'
+- Resisters proposed 'AI-proof' assignment designs including in-person oral exams,
+  live proctored coding, process documentation requirements, and highly contextualized
+  problems requiring deep course-specific knowledge
+- Embracers envisioned new AI-collaborative pedagogies where students develop prompt
+  engineering skills, critically evaluate AI output, and collaborate with AI to build
+  larger projects than previously possible
+- Early 2023 represents a historically unique snapshot of programming education at
+  a pivotal moment before community norms solidified, with instructors forming initial
+  responses without established best practices
+methodology: '[[methods/Semi-Structured Interview]]'
+sample_size: 20
+sample_type: university introductory programming course instructors
+context: 9 countries across 6 continents, interviews conducted in early 2023 immediately
+  following ChatGPT's public release
+study_type: empirical
 ---
 
 # From "Ban It Till We Understand It" to "Resistance is Futile": How University Programming Instructors Plan to Adapt as More Students Use AI Code Generation and Explanation Tools such as ChatGPT and GitHub Copilot

@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/lit review documents/Integrating user experience in user interface design education_a problem-based learning approach enhanced by generative ai-supported design.pdf"
+source_file: EDU/lit review documents/Integrating user experience in user interface
+  design education_a problem-based learning approach enhanced by generative ai-supported
+  design.pdf
 type: paper
-authors: "Design Education: A Problem-Based Learning"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: 'Design Education: A Problem-Based Learning'
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Constructivism]]'
+- '[[concepts/Problem-Based Learning]]'
+- '[[frameworks/Design Thinking]]'
+- '[[concepts/Human-AI Co-creation]]'
+critiques: []
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Creativity Support Tools]]'
+- '[[concepts/Design-Based Learning]]'
+- '[[concepts/AI-driven Creativity]]'
+- '[[concepts/Human-AI Co-creation]]'
+key_claims:
+- PBL framework augmented with generative AI tools effectively integrates UX principles
+  into UI design education through real-world challenges
+- Generative AI tools enhance creativity and streamline design processes by providing
+  immediate feedback and reducing development time
+- Real-world challenges in PBL foster self-directed learning and interdisciplinary
+  collaboration among student teams
+- Combination of PBL and AI tools prepares students for contemporary design practice
+  while supporting iterative problem-solving
+- Potential over-reliance on AI tools may affect development of foundational design
+  skills, requiring balance between AI assistance and independent design thinking
+methodology: '[[methods/Design-Based Research]]'
+sample_size: null
+sample_type: interdisciplinary student teams
+context: UI/UX design education course
+study_type: design
 ---
 
 # Integrating user experience in user interface design education a problem-based learning approach enhanced by generative ai-supported design

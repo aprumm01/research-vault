@@ -1,9 +1,39 @@
 ---
-source_file: "EDU/lit review documents/Spectrum of AI futures imaginaries by AI practitioners in Finland and Singapore - The unimagined speed of AI progress.pdf"
+source_file: EDU/lit review documents/Spectrum of AI futures imaginaries by AI practitioners
+  in Finland and Singapore - The unimagined speed of AI progress.pdf
 type: paper
-authors: "A B S T R A C T"
-community: "Design Theory and Cognition"
-tags:
+authors: A B S T R A C T
+community: Design Theory and Cognition
+tags: null
+year: 2023
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Science and Technology Studies]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- 'AI practitioners envision three continuums of likely futures (best, in-between,
+  and worst scenarios) shaped by decisive questions: agent in control, practitioner
+  community relations, and justified concentration of power'
+- Individual practitioners' futures imaginaries differ from collective societal imaginaries,
+  requiring fine-tuning of vocabulary to support individual and non-linear perspectives
+- The speed of AI progress was systematically underestimated or unimagined by practitioners
+  in 2018-2019, revealing limitations in futures thinking even among field experts
+- Practitioners located in peripheral AI development regions (Finland/Singapore) have
+  limited access to global progress knowledge, affecting their capacity to form accurate
+  futures imaginaries
+- Dystopian and utopian imaginaries coexist simultaneously in practitioner thinking,
+  with empirical focus on practitioners essential as they create and realize AI futures
+methodology: '[[methods/Interview]]'
+sample_size: 35
+sample_type: AI and robotics practitioners (17% female, from university and industry)
+context: Finland and Singapore AI practitioner communities
+study_type: empirical
 ---
 
 # Spectrum of AI futures imaginaries by AI practitioners in Finland and Singapore - The unimagined speed of AI progress

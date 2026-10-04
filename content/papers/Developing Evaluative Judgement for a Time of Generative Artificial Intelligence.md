@@ -1,9 +1,47 @@
 ---
-source_file: "Developing evaluative judgement for a time of generative artificial intelligence.pdf"
+source_file: Developing evaluative judgement for a time of generative artificial intelligence.pdf
 type: paper
-authors: "Margaret Bearman, Joanna Tai, Phillip Dawson, David Boud, Rola Ajjawi"
-community: "Workplace Learning and AI"
-tags:
+authors: Margaret Bearman, Joanna Tai, Phillip Dawson, David Boud, Rola Ajjawi
+community: Workplace Learning and AI
+tags: null
+year: 2024
+builds_on:
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/Sustainable Assessment]]'
+- '[[frameworks/Constructivism]]'
+critiques:
+- '[[concepts/Cognitive Offloading]]'
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/Epistemic Substitution]]'
+supports:
+- '[[concepts/Evaluative Judgment]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[concepts/Intellectual Independence]]'
+- '[[concepts/AI Hallucinations]]'
+key_claims:
+- Evaluative judgement is both urgently needed in a GenAI world and uniquely positioned
+  to be developed through engagement with GenAI itself, representing a bidirectional
+  relationship between human judgment and AI tools
+- GenAI hallucinations—confident responses that are faithful in appearance but non-sensical
+  in light of common knowledge—require developed evaluative judgment to detect, making
+  this capability especially critical for students
+- Humans must remain the ultimate arbiters of quality regardless of how sophisticated
+  GenAI outputs become; GenAI can produce outputs but cannot authoritatively evaluate
+  them against contextually situated quality standards
+- 'Three intersecting foci should guide pedagogy: (1) developing evaluative judgement
+  of GenAI outputs, (2) developing evaluative judgement of GenAI processes (when and
+  how to use AI), and (3) using GenAI as a tool to assess and develop student evaluative
+  judgements'
+- GenAI creates new opportunities for developing evaluative judgement by generating
+  a larger volume of varied outputs for students to appraise, providing richer practice
+  material than traditional assessment alone could supply
+methodology: null
+sample_size: null
+sample_type: null
+context: Higher education assessment practices in the context of generative AI
+study_type: theoretical
 ---
 
 # Developing Evaluative Judgement for a Time of Generative Artificial Intelligence

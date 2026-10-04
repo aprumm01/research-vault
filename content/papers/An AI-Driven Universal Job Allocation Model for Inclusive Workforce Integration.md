@@ -1,9 +1,42 @@
 ---
-source_file: "An AI-Driven Universal Job Allocation Model for Inclusive Workforce Integration.pdf"
+source_file: An AI-Driven Universal Job Allocation Model for Inclusive Workforce Integration.pdf
 type: paper
-authors: "Workforce Integration"
-community: "AI and Future of Work"
-tags:
+authors: Workforce Integration
+community: AI and Future of Work
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Actor-Network Theory]]'
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Critical Theory]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+- '[[frameworks/Human-Centered AI]]'
+key_claims:
+- Over 1 billion people globally excluded from meaningful employment, with marginalized
+  groups facing 60% higher unemployment rates
+- Existing AI-driven job platforms reproduce systemic exclusion through digital access
+  gaps and algorithmic bias embedded in technological systems
+- Employment Shopping model combining AI-powered personalized job recommendations
+  with mobile Employment Buses addresses institutional barriers including credentialism,
+  statistical discrimination, spatial mismatch, and digital exclusion
+- Hybrid governance model integrating bias-mitigating AI with human intermediation
+  creates new institutional form bypassing traditional employment market barriers
+- Universal accessibility infrastructure using mobile hubs delivers services directly
+  to underserved urban and rural areas, representing institutional entrepreneurship
+  approach to market failures
+methodology: '[[methods/Interview]]'
+sample_size: null
+sample_type: null
+context: Global employment markets, marginalized populations including ex-offenders,
+  rural workers, gig workers, and individuals with disabilities
+study_type: theoretical
 ---
 
 # An AI-Driven Universal Job Allocation Model for Inclusive Workforce Integration

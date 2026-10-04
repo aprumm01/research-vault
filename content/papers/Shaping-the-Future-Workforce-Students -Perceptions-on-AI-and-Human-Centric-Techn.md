@@ -1,9 +1,41 @@
 ---
-source_file: "Shaping-the-Future-Workforce-Students_-Perceptions-on-AI-and-Human-Centric-Technologies-in-Industry-5.0.pdf"
+source_file: Shaping-the-Future-Workforce-Students_-Perceptions-on-AI-and-Human-Centric-Technologies-in-Industry-5.0.pdf
 type: paper
-authors: "ECONOMICS AND CULTURE (),"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: ECONOMICS AND CULTURE (),
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[frameworks/Sociotechnical]]'
+critiques: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Explainable AI]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Technological Anxiety]]'
+key_claims:
+- Positive correlation found between students' AI knowledge and their perceptions
+  of AI's role in industrial transformation (H1 supported, Spearman's correlation,
+  n=344)
+- Students with ethical concerns significantly emphasize the need for transparency
+  and explainability in AI systems (H2 supported)
+- IT and Computer Engineering students are significantly more optimistic about AI
+  integration than Business Management students
+- Awareness of Industry 5.0 concept is critically low across all student groups (M=2.238
+  on rating scale)
+- Students recognize AI's transformative potential but remain skeptical about AI's
+  ability to enhance human traits like creativity and emotional intelligence
+methodology: '[[methods/Survey]]'
+sample_size: 344
+sample_type: university students (231 Bachelor's, 113 Master's; 40% IT, 35% Computer
+  Engineering, 25% Business Management)
+context: Albania (developing country context)
+study_type: empirical
 ---
 
 # Shaping-the-Future-Workforce-Students -Perceptions-on-AI-and-Human-Centric-Technologies-in-Industry-5.0

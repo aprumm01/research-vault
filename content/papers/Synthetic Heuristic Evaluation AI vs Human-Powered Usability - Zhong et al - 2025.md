@@ -1,4 +1,40 @@
-# Synthetic Heuristic Evaluation: A Comparison between AI- and Human-Powered Usability Evaluation
+---
+year: 2025
+builds_on:
+- '[[frameworks/Nielsen''s Usability Heuristics]]'
+- '[[frameworks/Human-Centered Design]]'
+- '[[concepts/Synthetic Users]]'
+critiques:
+- '[[concepts/Fauxtomation]]'
+tensions_with: []
+supports:
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/Hybrid Intelligence]]'
+key_claims:
+- Synthetic heuristic evaluation using GPT-4 identified 74% and 77% of usability issues
+  in two mobile apps, exceeding the coverage of aggregated human expert evaluators
+  who found 57% and 63% respectively
+- Synthetic evaluation maintained consistent performance across evaluation tasks while
+  human evaluators' performance decreased, suggesting resistance to fatigue effects
+- LLM-based evaluation excelled at identifying layout inconsistencies and aesthetic
+  violations but struggled with recognizing UI component purposes and cross-screen
+  usability issues
+- Testing over three months with two different accounts revealed stable, reliable
+  performance, demonstrating that aggregate evaluation results remain consistent despite
+  stochastic LLM outputs
+- Individual expert evaluators typically identify 20%-50% of usability problems, compared
+  to synthetic evaluation's 74%-77% coverage, suggesting LLMs can provide complementary
+  evaluation capacity when expert time is constrained
+methodology: '[[methods/Mixed Methods]]'
+sample_size: 10
+sample_type: experienced UX practitioners with heuristic evaluation expertise (70%
+  completed 7+ usability testing projects, 80% completed 4+ heuristic evaluation projects)
+context: Comparative evaluation of two mobile applications (rental and language learning)
+  using human experts and GPT-4
+study_type: empirical
+---# Synthetic Heuristic Evaluation: A Comparison between AI- and Human-Powered Usability Evaluation
 
 **Authors:** Ruican Zhong, David W. McDonald, Gary Hsieh  
 **Affiliation:** University of Washington  

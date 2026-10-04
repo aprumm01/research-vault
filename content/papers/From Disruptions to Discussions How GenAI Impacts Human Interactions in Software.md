@@ -1,9 +1,47 @@
 ---
-source_file: "AI collaboration related articles/From_Disruptions_to_Discussions_How_GenAI_Impacts_Human_Interactions_in_Software_Development.pdf"
+source_file: AI collaboration related articles/From_Disruptions_to_Discussions_How_GenAI_Impacts_Human_Interactions_in_Software_Development.pdf
 type: paper
-authors: "Impacts Human Interactions in"
-community: "Design Theory and Cognition"
-tags:
+authors: Impacts Human Interactions in
+community: Design Theory and Cognition
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Activity Theory]]'
+critiques: []
+tensions_with:
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Social Isolation (AI-induced)]]'
+supports:
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/Cognitive Offloading]]'
+- '[[concepts/Peer Learning Erosion]]'
+- '[[concepts/AI Augmentation]]'
+key_claims:
+- GenAI substantially reduces routine technical questions (API documentation, syntax
+  clarification, error resolution) while increasing strategic discussions about architectural
+  decisions, design tradeoffs, and business requirements, transforming rather than
+  reducing collaboration quality
+- AI consultation lacks critical social and contextual dimensions of human interaction
+  including contextual awareness of project specifics, bidirectional learning between
+  asker and answerer, relationship building for team bonds, and tacit knowledge transfer
+  of implicit wisdom and judgment
+- Junior developers disproportionately adopt AI for learning and question-answering,
+  potentially reducing mentorship interactions with senior colleagues and raising
+  concerns about professional socialization, knowledge transfer across experience
+  levels, and long-term team capability development
+- Initial GenAI adoption creates disruption in established communication patterns,
+  but teams develop new norms over time about appropriate AI versus human consultation,
+  though optimal patterns require deliberate cultivation rather than self-organization
+- GenAI impacts interact with work modality contexts, with remote/hybrid teams potentially
+  experiencing exacerbated isolation if AI further reduces interaction touchpoints,
+  while co-located teams may benefit from reduced interruptions without losing informal
+  interaction opportunities
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: software developers
+context: software development teams using GenAI tools
+study_type: empirical
 ---
 
 # From Disruptions to Discussions How GenAI Impacts Human Interactions in Software Development

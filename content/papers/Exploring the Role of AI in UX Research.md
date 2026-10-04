@@ -1,9 +1,51 @@
 ---
-source_file: "2026/Exploring the Role of AI in UX Research.pdf"
+source_file: 2026/Exploring the Role of AI in UX Research.pdf
 type: paper
-authors: "Navigating the Terrain:"
-community: "HCI Education and Pedagogy"
-tags:
+authors: 'Navigating the Terrain:'
+community: HCI Education and Pedagogy
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Human-Centered AI]]'
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/AI Tool Dependence]]'
+- '[[concepts/De-skilling]]'
+supports:
+- '[[concepts/AI Literacy Dimensions]]'
+- '[[concepts/Human-AI Co-creation]]'
+- '[[concepts/AI Augmentation]]'
+- '[[concepts/Illusion of Competence]]'
+- '[[concepts/Epistemic Substitution]]'
+- '[[concepts/Human-in-the-Loop Pedagogy]]'
+key_claims:
+- UX practitioners predominantly deploy AI for low-complexity routine tasks (transcription,
+  survey creation, basic data management) despite AI capabilities extending to pattern
+  recognition, thematic coding support, and hypothesis generation, representing capability-awareness
+  gap rather than technical limitation
+- Limited AI education among UX researchers creates dual risks of simultaneously missing
+  beneficial applications and uncritical acceptance of AI outputs where human judgment
+  essential
+- Transformative potential emerges when researchers shift from viewing AI as transcription
+  service toward positioning AI as brainstorming collaborator, pattern identifier,
+  and alternative perspective generator requiring iterative dialogue interaction modes
+- Educational institutions inadequately prepare UX researchers for AI-integrated practice,
+  with practitioners reporting ad hoc learning through trial-and-error rather than
+  structured training covering AI foundations, critical evaluation methods, and ethical
+  considerations
+- Significant ambiguity and disagreement exists about where human judgment must remain
+  central versus where AI assistance acceptable, particularly surrounding interpretive
+  activities like thematic analysis, insight synthesis, and strategic recommendation
+  development
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: UX researchers
+context: Professional UX research practice
+study_type: empirical
 ---
 
 # Exploring the Role of AI in UX Research

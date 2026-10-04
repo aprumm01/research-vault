@@ -1,9 +1,43 @@
 ---
-source_file: "EDU/lit review documents/Tracing the Techno-Supremacy Doctrine - A Critical Discourse Analysis of the AI Executive Elite.pdf"
+source_file: EDU/lit review documents/Tracing the Techno-Supremacy Doctrine - A Critical
+  Discourse Analysis of the AI Executive Elite.pdf
 type: paper
-authors: "A P REPRINT"
-community: "Responsible AI and Ethics"
-tags:
+authors: A P REPRINT
+community: Responsible AI and Ethics
+tags: null
+year: 2025
+builds_on:
+- '[[frameworks/Critical Theory]]'
+- '[[methods/Narrative]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with:
+- '[[concepts/Technological Determinism]]'
+- '[[frameworks/Human-Centered AI]]'
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/Sociology of Expectations]]'
+key_claims:
+- The Techno-Supremacy Doctrine (TSD) synthesizes four previously distinct belief
+  systems (Tech Goggles, Solutionism, Techno-Chauvinism, Cult of Technology) into
+  a self-reinforcing cycle that characterizes AI executive elite discourse
+- AI executive elite discourse exhibits marked polarization and increase in pro-TSD
+  discourse following the ChatGPT launch (post-2022), shifting from diverse perspectives
+  to more uniform techno-supremacist narratives
+- The dominant pro-TSD narrative employs a strategic pattern of acknowledging risks
+  only as preamble to proposing further technological solutions, deflecting concerns
+  through the Value-Neutrality Thesis
+- TSD manifests perniciously in education by reducing learning to quantifiable output
+  amenable to optimization, prioritizing technological solutions over pedagogical,
+  social, and ethical considerations
+- The AI executive elite is not monolithic but exhibits a spectrum from pernicious
+  TSD to Benign Techno-Optimism (BTO), with the distinction being critical for understanding
+  varied stances on responsible AI development
+methodology: '[[methods/Content Analysis]]'
+sample_size: 14
+sample_type: texts by AI executive elite leaders
+context: Published discourse from influential AI industry leaders (2017-2025)
+study_type: theoretical
 ---
 
 # Tracing the Techno-Supremacy Doctrine - A Critical Discourse Analysis of the AI Executive Elite

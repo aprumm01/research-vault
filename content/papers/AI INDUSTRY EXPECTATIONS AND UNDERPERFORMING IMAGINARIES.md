@@ -1,9 +1,45 @@
 ---
-source_file: "EDU/lit review documents/AI INDUSTRY EXPECTATIONS AND UNDERPERFORMING IMAGINARIES.pdf"
+source_file: EDU/lit review documents/AI INDUSTRY EXPECTATIONS AND UNDERPERFORMING
+  IMAGINARIES.pdf
 type: paper
-authors: "Association of Internet Researchers"
-community: "GenAI in UX and Design Practice"
-tags:
+authors: Association of Internet Researchers
+community: GenAI in UX and Design Practice
+tags: null
+year: 2024
+builds_on:
+- '[[frameworks/Sociotechnical]]'
+- '[[frameworks/Actor-Network Theory]]'
+- '[[concepts/Sociotechnical Imaginaries]]'
+critiques:
+- '[[concepts/Technological Determinism]]'
+tensions_with: []
+supports:
+- '[[concepts/Sociotechnical Imaginaries]]'
+- '[[concepts/AI Industry Expectations]]'
+key_claims:
+- AI industry framings dominate media coverage, with Big Tech acting as primary knowledge
+  producers about AI futures, employing strategic premediation and issue preclusion
+  to maintain control
+- AI imaginaries differ significantly across national contexts—US commercialism, Chinese
+  national development, German hesitancy—reflecting culturally particular discursive
+  opportunity structures
+- Even within industry (Microsoft employees), AI relationships are metaphorically
+  unstable—alternating between tool, copilot, friend, puppy, toddler—revealing fundamentally
+  unsettled understandings
+- 'Industry employs temporal asymmetry: hopes are short-term and individualized while
+  fears are long-term, relational, and societal, creating strategic ambiguity that
+  deflects present accountability'
+- Despite severe ecological, economic, and social effects, sustainability rarely appears
+  explicitly in AI imaginaries; when present, focuses on efficiency and openness rather
+  than justice
+methodology: '[[methods/Mixed Methods]]'
+sample_size: null
+sample_type: AI researchers, public discourse participants, AI experts across industry/government/academia/media/civil
+  society, Microsoft employees (10-15 experts per country in US and Germany)
+context: Cross-national AI discourse analysis (US, Germany, China) across social media
+  platforms (Twitter/X, LinkedIn), newspapers, and organizational websites (2012-2021
+  longitudinal data, with interviews 2023-2024)
+study_type: empirical
 ---
 
 # AI INDUSTRY EXPECTATIONS AND UNDERPERFORMING IMAGINARIES
