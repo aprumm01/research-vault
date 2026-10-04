@@ -1,132 +1,96 @@
 ---
-source_file: 2026/i609-sustainability/Afr25.pdf
+title: "The Fast and Spurious: Developer Productivity with GenAI"
+source_file: "/Users/I548005/Library/CloudStorage/OneDrive-SAPSE/Documents/Adam's stuff/0-School/i609/i609 Articles/Afr25.pdf"
 type: paper
-authors: Sadia Afroz, Zixuan Feng, Tyler Menezes, Katie Kimura, Bianca Trinkenreich,
-  Igor Steinmacher, Anita Sarma
-community: Sustainable Computing
-tags:
-- sustainability
-- i609
-- GenAI
-- developer-productivity
-- software-engineering
-- SPACE-framework
+authors:
+  - Sadia Afroz
+  - Zixuan Feng
+  - Tyler Menezes
+  - Katie Kimura
+  - Bianca Trinkenreich
+  - Igor Steinmacher
+  - Anita Sarma
 year: 2026
+venue: "FSE'26 (34th ACM Symposium on the Foundations of Software Engineering)"
 builds_on:
-- '[[frameworks/Human-Centered Design]]'
-- '[[frameworks/Sociotechnical]]'
-- '[[frameworks/Cognitive Load]]'
-critiques:
-- '[[concepts/Surface-Level Processing]]'
-tensions_with:
-- '[[concepts/Illusion of Competence]]'
-- '[[frameworks/Technological Determinism]]'
+  - "[[concepts/SPACE Framework]]"
+  - "[[concepts/Developer Productivity]]"
+  - "[[concepts/DevEx Framework]]"
 supports:
-- '[[concepts/Cognitive Offloading]]'
-- '[[concepts/AI Tool Dependence]]'
-- '[[concepts/Illusion of Competence]]'
-- '[[concepts/De-skilling]]'
-- '[[concepts/Ironies of Automation]]'
+  - "[[concepts/Human-AI Collaboration]]"
+  - "[[concepts/AI Productivity]]"
+critiques:
+  - "[[concepts/GenAI Environmental Impact]]"
+tensions_with:
+  - "[[concepts/Developer Tools]]"
 key_claims:
-- 84.3% of frequent GenAI users reported no reduction in code review time despite
-  faster code generation, indicating effort redistribution rather than genuine productivity
-  gains
-- Frequent GenAI users showed activity increases (48.3% vs 7.9% more commits) but
-  no corresponding performance improvements, with 67.4% reporting no change or decline
-  in test case pass rates
-- More than three-quarters (>75%) of all GenAI users reported no positive change in
-  communication and collaboration patterns, with No Change responses exceeding 70%
-  across all collaboration items
-- Despite efficiency gains from GenAI tools, more than half of developers still reported
-  feeling exhausted (65.2% frequent users vs 62.8% non-frequent users)
-- GenAI adoption creates a 'constraint redistribution problem' where effort saved
-  in one productivity dimension resurfaces in another, particularly shifting burden
-  from code writing to code review and verification
-methodology: '[[methods/Mixed Methods]]'
-sample_size: 415
-sample_type: professional software developers from 56 open-source communities
-context: Industry software development with GenAI tools (GitHub Copilot, ChatGPT)
+  - GenAI productivity gains are often "spurious" - surface-level acceleration accompanied by hidden costs and effort redistribution
+  - Effort saved in one SPACE dimension frequently resurfaces in another dimension
+  - Frequent GenAI users report faster task completion but increased code review burden
+  - Communication and collaboration patterns remain largely unchanged with GenAI adoption
+  - High levels of developer exhaustion persist despite AI adoption due to cognitive load from output verification
+  - Organizations should use SPACE as a holistic framework rather than single activity metrics to evaluate GenAI productivity
+methodology: Survey with mixed methods (quantitative Likert-scale analysis and qualitative open-ended coding)
 study_type: empirical
+context: Software development, GenAI tools (GitHub Copilot, ChatGPT), developer productivity measurement
 ---
 
 # The Fast and Spurious: Developer Productivity with GenAI
 
 ## Summary
 
-This 2026 paper by Afroz et al., published at the ACM Symposium on the Foundations of Software Engineering (FSE'26), presents empirical research on how Generative AI (GenAI) adoption affects developer productivity across multiple dimensions. The research team spans Oregon State University, CodeDay, Colorado State University, and Northern Arizona University, bringing expertise in software engineering, human-computer interaction, and developer experience research. The study surveyed 415 professional software developers using the SPACE framework (Satisfaction, Performance, Activity, Communication, Efficiency and flow) to assess perceived productivity changes. The paper's significance lies in challenging the prevailing narrative that GenAI tools like GitHub Copilot and ChatGPT uniformly boost productivity, instead revealing a pattern of "spurious productivity"—surface-level acceleration accompanied by hidden costs and effort redistribution. This research is relevant to sustainable computing because it examines the hidden human and organizational costs of AI-assisted development, with implications for understanding whether AI tools genuinely improve efficiency or merely shift effort to different activities.
+This paper investigates how GenAI adoption affects developer productivity across multiple dimensions using the SPACE framework (Satisfaction and well-being, Performance, Activity, Communication and collaboration, and Efficiency and flow). The authors surveyed 415 professional developers from 56 open source communities to understand perceived productivity changes associated with AI adoption. The study uses both quantitative analysis of Likert-scale responses and qualitative coding of open-ended responses to map productivity impacts across all five SPACE dimensions.
 
-## Research Overview
+The central finding is that GenAI productivity gains are often "spurious" - appearing as surface-level acceleration but accompanied by redistributed effort and hidden costs. While frequent GenAI users reported faster task completion and higher output volume in Activity metrics, these gains were offset by increased code review burden, persistent cognitive load from output verification, and unchanged collaboration patterns. The paper introduces the concept of a "constraint redistribution problem" where improvements in Activity and Efficiency dimensions create new demands in Satisfaction, Performance, and Communication dimensions.
 
-The paper addresses two research questions: "RQ1. How does GenAI adoption affect developer productivity across multiple dimensions?" and "RQ2. What productivity-related gaps, challenges, and strategies do developers perceive in GenAI adoption?" (Afroz et al., 2026, p. 2).
+The study identifies seven productivity-related challenges and eight potential mitigation strategies mapped onto the SPACE dimensions. Key challenges include AI-induced cognitive workload from verifying outputs, review burden from others' AI-generated code, organizational pressure for higher output, verbosity of AI outputs affecting test quality, and reliance on AI before acquiring foundational knowledge. Proposed strategies include structured organizational training, team norms framing GenAI as assistive rather than replacement, confidence indicators in AI outputs, integrating GenAI with project-specific context, and quality gates for AI-heavy changes.
 
-The methodology combined quantitative survey analysis with qualitative thematic coding. The researchers "conducted a large-scale survey of 415 professional developers grounded in the SPACE framework" (Afroz et al., 2026, p. 2), recruiting from 56 open-source communities including IBM, Oracle, Google, and data science projects like PyTorch. Participants were categorized as frequent (Often, Always) or non-frequent (Never, Rarely, Sometimes) GenAI users based on self-reported usage frequency.
+The authors conclude that at the current stage of GenAI adoption, organizations focusing solely on activity-level metrics may incorrectly conclude that GenAI is effective, while those assessing performance outcomes may reach different conclusions. They recommend using SPACE as a comprehensive planning framework to identify where effort will shift before deploying AI-assisted code generation.
 
-Key concepts include the **SPACE framework**, which "conceptualizes productivity as a combination of interpersonal and technical dimensions" emphasizing that "productivity arises from the interplay among human, technical, and organizational factors" (Afroz et al., 2026, p. 2). The framework comprises five dimensions: **Satisfaction and well-being** (fulfillment, motivation, support), **Performance** (quality and impact of outcomes), **Activity** (volume of work performed), **Communication and collaboration** (team interaction), and **Efficiency and flow** (progress with minimal interruptions).
+## Key Concepts
 
-Qualitative analysis of 206 open-ended responses achieved "90% agreement on inter-rater reliability" using the Jaccard index, identifying seven challenges and eight potential strategies mapped to SPACE dimensions.
+- **SPACE Framework**: Multidimensional productivity framework with five dimensions: Satisfaction and well-being, Performance, Activity, Communication and collaboration, and Efficiency and flow
+- **Spurious Productivity**: Surface-level acceleration that obscures stagnant or redistributed effort across dimensions
+- **Constraint Redistribution Problem**: Phenomenon where GenAI-facilitated improvements in one dimension create demands in others
+- **Cognitive Load from Verification**: Mental effort required to continuously evaluate AI suggestions, contributing to exhaustion despite efficiency gains
+- **Review Burden**: Increased time spent reviewing others' AI-generated code that is often verbose or low-quality
 
-## Theoretical Framework
+## Key Findings
 
-The SPACE framework, proposed by Forsgren et al. (2021), serves as the primary theoretical lens. It "views productivity as a system of interdependent dimensions rather than isolated metrics. High activity without corresponding performance gains may indicate redistributed rather than reduced effort" (Afroz et al., 2026, p. 2).
+**Satisfaction and Well-being (S)**:
+- More developers report manageable workloads and increased job security
+- However, high levels of exhaustion persist despite AI adoption (65.2% still feel exhausted)
+- ~46-60% of participants became less interested in work
 
-The paper critiques traditional productivity metrics: "Traditional metrics such as lines of code (LoC), commit counts, and task completion rates capture only narrow aspects of work and can be misleading or easily gamed" (Afroz et al., 2026, p. 2). This aligns with Brooks' observation from *The Mythical Man-Month* that "there can be no single metric for programmer productivity, and that attempts to find one typically measure volume rather than performance" (Afroz et al., 2026, p. 8).
+**Performance (P)**:
+- Higher coding throughput with frequent GenAI use (72.7% report increase)
+- Test success rates show little to no improvement
+- Learning velocity remains largely unchanged
 
-The concept of **spurious productivity** is central: perceived productivity gains that are "surface-level acceleration, often accompanied by redistributed effort and hidden costs" (Afroz et al., 2026, p. 1). This connects to concerns about **technical debt** where "Moreschini et al. showed that GenAI can incur prompt engineering debt and explainability debt, leaving teams with code that may 'work' but lacks clarity, testability, or adaptability" (Afroz et al., 2026, p. 1).
+**Activity (A)**:
+- Increased output of commits, test cases, and completed work items
+- Reduced time on direct code writing
+- Increased involvement in code review activities (84.3% report no reduction in review time)
+- Frequent AI users more likely to conduct more code reviews (25.1% vs 9.8%)
 
-The **Developer Experience (DevEx) framework** is referenced as complementary, "which highlights feedback loops, cognitive load, and flow state as key drivers of developer effectiveness" (Afroz et al., 2026, p. 2).
+**Communication and Collaboration (C)**:
+- Team communication patterns remain largely unchanged with GenAI use
+- More than 70% of frequent AI users report "No Change" across all communication items
+- Meetings and email-related activities show little to no reduction
 
-## Central Arguments
+**Efficiency and Flow (E)**:
+- Reduced time on individual work items (35.8% vs 82.2%)
+- Reduced time on non-work-related web browsing
+- Improvements in sustained focus and flow are limited
 
-The paper's central argument is that GenAI adoption creates a "constraint redistribution problem" where "effort saved in one SPACE dimension often resurfaces in another" (Afroz et al., 2026, p. 4). The authors contend that "at the current stage of GenAI adoption, perceived productivity gains may be spurious—surface-level acceleration, often accompanied by redistributed effort and hidden costs" (Afroz et al., 2026, p. 1).
+## Relevance to Sustainable Computing / AI Productivity
 
-Supporting sub-claims include:
+This paper is highly relevant to understanding the true nature of AI-mediated productivity in knowledge work. The concept of "spurious productivity" directly challenges simplistic claims about GenAI efficiency gains and suggests that organizations may be overlooking significant hidden costs. The finding that cognitive load and exhaustion persist despite efficiency gains raises questions about the sustainability of current GenAI integration approaches.
 
-1. **Activity gains offset by review burden**: "While frequent GenAI users reported faster task completion and higher output volume, these gains were offset by increased code review burden, persistent cognitive load from output verification, and unchanged collaboration patterns" (Afroz et al., 2026, p. 1). Specifically, "the majority of frequent users (84.3%) reported that GenAI did not reduce the time spent on code reviews" (Afroz et al., 2026, p. 8).
+For sustainable computing, the paper implies that simply measuring output metrics (commits, lines of code) provides a misleading picture of AI tool effectiveness. The redistribution of effort - particularly toward verification, review, and debugging of AI-generated content - suggests that total human effort may not decrease substantially even as specific task completion accelerates. This has implications for calculating the true cost-benefit of AI assistance, including the environmental costs of AI compute relative to actual (vs. perceived) productivity gains.
 
-2. **Cognitive load from verification**: "AI-generated code unfairly puts more onus on code reviewers to understand how the code works and find bugs or security issues" (Afroz et al., 2026, p. 5, quoting participant P204).
+The paper's recommendation to use SPACE as a planning framework before deploying AI tools provides a methodological contribution for organizations seeking sustainable AI integration that genuinely reduces total effort rather than merely shifting it between activities.
 
-3. **Limited collaboration impact**: "More than three-quarters of all users reported no positive change" in communication and collaboration, with "No Change responses dominate across all four items, exceeding 70% in each case" (Afroz et al., 2026, p. 6).
+## Citation
 
-4. **Persistent exhaustion**: Despite efficiency gains, "more than half of respondents still reported feeling exhausted (S2: 65.2% vs. 62.8%)" (Afroz et al., 2026, p. 4).
-
-## Evidence
-
-The study provides substantial quantitative evidence. Regarding Activity dimension gains: "a larger share of frequent users reported producing more commits (A1): 48.3% vs 7.9%; more test cases (A3): 56.5% vs 24.8%; and completing more work items (A5): 55.9% vs 9.1%, compared to non-frequent users" (Afroz et al., 2026, p. 5).
-
-However, Performance gains are limited: "Non-frequent AI users predominantly reported no change in work quality or outcomes across performance-related items (P1: 66.7%, P2: 83.1%, P3: 66.7%)" while frequent users showed mixed results with "test case pass rates (P2) and learning velocity (API methods learned per day, P3), most of the frequent AI users—67.4% and 58.6% respectively—reported no change or a decline" (Afroz et al., 2026, p. 5).
-
-Qualitative evidence includes participant quotes revealing hidden costs: "I spend more time reviewing code and docs wastes time — coworkers are (accidentally but carelessly) sabotaging our work by 'creating work'. The LLMs save these coworkers time because they are faster at producing content, but other coworkers have to spend disproportionately more time to review and correct all that content" (Afroz et al., 2026, p. 5, P127).
-
-**Limitations** acknowledged include reliance on self-reported perceptions rather than objective productivity outcomes, and that "no single sample can fully represent the global software workforce" though the dataset "includes 415 software practitioners from 56 organizations, which is comparable in scale and diversity to prior empirical studies" (Afroz et al., 2026, p. 8). The study does not measure environmental costs of GenAI usage.
-
-## Conclusion
-
-For recall six months from now, this paper provides critical empirical evidence that GenAI productivity gains in software development are often "spurious"—apparent acceleration that redistributes rather than reduces total effort. Using the SPACE framework across 415 developers, key findings are: (1) Activity increases (more commits, test cases, completed items) for frequent GenAI users; (2) No corresponding Performance improvements in test pass rates or learning velocity; (3) Dramatically increased code review burden with 84.3% reporting no time reduction; (4) Persistent developer exhaustion despite efficiency features; (5) Unchanged team communication and collaboration patterns. Seven challenges mapped to SPACE dimensions include cognitive load from verification (Ch1), review burden of others' AI outputs (Ch2), organizational pressure from "AI = faster output" expectations (Ch3), verbosity of AI outputs (Ch4), and reliance on AI before acquiring foundational knowledge (Ch5). Eight strategies include organizational training on GenAI (St1), framing GenAI as assistive rather than replacement (St2), confidence indicators and explanation norms (St3), and quality gates for AI-heavy changes (St7). The sustainability relevance is indirect but important: if GenAI tools shift effort rather than reduce it, the energy costs of running these services may not be offset by genuine productivity gains.
-
-## APA Citation
-
-Afroz, S., Feng, Z., Menezes, T., Kimura, K., Trinkenreich, B., Steinmacher, I., & Sarma, A. (2026). The fast and spurious: Developer productivity with GenAI. In *Companion Proceedings of the 34th ACM Symposium on the Foundations of Software Engineering (FSE '26)*, June 5-9, 2026, Montreal, Canada. ACM. https://doi.org/XXXXXXX.XXXXXXX
-
-## Discussion Questions
-
-1. If GenAI tools redistribute effort rather than reduce it (e.g., from code writing to code review), what are the implications for the environmental sustainability claims made by AI companies about productivity improvements?
-
-2. How should organizations measure "true" productivity gains from GenAI adoption, and what role should the SPACE framework play in evaluating AI tools before widespread deployment?
-
-3. The paper identifies "spurious productivity" where surface metrics improve while total effort remains constant. How might this concept apply to other AI-augmented work contexts beyond software development?
-
-4. Given that 84.3% of frequent GenAI users reported no reduction in code review time despite faster code generation, what organizational policies might address this effort redistribution problem?
-
-
-## Related Papers
-- [[papers/Creating and Evaluating Personas Using Generative AI - Amin et al - 2025]]
-- [[papers/Generative AI Personas Considered Harmful - Amin et al - 2025]]
-- [[papers/Creating and Evaluating Personas Using Generative AI - Amin et al - 2025 CHI]]
-- [[papers/From Disruptions to Discussions How GenAI Impacts Human Interactions in Software]]
-## Connections
-
-- [[topics/Sustainable Computing]]
-- [[communities/Sustainable Computing]]
-- [[topics/AI Ethics]]
-- [[topics/Developer Experience]]
-- [[topics/Technical Debt]]
+Afroz, S., Feng, Z., Menezes, T., Kimura, K., Trinkenreich, B., Steinmacher, I., & Sarma, A. (2026). The Fast and Spurious: Developer Productivity with GenAI. In *Companion Proceedings of the 34th ACM Symposium on the Foundations of Software Engineering (FSE '26)*, June 5-9, 2026, Montreal, Canada. ACM.
