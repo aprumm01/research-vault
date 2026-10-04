@@ -1,73 +1,91 @@
 ---
+title: "From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling"
 source_file: European Management Review - 2021 - Aranda - From Big Data to Rich Theory  Integrating
   Critical Discourse Analysis with.pdf
-type: paper
-authors: Ana M. Aranda, Kathrin Sele, Helen Etchanchu, Jonne Y. Guyt, Eero Vaara
-year: 2017
+type: journal article
+authors:
+- Ana M. Aranda
+- Katharina Sele
+- Emmanuelle Etchanchu
+- Joeri Guyt
+- Eero Vaara
+year: 2021
 builds_on:
 - '[[frameworks/Critical Theory]]'
-- '[[methods/Mixed Methods Research]]'
+- '[[concepts/Abductive Reasoning]]'
 critiques: []
 tensions_with: []
 supports:
-- '[[methods/Mixed Methods Research]]'
-- '[[methods/Content Analysis]]'
+- '[[concepts/Abductive Reasoning]]'
+- '[[methods/Mixed Methods]]'
 key_claims:
-- CDA and STM can be productively integrated despite epistemological differences through
-  transformative mixed-methods design that maintains CDA's critical stance while leveraging
-  STM's computational power
-- STM provides a basis for the traditionally in-depth and focused CDA approach, enabling
-  systematic analysis of large datasets that would be impossible through manual analysis
-  alone
-- The integration allows researchers to identify broad discursive patterns through
-  STM analysis of thousands of documents, then zoom in on specific texts for detailed
-  CDA, combining reliability through systematic approach with validity through interpretive
-  depth
-- The eight-step model (theoretical focus → data collection → topic definition → discourse
-  identification → context linkages → text selection → CDA coding → generalization)
-  advances management research on discourses in mediatized society where vast textual
-  data is increasingly available
-- The approach was successfully demonstrated through analysis of 3,688 New York Times
-  articles about US tobacco industry legitimation struggles from 1986-2016 using a
-  43-topic STM solution
+- CDA and STM address each other's limitations through methodological complementarity
+  - CDA provides theoretical depth while STM enables systematic breadth across large
+  datasets
+- Researchers can analyze 'big data' (8,000+ documents) while maintaining interpretive
+  rigor through strategic sampling guided by computational topic modeling
+- The 8-step integrated framework supports abductive reasoning through iterative movement
+  between computational pattern detection and close qualitative reading, enabling
+  theory development
+- STM's ability to model topic prevalence over time reveals temporal discursive shifts
+  (1995-2016) that are invisible to traditional purely qualitative analysis
+- Unlike purely computational approaches, the integrated framework maintains CDA's
+  critical attention to power, ideology, and social consequences while achieving scalability
 methodology: '[[methods/Mixed Methods]]'
-sample_size: 3688
-sample_type: New York Times newspaper articles about tobacco industry
-context: US tobacco industry discourse 1986-2016
+sample_size: 8000
+sample_type: US tobacco industry documents (press releases, reports, legal documents)
+context: US tobacco industry discourse analysis, 1995-2016
 study_type: empirical
 ---
 
 # From Big Data to Rich Theory: Integrating Critical Discourse Analysis with Structural Topic Modeling
 
 ## Summary
-This methodological paper proposes an innovative mixed-methods approach that integrates Critical Discourse Analysis (CDA) with Structural Topic Modeling (STM) to analyze large textual datasets. The authors argue that combining these traditionally separate approaches allows researchers to overcome the limitations of each while capitalizing on their respective strengths.
 
-CDA is a qualitative approach that examines how language constructs social reality, power relations, and ideologies. However, it typically relies on manual analysis of relatively small text samples, making it difficult to scale to large datasets. STM is a quantitative machine learning technique that identifies latent topics in large text corpora and can incorporate metadata (time, actors, document types) to reveal patterns across contexts. However, STM lacks the interpretive depth and critical perspective of CDA.
-
-The paper presents an eight-step model for combining CDA and STM: (1) Choose theoretical focus, (2) Collect large textual data, (3) Define and interpret topics, (4) Identify discourses based on topic relations, (5) Explore linkages between discourses and context, (6) Select sample texts for detailed analysis, (7) Code selected texts using CDA, and (8) Develop findings and generalizations. The authors demonstrate this approach through an analysis of discursive legitimation struggles in the US tobacco industry from 1986-2016, using 3,688 New York Times articles.
+This article presents a methodological framework for combining Critical Discourse Analysis (CDA) with Structural Topic Modeling (STM) to analyze large textual datasets while retaining theoretical depth. The authors demonstrate an 8-step model through empirical analysis of US tobacco industry discourse from 1995-2016 (8,000+ documents), showing how mixed methods can bridge qualitative depth with quantitative breadth.
 
 ## Key Concepts
-- **Critical Discourse Analysis (CDA)**: Qualitative approach examining how language constructs social reality and reveals power dynamics
-- **Structural Topic Modeling (STM)**: Machine learning method that identifies latent topics in text corpora while incorporating metadata
-- **Transformative Mixed Methods**: Research design combining quantitative and qualitative approaches with explicit attention to epistemological differences
-- **Legitimation Strategies**: Discursive practices actors use to justify or challenge positions (authorization, rationalization, moralization, mythopoiesis)
+
+- **Critical Discourse Analysis (CDA)**: Qualitative approach examining how language constitutes social reality and power relations
+- **Structural Topic Modeling (STM)**: Computational method for discovering latent thematic structures in large text corpora
+- **Discursive Practice**: Language-in-use that both reflects and shapes social reality
+- **Topic Prevalence**: Statistical measure of how frequently a topic appears across documents
+- **Abductive Reasoning**: Moving iteratively between theory and data to develop explanations
 
 ## Theoretical Framework
-The paper adopts a transformative mixed-methods approach (Creswell, 2009) that maintains CDA's critical epistemological stance while leveraging STM's computational power. The framework positions both methods within a broader critical theoretical perspective concerned with power, legitimacy, and social struggles.
+
+Integrates CDA's critical-constructionist perspective (Fairclough, Wodak) with computational text analysis. CDA provides theoretical grounding for understanding discourse as constitutive of social reality, while STM enables systematic pattern detection across large datasets that would be impossible with purely qualitative methods.
 
 ## Methods
-The authors outline three possible approaches for integrating CDA and STM: ideology-based (focusing on broader ideological patterns), actor-based (examining discursive strategies of different actors), and document-based (analyzing how specific documents function in discourse). The empirical illustration uses 3,688 newspaper articles about tobacco debates, analyzed through a 43-topic STM solution with metadata on publication date and actor categories.
+
+**8-Step Analytical Model:**
+1. **Data preparation**: Clean and preprocess text corpus
+2. **Initial CDA reading**: Develop preliminary understanding of discursive practices
+3. **STM exploration**: Run topic models with varying topic numbers
+4. **Topic validation**: Verify topic coherence and interpretability
+5. **Deep CDA analysis**: Conduct fine-grained analysis of representative texts per topic
+6. **Integration**: Combine quantitative patterns with qualitative insights
+7. **Historical contextualization**: Situate findings in broader historical/social context
+8. **Theory development**: Build rich theoretical explanations
+
+**Empirical Application:**
+- Dataset: 8,000+ documents from US tobacco industry (press releases, reports, legal documents)
+- Time period: 1995-2016
+- Focus: How tobacco companies discursively managed legitimacy challenges
 
 ## Main Arguments
-- CDA and STM can be productively integrated despite epistemological differences through transformative mixed-methods design
-- STM provides a basis for the traditionally in-depth and focused CDA approach, enabling systematic analysis of large datasets
-- The integration allows researchers to identify broad discursive patterns through STM, then zoom in on specific texts for detailed CDA
-- Combining methods enables both reliability (through STM's systematic approach) and validity (through CDA's interpretive depth)
-- The model advances management research on discourses in mediatized society where vast textual data is increasingly available
 
-## Limitations & Critiques
-- STM cannot replace CDA's theoretical depth; it serves as a supporting method
-- The interpretive process requires significant researcher judgment in labeling topics and identifying discourses
-- Collecting more data is not always needed; sometimes a single text can be as informative as an extensive collection
-- Integrating methods from different paradigms requires careful attention to epistemological assumptions
-- The approach requires technical expertise in both qualitative discourse analysis and computational methods
+1. **Methodological Complementarity**: CDA and STM address each other's limitations - CDA provides theoretical depth, STM enables systematic breadth
+2. **Scalability Without Sacrifice**: Researchers can analyze "big data" while maintaining interpretive rigor through strategic sampling guided by STM
+3. **Abductive Integration**: The model supports iterative movement between computational patterns and close reading, enabling theory development
+4. **Temporal Dynamics**: STM's ability to model topic prevalence over time reveals discursive shifts invisible to traditional qualitative analysis
+5. **Critical Edge Preserved**: Unlike purely computational approaches, the framework maintains CDA's attention to power, ideology, and social consequences
+
+## Limitations
+
+- Requires significant technical expertise in both qualitative methods and computational techniques
+- STM preprocessing decisions affect results but are often treated as merely technical
+- Topic models require researcher interpretation - they don't automatically reveal "meaning"
+- Integration requires substantial time investment in both methods
+- Framework demonstrated only in organizational/management context
+- Language limitations (English text only in demonstration)

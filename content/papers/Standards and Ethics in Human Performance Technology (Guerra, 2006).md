@@ -1,72 +1,91 @@
 ---
-source_file: Guerra_2006--standards and ethics in HPT.pdf
+source_file: EDU/r511/Guerra_2006--standards and ethics in HPT.pdf
 type: paper
-authors: Ingrid J. Guerra
-year: null
+authors: CHAPTER FORTY-FOUR
+community: AI and Future of Work
+tags: null
+year: 2006
 builds_on:
-- '[[frameworks/Critical Theory]]'
 - '[[frameworks/Value Sensitive Design]]'
+- '[[frameworks/Human-Centered Design]]'
 critiques: []
-tensions_with: []
+tensions_with:
+- '[[concepts/Technological Determinism]]'
 supports:
 - '[[concepts/Critical Thinking]]'
 - '[[concepts/Epistemic Agency]]'
 - '[[concepts/Intellectual Independence]]'
 key_claims:
-- Moral awareness is the critical first step in ethical decision-making; organizational
-  context influences whether moral issues are recognized
-- Ethics and performance standards are integral to HPT competence and value; they
-  shape how practitioners view, solve, and avoid performance problems
-- Ignorance of ethical factors is not a valid justification for poor decisions; increasing
-  awareness of ethical and professional standards adds value to clients, organizations,
-  communities, and families
-- HPT professionals should understand whether they lean toward consequentialist or
-  intentionalist frameworks as this affects decisions
-- Social responsibility is increasingly important; organizations are realizing that
-  societal good is not just optional but a requirement for success
-methodology: '[[methods/Literature Review]]'
+- Professional ethics is foundational to HPT professionalism rather than an optional
+  constraint—commitment to honesty, competence, and social responsibility distinguishes
+  professional practitioners from consultants merely selling services
+- HPT practitioners face distinctive ethical challenges requiring specialized judgment
+  due to organizational politics, multiple competing stakeholders, power asymmetries,
+  and implementation realities that create ethical complexity beyond standard codes
+- Client relationship dependency creates fundamental ethical tensions where pressure
+  to please clients conflicts with professional duty to provide competent service
+  and honest counsel, requiring financial stability to walk away from problematic
+  engagements
+- Social responsibility extends beyond immediate client to broader organizational
+  and societal impacts—ethical practice requires considering downstream consequences
+  on employee dignity, equity, sustainable performance demands, and public good
+- Competence boundaries demand honest acknowledgment—accepting work beyond practitioner
+  expertise violates ethical duty to clients and affected employees, requiring honest
+  competency disclosure and collaboration with qualified specialists
+methodology: '[[methods/Case Analysis]]'
 sample_size: null
 sample_type: null
 context: Human Performance Technology professional practice
 study_type: theoretical
 ---
 
-# Standards and Ethics in Human Performance Technology
+# Guerra 2006--standards and ethics in HPT
 
 ## Summary
-This handbook chapter examines ethical considerations and professional standards in Human Performance Technology (HPT), providing practitioners with frameworks for navigating moral dilemmas in performance improvement work. The author argues that while most professionals consider themselves competent and ethical, ignorance of ethical factors is not a valid justification for poor decisions, and increasing awareness of ethical and professional standards adds value to clients, organizations, communities, and families.
-
-The chapter explores three major ethical theory categories: consequentialist theories (judging actions by outcomes, including ethical egoism, altruism, and utilitarianism), intentionalist/deontological theories (judging actions by adherence to moral duties regardless of consequences, following Kant), and virtue ethics (emphasizing development of moral character traits). The author examines whether ethical behavior is absolute or relative, noting the tension between cultural relativism and the need for universal professional standards.
-
-The chapter reviews established codes of ethics from professional organizations including AHRD (Academy of Human Resource Development), ISPI (International Society for Performance Improvement), and IBSTPI (International Board of Standards for Training, Performance, and Instruction). These codes share common principles around competence, integrity, professional responsibility, respect for rights/dignity, concern for others' welfare, and social responsibility.
+qxd 12/7/05 06:12 PM Page 1024 S CHAPTER FORTY-FOUR S Standards and Ethics in Human Performance Technology Ingrid J Guerra hat is the right thing to do in the following situations W Should I tell the truth even though it may mean losing a potential client.
 
 ## Key Concepts
-- **Ethics**: Rules or standards governing conduct of members of a group; concerned with what ought to be rather than what is
-- **Morals**: Personal judgments, standards, and rules based on promoting human welfare and honoring freedom/respect
-- **Consequentialism**: Ethical framework judging morality of actions by their consequences (includes utilitarianism)
-- **Intentionality/Deontology**: Ethical framework judging actions by adherence to duties regardless of consequences (Kantian)
-- **Virtue Ethics**: Framework emphasizing development of good moral character to enable sound judgement
+- **Professional ethics in HPT**: Moral principles and standards guiding human performance technology practitioners' conduct including honesty, integrity, confidentiality, competence, and social responsibility in organizational intervention and performance improvement contexts
+- **Ethical dilemmas in consulting practice**: Challenging situations requiring ethical judgment including truth-telling versus client retention, confidentiality versus organizational transparency, scope boundaries, competence limits, and competing stakeholder interests
+- **HPT professional standards**: Codified expectations for practitioner conduct, knowledge domains, and skill competencies established by professional organizations (ISPI, ATD) providing guidance and accountability frameworks for ethical practice
+- **Stakeholder responsibility tensions**: Conflicts between obligations to multiple parties—clients, employers, affected employees, profession, society—requiring deliberate ethical reasoning when interests diverge or compete
+- **Ethical decision-making frameworks**: Structured approaches for analyzing ethical challenges in HPT practice including identifying stakeholders, considering consequences, applying ethical principles, consulting standards, and seeking peer guidance when facing ambiguous situations
 
 ## Theoretical Framework
-The chapter synthesizes normative ethics (consequentialism, deontology, virtue ethics) with applied professional ethics, connecting philosophical foundations to practical HPT decision-making. It draws on moral awareness research (Rest's four-stage model) and organizational ethics literature.
+**Professional Ethics Theory**: Conceptual foundation examining how professions develop and enforce ethical standards as self-regulation mechanisms establishing public trust, practitioner legitimacy, and service quality expectations, distinguishing professional work from purely commercial or technical activities through commitment to values beyond profit.
+
+**Applied Ethics Framework**: Practical philosophy approach adapting general ethical principles (autonomy, beneficence, non-maleficence, justice) to specific professional contexts, recognizing universal principles require contextual interpretation and application balancing competing values in real-world practice situations with uncertainty and constraint.
 
 ## Methods
-Conceptual and applied analysis synthesizing ethical philosophy, professional standards documentation, and case examples. The chapter reviews existing codes of ethics from AHRD, ISPI, and IBSTPI, presenting their content with practical applications for HPT practitioners.
+**Case-based ethical reasoning**: Presentation and analysis of realistic ethical dilemma scenarios HPT practitioners likely to encounter, examining decision options, stakeholder impacts, relevant professional standards, and ethical principles at stake to develop practical moral reasoning capacity.
+
+**Professional standards review**: Systematic examination of established codes of ethics and professional standards from HPT-relevant organizations, identifying common principles, specific behavioral expectations, and enforcement mechanisms providing normative guidance for practitioner conduct.
 
 ## Main Arguments
-- Ethics and performance standards are integral to HPT competence and value; they shape how practitioners view, solve, and avoid performance problems
-- HPT professionals should understand whether they lean toward consequentialist or intentionalist frameworks as this affects decisions
-- Moral awareness is the critical first step in ethical decision-making; organizational context influences whether moral issues are recognized
-- Codes of ethics serve multiple purposes: guidance for practice, protection of stakeholders, and recognition of professional achievement
-- The question of whom the HPT professional serves (individual, organization, society) requires ongoing attention
-- Social responsibility is increasingly important; organizations are realizing that societal good is not just optional but a requirement for success
-- Professional standards should address obligations to others, social mandates, rights of others, and professional practice
+- **Ethical practice foundational to HPT professionalism rather than optional constraint**: Professional ethics not external limitation on practice but constitutive of what makes HPT professional discipline versus purely technical or commercial activity. Commitment to honesty, competence, social responsibility, and stakeholder welfare distinguishes professional practitioner from consultant merely selling services. Ethics violations undermine not only individual credibility but profession's collective legitimacy and public trust, making ethical conduct professional necessity not personal virtue choice.
+
+- **HPT practitioners face distinctive ethical challenges requiring specialized judgment**: Unlike purely academic research or clinical practice, HPT work involves navigating organizational politics, multiple competing stakeholders, power asymmetries, resource constraints, and implementation realities creating ethical complexity. Practitioners must balance truth-telling with diplomacy, comprehensive assessment with project scope, ideal solutions with organizational readiness, and professional standards with client expectations. Standard ethical codes provide principles but insufficient specific guidance for messy organizational contexts requiring developed practical wisdom.
+
+- **Client relationship creates fundamental ethical tensions requiring deliberate management**: Dependency on client contracts for livelihood creates pressure to please clients even when professionally inappropriate—accepting projects beyond competence, withholding unfavorable findings, recommending suboptimal solutions aligned with client preferences, or avoiding conflict. Professional ethics demands prioritizing competent service and honest counsel over client satisfaction or business development. Maintaining this integrity requires financial stability enabling walking away from problematic engagements, peer support reinforcing standards, and organizational cultures valuing ethics over revenue.
+
+- **Competence boundaries demand honest acknowledgment and appropriate response**: Professional ethics requires practitioners accurately represent expertise limits and decline or appropriately resource work beyond competency. Pressure to appear capable of everything, entrepreneurial culture encouraging stretching, and lack of clear competency standards create temptation to overreach. However, accepting work practitioners lack expertise to perform competently violates ethical duty to clients and affected employees. Ethical response includes honest competency disclosure, collaboration with qualified specialists, appropriate supervision seeking, and continuous professional development rather than pretending universal expertise.
+
+- **Social responsibility extends beyond immediate client to broader organizational and societal impacts**: HPT interventions affect employees, organizational culture, and potentially broader social patterns beyond contracted deliverables. Ethical practice requires considering downstream consequences: Does intervention respect employee dignity? Does it reinforce inequitable systems? Does it promote sustainable versus extractive performance demands? Will it be used ethically by organization? Professional ethics demands practitioners refuse participation in harmful interventions even when profitable, advocate for ethical implementation, and consider public good alongside client interests.
 
 ## Limitations & Critiques
-- The chapter is primarily conceptual; limited empirical data on how practitioners actually apply ethical frameworks
-- Codes of ethics from different organizations may conflict; the chapter does not fully resolve tensions
-- The relativism vs. absolutism debate is presented but not definitively resolved
-- Limited attention to international/cross-cultural ethical variations
-- Professional codes are voluntary; enforcement mechanisms are not fully addressed
-- The chapter does not examine ethical failures or misconduct in HPT in depth
-- Case examples are brief; more extended case analysis would strengthen application
+**Limited attention to structural and power dynamics**: While addressing individual practitioner ethical choices, insufficient examination of how organizational power structures, economic pressures, and professional status hierarchies constrain ethical agency—potentially overemphasizing individual moral character while underplaying systemic factors that make ethical practice difficult or costly.
+
+**Western professional ethics assumptions**: Framework reflects Western professional tradition emphasizing individual autonomy, codified standards, and self-regulation that may not translate across cultural contexts with different ethical traditions, collectivist versus individualist orientations, or alternative conceptions of professional responsibility.
+
+**Underspecified enforcement and accountability**: While articulating standards, limited discussion of how ethical violations addressed, who holds practitioners accountable, what consequences exist for unethical practice, or how professionalization actually prevents versus merely condemns ethical lapses in competitive commercial context.
+
+**Insufficient attention to ethical complexity and moral pluralism**: Presentation of ethical standards risks appearing more certain and clear-cut than actual ethical reasoning in ambiguous situations characterized by competing valid principles, incomplete information, and stakeholders with legitimate but incompatible interests—real ethical judgment requires comfort with uncertainty not covered by codes.
+
+**Missing critical examination of HPT itself**: Takes for granted that performance improvement and organizational efficiency worthy goals, without examining whether HPT profession sometimes serves problematic ends (intensifying exploitation, rationalizing layoffs, optimizing harmful systems) requiring ethical questioning of fundamental practice premises not just execution methods.
+
+## Related Papers
+- [[papers/A Review of Human-Centric AI in Industry 5 0]]
+- [[papers/From code to collaboration]]
+
+## Connections
+- [[communities/AI and Future of Work]] - Research community
